@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Bertrand Le Saux"
-  avatar           : "images/bls-photo.jpg" #"profile.png"
+  avatar           : "profile.png"
   bio              : "Research scientist at ONERA"
   location         : "Paris, France"
   employer         :
