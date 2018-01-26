@@ -57,16 +57,3 @@ author_profile: true
     {% endif %}
 {% endfor %}
 
-{% include pub_misc.html %}
-{% for post in site.publications reversed %}
-    {% if post.type == "misc" %}
-        {% include archive-single-pub.html %}
-    {% endif %}
-{% endfor %}
-
-{% include pub_communication.html %}
-{% for post in site.publications reversed %}
-    {% if post.type == "communication" %}
-        {% include archive-single-pub.html %}
-    {% endif %}
-{% endfor %}
