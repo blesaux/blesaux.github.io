@@ -30,14 +30,6 @@ With the accuracy of deep conv nets for pixelwise labeling, it is now possible t
 
 \[ [Segment-before-detect](http://www.mdpi.com/2072-4292/9/4/368/pdf) paper\]
 
----
-
-## Object Detection in Remote Sensing 	 
-
-
-With the accuracy of deep conv nets for pixelwise labeling, it is now possible to build powerful object detectors for aerial imagery. We proposed an approach to detect and segment vehicles, and then recognize their type. Our work was awarded the award for the best contribution to the [ISPRS 2D semantic labeling benchmark](http://www2.isprs.org/vaihingen-2d-semantic-labeling-contest.html) at GeoBIA'16.
-
-\[ [Segment-before-detect](http://www.mdpi.com/2072-4292/9/4/368/pdf) paper\]
 
 ---
 
