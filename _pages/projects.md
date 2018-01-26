@@ -14,6 +14,13 @@ My current projects include:
 {% endfor %}
 
 
+# Joint Use of EO Data and Cartography 	 
+
+Cartography and especially crowd-sourced geographic information like [OpenStreetMap](https://www.openstreetmap.org/) is a great way to drive a neural network towards a correct classification. With Nicolas Audebert and Sébastien Lefèvre, we built fusion networks able handle efficiently this new input.
+
+The SpaceNet Challenge round 2 winner is using a similar solution: see his [blog post which mentions our paper](http://i.ho.lc/winning-solution-for-the-spacenet-challenge-joint-learning-with-openstreetmap.html). OSM as input is promising !
+
+[CVPR'17 paper / arxiv ]
 
 
 # Scene Understanding
