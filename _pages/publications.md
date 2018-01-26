@@ -43,17 +43,17 @@ author_profile: true
 {% include pub_head.html %}
 
 
-{% include pub_journal.html %}
+<!-- {% include pub_journal.html %}
 {% for post in site.publications reversed %}
     {% if post.type == "journal" %}
         {% include archive-single-pub.html %}
     {% endif %}
-{% endfor %}
+{% endfor %} -->
 
-{% include pub_conference.html %}
+<!-- {% include pub_conference.html %}
 {% for post in site.publications reversed %}
     {% if post.type == "conference" %}
         {% include archive-single-pub.html %}
     {% endif %}
-{% endfor %}
+{% endfor %} -->
 
