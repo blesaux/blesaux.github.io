@@ -1,15 +1,26 @@
 ---
-title: "Paper Title Number 3"
+title: "SnapNet-R: Consistent 3D Multi-View Semantic Labeling for Robotics"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+permalink: /publication/2017-10-iccv-3drms.md
+excerpt: ''
+date: 2017-10-23
 venue: 'ICCV / 3DRMS workshop'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+type: 'conference'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+
+
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+```
+@inproceedings{guerry2017snapnet,
+  title={SnapNet-R: Consistent 3D Multi-View Semantic Labeling for Robotics},
+  author={Guerry, Joris and Boulch, Alexandre and {Le Saux], Bertrand and Moras, Julien and Plyer, Aur{\'e}lien and Filliat, David},
+  booktitle={Proc. of ICCV / 3D Reconstruction Meets Semantics workshop},
+  pages={669--678},
+  year={2017}
+}
+```
+
