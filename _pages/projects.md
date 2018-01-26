@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
@@ -9,22 +9,18 @@ author_profile: true
 
 My current projects include:
 
+
 # Joint Use of EO Data and Cartography 	 
 
-Cartography and especially crowd-sourced geographic information like [OpenStreetMap](https://www.openstreetmap.org/) is a great way to drive a neural network towards a correct classification. With Nicolas Audebert and Sébastien Lefèvre, we built fusion networks able to handle efficiently this new input.
+![image-center]({{ site.url }}{{ site.baseurl }}/images/cvpr17-fusenet_osm-icon.jpg){: .align-left}
+
+Cartography and especially crowd-sourced geographic information like [OpenStreetMap](https://www.openstreetmap.org/) is a great way to drive a neural network towards a correct classification. With Nicolas Audebert and Sébastien Lefèvre, we built fusion networks able handle efficiently this new input.
 
 The SpaceNet Challenge round 2 winner is using a similar solution: see his [blog post which mentions our paper](http://i.ho.lc/winning-solution-for-the-spacenet-challenge-joint-learning-with-openstreetmap.html). OSM as input is promising !
 
-[CVPR'17 paper / arxiv ]
+\[ [CVPR'17 paper](https://arxiv.org/pdf/1705.06057) / [arxiv](https://arxiv.org/abs/1705.06057) \]
 
 
-# Scene Understanding
-
-Scene understanding is a fundamental task in computer vision which requires understanding the scene's geometry and semantic structure.
-Initially, I worked on a semantic segmentation algorithm called [SegNet](http://mi.eng.cam.ac.uk/projects/segnet/).
-More recently, I have been interested in learning depth, instance and semantic segmentation from a [unified deep learning architecture](https://arxiv.org/pdf/1705.07115.pdf).
-
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/multitask.jpg){: .align-center}
 
 ---
 
