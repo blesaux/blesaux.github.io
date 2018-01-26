@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist who designs data-driven techniques for visual understanding at Onera/DTIS, the French aerospace research centre.
+I am a research scientist who designs data-driven techniques for visual understanding at [ONERA](https://www.onera.fr/en)/[DTIS](https://www.onera.fr/en/dtis-information-processing-and-systems), the French aerospace research centre.
 
 My work is at the crossroads of statistics, machine learning, image processing and computer vision. I am interested in tackling practical problems that arise in multimedia, remote sensing and robotics.
 
