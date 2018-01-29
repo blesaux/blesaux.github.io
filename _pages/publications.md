@@ -11,9 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- ORIGINAL -->
+<!-- {% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}-->
+
+<!-- RECENT -->
 {% include pub_head.html %}
 
 
-{% for post in site.publications reversed %}
+<!-- ORIGINAL -->
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}-->
