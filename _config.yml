@@ -147,6 +147,7 @@ keep_files:
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+future: true
 
 
 # Conversion
@@ -171,7 +172,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  students:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -198,6 +199,7 @@ defaults:
       comments: true
       share: true
       related: true
+      future: true
   # _pages
   - scope:
       path: ""
@@ -205,15 +207,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _students
   - scope:
       path: ""
-      type: teaching
+      type: students
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
+      future: true
   # _publications
   - scope:
       path: ""
