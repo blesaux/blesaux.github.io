@@ -11,7 +11,22 @@ author_profile: true
 
 Recent publications include:
 
+## 2018
+
+**Open data for global multimodal land use classification: Outcome of the 2017 IEEE GRSS Data Fusion Contest** _N. Yokoya, P. Ghamisi, J. Xia, S. Sukhanov, R.
+Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 2018
+
+\[ _to appear_ \]
+
+**Beyond RGB: Very high resolution urban remote sensing with multimodal deep networks** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, ISPRS Journal of Photogrammetry and Remote Sensing, 2018
+
+\[ [doi](https://doi.org/10.1016/j.isprsjprs.2017.11.011) [arxiv](https://arxiv.org/abs/1711.08681) [pdf #1](https://hal.archives-ouvertes.fr/hal-01636145/document) [pdf #2](https://arxiv.org/pdf/1711.08681) [code](https://github.com/nshaud/DeepNetsForEO)  \]
+
 ## 2017
+
+**SnapNet: Unstructured point cloud semantic labeling using deep segmentation networks** _Alexandre Boulch, Joris Guerry, Bertrand Le Saux, Nicolas Audebert_, Computer and Graphics, 2017
+
+\[ [doi](https://doi.org/10.1016/j.cag.2017.11.010) [pdf](../files/2017-11-10-aboulch-snapnet-CAG17.pdf) [code](https://github.com/aboulch/snapnet) \]
 
 **SnapNet-R: Consistent 3D Multi-View Semantic Labeling for Robotics** _Joris Guerry, Alexandre Boulch, Bertrand Le Saux, Julien Moras, aurélien Plyer, David Filliat_, ICCV / 3D Reconstruction Meets Semantics workshop, Oct. 2017
 
