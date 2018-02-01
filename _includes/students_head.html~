@@ -1,7 +1,0 @@
-
-<div class="{{ include.type | default: "list" }}__item">
-    <h2 class="page__title">
-        <a href="#Students">Student supervision</a> &nbsp;&nbsp;
-        <a href="#Teaching">Teaching</a> &nbsp;&nbsp;
-    </h2>
-</div>
