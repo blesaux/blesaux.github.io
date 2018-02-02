@@ -5,7 +5,7 @@ collection: students
 permalink: /students/joris
 excerpt: 'PhD co-supervised with [David Filliat](http://perso.ensta-paristech.fr/~filliat/eng/index.html) from [ENSTA ParisTech](https://www.ensta-paristech.fr/en), defended in November 2017'
 date: 2017-11-20
-type: 'phd'
+type: 'past-phd'
 ---
 
 [Joris Guerry](http://jorisguerry.fr/)
