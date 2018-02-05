@@ -20,7 +20,6 @@ The SpaceNet Challenge round 2 winner is using a similar solution: see his [blog
 
 \[ [CVPR'17 paper](https://arxiv.org/pdf/1705.06057) / [arxiv](https://arxiv.org/abs/1705.06057) \]
 
----
 
 ## Object Detection in Remote Sensing 	 
 
@@ -30,8 +29,6 @@ With the accuracy of deep conv nets for pixelwise labeling, it is now possible t
 
 \[ [Segment-before-detect](http://www.mdpi.com/2072-4292/9/4/368/pdf) paper\]
 
-
----
 
 ## SnapNet: 3D Semantic Mapping 	 
 
@@ -43,7 +40,6 @@ In the [FP7 Inachus Project](http://www.inachus.eu/), we build tools for urban S
 
 \[ [paper](http://blesaux.free.fr/papers/17-EG3DOR-SnapNet-BoulchLeSauxAudebert-compressed.pdf) / [code](https://github.com/aboulch/snapnet) / [video](https://youtu.be/xT4VrtCu8Po) \]
 
----
 
 ## Object Recognition for Robotics 	 
 
@@ -52,3 +48,8 @@ In the [FP7 Inachus Project](http://www.inachus.eu/), we build tools for urban S
 In the context of robotic exploration (using micro-drones or ground robots), we aim at developing efficient object detectors and trackers that are able to adapt to a new environment. We explore how multimodal RGB-D data offers reliable and complementary ways of sensing in challenging conditions. [Joris Guerry](http://jorisguerry.fr/) has developped multimodal networks that gets high detection rates for people detection and released the [ONERA.ROOM](http://jorisguerry.fr/ONERA.ROOM/) dataset.
 
 \[ [ONERA.ROOM](http://jorisguerry.fr/ONERA.ROOM/) / [video](https://youtu.be/jEHyG2BSnGc) \]
+
+
+---
+
+Older projects can be found [here](finished)
