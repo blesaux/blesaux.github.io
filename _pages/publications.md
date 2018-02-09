@@ -9,6 +9,10 @@ author_profile: true
 
 {% include base_path %}
 
+Publications: either [most recent](../publications) or [selected ones](selected) 
+
+---
+
 Recent publications include:
 
 ## 2018
@@ -28,7 +32,7 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 
 \[ [doi](https://doi.org/10.1016/j.cag.2017.11.010) [pdf](../files/2017-11-10-aboulch-snapnet-CAG17.pdf) [code](https://github.com/aboulch/snapnet) \]
 
-**SnapNet-R: Consistent 3D Multi-View Semantic Labeling for Robotics** _Joris Guerry, Alexandre Boulch, Bertrand Le Saux, Julien Moras, aurélien Plyer, David Filliat_, ICCV / 3D Reconstruction Meets Semantics workshop, Oct. 2017
+**SnapNet-R: Consistent 3D Multi-View Semantic Labeling for Robotics** _Joris Guerry, Alexandre Boulch, Bertrand Le Saux, Julien Moras, aurélien Plyer, David Filliat_, [ICCV](http://iccv2017.thecvf.com/) / 3D Reconstruction Meets Semantics workshop, Oct. 2017
 
 \[ [cvf](http://openaccess.thecvf.com/content_ICCV_2017_workshops/w13/html/Guerry_SnapNet-R_Consistent_3D_ICCV_2017_paper.html) [pdf #1](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w13/Guerry_SnapNet-R_Consistent_3D_ICCV_2017_paper.pdf) [pdf #2](https://delta-onera.github.io/files/2017_iccv-3DRMS.pdf) \]
 
