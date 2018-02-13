@@ -10,4 +10,4 @@ period: 2017 - now
 location: "Palaiseau, France"
 ---
 
-(with [Stéphane Herbin](http://www.onera.fr/fr/staff/stephane-herbin), [Alexandre Boulch](https://aboulch.github.io) and Adrien Chan-Hon-Tong.).
+(with [Stéphane Herbin](http://www.onera.fr/fr/staff/stephane-herbin) and Adrien Chan-Hon-Tong.).

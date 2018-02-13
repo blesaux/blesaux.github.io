@@ -9,9 +9,9 @@ author_profile: true
 
 {% include base_path %}
 
-Publications: either [most recent](../publications) or [selected ones](selected) 
+{% include publications_head.html %}
 
----
+<!-- ##  [recent](../publications) &nbsp;&nbsp; [selected](selected) -->
 
 Recent publications include:
 
