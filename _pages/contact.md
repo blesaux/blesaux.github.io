@@ -19,6 +19,6 @@ Palaiseau cedex
 ### Contact
 
 <pre>
-  email bertrand.le_saux(a)onera.fr  
-  phone (33) 1 80 38 65 73
+email: bertrand.le_saux(a)onera.fr  
+phone: (33) 1 80 38 65 73
 </pre>
