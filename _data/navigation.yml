@@ -15,11 +15,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "Contact"
+    url: /contact/    
+    
 #  - title: "Software"
 #    url: /software/
-        
-  - title: "Contact"
-  url: /contact/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
