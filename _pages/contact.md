@@ -17,7 +17,6 @@ Palaiseau cedex
 [Get there](https://www.onera.fr/en/centers/palaiseau)  
   
 
-```
-email bertrand.le_saux(a)onera.fr
-phone (33) 1 80 38 65 73
-```
+  email bertrand.le_saux(a)onera.fr
+  phone (33) 1 80 38 65 73
+
