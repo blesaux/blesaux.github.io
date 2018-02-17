@@ -10,8 +10,7 @@ type: 'phd'
 
 [Nicolas Audebert](https://nicolas.audebert.at/)
 
-PhD co-supervised with [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/) from [IRISA](http://www-irisa.univ-ubs.fr/)/[Univ Bretagne Sud](http://www.univ-ubs.fr/), expected Fall 2018
-
+PhD co-supervised with [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/) from [IRISA](http://www-irisa.univ-ubs.fr/)/[Univ Bretagne Sud](http://www.univ-ubs.fr/), expected Fall 2018.
 <span style="color:orange;">2nd Best Student Award @ JURSE'17</span>
 <span style="color:orange;">Award for Best contribution to the ISPRS 2D Semantic Labeling Contest @ GEOBIA'16</span>
 
