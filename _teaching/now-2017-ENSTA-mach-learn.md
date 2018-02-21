@@ -12,7 +12,7 @@ location: "Palaiseau, France"
 
 (with [Stéphane Herbin](http://www.onera.fr/fr/staff/stephane-herbin) and Adrien Chan-Hon-Tong.).
 
-\[ [Course #3](../files/ensta-app-03-arbres-ensembles.pdf) on decision trees, random forests and boosting:  \]
+\[ [Course #3](../files/ensta-app-03-arbres-ensembles.pdf) on decision trees, random forests and boosting \]
 
-\[ [Course #4](../files/ensta-app-04-non-supervise.pdf) on dimensionality reduction (PCA, t-SNE) and clustering (k-means, DBSCAN, dictionary-based learning) \]
+\[ [Course #4](../files/ensta-app-04-non-supervise.pdf) on dimensionality reduction and clustering \]
 
