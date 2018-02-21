@@ -3,7 +3,7 @@ title: "Machine Learning"
 collection: teaching
 level: "Undergraduate course"
 type: "Uni"
-permalink: /teaching/IOGS-machine-learning
+permalink: /teaching/ENSTA
 venue: "ENSTA ParisTech"
 date: 2018-11-01
 period: 2017 - now
