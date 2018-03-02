@@ -16,7 +16,7 @@ main:
     url: /teaching/    
     
   - title: "News posts"
-    url: /news/old    
+    url: /news/ 
     
   - title: "Contact"
     url: /contact/    
