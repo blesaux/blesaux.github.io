@@ -18,7 +18,7 @@ Below are various events that were worth a [_news_ post](../news/) in the past:
 
 *    [Sept. 17] Joris Guerry will be at [ECMR](http://ecmr2017.ensta-paristech.fr/) in Paris to talk about RGBD RCNN for people detection in the context of mobile robotics.
 
-*    [July. 17] I've been elected chair of the Image analysis and Data Fusion Technical Committee. Together with [Ronny Hänsch](http://www.rhaensch.de/) and [Naoto Yokoya](http://naotoyokoya.com/), I will run the IADF activities including the Data Fusion Contest organization.
+*    [July. 17] I've been elected chair of the [Image analysis and Data Fusion Technical Committee](http://www.grss-ieee.org/community/technical-committees/data-fusion/). Together with [Ronny Hänsch](http://www.rhaensch.de/) and [Naoto Yokoya](http://naotoyokoya.com/), I will run the IADF activities including the Data Fusion Contest organization.
 *    [July 17] Nicolas Audebert will be at CVPR / Earth Vision in Honolulu to talk about how to jointly use widely available OpenStreetMap data with Earth-observation images to drive the network training towards better classification.
 
 *    [June 17] [Multitemporal very-high resolution from space: Outcome of the 2016 Data Fusion Contest](http://ieeexplore.ieee.org/document/7948767/) now published in JSTARS.
@@ -79,7 +79,7 @@ Below are various events that were worth a [_news_ post](../news/) in the past:
 *    [Oct'15] Hicham Randrianarivo presented our work on vehicle detection in aerial images at IIM'15 conference in Bucharest.
 *    [Oct'15] Nicolas Audebert started his PhD about Classification of Big Remote Sensing Data co-advised with Sébastien Lefèvre of IRISA/Univ Bretagne Sud
 *    [Sep'15] Hicham Randrianarivo and Pauline Trouvé-Peloux will present our common papers at French conf. Gretsi'15
-*    [Jul'15] I joined Devis Tuia and Gabriele Moser as co-chair of the IEEE GRSS Image Analysis and Data Fusion Technical Committee
+*    [Jul'15] I joined Devis Tuia and Gabriele Moser as co-chair of the IEEE GRSS [Image Analysis and Data Fusion Technical Committee](http://www.grss-ieee.org/community/technical-committees/data-fusion/)
 
 *    [Jul'15] Talk about Benchmarking classification algorithms for EO data at Igarss'15, in Milan
 *    [Jun'15] Plenary meeting of FP7 Inachus and end-user workshop in EPLFM, Gardanne
@@ -92,10 +92,10 @@ Below are various events that were worth a [_news_ post](../news/) in the past:
 *    [Aug'14] Talk about Interactive design of classifiers in remote sensing at ICPR'14, in Stockholm
 *    [Jul'14] Hicham Randrianarivo gave an invited talk about classification with deformable part-models for urban cartography at IGARSS'14, in Quebec City
 *    [May'14] 2nd field trial "Urban (Earthquake) Search-and-Rescue Demonstration" of the [FP7 Darius](http://www.darius-fp7.eu/) project , near Avignon \[[video](https://www.youtube.com/watch?v=JyHaeBkvKTQ)\].
-    [Nov'13] Talk about Rapid semantic mapping for UAVs at IROS'13, in Tokyo
+*    [Nov'13] Talk about Rapid semantic mapping for UAVs at [IROS'13](http://www.iros2013.org/), in Tokyo
 *    [Sep'13] Morgane Rivière got honours from the internship award jury of École Polytechnique for her thesis about domain adaptation of object detectors for UAVs
-*    [Oct'12] Hicham Randrianarivo started his PhD about Co-learning of semantic classifiers for remote-sensing, co-advised with Marin Ferecatu and Michel Crucianu at CNAM Paris
-*    [Jul'12] 2 talks about interactive classification and exploration of remote sensing data at IGARSS'12, in Munich
+*    [Oct'12] Hicham Randrianarivo started his PhD about Co-learning of semantic classifiers for remote-sensing, co-advised with [Marin Ferecatu](http://cedric.cnam.fr/~ferecatm/) and [Michel Crucianu](http://cedric.cnam.fr/~crucianm/indexen.html) at [CNAM Paris](http://the.cnam.eu/)
+*    [Jul'12] 2 talks about interactive classification and exploration of remote sensing data at [IGARSS'12](http://www.igarss2012.org/), in Munich
 *    [Sep'11] Nicolas Chauffert got honours from the internship award jury of École Polytechnique for his thesis about boosting for interactive man-made classification
 
 
