@@ -62,7 +62,7 @@ In the context of robotic exploration (using micro-drones or ground robots), we 
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/lyon_inachus_damage-icon.png){: .align-left}
 
-We are designing classifiers for 3D data captured using Lidar sensors or photogrammetry. In the [FP7 Inachus Project](http://www.inachus.eu/), we build tools for urban Search and Rescue after natural or industrial disasters: semantic maps (including safe roads and risk maps) or analysis of building damages. They arae based on SnapNet, our multi-view convolutional net for 3D point-cloud semantic labeling.
+We are designing classifiers for 3D data captured using Lidar sensors or photogrammetry. In the [FP7 Inachus Project](http://www.inachus.eu/), we build tools for urban Search and Rescue after natural or industrial disasters: semantic maps (including safe roads and risk maps) or analysis of building damages (as shown in the image on the left: intact/blue to debris/purple). They are based on SnapNet, our multi-view convolutional net for 3D point-cloud semantic labeling.
 
 \[  [code](https://github.com/aboulch/snapnet) / [video](https://youtu.be/xT4VrtCu8Po) \]
 
