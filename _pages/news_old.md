@@ -18,7 +18,7 @@ author_profile: true
 
 Below are various events that were worth a [_news_ post](../) in the past:
 
-{% include news_recent.md %}
+{% include_relative news_recent.md %}
 *    [Sept. 17] Marcela Cavalho, Jorris Guerry and Nicolas Audebert will be at French Gretsi'17 to speak about the lab's last advances in neural networks for depth prediction, people detection and aerial image segmentation.
 
 *    [Sept. 17] Joris Guerry will be at ECMR in Paris to talk about RGBD RCNN for people detection in the context of mobile robotics.
