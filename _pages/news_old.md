@@ -18,6 +18,8 @@ Below are various events that were worth a [_news_ post](../) in the past:
 
 *    [July. 17] I've been elected chair of the Image analysis and Data Fusion Technical Committee. Together with Ronny Hänsch and Naoto Yokoya, I will run the IADF activities including the Data Fusion Contest organization.
 
+*   \[Oct. 17\] I will be at [ICCV](http://iccv2017.thecvf.com/) workshop on [3D Reconstruction meets Semantics](http://trimbot2020.webhosting.rug.nl/events/3drms/) to speak about a SnapNet variation for robotics. SnapNet is our multi-view CNN for point cloud labeling, and we used it to perform 3D-consistent data augmentation, which results in state-of-the-art performances in semantic segmentation on SunRGBD and NYUv2 datasets.
+*   \[Oct. 17\] I will deliver a keynote talk about "Semantic Labeling of Remote Sensing Data from 2D to 3D" at [TUM](https://www.lmf.bgu.tum.de/en/home/)-[DLR](http://www.dlr.de/eoc/en/) [Remote Sensing Summer School](https://www.lmf.bgu.tum.de/tumdlrss17/) on Oct. 4-6th.
 *    [July 17] Nicolas Audebert will be at CVPR / Earth Vision in Honolulu to talk about how to jointly use widely available OpenStreetMap data with Earth-observation images to drive the network training towards better classification.
 
 *    [June 17] Multitemporal very-high resolution from space: Outcome of the 2016 Data Fusion Contest now published in JSTARS.

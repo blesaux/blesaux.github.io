@@ -10,7 +10,7 @@ author_profile: true
 {% include news_head.html %}
 
 
-Here is a list of various future or recent events:
+Here are a few events coming soon or which just happened:
 
 {% include_relative news_recent.md %}
 
