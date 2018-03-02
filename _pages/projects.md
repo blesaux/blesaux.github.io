@@ -16,6 +16,7 @@ My current projects include:
 
 Turning 2D images into depth is now possible with a monocular camera, without neither stereo nor active sensor. With Marcela Carvalho and Pauline Trouvé, we designed a dense network for depth estimation from a single image. We investigate how to model the right loss for such a network, and how blur from defocus can help us predict better estimates. This network ranks among the top ones of the
 state of the art on the [NUYv2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) dataset while being simpler to train in a single phase than most competitors.
+
 \[ [video]() \]
 
 
