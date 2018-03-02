@@ -32,7 +32,7 @@ The SpaceNet Challenge round 2 winner is using a similar solution: see his [blog
 
 ## SnapNet: 3D Semantic Labeling 	 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/snapnet-semantic3d-icon.png){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/images/snapnet_semantic3d-icon.png){: .align-left}
 
 As 3D sensors become ubiquitous, recognizing stuff and things in 3D data is essential. So, we developed SnapNet, a multi-view conv net for semantic labeling of unstructured 3D point clouds. During more than one year, it led the [semantic3D leaderboard](http://semantic3d.net/view_results.php?chl=1) for 3D urban mapping, and still is among the top ones. The paper was presented at [EuroGraphics](http://www.eurographics2017.fr/)/[3DOR 2017](http://liris.cnrs.fr/eg3dor2017/) and has now been published in Computer and Graphics. The [code](https://github.com/aboulch/snapnet) is also available for playing with your own data.
 
