@@ -1,8 +1,13 @@
 var addressPoints = [
   [
-    "Hsin-Chu, Taiwan",
-    32.777697,
-    117.6071
+    "Hsinchu, Taiwan",
+    24.8066333,
+    120.9686833
+  ],
+  [
+    "Palma de Mallorca, Spain",
+    39.5475614,
+    2.6345492
   ],
   [
     "Saint-Mand\u00e9, France",
