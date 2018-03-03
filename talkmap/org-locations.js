@@ -33,5 +33,15 @@ var addressPoints = [
     "Wangen, Allg\u00e4u, Germany",
     47.684182,
     9.8515586
+  ],
+  [
+    "New-York, NY, USA",
+    40.7306458,
+    -73.9866136
+  ],
+  [
+    "Estoril, Portugal",
+    38.7042261,
+    -9.3983152
   ]
 ];
