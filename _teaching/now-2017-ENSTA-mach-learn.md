@@ -12,9 +12,12 @@ location: "Palaiseau, France"
 
 (with [Stéphane Herbin](http://www.onera.fr/fr/staff/stephane-herbin) and Adrien Chan-Hon-Tong.).
 
-\[ [Course description on ENSTA website](https://synapses.ensta-paristech.fr/catalogue/2017-2018/ue/1670/ES203-apprentissage-automatique) \]
+You can get the [Course description on the ENSTA website](https://synapses.ensta-paristech.fr/catalogue/2017-2018/ue/1670/ES203-apprentissage-automatique).
 
-\[ [Course #3](../files/ensta-app-03-arbres-ensembles.pdf) on decision trees, random forests and boosting \]
+Material:
 
-\[ [Course #4](../files/ensta-app-04-non-supervise.pdf) on dimensionality reduction and clustering \]
+| Topic | Course | Exercises |
+| Decision trees, random forests and boosting | [Course #3](../courses/ensta-app-03-arbres-ensembles.pdf) | [Exercises #3]() |
+
+| Dimensionality reduction and clustering | [Course #4](../courses/ensta-app-04-non-supervise.pdf) | [Exercises #4]() |
 
