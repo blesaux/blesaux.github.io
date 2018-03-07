@@ -17,6 +17,7 @@ French reader, you can read the [course description on the ENSTA website](https:
 Material:
 
 | Topic | Course | Exercises |
-| Decision trees, random forests and boosting | [Course #3](../courses/ensta-app-03-arbres-ensembles.pdf) | [Exercises #3](../courses/tp_dtree_rf_corr.ipynb) |
+| --- | --- | --- |
+| Decision trees, random forests and boosting | [Course #3](../courses/ensta-app-03-arbres-ensembles.pdf) | [ipynb](../courses/tp_dtree_rf_corr.ipynb) / [html](../courses/tp_dtree_rf_corr.html) |
 | Dimensionality reduction and clustering | [Course #4](../courses/ensta-app-04-non-supervise.pdf) | [Exercises #4]() |
 
