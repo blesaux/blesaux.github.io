@@ -1,9 +1,9 @@
 ---
-title: "Semi-supervised"
+title: "Large-scale semi-supervised semantic segmentation"
 name: 'Javiera Castillo'
 collection: students
 permalink: /students/javiera
-excerpt: 'MSc. / M.Eng from [ENSTA ParisTech](http://www.ensta-paristech.fr/) in 2015, now PhD student at [IRIT](http://www.irit.fr/). <span style="color:orange;">Data Fusion Contest 2nd rank Award!</span>'
+excerpt: 'MSc. from [École Polytechnique](https://www.polytechnique.edu/fr/master-data-sciences)'s [Master Data Science](https://datascience-x-master-paris-saclay.fr/)'
 date: 2018-09-30
 type: 'msc'
 ---
