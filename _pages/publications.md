@@ -17,10 +17,30 @@ Recent publications include:
 
 ## 2018
 
+**Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2016](http://www.igarss2018.org/)) Valencia, Spain, July 2018
+
+\[  \]
+
+**Generative adversarial networks for realistic synthesis of hyperspectral samples** _N. Audebert, B. Le Saux, S. Lefèvre_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2016](http://www.igarss2018.org/)) Valencia, Spain, July 2018
+
+\[  \]
+
+**Railway Detection: from filtering to segmentation networks** _B. Le Saux, A. Beaupère, A. Boulch, J. Brossard, A. Manier, G. Villemin_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2016](http://www.igarss2018.org/)) Valencia, Spain, July 2018
+
+\[  \]
+
+**Learning speckle suppression in SAR images without ground truth: application to Sentinel-1 time-series** _A. Boulch, P. Trouvé, É. Koeniguer, F. Janez, B. Le Saux_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2016](http://www.igarss2018.org/)) Valencia, Spain, July 2018
+
+\[  \]
+
+**Large-scale semantic classification: outcome of the first year of INRIA Aerial Image Labeling Benchmark** _B.H. Huang, K.K. Lu, N. Audebert, A. Khalel, Y. Tarabalka, J. Malof, A. Boulch, B. Le Saux, L. Collins, K. Bradbury, S. Lefèvre, M. El-Saban_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2016](http://www.igarss2018.org/)) Valencia, Spain, July 2018
+
+\[  \]
+
 **Open data for global multimodal land use classification: Outcome of the 2017 IEEE GRSS Data Fusion Contest** _N. Yokoya, P. Ghamisi, J. Xia, S. Sukhanov, R.
 Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 2018
 
-\[ _to appear_ \]
+\[ [doi](https://doi.org/10.1109/JSTARS.2018.2799698) [pdf #1](https://ieeexplore.ieee.org/document/8338367/) \]
 
 **Beyond RGB: Very high resolution urban remote sensing with multimodal deep networks** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, ISPRS Journal of Photogrammetry and Remote Sensing, 2018
 
