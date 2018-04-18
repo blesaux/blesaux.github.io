@@ -3,7 +3,7 @@ title: "Large-scale semi-supervised semantic segmentation"
 name: 'Javiera Castillo'
 collection: students
 permalink: /students/javiera
-excerpt: 'MSc. from [École Polytechnique](https://www.polytechnique.edu/fr/master-data-sciences)'s [Master Data Science](https://datascience-x-master-paris-saclay.fr/)'
+excerpt: ''
 date: 2018-09-30
 type: 'msc'
 ---
