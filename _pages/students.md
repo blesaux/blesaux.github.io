@@ -17,7 +17,6 @@ author_profile: true
 
 {% for post in site.students reversed %} {% if post.type == "msc" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
 
-
 ## Past PhD Students
 <a name="PastPhD"></a>
 	
