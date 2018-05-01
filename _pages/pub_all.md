@@ -161,7 +161,7 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 
 ## 2013
 
-**Rapid semantic mapping: learn environment classifiers on the fly** _Bertrand Le Saux and Martial Sanfourche_, International Conference on Robots and Systems (IROS'2013), Tokyo, November 2013
+**Rapid semantic mapping: learn environment classifiers on the fly** _Bertrand Le Saux and Martial Sanfourche_, International Conference on Robots and Systems ([IROS'2013](http://www.ieee-ras.org/component/rseventspro/event/14-iros-2013-ieee-rsj-international-conference-on-intelligent-robots-and-systems)), Tokyo, November 2013
 
 [ [pdf](http://blesaux.free.fr/papers/bls-iros2013-semantic-map.pdf) [vid#1](https://www.youtube.com/watch?v=2uqiZxVaAAw) [vid#2](https://www.youtube.com/watch?v=OTxaLcouOHE) ]
 
