@@ -5,6 +5,11 @@ var addressPoints = [
     2.1052933
   ],
   [
+    "Tokyo, Japan",
+    34.6968642,
+    139.4049033
+  ],
+  [
     "Paris, France",
     48.8566101,
     2.3514992
@@ -28,6 +33,11 @@ var addressPoints = [
     "Z\u00fcrich, Switzerland",
     47.3723957,
     8.5423216
+  ],
+  [
+    "Qu\u00e9bec, Canada",
+    52.4760892,
+    -71.8258668
   ],
   [
     "Wangen, Allg\u00e4u, Germany",
