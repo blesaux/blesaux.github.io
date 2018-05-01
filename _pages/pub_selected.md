@@ -51,7 +51,7 @@ Selected publications include:
 \[ Award for Best Contribution to the [ISPRS 2D Semantic Labeling Contest](http://www2.isprs.org/vaihingen-2d-semantic-labeling-contest.html) [pdf](http://blesaux.free.fr/papers/audebert-usability-deep-networks-for-GEOBIA-2016.pdf) \]
 
 
-**Benchmarking classification of Earth-observation data: from learning explicit features to convolutional networks** _Adrien Lagrange, Bertrand Le Saux, Anne Beaupère, Alexandre Boulch, Adrien Chan Hon Tong, Stéphane Herbin, Hicham Randrianarivo, Marin Ferecatu_, IEEE International Geoscience and Remote Sensing Symposium (IGARSS'2015) Milan, Italy, July 2015
+**Benchmarking classification of Earth-observation data: from learning explicit features to convolutional networks** _Adrien Lagrange, Bertrand Le Saux, Anne Beaupère, Alexandre Boulch, Adrien Chan Hon Tong, Stéphane Herbin, Hicham Randrianarivo, Marin Ferecatu_, IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2015](http://www.igarss2015.org/)) Milan, Italy, July 2015
 
 [ [2nd place Award in the Data Fusion 2D Contest 2015](http://www.grss-ieee.org/community/technical-committees/data-fusion/2015-ieee-grss-data-fusion-contest-results/) [pdf](http://blesaux.free.fr/papers/blesaux-DFC2015-classif-benchmark.pdf) ]
 

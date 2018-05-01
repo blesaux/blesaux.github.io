@@ -119,7 +119,7 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 
 \[ \]
 
-**Structural classifiers for contextual semantic labeling of aerial images** _Hicham Randrianarivo, Bertrand Le Saux, Nicolas Audebert, Michel Crucianu, Marin Ferecatu_, ESA Big Data in Space (BiDS), Tenerife, Spain, March 2016
+**Structural classifiers for contextual semantic labeling of aerial images** _Hicham Randrianarivo, Bertrand Le Saux, Nicolas Audebert, Michel Crucianu, Marin Ferecatu_, ESA Big Data in Space ([BiDS](http://old.esaconferencebureau.com/2016-events/16m05/)), Tenerife, Spain, March 2016
 
 \[ [pdf](http://blesaux.free.fr/papers/randri-structural-bids16.pdf) \]
 
@@ -129,7 +129,7 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 
 [ [pdf](http://ceospacetech.pub.ro/images/IIM_2015_paper_8.pdf) ]
 
-**Benchmarking classification of Earth-observation data: from learning explicit features to convolutional networks** _Adrien Lagrange, Bertrand Le Saux, Anne Beaupère, Alexandre Boulch, Adrien Chan Hon Tong, Stéphane Herbin, Hicham Randrianarivo, Marin Ferecatu_, IEEE International Geoscience and Remote Sensing Symposium (IGARSS'2015) Milan, Italy, July 2015
+**Benchmarking classification of Earth-observation data: from learning explicit features to convolutional networks** _Adrien Lagrange, Bertrand Le Saux, Anne Beaupère, Alexandre Boulch, Adrien Chan Hon Tong, Stéphane Herbin, Hicham Randrianarivo, Marin Ferecatu_, IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2015](http://www.igarss2015.org/)) Milan, Italy, July 2015
 
 [ [2nd place Award in the Data Fusion 2D Contest 2015](http://www.grss-ieee.org/community/technical-committees/data-fusion/2015-ieee-grss-data-fusion-contest-results/) [pdf](http://blesaux.free.fr/papers/blesaux-DFC2015-classif-benchmark.pdf) ]
 
@@ -141,7 +141,7 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 
 [ [pdf](http://publications.onera.fr/exl-php/docs/ILS_DOC/282195/CC2015-551.pdf) ]
 
-**Environment Mapping and Interpretation by Drone** _Martial Sanfourche, Bertrand Le Saux, Aurélien Plyer, Guy Le Besnerais_, Joint Urban Remote Sensing Event (JURSE'2015), Lausanne, April 2015
+**Environment Mapping and Interpretation by Drone** _Martial Sanfourche, Bertrand Le Saux, Aurélien Plyer, Guy Le Besnerais_, Joint Urban Remote Sensing Event ([JURSE'2015](http://www.jurse2015.org/)), Lausanne, April 2015
 
 [ [pdf](http://blesaux.free.fr/papers/jurse-drone-sar.pdf) ]
 
