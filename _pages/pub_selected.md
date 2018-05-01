@@ -53,36 +53,36 @@ Selected publications include:
 
 **Benchmarking classification of Earth-observation data: from learning explicit features to convolutional networks** _Adrien Lagrange, Bertrand Le Saux, Anne Beaupère, Alexandre Boulch, Adrien Chan Hon Tong, Stéphane Herbin, Hicham Randrianarivo, Marin Ferecatu_, IEEE International Geoscience and Remote Sensing Symposium (IGARSS'2015) Milan, Italy, July 2015
 
-[2nd place Award in the Data Fusion 2D Contest 2015 pdf ]
+[ [2nd place Award in the Data Fusion 2D Contest 2015](http://www.grss-ieee.org/community/technical-committees/data-fusion/2015-ieee-grss-data-fusion-contest-results/) [pdf](http://blesaux.free.fr/papers/blesaux-DFC2015-classif-benchmark.pdf) ]
 
 **Interactive Design of Object Classifiers in Remote Sensing** _Bertrand Le Saux_, International Conference on Pattern Recognition (ICPR'2014), Stockholm, Sweden, August 2014
 
-[ pdf ]
+[ [pdf](http://blesaux.free.fr/papers/lesaux-icpr14.pdf) ]
 
 **Rapid semantic mapping: learn environment classifiers on the fly** _Bertrand Le Saux and Martial Sanfourche_, International Conference on Robots and Systems (IROS'2013), Tokyo, November 2013
 
-[ pdf vid#1 vid#2 ]
+[ [pdf](http://blesaux.free.fr/papers/bls-iros2013-semantic-map.pdf) [vid#1](https://www.youtube.com/watch?v=2uqiZxVaAAw) [vid#2](https://www.youtube.com/watch?v=OTxaLcouOHE) ]
 
 **Isotropic high resolution 3D confocal micro-rotation imaging for non-adherent living cells** _Bertrand Le Saux, Bernard Chalmond, Yong Yu, Alain Trouvé, Olivier Renaud, Spencer L. Shorte_, Journal of Microscopy, 233, pp.404-416, 2009
 
-[ pdf ]
+[ [pdf](http://blesaux.free.fr/papers/lesaux-jmi09.pdf) ]
 
 **Feature selection for graph-based image classifiers** _Bertrand Le Saux and Horst Bunke_, IAPR Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA'05), Estoril, Portugal, June 2005
 
-[ pdf ps ]
+[ [pdf](http://blesaux.free.fr/papers/lesaux-ibpria05.pdf) [ps](http://blesaux.free.fr/papers/lesaux-ibpria05.ps.gz) ]
+
 
 **Image recognition for digital libraries** _Bertrand Le Saux and Giuseppe Amato_, ACM MultiMedia/Workshop on Multimedia Information Retrieval (MIR'04), New-York, NY, USA, October 2004
 
-[ pdf ps ]
+[ [pdf](http://blesaux.free.fr/papers/lesaux-acm04.pdf) [ps](http://blesaux.free.fr/papers/lesaux-acm04.ps.gz) ]
 
 **Unsupervised Robust Clustering for Image Database Categorization** _Bertrand Le Saux and Nozha Boujemaa_, IEEE-IAPR International Conference on Pattern Recognition (ICPR'2002), Québec, Canada, August 2002
 
-[ pdf ps ]
+[ [pdf](http://blesaux.free.fr/papers/lesaux-icpr02.pdf) [ps](http://blesaux.free.fr/papers/lesaux-icpr02.ps.gz) ]
 
 **Interactive Specific and Generic Image Retrieval** _Nozha Boujemaa, Julien Fauqueur, Marin Ferecatu, François Fleuret, Valérie Gouet, Bertrand Le Saux and Hichem Sahbi_, NSF/INRIA/Berkeley/IBM MMCBIR Workshop, INRIA Rocquencourt, France, September 2001
 
-[ pdf ]
-
+[ [pdf](http://blesaux.free.fr/papers/imedia-mmcbir01.pdf) ]
 
 
 <!-- {% for post in site.publications reversed %}
