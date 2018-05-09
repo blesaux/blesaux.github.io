@@ -41,7 +41,7 @@ Selected publications include:
 \[  <span style="color:orange;">2nd Best Student Paper Award</span> [arxiv](https://arxiv.org/abs/1701.05818) [hal](https://hal.archives-ouvertes.fr/hal-01438499) [pdf](https://hal.archives-ouvertes.fr/hal-01438499/document) \]
 
 
-**Semantic segmentation of Earth-observation data using multimodal and multi-scale deep networks** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, Asian Conf. on Computer Vision (ACCV'2016) Taipei, Taiwan, Nov. 2016
+**Semantic segmentation of Earth-observation data using multimodal and multi-scale deep networks** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, Asian Conf. on Computer Vision ([ACCV'2016](http://www.accv2016.org/)), Taipei, Taiwan, Nov. 2016
 
 \[ [pdf](https://hal.archives-ouvertes.fr/hal-01360166/file/accv16_final_483.pdf) \]
 
