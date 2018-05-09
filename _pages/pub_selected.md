@@ -21,12 +21,12 @@ Selected publications include:
 
 \[ [doi](https://doi.org/10.1016/j.cag.2017.11.010) [pdf](../files/2017-11-10-aboulch-snapnet-CAG17.pdf) [code](https://github.com/aboulch/snapnet) \]
 
-**SnapNet-R: Consistent 3D Multi-View Semantic Labeling for Robotics** _Joris Guerry, Alexandre Boulch, Bertrand Le Saux, Julien Moras, aurélien Plyer, David Filliat_, [ICCV](http://iccv2017.thecvf.com/) / 3D Reconstruction Meets Semantics workshop, Oct. 2017
+**SnapNet-R: Consistent 3D Multi-View Semantic Labeling for Robotics** _Joris Guerry, Alexandre Boulch, Bertrand Le Saux, Julien Moras, aurélien Plyer, David Filliat_, [ICCV](http://iccv2017.thecvf.com/) / 3D Reconstruction Meets Semantics workshop, Venice, Italy, Oct. 2017
 
 \[ [cvf](http://openaccess.thecvf.com/content_ICCV_2017_workshops/w13/html/Guerry_SnapNet-R_Consistent_3D_ICCV_2017_paper.html) [pdf #1](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w13/Guerry_SnapNet-R_Consistent_3D_ICCV_2017_paper.pdf) [pdf #2](https://delta-onera.github.io/files/2017_iccv-3DRMS.pdf) \]
 
 
-**Joint Learning from Earth Observation and OpenStreetMap Data to Get Faster Better Semantic Maps** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, [CVPR](http://cvpr2017.thecvf.com/)/[Earth Vision](https://www.grss-ieee.org/earthvision2017/) workshop, July 2017
+**Joint Learning from Earth Observation and OpenStreetMap Data to Get Faster Better Semantic Maps** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, [CVPR](http://cvpr2017.thecvf.com/)/[Earth Vision](https://www.grss-ieee.org/earthvision2017/) workshop, Hawaï, USA, July 2017
 
 \[ [arxiv](https://arxiv.org/abs/1705.06057) [pdf](https://arxiv.org/pdf/1705.06057) \]
 
@@ -38,7 +38,7 @@ Selected publications include:
 
 **Fusion of heterogeneous data in convolutional networks for urban semantic labeling** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, Joint Urban Remote Sensing Event (JURSE'2017) Dubai, UAE, March 2017
 
-\[ 2nd Best Student Paper Award [arxiv](https://arxiv.org/abs/1701.05818) [hal](https://hal.archives-ouvertes.fr/hal-01438499) [pdf](https://hal.archives-ouvertes.fr/hal-01438499/document) \]
+\[  <span style="color:orange;">2nd Best Student Paper Award</span> [arxiv](https://arxiv.org/abs/1701.05818) [hal](https://hal.archives-ouvertes.fr/hal-01438499) [pdf](https://hal.archives-ouvertes.fr/hal-01438499/document) \]
 
 
 **Semantic segmentation of Earth-observation data using multimodal and multi-scale deep networks** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, Asian Conf. on Computer Vision (ACCV'2016) Taipei, Taiwan, Nov. 2016
@@ -48,12 +48,12 @@ Selected publications include:
 
 **On the usability of deep networks for object-based image analysis** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, Conf. on Geo Object-Based Image Analysis ([GEOBIA'2016](https://www.geobia2016.com/)) Enschede, Netherlands, Sept. 2016
 
-\[ Award for Best Contribution to the [ISPRS 2D Semantic Labeling Contest](http://www2.isprs.org/vaihingen-2d-semantic-labeling-contest.html) [pdf](http://blesaux.free.fr/papers/audebert-usability-deep-networks-for-GEOBIA-2016.pdf) \]
+\[  <span style="color:orange;">Award for Best Contribution to the [ISPRS 2D Semantic Labeling Contest](http://www2.isprs.org/vaihingen-2d-semantic-labeling-contest.html)</span> [pdf](http://blesaux.free.fr/papers/audebert-usability-deep-networks-for-GEOBIA-2016.pdf) \]
 
 
 **Benchmarking classification of Earth-observation data: from learning explicit features to convolutional networks** _Adrien Lagrange, Bertrand Le Saux, Anne Beaupère, Alexandre Boulch, Adrien Chan Hon Tong, Stéphane Herbin, Hicham Randrianarivo, Marin Ferecatu_, IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2015](http://www.igarss2015.org/)) Milan, Italy, July 2015
 
-[ [2nd place Award in the Data Fusion 2D Contest 2015](http://www.grss-ieee.org/community/technical-committees/data-fusion/2015-ieee-grss-data-fusion-contest-results/) [pdf](http://blesaux.free.fr/papers/blesaux-DFC2015-classif-benchmark.pdf) ]
+[  <span style="color:orange;">[2nd place Award in the Data Fusion 2D Contest 2015](http://www.grss-ieee.org/community/technical-committees/data-fusion/2015-ieee-grss-data-fusion-contest-results/)</span> [pdf](http://blesaux.free.fr/papers/blesaux-DFC2015-classif-benchmark.pdf) ]
 
 **Interactive Design of Object Classifiers in Remote Sensing** _Bertrand Le Saux_, International Conference on Pattern Recognition (ICPR'2014), Stockholm, Sweden, August 2014
 
