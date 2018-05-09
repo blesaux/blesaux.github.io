@@ -13,9 +13,17 @@ author_profile: true
 
 <!-- ##  [recent](../publications) &nbsp;&nbsp; [selected](selected) -->
 
-Recent publications include:
+All publications are lsited below:
 
 ## 2018
+
+**Fully Convolutional Siamese Networks for Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE Int. Conf. on Image Processing ([ICIP'2018](http://www.icip2018.org/)) Athens, Greece, September 2018
+
+\[  \]
+
+**On regression losses for deep depth estimation** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ IEEE Int. Conf. on Image Processing ([ICIP'2018](http://www.icip2018.org/)) Athens, Greece, September 2018
+
+\[  \]
 
 **Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2018](http://www.igarss2018.org/)) Valencia, Spain, July 2018
 
