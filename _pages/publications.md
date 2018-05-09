@@ -17,11 +17,11 @@ Recent publications include:
 
 ## 2018
 
-**Fully Convolutional Siamese Networks for Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE Int. Conf. on Image Processing ([ICIP'2018](http://www.icip2018.org/)) Athens, Greece, September 2018
+**Fully Convolutional Siamese Networks for Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE Int. Conf. on Image Processing ([ICIP'2018](https://2018.ieeeicip.org/)) Athens, Greece, October 2018
 
 \[  \]
 
-**On regression losses for deep depth estimation** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ IEEE Int. Conf. on Image Processing ([ICIP'2018](http://www.icip2018.org/)) Athens, Greece, September 2018
+**On Regression Losses for Deep Depth Estimation** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ IEEE Int. Conf. on Image Processing ([ICIP'2018](https://2018.ieeeicip.org/)) Athens, Greece, October 2018
 
 \[  \]
 
