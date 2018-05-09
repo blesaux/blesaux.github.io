@@ -12,6 +12,8 @@ author_profile: true
 
 Below are various events that were worth a post in the [_news_](../news/) section in the past:
 
+*  \[Fev. 18\] [Alexandre Boulch](https://aboulch.github.io/) and I have two open PhD positions in our lab: one on ["Semi-supervised semantic segmentation for large-scale automated cartography"](../files/PhD_OBELIX-ONERA_semisupervised.pdf)  with Sébastien Lefèvre from IRISA (co-funded by CNES, please apply [here](https://cnes.fr/fr/les-ressources-humaines-du-cnes/segmentation-semantique-semi-supervisee-pour-la-cartographie)), and the other one on ["Neural networks for semantic segmentation of 3D data"](../files/PhD_IMAGINE-ONERA_pointcloud.pdf) (call in French) with Renaud Marlet from ENPC. 
+*  \[Jan. 18\] On Jan. 15th, we (at [IADF TC](http://www.grss-ieee.org/community/technical-committees/data-fusion/), with [University of Houston](http://hyperspectral.ee.uh.edu/)) launched the [2018 Data Fusion Contest](http://www.grss-ieee.org/community/technical-committees/data-fusion/data-fusion-contest/), which consists in a classification benchmark with multimodal optical imagery: multispectral LiDAR, hyperspectral data and VHR RGB imagery. Do not miss this opportunity to test your algorithms!
 *   \[Nov. 17\] [Jorris Guerry](http://jorisguerry.fr/) successfully defended his PhD thesis about "visual recognition by neural networks for robotics" at [École Polytechnique](http://www.polytechnique.edu) on Nov. 20th. Congratulations !
 *   \[Nov 17\] [Nicolas Audebert](https://nicolas.audebert.at/) got nice results) with a new approach on the [Inria Aerial dataset](): more than 71% IoU for detecting buildings in aerial images.
 *   \[Oct. 17\] Rodrigo Daudt joined the lab as a PhD student, co-supervised by [Alexandre Boulch](https://aboulch.github.io/), [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/index_eng.html) from [Telecom Paristech](https://www.telecom-paristech.fr/eng)/[LTCI lab](https://ltci.telecom-paristech.fr/) and myself. He will work on analysis of multi-temporal activity in Earth-observation data.
@@ -26,7 +28,7 @@ Below are various events that were worth a post in the [_news_](../news/) sectio
 
 *    [June 17] [Multitemporal very-high resolution from space: Outcome of the 2016 Data Fusion Contest](http://ieeexplore.ieee.org/document/7948767/) now published in JSTARS.
 
-*    [June 17] Sébastien Lefèvre (Univ. Bretagne Sud/IRISA) and Ronan Fablet (IMT Atlantique/LabSTICC) will give talks in our Machine Learning and Remote Sensing seminar at ONERA in Palaiseau, on June 7th.
+*    [June 17] [Sébastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/) ([Univ. Bretagne Sud](http://www.univ-ubs.fr/fr/index.html)/[IRISA](http://www.irisa.fr/)) and [Ronan Fablet](https://perso.telecom-bretagne.eu/ronanfablet/) ([IMT Atlantique](http://www.imt-atlantique.fr/fr)/[LabSTICC](https://www.labsticc.fr/en/index/)) will give talks in our Machine Learning and Remote Sensing seminar at ONERA in Palaiseau, on June 7th.
 
 *    [June 17] Nicolas Audebert will give a talk on Deep Learning for hyperspectral data at GDR ISIS event on multi-spectral and color imaging, in Paris, on June 2nd.
 
@@ -37,29 +39,29 @@ Below are various events that were worth a post in the [_news_](../news/) sectio
 *    [April 17] I will give a talk about 3D semantic mapping of point-clouds with deep networks at EuroGraphics/3DOR workshop in Lyon, on april 23rd. Our SnapNet approach tops the semantic3D leaderboard for 3D urban mapping !
 
 *    [Mar 17] Nicolas Audebert got the 2nd Best Student Paper award @ JURSE'2017 in Dubaï !
-*    [Mar 17] I give two seminars this month: at IGN/MATIS lab (the French mapping agency) on march, 21st and at Uni. Zurich, in Devis Tuia's MultiModal Remote Sensing group on march, 29th.
+*    [Mar 17] I give two seminars this month: at [IGN](http://www.ign.fr/)/[MATIS lab](http://recherche.ign.fr/labos/matis/accueilMATIS.php) (the French mapping agency) on march, 21st and at Uni. Zurich, in Devis Tuia's MultiModal Remote Sensing group on march, 29th.
 *    [Mar 17] On March, 15th, Marcela Pinheiro de Carvalho will present our works on 3D estimation from monocular imaging at JIONC'2017 (at ESPCI in Paris).
 
 *    [Mar 17] Nicolas Audebert and myself will be at JURSE'2017 in Dubaï for two talks about deep learning and urban remote sensing.
 
-*    [Feb 17] We released the first pre-trained deep network models for EO data semantic labeling in the Caffe Model Zoo: check out the project repository for more details.
+*    [Feb 17] We released the first pre-trained deep network models for EO data semantic labeling in the Caffe Model Zoo: check out the [project repository](https://github.com/nshaud/DeepNetsForEO) for more details.
 
 *    [Jan. 17] New Data Fusion Contest 2017 launched ! Get multi-mode, multi-temporal satellite imagery and OpenStreetMap data over several cities all around the world to perform Local Climate Zone classification !
 
-*    [Dec. 16] Hicham Randrianarivo defended and obtained his PhD at CNAM Paristech, on the topic of "learning semantic classes in context for aerial imagery".
+*    [Dec. 16] [Hicham Randrianarivo](https://cedric.cnam.fr/index.php/labo/membre/randriah) defended and obtained his PhD at [CNAM Paristech](http://www.cnam.fr/), on the topic of "learning semantic classes in context for aerial imagery".
 
 *    [Nov. 16] Nicolas Audebert will present our paper on residual correction for data fusion at ACCV 2016 in Taipei.
 
-*    [Nov. 16] Alexandre Boulch and I will present our work on point-cloud classification during the Plenary Meeting of the FP7 Inachus Project in Freiburg, Germany.
+*    [Nov. 16] Alexandre Boulch and I will present our work on point-cloud classification during the Plenary Meeting of the [FP7 Inachus Project](https://www.inachus.eu/) in Freiburg, Germany.
 
 *    [Oct. 16] Marcela Pinheiro de Carvalho started her PhD thesis on "Deep Learning of Depth from Defocus". She will work with Pauline Trouvé-Peloux, Frédéric Champagnat, Andrés Almansa and myself.
 *    [Sep. 16] Nicolas Audebert's algorithm for semantic labeling of aerial images tops the learderboard of the ISPRS Vaihingen benchmark (ONE_6 and ONE_7 entries). He received the Award for the Best Contribution to the Benchmark at GEOBIA'16 conference. Stay tuned for the forthcoming paper accepted at ACCV 2016 !
 
-*    [Sep. 16] Gabriele Moser and I will chair an invited session about Data Fusion for Urban Remote Sensing at next JURSE 2017 conference in Abu Dhabi.
+*    [Sep. 16] [Gabriele Moser](cucciolo.dibe.unige.it/IPRS/gabriele.html) and I will chair an invited session about Data Fusion for Urban Remote Sensing at next JURSE 2017 conference in Abu Dhabi.
 
 *    [Sep. 16] Nicolas Audebert and Sébastien Lefèvre will be at GEOBIA'16 in Enschede, Netherlands, for presenting our common paper about the use of deep networks for object-based aerial imagery analysis.
 
-*    [Aug. 16] The JSTARS article on the outcome of the 2015 IEEE GRSS Contest (where our team was awarded) is out now: http://dx.doi.org/10.1109/JSTARS.2016.2569162
+*    [Aug. 16] The JSTARS article on the outcome of the 2015 IEEE GRSS Contest (where our team was awarded) is out now: [http://dx.doi.org/10.1109/JSTARS.2016.2569162](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7536139)
 
 *    [July 16] Nicolas Audebert will give a talk about spatial constraints for deep networks @ IGARSS 2016, in Beijing.
 
@@ -69,11 +71,11 @@ Below are various events that were worth a post in the [_news_](../news/) sectio
 
 *    [June 16] Nicolas Audebert will present our lab activities around Deep Learning for Remote Sensing at the ONERA-DLR ODAS workshop, near Munich.
 
-*    [June 16] Nicolas Audebert and I will be at Polytech Annecy to participate to the Total Image WG. We will talk about deep learning for remote sensing data.
+*    [June 16] Nicolas Audebert and I will be at [Polytech Annecy](http://www.polytech.univ-smb.fr/) to participate to the [Total Image WG](http://www.total.com/en). We will talk about deep learning for remote sensing data.
 *    [May 16] Winners of the Data Fusion Contest 2016 announced ! Do not miss the corresponding session @ IGARSS'2016 in Beijing.
 *    [April 16] Open PhD position: 3D Camera by Depth from Defocus and Deep Learning, with Pauline Trouvé from ONERA and Andrès Almansa from TelecomParisTech.
 *    [April 16] Last month to enter the IEEE GRSS IADTF TC Data Fusion Contest 2016 (video from space and multitemporal HR satellite imagery). Submission website is now open, deadline on April, 29th
-*    [April 16] Nicolas Audebert will present a poster on Deep learning for aerial cartography at StatLearn, the conference of the French Society of Statistic in Vannes (on Apr., 7th)
+*    [April 16] Nicolas Audebert will present a poster on Deep learning for aerial cartography at StatLearn, the conference of the [French Society of Statistics](https://www.sfds.asso.fr/) in Vannes (on Apr., 7th)
 *    [March 16] New plenary meeting of the FP7 Inachus Project in Toulouse and field test of the UAVs with Lidar sensor.
 
 *    [March 16] Hicham Randrianarivo presented our work on how spatial context can help deep-learning classifiers at ESA Big Data in Space (BiDS) workshop in Tenerife.
