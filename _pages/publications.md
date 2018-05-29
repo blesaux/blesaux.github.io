@@ -23,7 +23,7 @@ Recent publications include:
 
 **On Regression Losses for Deep Depth Estimation** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ IEEE Int. Conf. on Image Processing ([ICIP'2018](https://2018.ieeeicip.org/)) Athens, Greece, October 2018
 
-\[  \]
+\[ [pdf](http://mcarvalho.ml/material/docs/2018/regression_losses_icip_2018.pdf) \]
 
 **Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2018](http://www.igarss2018.org/)) Valencia, Spain, July 2018
 
