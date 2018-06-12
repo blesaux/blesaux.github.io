@@ -17,6 +17,19 @@ All publications are lsited below:
 
 ## 2018
 
+**Estimation de profondeur monoculaire par réseau de neurones et l'apport du flou de défocalisation** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ Congrès Reconnaissance des Formes, Intelligence Artificielle et Perception ([RFIAP'2018](https://rfiap2018.ign.fr/)) Marne-la-Vallée, France, July 2018
+
+\[  [pdf]()  \]
+
+**Détection dense de changements par réseaux de neurones siamois** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ Congrès Reconnaissance des Formes, Intelligence Artificielle et Perception ([RFIAP'2018](https://rfiap2018.ign.fr/)) Marne-la-Vallée, France, July 2018
+
+\[  \]
+
+**Segmentation sémantique profonde par régression sur cartes de distances signées** _N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre_ Congrès Reconnaissance des Formes, Intelligence Artificielle et Perception ([RFIAP'2018](https://rfiap2018.ign.fr/)) Marne-la-Vallée, France, July 2018
+
+\[ [arxiv](https://arxiv.org/abs/1806.02583) [pdf](https://arxiv.org/pdf/1806.02583.pdf) \]
+
+
 **Fully Convolutional Siamese Networks for Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE Int. Conf. on Image Processing ([ICIP'2018](https://2018.ieeeicip.org/)) Athens, Greece, October 2018
 
 \[  \]
@@ -31,7 +44,7 @@ All publications are lsited below:
 
 **Generative adversarial networks for realistic synthesis of hyperspectral samples** _N. Audebert, B. Le Saux, S. Lefèvre_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2018](http://www.igarss2018.org/)) Valencia, Spain, July 2018
 
-\[  \]
+\[ [arxiv](https://arxiv.org/abs/1806.02583) [pdf](https://arxiv.org/pdf/1806.02583.pdf) \]
 
 **Railway Detection: from filtering to segmentation networks** _B. Le Saux, A. Beaupère, A. Boulch, J. Brossard, A. Manier, G. Villemin_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2018](http://www.igarss2018.org/)) Valencia, Spain, July 2018
 
