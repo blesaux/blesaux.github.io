@@ -17,18 +17,6 @@ All publications are lsited below:
 
 ## 2018
 
-**Estimation de profondeur monoculaire par réseau de neurones et l'apport du flou de défocalisation** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ Congrès Reconnaissance des Formes, Intelligence Artificielle et Perception ([RFIAP'2018](https://rfiap2018.ign.fr/)) Marne-la-Vallée, France, July 2018
-
-\[  [pdf]()  \]
-
-**Détection dense de changements par réseaux de neurones siamois** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ Congrès Reconnaissance des Formes, Intelligence Artificielle et Perception ([RFIAP'2018](https://rfiap2018.ign.fr/)) Marne-la-Vallée, France, July 2018
-
-\[  \]
-
-**Segmentation sémantique profonde par régression sur cartes de distances signées** _N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre_ Congrès Reconnaissance des Formes, Intelligence Artificielle et Perception ([RFIAP'2018](https://rfiap2018.ign.fr/)) Marne-la-Vallée, France, July 2018
-
-\[ [arxiv](https://arxiv.org/abs/1806.02583) [pdf](https://arxiv.org/pdf/1806.02583.pdf) \]
-
 
 **Fully Convolutional Siamese Networks for Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE Int. Conf. on Image Processing ([ICIP'2018](https://2018.ieeeicip.org/)) Athens, Greece, October 2018
 
@@ -36,7 +24,7 @@ All publications are lsited below:
 
 **On Regression Losses for Deep Depth Estimation** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ IEEE Int. Conf. on Image Processing ([ICIP'2018](https://2018.ieeeicip.org/)) Athens, Greece, October 2018
 
-\[  [pdf](http://mcarvalho.ml/material/docs/2018/regression_losses_icip_2018.pdf)  \]
+\[ [pdf](http://mcarvalho.ml/material/docs/2018/regression_losses_icip_2018.pdf) \]
 
 **Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2018](http://www.igarss2018.org/)) Valencia, Spain, July 2018
 
@@ -44,7 +32,7 @@ All publications are lsited below:
 
 **Generative adversarial networks for realistic synthesis of hyperspectral samples** _N. Audebert, B. Le Saux, S. Lefèvre_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2018](http://www.igarss2018.org/)) Valencia, Spain, July 2018
 
-\[ [arxiv](https://arxiv.org/abs/1806.02583) [pdf](https://arxiv.org/pdf/1806.02583.pdf) \]
+\[  \]
 
 **Railway Detection: from filtering to segmentation networks** _B. Le Saux, A. Beaupère, A. Boulch, J. Brossard, A. Manier, G. Villemin_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2018](http://www.igarss2018.org/)) Valencia, Spain, July 2018
 
@@ -57,6 +45,18 @@ All publications are lsited below:
 **Large-scale semantic classification: outcome of the first year of INRIA Aerial Image Labeling Benchmark** _B.H. Huang, K.K. Lu, N. Audebert, A. Khalel, Y. Tarabalka, J. Malof, A. Boulch, B. Le Saux, L. Collins, K. Bradbury, S. Lefèvre, M. El-Saban_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2018](http://www.igarss2018.org/)) Valencia, Spain, July 2018
 
 \[  \]
+
+**Estimation de profondeur monoculaire par réseau de neurones et l'apport du flou de défocalisation** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ Congrès Reconnaissance des Formes, Image, Apprentissage et Perception ([RFIAP'2018](https://rfiap2018.ign.fr/)) Marne-la-Vallée, France, July 2018
+
+\[  [pdf]()  \]
+
+**Détection dense de changements par réseaux de neurones siamois** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ Congrès Reconnaissance des Formes, Image, Apprentissage et Perception ([RFIAP'2018](https://rfiap2018.ign.fr/)) Marne-la-Vallée, France, July 2018
+
+\[  \]
+
+**Segmentation sémantique profonde par régression sur cartes de distances signées** _N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre_ Congrès Reconnaissance des Formes, Image, Apprentissage et Perception ([RFIAP'2018](https://rfiap2018.ign.fr/)) Marne-la-Vallée, France, July 2018
+
+\[ [hal](https://hal.archives-ouvertes.fr/hal-01809991) [pdf](https://hal.archives-ouvertes.fr/hal-01809991/document) \]
 
 **Open data for global multimodal land use classification: Outcome of the 2017 IEEE GRSS Data Fusion Contest** _N. Yokoya, P. Ghamisi, J. Xia, S. Sukhanov, R.
 Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 2018
@@ -80,6 +80,18 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 **"Look At This One": Detection sharing between modality-independent classifiers for robotic people discovery** _Joris Guerry, Bertrand Le Saux, David Filliat_, Eur. Conf. on Mobile Robotics (ECMR), Paris, France, Sept. 2017
 
 \[ [hal](https://hal.archives-ouvertes.fr/hal-01628762) [pdf](https://hal.archives-ouvertes.fr/hal-01628762/document) [poster](http://jorisguerry.fr/wp-content/uploads/2017/08/poster-ecmr-2017.pdf)\]
+
+**Estimation de profondeur à partir d'une seule image avec un réseau adversaire** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, A. Almansa, F. Champagnat_, [Colloque GRETSI](http://gretsi.fr/colloque2017/), Juan-les-Pins, France, Sept. 2017
+
+\[ [pdf]()\]
+
+**Couplage de données géographiques participatives et d'images aériennes par apprentissage profond** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, [Colloque GRETSI](http://gretsi.fr/colloque2017/), Juan-les-Pins, France, Sept. 2017
+
+\[ [pdf]()\]
+
+**RCNN RGBD pour la détection de personnes en conditions difficiles** _Joris Guerry, Bertrand Le Saux, David Filliat_, [Colloque GRETSI](http://gretsi.fr/colloque2017/), Juan-les-Pins, France, Sept. 2017
+
+\[ [pdf]()\]
 
 **Joint Learning from Earth Observation and OpenStreetMap Data to Get Faster Better Semantic Maps** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, [CVPR](http://cvpr2017.thecvf.com/)/[Earth Vision](https://www.grss-ieee.org/earthvision2017/) workshop, Hawaï, USA, July 2017
 
@@ -135,6 +147,10 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 **How useful is region-based classification of remote sensing images in a deep learning framework?** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2016](http://www.igarss2016.org/)) Beijing, China, July 2016
 
 \[ [pdf](http://blesaux.free.fr/papers/Audebert_LeSaux_Lefevre_Region_based_classif_deep_learning_IGARSS.pdf) \]
+
+**Sélection d'algorithmes de classification par réseau de neurones** _Joris Guerry, Bertrand Le Saux, David Filliat_, Rec. Formes et Int. Artificielle (RFIA), Clermont-Ferrand, France, July 2016
+
+\[ \]
 
 **Deep Learning for Remote Sensing** _Nicolas Audebert, Alexandre Boulch, Adrien Lagrange, Bertrand Le Saux, Sébastien Lefèvre_, ONERA-DLR ODAS Workshop, Oberpfaffenhofen, Germany, June 2016
 
