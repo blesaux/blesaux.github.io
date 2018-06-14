@@ -32,7 +32,7 @@ All publications are lsited below:
 
 **Generative adversarial networks for realistic synthesis of hyperspectral samples** _N. Audebert, B. Le Saux, S. Lefèvre_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2018](http://www.igarss2018.org/)) Valencia, Spain, July 2018
 
-\[  \]
+\[ [arxiv](https://arxiv.org/abs/1806.02583) [pdf](https://arxiv.org/pdf/1806.02583) \]
 
 **Railway Detection: from filtering to segmentation networks** _B. Le Saux, A. Beaupère, A. Boulch, J. Brossard, A. Manier, G. Villemin_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2018](http://www.igarss2018.org/)) Valencia, Spain, July 2018
 
