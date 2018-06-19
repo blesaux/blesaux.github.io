@@ -79,19 +79,19 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 
 **"Look At This One": Detection sharing between modality-independent classifiers for robotic people discovery** _Joris Guerry, Bertrand Le Saux, David Filliat_, Eur. Conf. on Mobile Robotics (ECMR), Paris, France, Sept. 2017
 
-\[ [hal](https://hal.archives-ouvertes.fr/hal-01628762) [pdf](https://hal.archives-ouvertes.fr/hal-01628762/document) [poster](http://jorisguerry.fr/wp-content/uploads/2017/08/poster-ecmr-2017.pdf)\]
+\[ [hal](https://hal.archives-ouvertes.fr/hal-01628762) [pdf](https://hal.archives-ouvertes.fr/hal-01628762/document) [poster](http://jorisguerry.fr/wp-content/uploads/2017/08/poster-ecmr-2017.pdf) \]
 
 **Estimation de profondeur à partir d'une seule image avec un réseau adversaire** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, A. Almansa, F. Champagnat_, [Colloque GRETSI](http://gretsi.fr/colloque2017/), Juan-les-Pins, France, Sept. 2017
 
-\[ [pdf]()\]
+\[ [pdf]() \]
 
 **Couplage de données géographiques participatives et d'images aériennes par apprentissage profond** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, [Colloque GRETSI](http://gretsi.fr/colloque2017/), Juan-les-Pins, France, Sept. 2017
 
-\[ [pdf]()\]
+\[ [pdf]() \]
 
 **RCNN RGBD pour la détection de personnes en conditions difficiles** _Joris Guerry, Bertrand Le Saux, David Filliat_, [Colloque GRETSI](http://gretsi.fr/colloque2017/), Juan-les-Pins, France, Sept. 2017
 
-\[ [pdf]()\]
+\[ [pdf]() \]
 
 **Joint Learning from Earth Observation and OpenStreetMap Data to Get Faster Better Semantic Maps** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, [CVPR](http://cvpr2017.thecvf.com/)/[Earth Vision](https://www.grss-ieee.org/earthvision2017/) workshop, Hawaï, USA, July 2017
 
@@ -103,7 +103,7 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 
 **Segment-before-Detect: Vehicle Detection and Classification through Semantic Segmentation of Aerial Images** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, Remote Sensing 9 (4), 2017
 
-\[ [web](http://www.mdpi.com/2072-4292/9/4/368) [pdf #1](http://www.mdpi.com/2072-4292/9/4/368/pdf) [pdf #2](http://blesaux.free.fr/papers/17-RemoteSensing-Segment-before-detect-AudebertLeSauxLefevre-compressed.pdf)\]
+\[ [web](http://www.mdpi.com/2072-4292/9/4/368) [pdf #1](http://www.mdpi.com/2072-4292/9/4/368/pdf) [pdf #2](http://blesaux.free.fr/papers/17-RemoteSensing-Segment-before-detect-AudebertLeSauxLefevre-compressed.pdf) \]
 
 **Unstructured point cloud semantic labeling using deep segmentation networks** _Alexandre Boulch, Bertrand Le Saux, Nicolas Audebert_, [EuroGraphics](http://www.eurographics2017.fr/)/3D Object Recognition workshop ([3DOR](https://projet.liris.cnrs.fr/eg3dor17/)), Lyon, France, April 2017
 
@@ -238,7 +238,7 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 
 ## 2008
 
-**Micro-rotation Imaging Deconvolution* _Bertrand Le Saux, Bernard Chalmond, Yong Yu, Alain Trouvé, Olivier Renaud, Spencer L. Shorte_, IEEE International Symposium on Biomedical Imaging (ISBI'08), Paris, France, May 2008
+**Micro-rotation Imaging Deconvolution** _Bertrand Le Saux, Bernard Chalmond, Yong Yu, Alain Trouvé, Olivier Renaud, Spencer L. Shorte_, IEEE International Symposium on Biomedical Imaging (ISBI'08), Paris, France, May 2008
 
 [ [pdf](http://blesaux.free.fr/papers/lesaux-isbi08.pdf) ]
 
