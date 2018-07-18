@@ -13,7 +13,7 @@ author_profile: true
 
 <!-- ##  [recent](../publications) &nbsp;&nbsp; [selected](selected) -->
 
-All publications are lsited below:
+All publications are listed below:
 
 ## 2018
 
@@ -168,7 +168,7 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 
 **Benchmarking classification of Earth-observation data: from learning explicit features to convolutional networks** _Adrien Lagrange, Bertrand Le Saux, Anne Beaupère, Alexandre Boulch, Adrien Chan Hon Tong, Stéphane Herbin, Hicham Randrianarivo, Marin Ferecatu_, IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2015](http://www.igarss2015.org/)) Milan, Italy, July 2015
 
-[  <span style="color:orange;">2nd place Award in the Data Fusion 2D Contest 2015</span> [Link](http://www.grss-ieee.org/community/technical-committees/data-fusion/2015-ieee-grss-data-fusion-contest-results/) [pdf](http://blesaux.free.fr/papers/blesaux-DFC2015-classif-benchmark.pdf) ]
+[  <span style="color:orange;">2nd place Award in the Data Fusion 2D Contest 2015</span> [link](http://www.grss-ieee.org/community/technical-committees/data-fusion/2015-ieee-grss-data-fusion-contest-results/) [pdf](http://blesaux.free.fr/papers/blesaux-DFC2015-classif-benchmark.pdf) ]
 
 **Réseaux de neurones profonds pour estimer la profondeur grâce au flou de défocalisation** _Thierry Dumas, Pauline Trouvé-Peloux, Bertrand Le Saux_, Colloque Gretsi 2015, Lyon, France, September 2015
 
