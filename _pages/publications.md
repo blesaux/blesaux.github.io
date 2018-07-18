@@ -18,9 +18,9 @@ Recent publications include:
 ## 2018
 
 
-**Fully Convolutional Siamese Networks for Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE Int. Conf. on Image Processing ([ICIP'2018](https://2018.ieeeicip.org/)) Athens, Greece, October 2018
+**Fully Convolutional Siamese Networks for Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch_ IEEE Int. Conf. on Image Processing ([ICIP'2018](https://2018.ieeeicip.org/)) Athens, Greece, October 2018
 
-\[  \]
+\[ [pdf](https://rcdaudt.github.io/files/2018icip-fully-convolutional.pdf) \]
 
 **On Regression Losses for Deep Depth Estimation** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ IEEE Int. Conf. on Image Processing ([ICIP'2018](https://2018.ieeeicip.org/)) Athens, Greece, October 2018
 
@@ -28,7 +28,7 @@ Recent publications include:
 
 **Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2018](http://www.igarss2018.org/)) Valencia, Spain, July 2018
 
-\[  \]
+\[ [pdf](http://www.boulch.eu/files/2018_igarss_change-detection.pdf) \]
 
 **Generative adversarial networks for realistic synthesis of hyperspectral samples** _N. Audebert, B. Le Saux, S. Lefèvre_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2018](http://www.igarss2018.org/)) Valencia, Spain, July 2018
 
@@ -40,19 +40,19 @@ Recent publications include:
 
 **Learning speckle suppression in SAR images without ground truth: application to Sentinel-1 time-series** _A. Boulch, P. Trouvé, É. Koeniguer, F. Janez, B. Le Saux_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2018](http://www.igarss2018.org/)) Valencia, Spain, July 2018
 
-\[  \]
+\[ [pdf](http://www.boulch.eu/files/2018_igarss_denoising-sentinel.pdf) \]
 
 **Large-scale semantic classification: outcome of the first year of INRIA Aerial Image Labeling Benchmark** _B.H. Huang, K.K. Lu, N. Audebert, A. Khalel, Y. Tarabalka, J. Malof, A. Boulch, B. Le Saux, L. Collins, K. Bradbury, S. Lefèvre, M. El-Saban_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2018](http://www.igarss2018.org/)) Valencia, Spain, July 2018
 
-\[  \]
+\[ [Hal](https://hal.inria.fr/hal-01767807) [pdf](https://hal.inria.fr/hal-01767807/document) \]
 
 **Estimation de profondeur monoculaire par réseau de neurones et l'apport du flou de défocalisation** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ Congrès Reconnaissance des Formes, Image, Apprentissage et Perception ([RFIAP'2018](https://rfiap2018.ign.fr/)) Marne-la-Vallée, France, July 2018
 
-\[  [pdf]()  \]
+\[ <span style="color:orange;">Best Paper Award</span> [pdf #1](https://rfiap2018.ign.fr/sites/default/files/ARTICLES/RFIAP_2018/RFIAP_2018_Carvalho_Estimation.pdf) [pdf #2](mcarvalho.ml/material/docs/2018/RFIAP_2018_Carvalho_Estimation.pdf) \]
 
 **Détection dense de changements par réseaux de neurones siamois** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ Congrès Reconnaissance des Formes, Image, Apprentissage et Perception ([RFIAP'2018](https://rfiap2018.ign.fr/)) Marne-la-Vallée, France, July 2018
 
-\[  \]
+\[ [Rodrigo's site](https://rcdaudt.github.io/publication/2018-06-25-rfiap18-detection-dense) [pdf](https://rcdaudt.github.io/files/2018rfiap.pdf) \]
 
 **Segmentation sémantique profonde par régression sur cartes de distances signées** _N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre_ Congrès Reconnaissance des Formes, Image, Apprentissage et Perception ([RFIAP'2018](https://rfiap2018.ign.fr/)) Marne-la-Vallée, France, July 2018
 
