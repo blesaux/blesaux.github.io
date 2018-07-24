@@ -26,6 +26,10 @@ All publications are listed below:
 
 \[ [pdf](http://mcarvalho.ml/material/docs/2018/regression_losses_icip_2018.pdf) \]
 
+**A real-world hyperspectral image pipeline for vegetation and hydrocarbon characterization** _N. Audebert, A. Alakian, V. Achard, P. Déliot, S. Fabre, B. Le Saux, A. Crédoz, D. Dubucq, C. Taillandier and S. Lefèvre_ IEEE IEEE Workshop on Hyperspectral Image and Signal Processing (WHISPERS), Amsterdam, Netherlands, September 2018
+
+\[  \]
+
 **Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2018](http://www.igarss2018.org/)) Valencia, Spain, July 2018
 
 \[ [pdf](http://www.boulch.eu/files/2018_igarss_change-detection.pdf) \]
