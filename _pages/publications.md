@@ -40,7 +40,7 @@ Recent publications include:
 
 **Railway Detection: from filtering to segmentation networks** _B. Le Saux, A. Beaupère, A. Boulch, J. Brossard, A. Manier, G. Villemin_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2018](http://www.igarss2018.org/)) Valencia, Spain, July 2018
 
-\[  \]
+\[ [pdf](../files/blesaux-railway-detection-igarss18.pdf) \]
 
 **Learning speckle suppression in SAR images without ground truth: application to Sentinel-1 time-series** _A. Boulch, P. Trouvé, É. Koeniguer, F. Janez, B. Le Saux_ IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2018](http://www.igarss2018.org/)) Valencia, Spain, July 2018
 
@@ -52,7 +52,7 @@ Recent publications include:
 
 **Estimation de profondeur monoculaire par réseau de neurones et l'apport du flou de défocalisation** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ Congrès Reconnaissance des Formes, Image, Apprentissage et Perception ([RFIAP'2018](https://rfiap2018.ign.fr/)) Marne-la-Vallée, France, July 2018
 
-\[ <span style="color:orange;">Best Paper Award</span> [pdf #1](https://rfiap2018.ign.fr/sites/default/files/ARTICLES/RFIAP_2018/RFIAP_2018_Carvalho_Estimation.pdf) [pdf #2](mcarvalho.ml/material/docs/2018/RFIAP_2018_Carvalho_Estimation.pdf) \]
+\[ <span style="color:orange;">Best Paper Award</span> [pdf #1](https://rfiap2018.ign.fr/sites/default/files/ARTICLES/RFIAP_2018/RFIAP_2018_Carvalho_Estimation.pdf) [pdf #2](http://mcarvalho.ml/material/docs/2018/RFIAP_2018_Carvalho_Estimation.pdf) \]
 
 **Détection dense de changements par réseaux de neurones siamois** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ Congrès Reconnaissance des Formes, Image, Apprentissage et Perception ([RFIAP'2018](https://rfiap2018.ign.fr/)) Marne-la-Vallée, France, July 2018
 
