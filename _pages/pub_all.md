@@ -101,6 +101,10 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 
 \[ [arxiv](https://arxiv.org/abs/1705.06057) [pdf](https://arxiv.org/pdf/1705.06057) \]
 
+**3D laser imaging techniques to improve USaR operations for wide-area surveillance  and monitoring of collapsed buildings** _N. Riviere, A. Amditis, A. Amiez, G. Athanasiou, J. Berggren, A. Boulch, N. Bozabalian, D. Duarte, P.-E. Dupouy, P. Escalas, M. Gerke, F. Giroud, C. Grand, N. Kerle, Y. Lambert, F. Nex, B. Le Saux, A. Schilling , G. Told_, Int. Conf. on Information Systems for Crisis Response and Management ([ISCRAM](https://iscram2017.mines-albi.fr/)), Albi, France, May 2017
+
+\[ [pdf](http://blesaux.github.io/files/inachus-3D-for-uSAR-iscram17.pdf) \]
+
 **Multitemporal Very High Resolution From Space: Outcome of the 2016 IEEE GRSS Data Fusion Contest** _L. Mou, X. Zhu, M. Vakalopoulou, K. Karantzalos, N. Paragios, B. Le Saux, G. Moser, D. Tuia_,, IEEE J. of Selected Topics in Applied Earth Observations and Remote Sensing, 2017
 
 \[ [http://dx.doi.org/10.1109/JSTARS.2017.2696823](http://ieeexplore.ieee.org/document/7948767/) (open access) [pdf](http://publications.onera.fr/exl-php/docs/ILS_DOC/286689/AR2017-396.pdf) \]

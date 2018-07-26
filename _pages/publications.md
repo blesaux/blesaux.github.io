@@ -101,6 +101,10 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 
 \[ [arxiv](https://arxiv.org/abs/1705.06057) [pdf](https://arxiv.org/pdf/1705.06057) \]
 
+**3D laser imaging techniques to improve USaR operations for wide-area surveillance  and monitoring of collapsed buildings** _N. Riviere, A. Amditis, A. Amiez, G. Athanasiou, J. Berggren, A. Boulch, N. Bozabalian, D. Duarte, P.-E. Dupouy, P. Escalas, M. Gerke, F. Giroud, C. Grand, N. Kerle, Y. Lambert, F. Nex, B. Le Saux, A. Schilling , G. Told_, Int. Conf. on Information Systems for Crisis Response and Management ([ISCRAM](https://iscram2017.mines-albi.fr/)), Albi, France, May 2017
+
+\[ [pdf](http://blesaux.github.io/files/inachus-3D-for-uSAR-iscram17.pdf) \]
+
 **Multitemporal Very High Resolution From Space: Outcome of the 2016 IEEE GRSS Data Fusion Contest** _L. Mou, X. Zhu, M. Vakalopoulou, K. Karantzalos, N. Paragios, B. Le Saux, G. Moser, D. Tuia_,, IEEE J. of Selected Topics in Applied Earth Observations and Remote Sensing, 2017
 
 \[ [http://dx.doi.org/10.1109/JSTARS.2017.2696823](http://ieeexplore.ieee.org/document/7948767/) (open access) [pdf](http://publications.onera.fr/exl-php/docs/ILS_DOC/286689/AR2017-396.pdf) \]
@@ -133,36 +137,6 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 **Cartographie et interprétation de l'environnement par drone** _Martial Sanfourche, Bertrand Le Saux, Aurélien Plyer et Guy Le Besnerais_, Revue Française de Photogramm. et de Télédétection ([RFPT](https://www.sfpt.fr/rfpt/index.php/RFPT)), n° spécial drones, 213-214,pp. 55-62, 2017
 
 \[ [hal](https://hal.archives-ouvertes.fr/hal-01069606) [pdf](https://hal.archives-ouvertes.fr/hal-01069606/document) \]
-
-## 2016
-
-**Semantic segmentation of Earth-observation data using multimodal and multi-scale deep networks** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, Asian Conf. on Computer Vision ([ACCV'2016](http://www.accv2016.org/)) Taipei, Taiwan, Nov. 2016
-
-\[ [pdf](https://hal.archives-ouvertes.fr/hal-01360166/file/accv16_final_483.pdf) \]
-
-**Processing of Extremely High-Resolution LiDAR and RGB Data: Outcome of the 2015 IEEE GRSS Data Fusion Contest-Part A: 2D Contest** _M. Campos-Taberner, A. Romero-Soriano, G. Camps-Valls, A. Lagrange, B. Le Saux, A. Beaupère, A. Boulch, A. Chan-Hon-Tong, S. Herbin, H. Randrianarivo, M. Ferecatu, M. Shimoni, G. Moser, D. Tuia_, IEEE J. of Selected Topics in Applied Earth Observations and Remote Sensing, 2016
-
-\[ [pdf #1](http://blesaux.free.fr/papers/lesaux-jstars-DFC15-partA.pdf) or [http://dx.doi.org/10.1109/JSTARS.2016.2569162](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7536139) \]
-
-**On the usability of deep networks for object-based image analysis** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, Conf. on Geo Object-Based Image Analysis ([GEOBIA'2016](https://www.geobia2016.com/)) Enschede, Netherlands, Sept. 2016
-
-\[ Award for Best Contribution to the [ISPRS 2D Semantic Labeling Contest](http://www2.isprs.org/vaihingen-2d-semantic-labeling-contest.html) [pdf](http://blesaux.free.fr/papers/audebert-usability-deep-networks-for-GEOBIA-2016.pdf) \]
-
-**How useful is region-based classification of remote sensing images in a deep learning framework?** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2016](http://www.igarss2016.org/)) Beijing, China, July 2016
-
-\[ [pdf](http://blesaux.free.fr/papers/Audebert_LeSaux_Lefevre_Region_based_classif_deep_learning_IGARSS.pdf) \]
-
-**Sélection d'algorithmes de classification par réseau de neurones** _Joris Guerry, Bertrand Le Saux, David Filliat_, Rec. Formes et Int. Artificielle (RFIA), Clermont-Ferrand, France, July 2016
-
-\[ \]
-
-**Deep Learning for Remote Sensing** _Nicolas Audebert, Alexandre Boulch, Adrien Lagrange, Bertrand Le Saux, Sébastien Lefèvre_, ONERA-DLR ODAS Workshop, Oberpfaffenhofen, Germany, June 2016
-
-\[ \]
-
-**Structural classifiers for contextual semantic labeling of aerial images** _Hicham Randrianarivo, Bertrand Le Saux, Nicolas Audebert, Michel Crucianu, Marin Ferecatu_, ESA Big Data in Space (BiDS), Tenerife, Spain, March 2016
-
-\[ [pdf](http://blesaux.free.fr/papers/randri-structural-bids16.pdf) \]
 
 
 
