@@ -6,13 +6,18 @@ var addressPoints = [
   ],
   [
     "Tokyo, Japan",
-    34.6968642,
-    139.4049033
+    35.6828387,
+    139.7594549
   ],
   [
     "Paris, France",
     48.8566101,
     2.3514992
+  ],
+  [
+    "Venice, Italy",
+    45.4371908,
+    12.3345898
   ],
   [
     "Hsinchu, Taiwan",
@@ -21,8 +26,8 @@ var addressPoints = [
   ],
   [
     "Palma de Mallorca, Spain",
-    39.5475614,
-    2.6345492
+    39.5695818,
+    2.6500745
   ],
   [
     "Saint-Mand\u00e9, France",
@@ -31,8 +36,8 @@ var addressPoints = [
   ],
   [
     "Z\u00fcrich, Switzerland",
-    47.3723957,
-    8.5423216
+    47.3769434,
+    8.5414061
   ],
   [
     "Qu\u00e9bec, Canada",
@@ -45,9 +50,14 @@ var addressPoints = [
     9.8515586
   ],
   [
+    "Lyon, France",
+    45.7578137,
+    4.8320114
+  ],
+  [
     "New-York, NY, USA",
-    40.7306458,
-    -73.9866136
+    40.7308619,
+    -73.9871558
   ],
   [
     "Estoril, Portugal",
