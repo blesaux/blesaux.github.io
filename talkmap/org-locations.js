@@ -15,6 +15,11 @@ var addressPoints = [
     2.3514992
   ],
   [
+    "Milan, Italy",
+    45.4667971,
+    9.1904984
+  ],
+  [
     "Venice, Italy",
     45.4371908,
     12.3345898
@@ -45,6 +50,11 @@ var addressPoints = [
     -71.8258668
   ],
   [
+    "Hong-Kong, China",
+    22.2793278,
+    114.1628131
+  ],
+  [
     "Wangen, Allg\u00e4u, Germany",
     47.684182,
     9.8515586
@@ -55,9 +65,19 @@ var addressPoints = [
     4.8320114
   ],
   [
+    "Warsaw, Poland",
+    52.2319237,
+    21.0067265
+  ],
+  [
     "New-York, NY, USA",
     40.7308619,
     -73.9871558
+  ],
+  [
+    "Pisa, Italy",
+    43.7159395,
+    10.4018624
   ],
   [
     "Estoril, Portugal",
