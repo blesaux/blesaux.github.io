@@ -30,6 +30,11 @@ var addressPoints = [
     120.9686833
   ],
   [
+    "Dubrovnik, Croatia",
+    42.649429,
+    18.0940416
+  ],
+  [
     "Palma de Mallorca, Spain",
     39.5695818,
     2.6500745
@@ -48,6 +53,11 @@ var addressPoints = [
     "Qu\u00e9bec, Canada",
     52.4760892,
     -71.8258668
+  ],
+  [
+    "Dubai, UAE",
+    25.0750095,
+    55.1887608818332
   ],
   [
     "Hong-Kong, China",
