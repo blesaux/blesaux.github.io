@@ -18,7 +18,7 @@ Selected publications include:
 
 **Deep Depth from Defocus: how can defocus blur improve 3D estimation using dense neural networks?** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ IEEE Eur. Conf. on Computer Vision ([ECCV'2018](https://eccv2018.org/)) /  [Workshop on 3D Reconstruction in the Wild](http://www.sys.info.hiroshima-cu.ac.jp/3drw2018/) Munich, Germany, September 2018
 
-\[ [arxiv](https://arxiv.org/abs/1809.01567) / [pdf](https://arxiv.org/pdf/1809.01567.pdf) / [code and dataset](https://github.com/marcelampc/d3net_depth_estimation) \]
+\[ [arxiv](https://arxiv.org/abs/1809.01567) / [pdf](https://arxiv.org/pdf/1809.01567.pdf) / [pdf \#2](http://www.sys.info.hiroshima-cu.ac.jp/3drw2018/procs/W17-01.pdf) / [code and dataset](https://github.com/marcelampc/d3net_depth_estimation) \]
 
 **SnapNet: Unstructured point cloud semantic labeling using deep segmentation networks** _Alexandre Boulch, Joris Guerry, Bertrand Le Saux, Nicolas Audebert_, Computer and Graphics, 2017
 

@@ -12,6 +12,12 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Code"
+    url: /code/    
+
+  - title: "Data"
+    url: /code/    
+
   - title: "Students"
     url: /students/    
     
