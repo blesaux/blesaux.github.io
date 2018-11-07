@@ -44,6 +44,21 @@ With [Alexandre Boulch](http://www.boulch.eu/), we conceived SnapNet, a multi-vi
 
 With [Nicolas Audebert](https://nicolas.audebert.at/) and [Sébastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), we released [DeepNetsForEO](https://github.com/nshaud/DeepNetsForEO), a deep learning software for semantic labeling of Earth Observation images. It is a deep neural network based on the [SegNet](https://arxiv.org/abs/1511.02680) architecture, with [pre-trained weights](http://www-obelix.irisa.fr/software/) on various public remote sensing datasets like [ISPRS Vaihingen](http://www2.isprs.org/commissions/comm3/wg4/2d-sem-label-vaihingen.html) and [ISPRS Potsdam](http://www2.isprs.org/potsdam-2d-semantic-labeling.html). The v1 (Caffe and python interface) was the first deep learning model for Earth-observation data available in the Caffe model zoo. The v2 is purely python with pytorch functions, and comes with a handy python notebook.
 
+If using this code, please cite: **Beyond RGB: Very high resolution urban remote sensing with multimodal deep networks** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, ISPRS Journal of Photogrammetry and Remote Sensing, 2018. [https://arxiv.org/abs/1711.08681](https://arxiv.org/abs/1711.08681)
+
+```
+@article{audebert_beyondRGB_2017,
+title = "Beyond RGB: Very high resolution urban remote sensing with multimodal deep networks",
+journal = "ISPRS Journal of Photogrammetry and Remote Sensing",
+year = "2017",
+issn = "0924-2716",
+doi = "https://doi.org/10.1016/j.isprsjprs.2017.11.011",
+author = "Audebert, Nicolas and {Le Saux}, Bertrand and Lef{\`e}vre, S{\'e}bastien",
+keywords = "Deep learning, Remote sensing, Semantic mapping, Data fusion"
+}
+
+```
+
 \[ Related: [ISPRS Journal of Photogrammetry 2017 paper](https://hal.archives-ouvertes.fr/hal-01636145/document) /  [ACCV 2016 paper](https://hal.archives-ouvertes.fr/hal-01360166/file/accv16_final_483.pdf) \]
 
 
