@@ -10,7 +10,7 @@ type: 'past-msc'
 
 Morgane Rivière
 
-M.Eng from [École Polytechnique](http://www.polytechnique.fr/) in 2013, now reseach engineer at [DxO](http://www.dxo.com/)
+M.Eng from [École Polytechnique](http://www.polytechnique.fr/) in 2013, now reseach engineer at [Facebook](https://research.fb.com/)
 
 
 

@@ -26,13 +26,25 @@ state of the art on the [NUYv2](https://cs.nyu.edu/~silberman/datasets/nyu_depth
 
 ## SnapNet: Multi-view conv net for 3D semantic labeling 	 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/snapnet_semantic3d-icon.png){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/images/snapnet-icon.png){: .align-left}
 
-[code](https://github.com/aboulch/snapnet)
+[SnapNet code](https://github.com/aboulch/snapnet)
 
-With [Alexandre Boulch](), we conceived SnapNet, a multi-view conv net for semantic labeling of unstructured 3D point clouds. During more than one year, it led the [semantic3D leaderboard](http://semantic3d.net/view_results.php?chl=1) for 3D urban mapping, and still is among the top ones. In particular, it is computationally efficient and allows to deal with large datasets in tractable times. With Joris Guerry, we developped a variant which was aplied on robotics datasets such as NYUv2 or SunRGBD with excellent classification results.
+With [Alexandre Boulch](http://www.boulch.eu/), we conceived SnapNet, a multi-view conv net for semantic labeling of unstructured 3D point clouds. During more than one year, it led the [semantic3D leaderboard](http://semantic3d.net/view_results.php?chl=1) for 3D urban mapping, and still is among the top ones. In particular, it is computationally efficient and allows to deal with large datasets in tractable times. With Joris Guerry, we developped a variant which was aplied on robotics datasets such as NYUv2 or SunRGBD with excellent classification results.
 
 \[ Related: [CaG 2017 paper](https://blesaux.github.io/files/2017-11-10-aboulch-snapnet-CAG17.pdf) /  [ICCV/W 2017 paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w13/Guerry_SnapNet-R_Consistent_3D_ICCV_2017_paper.pdf) \]
+
+
+
+## DeepNetsForEO: Deep learning for Earth Observation 	 
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/DeepNetsForEO-icon.png){: .align-left}
+
+[DeepNetsForEO code](https://github.com/nshaud/DeepNetsForEO)
+
+With [Nicolas Audebert](https://nicolas.audebert.at/) and [Sébastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), we released [DeepNetsForEO](https://github.com/nshaud/DeepNetsForEO), a deep learning software for semantic labeling of Earth Observation images. It is a deep neural network based on the [SegNet](https://arxiv.org/abs/1511.02680) architecture, with [pre-trained weights](http://www-obelix.irisa.fr/software/) on various public remote sensing datasets like [ISPRS Vaihingen](http://www2.isprs.org/commissions/comm3/wg4/2d-sem-label-vaihingen.html) and [ISPRS Potsdam](http://www2.isprs.org/potsdam-2d-semantic-labeling.html). The v1 (Caffe and python interface) was the first deep learning model for Earth-observation data available in the Caffe model zoo. The v2 is purely python with pytorch functions, and comes with a handy python notebook.
+
+\[ Related: [ISPRS Journal of Photogrammetry 2017 paper](https://hal.archives-ouvertes.fr/hal-01636145/document) /  [ACCV 2016 paper](https://hal.archives-ouvertes.fr/hal-01360166/file/accv16_final_483.pdf) \]
 
 
 
