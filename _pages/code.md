@@ -30,6 +30,7 @@ state of the art on the [NUYv2](https://cs.nyu.edu/~silberman/datasets/nyu_depth
 
 [SnapNet code](https://github.com/aboulch/snapnet)
 
+
 With [Alexandre Boulch](http://www.boulch.eu/), we conceived SnapNet, a multi-view conv net for semantic labeling of unstructured 3D point clouds. During more than one year, it led the [semantic3D leaderboard](http://semantic3d.net/view_results.php?chl=1) for 3D urban mapping, and still is among the top ones. In particular, it is computationally efficient and allows to deal with large datasets in tractable times. With Joris Guerry, we developped a variant which was aplied on robotics datasets such as NYUv2 or SunRGBD with excellent classification results.
 
 \[ Related: [CaG 2017 paper](https://blesaux.github.io/files/2017-11-10-aboulch-snapnet-CAG17.pdf) /  [ICCV/W 2017 paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w13/Guerry_SnapNet-R_Consistent_3D_ICCV_2017_paper.pdf) \]
@@ -38,7 +39,7 @@ With [Alexandre Boulch](http://www.boulch.eu/), we conceived SnapNet, a multi-vi
 
 ## DeepNetsForEO: Deep learning for Earth Observation 	 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/DeepNetsForEO-icon.png){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/images/DeepNetForEO-icon.png){: .align-left}
 
 [DeepNetsForEO code](https://github.com/nshaud/DeepNetsForEO)
 
