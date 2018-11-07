@@ -48,10 +48,10 @@ With [Nicolas Audebert](https://nicolas.audebert.at/) and [Sébastien Lefèvre](
 If using this code, please cite: **Beyond RGB: Very high resolution urban remote sensing with multimodal deep networks** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, ISPRS Journal of Photogrammetry and Remote Sensing, 2018. [https://arxiv.org/abs/1711.08681](https://arxiv.org/abs/1711.08681)
 
 ```
-@article{audebert_beyondRGB_2017,
+@article{audebert_beyondRGB_2018,
 title = "Beyond RGB: Very high resolution urban remote sensing with multimodal deep networks",
 journal = "ISPRS Journal of Photogrammetry and Remote Sensing",
-year = "2017",
+year = "2018",
 issn = "0924-2716",
 doi = "https://doi.org/10.1016/j.isprsjprs.2017.11.011",
 author = "Audebert, Nicolas and {Le Saux}, Bertrand and Lef{\`e}vre, S{\'e}bastien",
