@@ -39,11 +39,11 @@ With [Alexandre Boulch](http://www.boulch.eu/), we conceived SnapNet, a multi-vi
 
 ## DeepNetsForEO: Deep learning for Earth Observation 	 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/DeepNetForEO-icon.png){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/images/DeepNetForEO-icon.jpg){: .align-left}
 
 [DeepNetsForEO code](https://github.com/nshaud/DeepNetsForEO)
 
-With [Nicolas Audebert](https://nicolas.audebert.at/) and [Sébastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), we released [DeepNetsForEO](https://github.com/nshaud/DeepNetsForEO), a deep learning software for semantic labeling of Earth Observation images. It is a deep neural network based on the [SegNet](https://arxiv.org/abs/1511.02680) architecture, with [pre-trained weights](http://www-obelix.irisa.fr/software/) on various public remote sensing datasets like [ISPRS Vaihingen](http://www2.isprs.org/commissions/comm3/wg4/2d-sem-label-vaihingen.html) and [ISPRS Potsdam](http://www2.isprs.org/potsdam-2d-semantic-labeling.html). The v1 (Caffe and python interface) was the first deep learning model for Earth-observation data available in the Caffe model zoo. The v2 is purely python with pytorch functions, and comes with a handy python notebook.
+With [Nicolas Audebert](https://nicolas.audebert.at/) and [Sébastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), we released [DeepNetsForEO](https://github.com/nshaud/DeepNetsForEO), a deep learning software for semantic labeling of Earth Observation images. It is a deep neural network based on the [SegNet](https://arxiv.org/abs/1511.02680) architecture, with [pre-trained weights](http://www-obelix.irisa.fr/software/) on various public remote sensing datasets like [ISPRS Vaihingen](http://www2.isprs.org/commissions/comm3/wg4/2d-sem-label-vaihingen.html) and [ISPRS Potsdam](http://www2.isprs.org/potsdam-2d-semantic-labeling.html). The v1 (Caffe and python interface) was the first deep learning model for Earth-observation data available in the [Caffe model zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo#deep-networks-for-earth-observation). The v2 is purely python with pytorch functions, and comes with a handy python notebook.
 
 If using this code, please cite: **Beyond RGB: Very high resolution urban remote sensing with multimodal deep networks** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, ISPRS Journal of Photogrammetry and Remote Sensing, 2018. [https://arxiv.org/abs/1711.08681](https://arxiv.org/abs/1711.08681)
 
