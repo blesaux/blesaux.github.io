@@ -37,6 +37,18 @@ If using this code, please cite: **On Regression Losses for Deep Depth Estimatio
 \[ Related: [ICIP 2018 paper](http://mcarvalho.ml/material/docs/2018/regression_losses_icip_2018.pdf) / [ECCV/W 2018 paper](http://www.sys.info.hiroshima-cu.ac.jp/3drw2018/procs/W17-01.pdf) / [video](https://www.youtube.com/watch?v=Zx7k5-xc-BE) \]
 
 
+## DeepHyperX: Deep Learning for Hyperspectral Imaging Toolbox
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/deephyperx-icon.png){: .align-left}
+
+[DeepHyperX code](https://gitlab.inria.fr/naudeber/DeepHyperX/)
+
+[Nicolas Audebert](https://nicolas.audebert.at/) coded this toolbox with various machine learning approaches for hyperspectral imaging, in support of a review we wrote with [Sébastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/) (to be published soon). It contains various models, from SVM to convolutional nets, including 1D, 2D or 3D CNNs, multi-scale or sumi-supervised. Various approaches of the State of the Art are reproduced. Various standard datasets are already included (including Indian Pines, Pavia or DFC 2018), and there is a tutorial to include our own ones.
+
+The most straightforward way to start with deep learning in hyperspectral!
+
+
+
 ## SnapNet: Multi-view conv net for 3D semantic labeling 	 
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/snapnet-icon.png){: .align-left}
