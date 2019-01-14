@@ -18,7 +18,7 @@ Colab notebook can be saved in you own environment using the "Copy to drive" ite
 
 | Topic | Course | Exercises |
 | --- | --- | --- |
-| Decision trees, random forests and boosting | [Course #3](../courses/IOGS_ARF_2019_App_03_arbres_et_ensembles.pdf) | [ipynb](../courses/IOGS_ARF_TP_tree_and_forest.ipynb) / [colab](https://colab.research.google.com/drive/1xWN7E10pUTg7bPYoz3q1xRda5JRpYamK) / [smile ref data for Olivetti faces](../courses/results-smile-GT-BLS.xml)/ [ipynb results](../courses/IOGS_ARF_TP_RESULT_tree_and_forest.ipynb) / [colab results]() |
+| Decision trees, random forests and boosting | [Course #3](../courses/IOGS_ARF_2019_App_03_arbres_et_ensembles.pdf) | [ipynb](../courses/IOGS_ARF_TP_tree_and_forest.ipynb) / [colab](https://colab.research.google.com/drive/1xWN7E10pUTg7bPYoz3q1xRda5JRpYamK) / [smile ref data for Olivetti faces](../courses/results-smile-GT-BLS.xml) / [ipynb results](../courses/IOGS_ARF_TP_RESULT_tree_and_forest.ipynb) / [colab results](https://colab.research.google.com/drive/16xuX62nuaSPsFcivHwdC3hk5y1sCTuXk) |
 | Dimensionality reduction and clustering | [Course #4](../courses/IOGS_ARF_2019_App_04_PCA_clustering.pdf) | [ipynb]() / [colab]() |
 | Generative Networks and Auto-encoders | [Course #7]() | Exercise session: mini-project |
 
