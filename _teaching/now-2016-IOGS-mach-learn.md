@@ -18,17 +18,17 @@ location: "Palaiseau, France"
 
 Colab notebook can be saved in you own environment using the "Copy to drive" item in the "File" menu.
 
-| Topic | Course | Exercises |
-| --- | --- | --- |
-| Introduction to Machine Learning | course #1 | --- |
-| Support Vector Machines | course #2 | --- |
-| Decision trees, random forests and boosting | [Course #3](../courses/IOGS_ARF_2019_App_03_arbres_et_ensembles.pdf) | [ipynb](../courses/IOGS_ARF_TP_tree_and_forest.ipynb) / [colab](https://colab.research.google.com/drive/1xWN7E10pUTg7bPYoz3q1xRda5JRpYamK) / [smile ref data for Olivetti faces](../courses/results-smile-GT-BLS.xml) / [ipynb results](../courses/IOGS_ARF_TP_RESULT_tree_and_forest.ipynb) / [colab results](https://colab.research.google.com/drive/16xuX62nuaSPsFcivHwdC3hk5y1sCTuXk) |
-| Neural Networks | course #4 | --- |
-| Dimensionality reduction and clustering | [Course #5](../courses/IOGS_ARF_2019_App_04_PCA_clustering.pdf) | [ipynb](../IOGS_ARF_TP_courses/pca_and_clustering.ipynb) [colab](https://colab.research.google.com/drive/1HYnfKn4S-EMGbuaJviFMx9NQ4Q71ZhU6) [colab results](https://colab.research.google.com/drive/14XYlnEyJw5z5aAVvHkPI8Mp1TXlM-DUv) |
-| Deep Learning | Course #6 | --- |
-| --- | Exam | mini-project starts |
-| Regression | Course #8 | mini-project |
-| Generative Networks and Auto-encoders | [Course #9]() | mini-project |
-| Recurrent Neural Networks | Course #8 | mini-project |
+| Instructor | Topic | Course | Exercises |
+| --- | --- | --- | --- |
+| SH | Introduction to Machine Learning | course #1 | --- |
+| SH | Support Vector Machines | course #2 | --- |
+| BLS | Decision trees, random forests and boosting | [Course #3](../courses/IOGS_ARF_2019_App_03_arbres_et_ensembles.pdf) | [ipynb](../courses/IOGS_ARF_TP_tree_and_forest.ipynb) / [colab](https://colab.research.google.com/drive/1xWN7E10pUTg7bPYoz3q1xRda5JRpYamK) / [smile ref data for Olivetti faces](../courses/results-smile-GT-BLS.xml) / [ipynb results](../courses/IOGS_ARF_TP_RESULT_tree_and_forest.ipynb) / [colab results](https://colab.research.google.com/drive/16xuX62nuaSPsFcivHwdC3hk5y1sCTuXk) |
+| AB | Neural Networks | course #4 | --- |
+| BLS | Dimensionality reduction and clustering | [Course #5](../courses/IOGS_ARF_2019_App_04_PCA_clustering.pdf) | [ipynb](../IOGS_ARF_TP_courses/pca_and_clustering.ipynb) / [colab](https://colab.research.google.com/drive/1HYnfKn4S-EMGbuaJviFMx9NQ4Q71ZhU6) / [colab results](https://colab.research.google.com/drive/14XYlnEyJw5z5aAVvHkPI8Mp1TXlM-DUv) |
+| AB | Deep Learning | Course #6 | --- |
+| SH | --- | Exam | mini-project starts |
+| SH | Regression | Course #8 | mini-project |
+| BLS | Generative Networks and Auto-encoders | [Course #9]() | mini-project |
+| AB | Recurrent Neural Networks | Course #8 | mini-project |
 
 
