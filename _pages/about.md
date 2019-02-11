@@ -12,7 +12,7 @@ I am a research scientist who designs data-driven techniques for visual understa
 
 My work is at the crossroads of statistics, machine learning, image processing and computer vision. I am interested in tackling practical problems that arise in multimedia, remote sensing and robotics.
 
-Besides that, I teach Image Processing and Computer Vision Research Work at [École Polytechnique](http://www.polytechnique.edu) and Machine Learning at [Institut d'Optique Graduate School](https://www.institutoptique.fr) and [ENSTA ParisTech](https://www.ensta-paristech.fr). I also serve as Chair of the [IEEE GRSS Image Analysis and Data Fusion Technical Committee](http://www.grss-ieee.org/community/technical-committees/data-fusion/).
+Besides that, I teach Machine Learning and Computer Vision at [Institut d'Optique Graduate School](https://www.institutoptique.fr) and [ENSTA ParisTech](https://www.ensta-paristech.fr). I also serve as Chair of the [IEEE GRSS Image Analysis and Data Fusion Technical Committee](http://www.grss-ieee.org/community/technical-committees/data-fusion/).
 
 ## News
 
