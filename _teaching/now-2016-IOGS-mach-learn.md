@@ -28,7 +28,7 @@ Colab notebook can be saved in you own environment using the "Copy to drive" ite
 | AB | Deep Learning | [Course #6](http://www.boulch.eu/teaching/iogs-rdf) | --- |
 | SH | --- | Exam | mini-project starts |
 | SH | Regression | Course #8 | mini-project |
-| BLS | Generative Networks and Auto-encoders | [Course #3](../courses/IOGS_ARF_2019_App_09_AE_GANs.pdf) | mini-project: [data-loaders available](http://www.boulch.eu/teaching/iogs-rdf) |
+| BLS | Generative Networks and Auto-encoders | [Course #9](../courses/IOGS_ARF_2019_App_09_AE_GANs.pdf) | mini-project: [data-loaders available](http://www.boulch.eu/teaching/iogs-rdf) |
 | AB | Recurrent Neural Networks | Course #10 | mini-project ends |
 
 
