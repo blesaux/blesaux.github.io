@@ -12,6 +12,8 @@ author_profile: true
 
 Below are various events that were worth a post in the [_news_](../news/) section in the past:
 
+* \[Nov. 18\] On Nov. 20th, I will be at [Onera Scientific Days](https://www.onera.fr/agenda/jso-drones-2018) in Toulouse to talk about "Scene understanding with 2D and 3D data from UAVs".
+* \[Nov. 18\] In November, we present our works on Deep Depth from Defocus a few times. On Nov. 9, [Marcela Carvalho](http://mcarvalho.ml/) and Pauline Trouvé will be at [Co-design days](http://www.gdr-isis.fr/index.php?page=reunion&idreunion=367) in Paris, and I will be at the [Computational photography days](https://compphoto.sciencesconf.org/) in Poitiers on Nov. 13.
 * \[Oct. 18\] On Oct. 26th, 10am, I will be at [Toulouse INP]() [ENSEEIHT]() as part of PhD thesis jury of Vinicius Ferraris ([thesis](http://www.theses.fr/s153719) / [scholar](https://scholar.google.fi/citations?user=1yGpUPUAAAAJ&hl=en))
 * \[Oct. 18\] [Nicolas Audebert](https://nicolas.audebert.at/), [Sébastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/) and myself will be at [GDR ISIS day](http://www.gdr-isis.fr/index.php?page=reunion&idreunion=368) to present our work on Convolutional Neural Nets for Hyperspectral data and the associated [DeepHyperX toolbox](https://gitlab.inria.fr/naudeber/DeepHyperX)
 * \[Oct. 18\] [Nicolas Audebert](https://nicolas.audebert.at/) successfully defended his PhD on Oct. 17th at the ONERA center of Palaiseau, on the topic of *Classification of Big Earth-Observation Data*. Congratulations!
