@@ -3,7 +3,7 @@ title: "Robust visual recognition by neural networks in robotic exploration scen
 name: 'Joris Guerry'
 collection: students
 permalink: /students/joris
-excerpt: 'PhD co-supervised with [David Filliat](http://perso.ensta-paristech.fr/~filliat/eng/index.html) from [ENSTA ParisTech](https://www.ensta-paristech.fr/en), defended in November 2017. <span style="color:orange;">PhD Award in "Complex Systems Engineering from the [doctoral school Interfaces](https://www.universite-paris-saclay.fr/fr/formation/doctorat/interfaces#evenements)"</span> '
+excerpt: 'PhD co-supervised with [David Filliat](http://perso.ensta-paristech.fr/~filliat/eng/index.html) from [ENSTA ParisTech](https://www.ensta-paristech.fr/en), defended in November 2017. <span style="color:orange;">PhD Award in "Complex Systems Engineering" from the [doctoral school Interfaces](https://www.universite-paris-saclay.fr/fr/formation/doctorat/interfaces#evenements)</span> '
 date: 2017-11-20
 type: 'past-phd'
 ---
