@@ -31,9 +31,9 @@ Recent publications include:
 
 \[ [pdf](http://mcarvalho.ml/material/docs/2018/regression_losses_icip_2018.pdf) / [D3-Net code](https://github.com/marcelampc/d3net_depth_estimation) \]
 
-**A real-world hyperspectral image pipeline for vegetation and hydrocarbon characterization** _N. Audebert, A. Alakian, V. Achard, P. Déliot, S. Fabre, B. Le Saux, A. Crédoz, D. Dubucq, C. Taillandier and S. Lefèvre_ IEEE IEEE Workshop on Hyperspectral Image and Signal Processing (WHISPERS), Amsterdam, Netherlands, September 2018
+<!--**A real-world hyperspectral image pipeline for vegetation and hydrocarbon characterization** _N. Audebert, A. Alakian, V. Achard, P. Déliot, S. Fabre, B. Le Saux, A. Crédoz, D. Dubucq, C. Taillandier and S. Lefèvre_ IEEE IEEE Workshop on Hyperspectral Image and Signal Processing (WHISPERS), Amsterdam, Netherlands, September 2018
 
-\[  \]
+\[  \]-->
 
 **Deep Depth from Defocus: how can defocus blur improve 3D estimation using dense neural networks?** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ IEEE Eur. Conf. on Computer Vision ([ECCV'2018](https://eccv2018.org/)) /  [Workshop on 3D Reconstruction in the Wild](http://www.sys.info.hiroshima-cu.ac.jp/3drw2018/) Munich, Germany, September 2018
 
