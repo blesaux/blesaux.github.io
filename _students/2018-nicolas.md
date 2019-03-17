@@ -5,7 +5,7 @@ collection: students
 permalink: /students/nicolas
 excerpt: 'PhD co-supervised with [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/) from [IRISA](http://www-irisa.univ-ubs.fr/)/[Univ Bretagne Sud](http://www.univ-ubs.fr/), defended in October 2018. <span style="color:orange;">2nd Best Student Award @ JURSE'17</span> and <span style="color:orange;">Award for Best contribution to the ISPRS 2D Semantic Labeling Contest</span>'
 date: 2018-10-17
-type: 'past-phd'
+type: 'phd'
 ---
 
 [Nicolas Audebert](https://nicolas.audebert.at/)
