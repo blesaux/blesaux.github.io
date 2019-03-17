@@ -20,7 +20,7 @@ author_profile: true
 ## Past PhD Students
 <a name="PastPhD"></a>
 
-{% for post in site.students reversed %} {% if post.type == "phd" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
+{% for post in site.students reversed %} {% if post.type == "past-phd" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
 
 ## Past MSc. Students
 <a name="PastMSc"></a>
