@@ -15,8 +15,13 @@ author_profile: true
 
 Recent publications include:
 
-## 2018
+## 2019
 
+**What data do we need for semantic segmentation in Earth-observation?** _J. Castillo Navarro, N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre_ IEEE Joint Urban Remote Sensing Event ([JURSE'2019](http://www.jurse2019.org/)) Vannes, France, May 2019
+
+\[  \]
+
+## 2018
 
 **Fully Convolutional Siamese Networks for Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch_ IEEE Int. Conf. on Image Processing ([ICIP'2018](https://2018.ieeeicip.org/)) Athens, Greece, October 2018
 
