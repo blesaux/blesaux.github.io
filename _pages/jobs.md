@@ -9,6 +9,8 @@ author_profile: true
 
 We currently have 3 open PhD positions to work on machine learning for scene perception and understanding. Please e-mail me with CV and detailed motivation if interested.
 
+All positions are located at ONERA centre in Palaiseau, near Paris, France. European or Swiss citizenships might be prefered for funding reasons.
+
 ## Neural Networks for Multimodal (aerial / streetview / text) Geospatial Analysis
 
 [Long description]({{ site.url }}/files/sujet_ONERA_multimodal-geospatial-analysis_v2.pdf)
