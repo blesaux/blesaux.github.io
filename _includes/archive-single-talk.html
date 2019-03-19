@@ -35,7 +35,7 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true" style="padding:0;margin:0;"></i> {{ post.date | date: '%B %d, %Y' }}{% endif %}
+    {% if post.date %}<p class="page__meta" style="padding:0;margin:0;"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}{% endif %}
     {% if post.venue %} <span style="color: #000000"> {{post.type}}, {{ post.venue }},  {{post.location}} </span> </p> {% endif %}
     <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %} -->
   </article>
