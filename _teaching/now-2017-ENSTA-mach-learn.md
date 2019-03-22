@@ -20,7 +20,7 @@ French reader, you can read the [course description on the ENSTA website](https:
 | Date | Topic | Course | Exercises |
 | --- | --- | --- |  --- |
 | 25/03 | Machine Learning Basics | S. Herbin |  --- |
-| 27/03 | Decision trees, random forests and boosting | [Course #3](../courses/ensta-app-03-arbres-ensembles.pdf) | [colab]() [US census data](combined_data.csv) |
+| 27/03 | Decision trees, random forests and boosting | [Course #2](../courses/ensta-app-03-arbres-ensembles.pdf) | [colab](https://colab.research.google.com/drive/1P-2UH6U6Mkf9nlwqY4ziRSx92QdWQRRV) / [US census data](combined_data.csv) |
 | 01/04 | Neural Networks | A. Chan-Hon-Tong |  --- |
 | 08/04 | Dimensionality reduction and clustering | [Course #4]() | [Exercises #4]() |
 | 15/04 | Deep Learning | A. Chan-Hon-Tong |  --- |
