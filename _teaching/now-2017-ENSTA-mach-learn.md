@@ -12,7 +12,7 @@ location: "Palaiseau, France"
 
 (with [Stéphane Herbin](http://www.onera.fr/fr/staff/stephane-herbin) and Adrien Chan-Hon-Tong.).
 
-French reader, you can read the [course description on the ENSTA website](https://synapses.ensta-paristech.fr/catalogue/2017-2018/ue/1670/ES203-apprentissage-automatique).
+[Course description on the ENSTA website](https://synapses.ensta-paristech.fr/catalogue/2018-2019/ue/3278/MI203-apprentissage-automatique).
 
 
 2019 Material:
