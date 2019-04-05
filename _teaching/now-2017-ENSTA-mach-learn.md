@@ -20,7 +20,7 @@ location: "Palaiseau, France"
 | Date | Topic | Course | Exercises |
 | --- | --- | --- |  --- |
 | 25/03 | Machine Learning Basics | S. Herbin |  --- |
-| 27/03 | Decision trees, random forests and boosting | [Course #2](../courses/ensta2019-app-02-arbres-ensembles.pdf) | [colab](https://colab.research.google.com/drive/1P-2UH6U6Mkf9nlwqY4ziRSx92QdWQRRV) / [US census data](../courses/combined_data.csv) |
+| 27/03 | Decision trees, random forests and boosting | [Course #2](../courses/ensta2019-app-02-arbres-ensembles.pdf) | [colab](https://colab.research.google.com/drive/1P-2UH6U6Mkf9nlwqY4ziRSx92QdWQRRV) / [US census data](../courses/combined_data.csv) / [colab results](https://colab.research.google.com/drive/1zn-ew9gR_ArnXTVMsxbJAREriPhHrbTk) |
 | 01/04 | Neural Networks | A. Chan-Hon-Tong |  --- |
 | 08/04 | Dimensionality reduction and clustering | [Course #4](../courses/ensta2019-app-04-non-supervise.pdf) | [colab](https://colab.research.google.com/drive/1WkRfGXfG0YDBSBQG2uMXxoWzAwnVGbzR) / [Stock exchange data](../courses/company-stock-movements-2010-2015-incl.csv) |
 | 15/04 | Deep Learning | A. Chan-Hon-Tong |  --- |
