@@ -1,3 +1,4 @@
+* \[March 2019\] [Rémy Leroy](students/remy) joined the lab as MSc. student intern, co-supervised with [Marcela Carvalho](students/marcela) and Pauline Trouvé-Peloux.
 * \[March 2019\] I have [3 open PhD positions]({{ site.url }}/jobs) to work with me on deep machine learning for scene perception and understanding. 
 * \[March. 19\] On March 4th and 5th, I will be in Barcelona to participate to the [EuroSDR](http://www.eurosdr.net/education/course/eduserv17-2019) seminar for the course on [Deep Learning for Remote Sensing](http://www.eurosdr.net/sites/default/files/images/inline/eduserv2019_deeplearning.pdf) I will give with [Sébastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/) and [Loïc Landrieu](https://loiclandrieu.com/).
 * \[Feb. 19\] On Feb. 8th, I'll give a talk about "deep learning for scene perception and understanding" for ONERA's [scientific high council](https://www.onera.fr/en/scientific-high-council).
