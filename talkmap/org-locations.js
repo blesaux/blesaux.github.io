@@ -35,6 +35,16 @@ var addressPoints = [
     2.2453842
   ],
   [
+    "Barcelona, Spain",
+    41.3828939,
+    2.1774322
+  ],
+  [
+    "Poitiers, France",
+    46.5802596,
+    0.340196
+  ],
+  [
     "Hsinchu, Taiwan",
     24.8066333,
     120.9686833
