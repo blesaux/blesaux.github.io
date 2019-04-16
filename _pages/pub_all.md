@@ -17,20 +17,29 @@ All publications are listed below:
 
 ## 2019
 
+
+**Fully Convolutional Siamese Networks for Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE/CVF Conf. on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2019.thecvf.com/)/[EarthVision](https://www.grss-ieee.org/earthvision2019/) Long Beach, Cal., USA, June 2019
+
+\[ [pdf](https://rcdaudt.github.io/files/2018icip-fully-convolutional.pdf) \]
+
+
 **What data do we need for semantic segmentation in Earth-observation?** _J. Castillo Navarro, N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre_ IEEE Joint Urban Remote Sensing Event ([JURSE'2019](http://www.jurse2019.org/)) Vannes, France, May 2019
 
 \[  \]
 
+**2019 IEEE GRSS Data Fusion Contest: Large-Scale Semantic 3D Reconstruction** _B. Le Saux, N. Yokoya, R. Hänsch, M. Brown, G. Hager_, Geoscience and Remote Sensing Magazine (GRSM), March 2019
+
+\[ [doi](https://doi.org/10.1109/MGRS.2019.2893783) / [Open-Access pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8672157) / [DFC 2019 website](http://www.grss-ieee.org/community/technical-committees/data-fusion/2019-ieee-grss-data-fusion-contest/) \]
 
 ## 2018
 
 **Fully Convolutional Siamese Networks for Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch_ IEEE Int. Conf. on Image Processing ([ICIP'2018](https://2018.ieeeicip.org/)) Athens, Greece, October 2018
 
-\[ [pdf](https://rcdaudt.github.io/files/2018icip-fully-convolutional.pdf) \]
+\[ [pdf](https://rcdaudt.github.io/files/2018icip-fully-convolutional.pdf) / [hal](https://hal.archives-ouvertes.fr/hal-01824557) \]
 
 **On Regression Losses for Deep Depth Estimation** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ IEEE Int. Conf. on Image Processing ([ICIP'2018](https://2018.ieeeicip.org/)) Athens, Greece, October 2018
 
-\[ [pdf](http://mcarvalho.ml/material/docs/2018/regression_losses_icip_2018.pdf) \]
+\[ [pdf](http://mcarvalho.ml/material/docs/2018/regression_losses_icip_2018.pdf) / [hal](https://hal.archives-ouvertes.fr/hal-01925321) / [D3-Net code](https://github.com/marcelampc/d3net_depth_estimation)  \]
 
 <!-- **A real-world hyperspectral image pipeline for vegetation and hydrocarbon characterization** _N. Audebert, A. Alakian, V. Achard, P. Déliot, S. Fabre, B. Le Saux, A. Crédoz, D. Dubucq, C. Taillandier and S. Lefèvre_ IEEE IEEE Workshop on Hyperspectral Image and Signal Processing (WHISPERS), Amsterdam, Netherlands, September 2018
 
@@ -62,7 +71,7 @@ All publications are listed below:
 
 **Estimation de profondeur monoculaire par réseau de neurones et l'apport du flou de défocalisation** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ Congrès Reconnaissance des Formes, Image, Apprentissage et Perception ([RFIAP'2018](https://rfiap2018.ign.fr/)) Marne-la-Vallée, France, July 2018
 
-\[ <span style="color:orange;">Best Paper Award</span> [pdf #1](https://rfiap2018.ign.fr/sites/default/files/ARTICLES/RFIAP_2018/RFIAP_2018_Carvalho_Estimation.pdf) [pdf #2](http://mcarvalho.ml/material/docs/2018/RFIAP_2018_Carvalho_Estimation.pdf) \]
+\[ <span style="color:orange;">Best Paper Award</span> [pdf #1](https://rfiap2018.ign.fr/sites/default/files/ARTICLES/RFIAP_2018/RFIAP_2018_Carvalho_Estimation.pdf) / [pdf #2](http://mcarvalho.ml/material/docs/2018/RFIAP_2018_Carvalho_Estimation.pdf) / [hal](https://hal.archives-ouvertes.fr/hal-01977877) \]
 
 **Détection dense de changements par réseaux de neurones siamois** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ Congrès Reconnaissance des Formes, Image, Apprentissage et Perception ([RFIAP'2018](https://rfiap2018.ign.fr/)) Marne-la-Vallée, France, July 2018
 
