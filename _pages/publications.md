@@ -17,7 +17,7 @@ Recent publications include:
 
 ## 2019
 
-**Fully Convolutional Siamese Networks for Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE/CVF Conf. on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2019.thecvf.com/)/[EarthVision](https://www.grss-ieee.org/earthvision2019/) Long Beach, Cal., USA, June 2019
+**Fully Convolutional Siamese Networks for Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE/CVF Conf. on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2019.thecvf.com/)/[EarthVision](https://www.grss-ieee.org/earthvision2019/) 2019) Long Beach, Cal., USA, June 2019
 
 \[ [pdf](https://rcdaudt.github.io/files/2018icip-fully-convolutional.pdf) \]
 
