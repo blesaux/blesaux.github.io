@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-We currently have 3 open PhD positions to work on machine learning for scene perception and understanding. Please e-mail me with CV and detailed motivation if interested.
+~~We currently have 3 open PhD positions to work on machine learning for scene perception and understanding. Please e-mail me with CV and detailed motivation if interested.~~ <span style="color:red;">These positions are filled or no longer open</span>
 
 All positions are located at [ONERA centre](https://goo.gl/maps/SMWQBi1xqom) in Palaiseau, near Paris, France. European or Swiss citizenships might be prefered for funding reasons.
 
