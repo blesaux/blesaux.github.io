@@ -22,7 +22,7 @@ Deep Learning for Remote Sensing tutorial @ [JURSE 2019](http://jurse2019.org/)
 
 This tutorial presents an overview of current approaches for deep learning for remote sensing.
 
-The first part focuses on 2D techniques for information extraction and classification of 2D Earth observation data. We present neural network models for processing data from various sensors (including hyperspectral and SAR) and tackling different comon applications: multi-modal analysis or change detection.
+The first part focuses on 2D techniques for information extraction and classification of 2D Earth observation data. We present neural network models for processing data from various sensors (including hyperspectral and SAR) and tackling different common applications: multi-modal analysis or change detection.
 
 The second part presents an overview of the recent developments in neural network architecture for the semantic segmentation of 3D point clouds. We start by presenting image-inspired approaches, such as the multi-view projection strategy, tangent convolution, and 3D voxel grid methods. We then present networks specifically designed for handling unordered 3D points such as PointNet. Finally, we present some strategies for scaling segmentation based on recurrent neural networks, such as the SuperPoint Graph approach.
 
