@@ -49,11 +49,11 @@ Half-day tutorial, repeated twice (morning + afternoon)
 _Instructions:_
 
 * Please copy data in your own drive.
-* Please open the colab noteboook, then copy it in your own drive using the menu 'File->Save a copy in Drive'.
+* Please open the colab noteboook, then copy it in your own drive using the menu 'File->Save a copy in Drive'. You will then be able to edit the code.
 
 | What? | Material |
 | --- |  --- |
 | _Deep Learning for Remote Sensing_ slides  | [pdf (available soon)]() |
-| Practical session: semantic segmentation notebook | [colab](https://colab.research.google.com/drive/1Om2H3T9Kt4CtBBMieN0JHdR5-ZqJ1Cbe) |
+| Practical session: _semantic segmentation_ notebook | [colab](https://colab.research.google.com/drive/1Om2H3T9Kt4CtBBMieN0JHdR5-ZqJ1Cbe) |
 | Data: ISPRS Vaihingen excerpt and models | [drive](https://drive.google.com/open?id=10AgLjM52sbEsMSO44tC7yvh93IFKcfv_) |
 
