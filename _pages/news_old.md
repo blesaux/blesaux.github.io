@@ -12,7 +12,8 @@ author_profile: true
 
 Below are various events that were worth a post in the [_news_](../news/) section in the past:
 
-
+* \[March 2019\] ~~I have [3 open PhD positions]({{ site.url }}/jobs) to work with me on deep machine learning for scene perception and understanding.~~ 
+* \[March. 19\] On March 4th and 5th, I will be in Barcelona to participate to the [EuroSDR](http://www.eurosdr.net/education/course/eduserv17-2019) seminar for the course on [Deep Learning for Remote Sensing](http://www.eurosdr.net/sites/default/files/images/inline/eduserv2019_deeplearning.pdf) I will give with [Sébastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/) and [Loïc Landrieu](https://loiclandrieu.com/).
 * \[Feb. 19\] On Feb. 8th, I'll give a talk about "deep learning for scene perception and understanding" for ONERA's [scientific high council](https://www.onera.fr/en/scientific-high-council).
 * \[Jan. 19\] We at [IADF](http://www.grss-ieee.org/community/technical-committees/data-fusion/) launched the [2019 Data Fusion Contest](http://www.grss-ieee.org/community/technical-committees/data-fusion/data-fusion-contest/), co-organized with Johns Hopkins University! It deals with Large-Scale Semantic 3D Reconstruction and aims to reconstruct both a 3D geometric model and a segmentation of semantic classes for urban scenes. It is cast as a 4-track competition: single-view semantic 3D, pairwise semantic stereo, mutli-view semantic stereo and 3D point-cloud classification.
 * \[Jan. 19\] I co-organize the 3rd [Earth Vision workshop](https://www.grss-ieee.org/earthvision2019/) which is dedicated to large-scale computer vision for remote sensing imagery. It will be held in conjunction with [CVPR'19](http://cvpr2019.thecvf.com/program/workshops) in June, at Long Beach, Cal., USA. Full paper submission deadline is on March, 7.
