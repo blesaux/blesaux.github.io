@@ -12,9 +12,10 @@ location: "Various locations"
 
 Deep Learning for Remote Sensing tutorial @ [JURSE 2019](http://jurse2019.org/)
 
-[tutorial page @ JURSE](http://jurse2019.org/?page_id=57) [program page @ JURSE](http://jurse2019.org/?page_id=975)
+[tutorial page @ JURSE](http://jurse2019.org/?page_id=57) / [program page @ JURSE](http://jurse2019.org/?page_id=975)
 
-**Teachers**: [Loïc Landrieu](https://loiclandrieu.com/) (IGN, French Mapping Agency) and [Bertrand Le Saux]({{ site.url }}) (ONERA, French Aerospace Agency)
+**Teachers**:
+[Loïc Landrieu](https://loiclandrieu.com/) (IGN, French Mapping Agency) and [Bertrand Le Saux]({{ site.url }}) (ONERA, French Aerospace Agency)
 
 
 **Summary**
@@ -29,18 +30,18 @@ The lecture part will be completed with practical examples.
 
 **Calendar**:
 
-<style>p{color:red;}</style>
+<!-- <style>p{color:red;}</style> -->
 
 Half-day tutorial, repeated twice (morning + afternoon)
 
-| ---:         |     :---:      |
+| ----------------:|:--------------------------:|
 | 8.30am - 10.00am | tutorial morning session I |
 | 10.00am - 10.30am | coffee break |
 | 10.30am - 12.00am | tutorial morning session II |
 | 12.00am - 14.00am | lunch |
-| 8.30am - 10.00am | tutorial afternoon session I |
-| 10.00am - 10.30am | coffee break |
-| 10.30am - 12.00am | tutorial afternoon session II |
+| 14.00am - 15.30am | tutorial afternoon session I |
+| 15.30am - 16.00am | coffee break |
+| 16.00am - 17.30am | tutorial afternoon session II |
 
 
 **Material**:
@@ -50,9 +51,9 @@ _Instructions:_
 * Please copy data in your own drive.
 * Please open the colab noteboook, then copy it in your own drive using the menu 'File->Save a copy in Drive'.
 
-| Date | What? | Material |
-| --- | --- | --- |  --- |
-| 05/21 | Deep Learning for Remote Sensing slides  | [pdf available soon]() |
-|       | Practical session: semantic segmentation notebook | [colab](https://colab.research.google.com/drive/1Om2H3T9Kt4CtBBMieN0JHdR5-ZqJ1Cbe) |
-|       | Data: ISPRS Vaihingen excerpt and models | [drive](https://drive.google.com/open?id=10AgLjM52sbEsMSO44tC7yvh93IFKcfv_) |
+| What? | Material |
+| --- |  --- |
+| _Deep Learning for Remote Sensing_ slides  | [pdf (available soon)]() |
+| Practical session: semantic segmentation notebook | [colab](https://colab.research.google.com/drive/1Om2H3T9Kt4CtBBMieN0JHdR5-ZqJ1Cbe) |
+| Data: ISPRS Vaihingen excerpt and models | [drive](https://drive.google.com/open?id=10AgLjM52sbEsMSO44tC7yvh93IFKcfv_) |
 
