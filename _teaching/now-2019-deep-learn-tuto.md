@@ -4,10 +4,10 @@ collection: teaching
 level: "Post-graduate"
 type: "Tutorial"
 permalink: /teaching/DL4RS
-venue: "Univ. South Brittany"
+venue: "JURSE 2019"
 date: 2019-05-21
 period: 2019
-location: "Vannes"
+location: "Univ. South Brittany, Vannes"
 ---
 
 Deep Learning for Remote Sensing tutorial @ [JURSE 2019](http://jurse2019.org/)
