@@ -17,14 +17,18 @@ Recent publications include:
 
 ## 2019
 
+**Learning to understand Earth-observation images with weak and unreliable ground-truth** _R. Caye Daudt, A. Chan-Hon-Tong, B. Le Saux, A. Boulch_ [IGARSS 2019](https://igarss2019.org/), Yokohama, Japan, July 2019
+
+\[ \]
+
 **Guided Anisotropic Diffusion and Iterative Learning for Weakly Supervised Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE/CVF Conf. on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2019.thecvf.com/)/[EarthVision 19](https://www.grss-ieee.org/earthvision2019/)) Long Beach, Cal., USA, June 2019
 
-\[  \]
+\[ [pdf](http://rcdaudt.github.io/files/2019cvpr-gad.pdf) / [arxiv](https://arxiv.org/abs/1904.08208) \]
 
 
 **What data do we need for semantic segmentation in Earth-observation?** _J. Castillo Navarro, N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre_ IEEE Joint Urban Remote Sensing Event ([JURSE'2019](http://www.jurse2019.org/)) Vannes, France, May 2019
 
-\[  \]
+\[ [pdf]({{ site.url }}/files/castillo_what-data_jurse19_final.pdf) \]
 
 **2019 IEEE GRSS Data Fusion Contest: Large-Scale Semantic 3D Reconstruction** _B. Le Saux, N. Yokoya, R. Hänsch, M. Brown, G. Hager_, Geoscience and Remote Sensing Magazine (GRSM), March 2019
 
