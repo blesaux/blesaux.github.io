@@ -4,10 +4,10 @@ collection: teaching
 level: "Post-graduate"
 type: "Tutorial"
 permalink: /teaching/DL4RS
-venue: "Various venues"
+venue: "Univ. South Brittany"
 date: 2019-05-21
 period: 2019
-location: "Various locations"
+location: "Vannes"
 ---
 
 Deep Learning for Remote Sensing tutorial @ [JURSE 2019](http://jurse2019.org/)
@@ -53,7 +53,7 @@ _Instructions:_
 
 | What? | Material |
 | --- |  --- |
-| _Deep Learning for Remote Sensing_ slides  | [pdf (available soon)]() |
+| _Deep Learning for Remote Sensing_ slides  | [pdf]({{ site.url }}/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf) |
 | Practical session: _semantic segmentation_ notebook | [colab](https://colab.research.google.com/drive/1Om2H3T9Kt4CtBBMieN0JHdR5-ZqJ1Cbe) |
-| Data: ISPRS Vaihingen excerpt and models | [drive](https://drive.google.com/open?id=10AgLjM52sbEsMSO44tC7yvh93IFKcfv_) |
+| Data (ISPRS Vaihingen excerpt) and models | [drive](https://drive.google.com/open?id=10AgLjM52sbEsMSO44tC7yvh93IFKcfv_) |
 
