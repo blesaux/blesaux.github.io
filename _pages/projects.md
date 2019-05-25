@@ -9,6 +9,13 @@ author_profile: true
 
 My current projects include:
 
+## Semantic Change Detection
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/SemChangeDet_icon.jpg){: .align-left} 
+
+With the very high resolution now available even from space, local changes can now be characterized precisely. [Rodrigo Daudt](), [Alexandre Boulch](), [Yann Gousseau]() and I have proposed the first deep neural network architectures for change detection in Earth-observation. We also created and released [OSCD](), a dataset with reference data for training such nets. The last evolution of this line of work is _Semantic Change Detection_, which allows to characterize the modification of land use, and we propose a Multi-Task Learning network to solve this problem automatically.
+
+\[ [arxiv](https://arxiv.org/abs/1810.08452) \]
 
 ## Depth Estimation from a Single Image 	 
 
@@ -17,7 +24,7 @@ My current projects include:
 Turning 2D images into depth is now possible with a monocular camera, without neither stereo nor active sensor. With [Marcela Carvalho](http://mcarvalho.ml/) and Pauline Trouvé, we designed a dense network for depth estimation from a single image. We investigate how to model the right loss for such a network, and how blur from defocus can help us predict better estimates. This network ranks among the top ones of the
 state of the art on the [NUYv2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) dataset while being simpler to train in a single phase than most competitors.
 
-\[ [ICIP paper](http://mcarvalho.ml/material/docs/2018/regression_losses_icip_2018.pdf) [video](https://www.youtube.com/watch?v=Zx7k5-xc-BE) \]
+\[ [ICIP'18 paper](http://mcarvalho.ml/material/docs/2018/regression_losses_icip_2018.pdf) [ECCV/W'18 paper](https://arxiv.org/pdf/1809.01567.pdf) [video](https://www.youtube.com/watch?v=Zx7k5-xc-BE) \]
 
 
 ## Joint Use of EO Data and Cartography 	 
