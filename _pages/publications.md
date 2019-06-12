@@ -28,7 +28,7 @@ Recent publications include:
 
 **Guided Anisotropic Diffusion and Iterative Learning for Weakly Supervised Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE/CVF Conf. on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2019.thecvf.com/) / [EarthVision 19](https://www.grss-ieee.org/earthvision2019/)) Long Beach, Cal., USA, June 2019
 
-\[ [pdf#1](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Daudt_Guided_Anisotropic_Diffusion_and_Iterative_Learning_for_Weakly_Supervised_Change_CVPRW_2019_paper.pdf)  [pdf#2](http://rcdaudt.github.io/files/2019cvpr-gad.pdf) / [arxiv](https://arxiv.org/abs/1904.08208) \]
+\[ [pdf#1](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Daudt_Guided_Anisotropic_Diffusion_and_Iterative_Learning_for_Weakly_Supervised_Change_CVPRW_2019_paper.pdf) /  [pdf#2](http://rcdaudt.github.io/files/2019cvpr-gad.pdf) / [arxiv](https://arxiv.org/abs/1904.08208) \]
 
 **What data do we need for semantic segmentation in Earth-observation?** _J. Castillo Navarro, N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre_ IEEE Joint Urban Remote Sensing Event ([JURSE'2019](http://www.jurse2019.org/)) Vannes, France, May 2019
 

@@ -18,7 +18,7 @@ Selected publications include:
 
 **Guided Anisotropic Diffusion and Iterative Learning for Weakly Supervised Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE/CVF Conf. on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2019.thecvf.com/) / [EarthVision 19](https://www.grss-ieee.org/earthvision2019/)) Long Beach, Cal., USA, June 2019
 
-\[ [pdf#1](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Daudt_Guided_Anisotropic_Diffusion_and_Iterative_Learning_for_Weakly_Supervised_Change_CVPRW_2019_paper.pdf)  [pdf#2](http://rcdaudt.github.io/files/2019cvpr-gad.pdf) / [arxiv](https://arxiv.org/abs/1904.08208) \]
+\[ [pdf#1](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Daudt_Guided_Anisotropic_Diffusion_and_Iterative_Learning_for_Weakly_Supervised_Change_CVPRW_2019_paper.pdf) /  [pdf#2](http://rcdaudt.github.io/files/2019cvpr-gad.pdf) / [arxiv](https://arxiv.org/abs/1904.08208) \]
 
 **Deep Depth from Defocus: how can defocus blur improve 3D estimation using dense neural networks?** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ IEEE Eur. Conf. on Computer Vision ([ECCV'2018](https://eccv2018.org/)) /  [Workshop on 3D Reconstruction in the Wild](http://www.sys.info.hiroshima-cu.ac.jp/3drw2018/) Munich, Germany, September 2018
 
