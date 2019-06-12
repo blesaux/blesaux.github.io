@@ -17,14 +17,18 @@ Recent publications include:
 
 ## 2019
 
+**Réseaux de neurones semi-supervisés pour la segmentation sémantique en télédétection** _J. Castillo Navarro, B. Le Saux, A. Boulch, S. Lefèvre_ [Colloque GRETSI](http://gretsi.fr/colloque2019/), Lille, France, Sept. 2019
+
+\[ [pdf]() \]
+
+
 **Learning to understand Earth-observation images with weak and unreliable ground-truth** _R. Caye Daudt, A. Chan-Hon-Tong, B. Le Saux, A. Boulch_ [IGARSS 2019](https://igarss2019.org/), Yokohama, Japan, July 2019
 
 \[ \]
 
-**Guided Anisotropic Diffusion and Iterative Learning for Weakly Supervised Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE/CVF Conf. on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2019.thecvf.com/)/[EarthVision 19](https://www.grss-ieee.org/earthvision2019/)) Long Beach, Cal., USA, June 2019
+**Guided Anisotropic Diffusion and Iterative Learning for Weakly Supervised Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE/CVF Conf. on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2019.thecvf.com/) / [EarthVision 19](https://www.grss-ieee.org/earthvision2019/)) Long Beach, Cal., USA, June 2019
 
-\[ [pdf](http://rcdaudt.github.io/files/2019cvpr-gad.pdf) / [arxiv](https://arxiv.org/abs/1904.08208) \]
-
+\[ [pdf#1](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Daudt_Guided_Anisotropic_Diffusion_and_Iterative_Learning_for_Weakly_Supervised_Change_CVPRW_2019_paper.pdf)  [pdf#2](http://rcdaudt.github.io/files/2019cvpr-gad.pdf) / [arxiv](https://arxiv.org/abs/1904.08208) \]
 
 **What data do we need for semantic segmentation in Earth-observation?** _J. Castillo Navarro, N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre_ IEEE Joint Urban Remote Sensing Event ([JURSE'2019](http://www.jurse2019.org/)) Vannes, France, May 2019
 
@@ -93,72 +97,7 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 
 \[ [doi](https://doi.org/10.1016/j.isprsjprs.2017.11.011) [arxiv](https://arxiv.org/abs/1711.08681) [pdf #1](https://hal.archives-ouvertes.fr/hal-01636145/document) [pdf #2](https://arxiv.org/pdf/1711.08681) [code](https://github.com/nshaud/DeepNetsForEO)  \]
 
-## 2017
 
-**SnapNet: Unstructured point cloud semantic labeling using deep segmentation networks** _Alexandre Boulch, Joris Guerry, Bertrand Le Saux, Nicolas Audebert_, Computer and Graphics, 2017
-
-\[ [doi](https://doi.org/10.1016/j.cag.2017.11.010) [pdf](../files/2017-11-10-aboulch-snapnet-CAG17.pdf) [code](https://github.com/aboulch/snapnet) \]
-
-**SnapNet-R: Consistent 3D Multi-View Semantic Labeling for Robotics** _Joris Guerry, Alexandre Boulch, Bertrand Le Saux, Julien Moras, aurélien Plyer, David Filliat_, [ICCV](http://iccv2017.thecvf.com/) / 3D Reconstruction Meets Semantics workshop, Venice, Italy, Oct. 2017
-
-\[ [cvf](http://openaccess.thecvf.com/content_ICCV_2017_workshops/w13/html/Guerry_SnapNet-R_Consistent_3D_ICCV_2017_paper.html) [pdf #1](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w13/Guerry_SnapNet-R_Consistent_3D_ICCV_2017_paper.pdf) [pdf #2](https://delta-onera.github.io/files/2017_iccv-3DRMS.pdf) \]
-
-**"Look At This One": Detection sharing between modality-independent classifiers for robotic people discovery** _Joris Guerry, Bertrand Le Saux, David Filliat_, Eur. Conf. on Mobile Robotics ([ECMR](http://ecmr2017.ensta-paristech.fr/)), Paris, France, Sept. 2017
-
-\[ [hal](https://hal.archives-ouvertes.fr/hal-01628762) [pdf](https://hal.archives-ouvertes.fr/hal-01628762/document) [poster](http://jorisguerry.fr/wp-content/uploads/2017/08/poster-ecmr-2017.pdf) \]
-
-**Estimation de profondeur à partir d'une seule image avec un réseau adversaire** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, A. Almansa, F. Champagnat_, [Colloque GRETSI](http://gretsi.fr/colloque2017/), Juan-les-Pins, France, Sept. 2017
-
-\[ [pdf]() \]
-
-**Couplage de données géographiques participatives et d'images aériennes par apprentissage profond** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, [Colloque GRETSI](http://gretsi.fr/colloque2017/), Juan-les-Pins, France, Sept. 2017
-
-\[ [pdf]() \]
-
-**RCNN RGBD pour la détection de personnes en conditions difficiles** _Joris Guerry, Bertrand Le Saux, David Filliat_, [Colloque GRETSI](http://gretsi.fr/colloque2017/), Juan-les-Pins, France, Sept. 2017
-
-\[ [pdf]() \]
-
-**Joint Learning from Earth Observation and OpenStreetMap Data to Get Faster Better Semantic Maps** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, [CVPR](http://cvpr2017.thecvf.com/)/[Earth Vision](https://www.grss-ieee.org/earthvision2017/) workshop, Hawaï, USA, July 2017
-
-\[ [arxiv](https://arxiv.org/abs/1705.06057) [pdf](https://arxiv.org/pdf/1705.06057) \]
-
-**3D laser imaging techniques to improve USaR operations for wide-area surveillance  and monitoring of collapsed buildings** _N. Riviere, A. Amditis, A. Amiez, G. Athanasiou, J. Berggren, A. Boulch, N. Bozabalian, D. Duarte, P.-E. Dupouy, P. Escalas, M. Gerke, F. Giroud, C. Grand, N. Kerle, Y. Lambert, F. Nex, B. Le Saux, A. Schilling , G. Told_, Int. Conf. on Information Systems for Crisis Response and Management ([ISCRAM](https://iscram2017.mines-albi.fr/)), Albi, France, May 2017
-
-\[ [pdf](http://blesaux.github.io/files/inachus-3D-for-uSAR-iscram17.pdf) \]
-
-**Multitemporal Very High Resolution From Space: Outcome of the 2016 IEEE GRSS Data Fusion Contest** _L. Mou, X. Zhu, M. Vakalopoulou, K. Karantzalos, N. Paragios, B. Le Saux, G. Moser, D. Tuia_,, IEEE J. of Selected Topics in Applied Earth Observations and Remote Sensing, 2017
-
-\[ [http://dx.doi.org/10.1109/JSTARS.2017.2696823](http://ieeexplore.ieee.org/document/7948767/) (open access) [pdf](http://publications.onera.fr/exl-php/docs/ILS_DOC/286689/AR2017-396.pdf) \]
-
-**Segment-before-Detect: Vehicle Detection and Classification through Semantic Segmentation of Aerial Images** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, Remote Sensing 9 (4), 2017
-
-\[ [web](http://www.mdpi.com/2072-4292/9/4/368) [pdf #1](http://www.mdpi.com/2072-4292/9/4/368/pdf) [pdf #2](http://blesaux.free.fr/papers/17-RemoteSensing-Segment-before-detect-AudebertLeSauxLefevre-compressed.pdf) \]
-
-**Unstructured point cloud semantic labeling using deep segmentation networks** _Alexandre Boulch, Bertrand Le Saux, Nicolas Audebert_, [EuroGraphics](http://www.eurographics2017.fr/)/3D Object Recognition workshop ([3DOR](https://projet.liris.cnrs.fr/eg3dor17/)), Lyon, France, April 2017
-
-\[[pdf](http://blesaux.free.fr/papers/17-EG3DOR-SnapNet-BoulchLeSauxAudebert-compressed.pdf) \]
-
-**SHREC: Point-Cloud Shape Retrieval of Non-Rigid Toys** _F. A. Limberger, R. C. Wilson, M. Aono, N. Audebert, A. Boulch, B. Bustos, A. Giachetti, A. Godil, B. Le Saux, B. Li, Y. Lu, H.-D. Nguyen, V.-T. Nguyen, V.-K. Pham, I. Sipiran, A. Tatsuma, M.-T. Tran, and S. Velasco-Forero_, [EuroGraphics](http://www.eurographics2017.fr/)/3D Object Recognition workshop ([3DOR](https://projet.liris.cnrs.fr/eg3dor17/)) / [SHREC](http://www.shrec.net/) competition, Lyon, France, April 2017
-
-\[ [meta-data](https://diglib.eg.org/handle/10.2312/3dor20171049) [pdf](http://blesaux.free.fr/papers/17-EG3DOR-SHREC-Non-Rigid-Toys-Limberberg.pdf) \]
-
-**SHREC: 3D Hand Gesture Recognition Using a Depth and Skeletal Dataset** _Quentin De Smedt, Hazem Wannous, Jean-Philippe Vandeborre, J. Guerry, B. Le Saux_, and D. Filliat, [EuroGraphics](http://www.eurographics2017.fr/)/3D Object Recognition workshop ([3DOR](https://projet.liris.cnrs.fr/eg3dor17/)) / [SHREC](http://www.shrec.net/) competition, Lyon, France, April 2017
-
-\[ [meta-data](https://diglib.eg.org/handle/10.2312/3dor20171049) [pdf](http://blesaux.free.fr/papers/17-EG3DOR-SHREC-Hand-Gesture-DeSmedt.pdf) \]
-
-
-**Fusion of heterogeneous data in convolutional networks for urban semantic labeling** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, Joint Urban Remote Sensing Event ([JURSE'2017](http://www.jurse2017.com/)) Dubai, UAE, March 2017
-
-\[ <span style="color:orange;">2nd Best Student Paper Award</span> [arxiv](https://arxiv.org/abs/1701.05818) [hal](https://hal.archives-ouvertes.fr/hal-01438499) [pdf](https://hal.archives-ouvertes.fr/hal-01438499/document) \]
-
-**Deep learning for Urban Remote Sensing** _Nicolas Audebert, Alexandre Boulch, Hicham Randrianarivo, Bertrand Le Saux, Marin Ferecatu, Sébastien Lefèvre, Renaud Marlet_, Joint Urban Remote Sensing Event ([JURSE'2017](http://www.jurse2017.com/)) Dubai, UAE, March 2017
-
-\[ [pdf](http://imagine.enpc.fr/~marletr/publi/JURSE-2017-Audebert-et-al.pdf) \]
-
-**Cartographie et interprétation de l'environnement par drone** _Martial Sanfourche, Bertrand Le Saux, Aurélien Plyer et Guy Le Besnerais_, Revue Française de Photogramm. et de Télédétection ([RFPT](https://www.sfpt.fr/rfpt/index.php/RFPT)), n° spécial drones, 213-214,pp. 55-62, 2017
-
-\[ [hal](https://hal.archives-ouvertes.fr/hal-01069606) [pdf](https://hal.archives-ouvertes.fr/hal-01069606/document) \]
 
 
 

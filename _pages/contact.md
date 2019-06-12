@@ -10,7 +10,7 @@ author_profile: true
 ### Address
 
 ONERA / DTIS  
-2 Chemin de la Hunière  
+6, chemin de la Vauve aux Granges
 FR-91761  
 Palaiseau cedex  
   
@@ -20,5 +20,5 @@ Palaiseau cedex
 
 <pre>
 email: bertrand.le_saux(a)onera.fr  
-phone: (33) 1 80 38 65 73
+phone: (+33) 1 80 38 65 73
 </pre>

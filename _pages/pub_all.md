@@ -17,13 +17,17 @@ All publications are listed below:
 
 ## 2019
 
+**Réseaux de neurones semi-supervisés pour la segmentation sémantique en télédétection** _J. Castillo Navarro, B. Le Saux, A. Boulch, S. Lefèvre_ [Colloque GRETSI](http://gretsi.fr/colloque2019/), Lille, France, Sept. 2019
+
+\[ [pdf]() \]
+
 **Learning to understand Earth-observation images with weak and unreliable ground-truth** _R. Caye Daudt, A. Chan-Hon-Tong, B. Le Saux, A. Boulch_ [IGARSS 2019](https://igarss2019.org/), Yokohama, Japan, July 2019
 
 \[ \]
 
-**Guided Anisotropic Diffusion and Iterative Learning for Weakly Supervised Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE/CVF Conf. on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2019.thecvf.com/)/[EarthVision 19](https://www.grss-ieee.org/earthvision2019/)) Long Beach, Cal., USA, June 2019
+**Guided Anisotropic Diffusion and Iterative Learning for Weakly Supervised Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE/CVF Conf. on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2019.thecvf.com/) / [EarthVision 19](https://www.grss-ieee.org/earthvision2019/)) Long Beach, Cal., USA, June 2019
 
-\[ [pdf](http://rcdaudt.github.io/files/2019cvpr-gad.pdf) / [arxiv](https://arxiv.org/abs/1904.08208) \]
+\[ [pdf#1](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Daudt_Guided_Anisotropic_Diffusion_and_Iterative_Learning_for_Weakly_Supervised_Change_CVPRW_2019_paper.pdf)  [pdf#2](http://rcdaudt.github.io/files/2019cvpr-gad.pdf) / [arxiv](https://arxiv.org/abs/1904.08208) \]
 
 **What data do we need for semantic segmentation in Earth-observation?** _J. Castillo Navarro, N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre_ IEEE Joint Urban Remote Sensing Event ([JURSE'2019](http://www.jurse2019.org/)) Vannes, France, May 2019
 
@@ -118,7 +122,7 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 
 \[ [pdf]() \]
 
-**Joint Learning from Earth Observation and OpenStreetMap Data to Get Faster Better Semantic Maps** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, [CVPR](http://cvpr2017.thecvf.com/)/[Earth Vision](https://www.grss-ieee.org/earthvision2017/) workshop, Hawaï, USA, July 2017
+**Joint Learning from Earth Observation and OpenStreetMap Data to Get Faster Better Semantic Maps** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, [CVPR](http://cvpr2017.thecvf.com/) / [Earth Vision](https://www.grss-ieee.org/earthvision2017/) workshop, Hawaï, USA, July 2017
 
 \[ [arxiv](https://arxiv.org/abs/1705.06057) [pdf](https://arxiv.org/pdf/1705.06057) \]
 
