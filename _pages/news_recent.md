@@ -1,6 +1,6 @@
+* \[June 2019\] [Rodrigo Caye Daudt](https://rcdaudt.github.io/) got the Best Student Paper Award at [CVPR](http://cvpr2019.thecvf.com/)/[Earth Vision 2019](https://www.grss-ieee.org/earthvision2019/). Congrats!
+* \[June 2019\] Not exactly an early-adopter, I now have a [twitter account](https://twitter.com/blesa_ux) to post news on a more regular basis.
 * \[May/June 2019\] [Javiera Castillo-Navarro]({{ site.url }}/students/javiera) will be at [JURSE 2019](http://jurse2019.org/) to present our paper _"What data are needed for supervised semantic segmentation?_ ([preprint]({{ site.url }}/files/castillo_what-data_jurse19_final.pdf)) and [Rodrigo Caye Daudt](https://rcdaudt.github.io/) will be at [CVPR](http://cvpr2019.thecvf.com/)/[Earth Vision 2019](https://www.grss-ieee.org/earthvision2019/) to present our paper on _Weakly-supervised change detection_ ([preprint on arxiv](https://arxiv.org/abs/1904.08208)).
-* \[May 2019\] I will give a [tutorial on _Deep Learning for Remote Sensing_]({{ site.url }}/teaching/DL4RS) at [JURSE 2019](http://jurse2019.org/) with [Loïc Landrieu](https://loiclandrieu.com/). It will cover 2D and 3D, and include practical information to deploy deep learning approaches to remote sensing data.
-* \[April 2019\] [Antoine Manier]({{ site.url }}/students/antoine) joined the lab as PhD student, to work on _3D semantic understanding for railway environment_. He is co-supervised with [Alexandre Boulch](http://www.boulch.eu/). This PhD is funded by [SNCF Réseau](https://www.sncf.com/fr/innovation-developpement/innovation-recherche) as part of our common research project _Drosofile_.
-* \[March 2019\] [Rémy Leroy]({{ site.url }}/students/remy-msc) joined the lab as MSc. student intern, to work on _3D point-cloud prediction_. He is co-supervised with [Marcela Carvalho](students/marcela) and Pauline Trouvé-Peloux.
+
 
 

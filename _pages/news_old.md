@@ -12,6 +12,9 @@ author_profile: true
 
 Below are various events that were worth a post in the [_news_](../news/) section in the past:
 
+* \[May 2019\] I will give a [tutorial on _Deep Learning for Remote Sensing_]({{ site.url }}/teaching/DL4RS) at [JURSE 2019](http://jurse2019.org/) with [Loïc Landrieu](https://loiclandrieu.com/). It will cover 2D and 3D, and include practical information to deploy deep learning approaches to remote sensing data.
+* \[April 2019\] [Antoine Manier]({{ site.url }}/students/antoine) joined the lab as PhD student, to work on _3D semantic understanding for railway environment_. He is co-supervised with [Alexandre Boulch](http://www.boulch.eu/). This PhD is funded by [SNCF Réseau](https://www.sncf.com/fr/innovation-developpement/innovation-recherche) as part of our common research project _Drosofile_.
+* \[March 2019\] [Rémy Leroy]({{ site.url }}/students/remy-msc) joined the lab as MSc. student intern, to work on _3D point-cloud prediction_. He is co-supervised with [Marcela Carvalho](students/marcela) and Pauline Trouvé-Peloux.
 * \[March 2019\] ~~I have [3 open PhD positions]({{ site.url }}/jobs) to work with me on deep machine learning for scene perception and understanding.~~ 
 * \[March. 19\] On March 4th and 5th, I will be in Barcelona to participate to the [EuroSDR](http://www.eurosdr.net/education/course/eduserv17-2019) seminar for the course on [Deep Learning for Remote Sensing](http://www.eurosdr.net/sites/default/files/images/inline/eduserv2019_deeplearning.pdf) I will give with [Sébastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/) and [Loïc Landrieu](https://loiclandrieu.com/).
 * \[Feb. 19\] On Feb. 8th, I'll give a talk about "deep learning for scene perception and understanding" for ONERA's [scientific high council](https://www.onera.fr/en/scientific-high-council).
