@@ -16,9 +16,20 @@ author_profile: true
 
 Selected publications include:
 
+**Deep Learning for Classification of Hyperspectral Data: A Comparative Review** _
+N. Audebert, B. Le Saux, S. Lefèvre_ [IEEE Geoscience and Remote Sensing Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), vol. 7 (2), June 2019
+
+[ [doi](https://t.co/kFxIslCoKZ) / [arxiv](https://arxiv.org/abs/1904.10674) / [hal](https://hal.archives-ouvertes.fr/hal-02104998) / [DeepHyperX toolbox](https://github.com/nshaud/DeepHyperX) ]
+
+
+**Advanced Multi-Sensor Optical Remote Sensing for Urban Land Use and Land Cover Classification: Outcome of the 2018 IEEE GRSS Data Fusion Contest** _Y. Xu, B. Du, L. Zhang, D. Cerra, M. Pato, E. Carmona, S. Prasad, N. Yokoya, R. Hänsch, B. Le Saux_ IEEE JSTARS, June 2019
+
+\[ [doi](https://doi.org/10.1109/JSTARS.2019.2911113) (open access) / [DFC2018](http://www.grss-ieee.org/community/technical-committees/data-fusion/2018-ieee-grss-data-fusion-contest/) \]
+
+
 **Guided Anisotropic Diffusion and Iterative Learning for Weakly Supervised Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE/CVF Conf. on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2019.thecvf.com/) / [EarthVision 19](https://www.grss-ieee.org/earthvision2019/)) Long Beach, Cal., USA, June 2019
 
-\[ [pdf#1](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Daudt_Guided_Anisotropic_Diffusion_and_Iterative_Learning_for_Weakly_Supervised_Change_CVPRW_2019_paper.pdf) /  [pdf#2](http://rcdaudt.github.io/files/2019cvpr-gad.pdf) / [arxiv](https://arxiv.org/abs/1904.08208) \]
+\[ <span style="color:orange;">Best Student Paper Award</span>  [pdf#1](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Daudt_Guided_Anisotropic_Diffusion_and_Iterative_Learning_for_Weakly_Supervised_Change_CVPRW_2019_paper.pdf) /  [pdf#2](http://rcdaudt.github.io/files/2019cvpr-gad.pdf) / [arxiv](https://arxiv.org/abs/1904.08208) \]
 
 **Deep Depth from Defocus: how can defocus blur improve 3D estimation using dense neural networks?** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ IEEE Eur. Conf. on Computer Vision ([ECCV'2018](https://eccv2018.org/)) /  [Workshop on 3D Reconstruction in the Wild](http://www.sys.info.hiroshima-cu.ac.jp/3drw2018/) Munich, Germany, September 2018
 
