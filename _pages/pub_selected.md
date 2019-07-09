@@ -16,8 +16,7 @@ author_profile: true
 
 Selected publications include:
 
-**Deep Learning for Classification of Hyperspectral Data: A Comparative Review** _
-N. Audebert, B. Le Saux, S. Lefèvre_ [IEEE Geoscience and Remote Sensing Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), vol. 7 (2), June 2019
+**Deep Learning for Classification of Hyperspectral Data: A Comparative Review** _N. Audebert, B. Le Saux, S. Lefèvre_ [IEEE Geoscience and Remote Sensing Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), vol. 7 (2), June 2019
 
 [ [doi](https://t.co/kFxIslCoKZ) / [arxiv](https://arxiv.org/abs/1904.10674) / [hal](https://hal.archives-ouvertes.fr/hal-02104998) / [DeepHyperX toolbox](https://github.com/nshaud/DeepHyperX) ]
 
