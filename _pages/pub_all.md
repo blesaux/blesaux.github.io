@@ -17,6 +17,15 @@ All publications are listed below:
 
 ## 2019
 
+
+**Distance transform regression for spatially-aware deep semantic segmentation** _N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre_,  [Computer Vision and Image Understanding](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding) (CVIU), vol. 189, Dec. 2019
+
+\[ [doi](https://doi.org/10.1016/j.cviu.2019.102809) / [arxiv](https://arxiv.org/abs/1909.01671) / [pdf](https://arxiv.org/pdf/1909.01671.pdf) \]
+
+**Multitask learning for large-scale semantic change detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ [Computer Vision and Image Understanding](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding) (CVIU), vol. 187, Oct. 2019
+
+\[ [doi](https://doi.org/10.1016/j.cviu) / [arxiv](https://arxiv.org/abs/1810.08452) / [pdf](https://arxiv.org/pdf/1810.08452.pdf) / [HRSCD dataset coming soon!]() \]
+
 **Réseaux de neurones semi-supervisés pour la segmentation sémantique en télédétection** _J. Castillo Navarro, B. Le Saux, A. Boulch, S. Lefèvre_ [Colloque GRETSI](http://gretsi.fr/colloque2019/), Lille, France, Sept. 2019
 
 \[ [pdf]() \]

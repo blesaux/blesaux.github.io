@@ -16,6 +16,11 @@ author_profile: true
 
 Selected publications include:
 
+
+**Multitask learning for large-scale semantic change detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ [Computer Vision and Image Understanding](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding) (CVIU), vol. 187, Oct. 2019
+
+\[ [doi](https://doi.org/10.1016/j.cviu) / [arxiv](https://arxiv.org/abs/1810.08452) / [pdf](https://arxiv.org/pdf/1810.08452.pdf) / [HRSCD dataset coming soon!]() \]
+
 **Deep Learning for Classification of Hyperspectral Data: A Comparative Review** _N. Audebert, B. Le Saux, S. Lefèvre_ [IEEE Geoscience and Remote Sensing Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), vol. 7 (2), June 2019
 
 [ [doi](https://t.co/kFxIslCoKZ) / [arxiv](https://arxiv.org/abs/1904.10674) / [hal](https://hal.archives-ouvertes.fr/hal-02104998) / [DeepHyperX toolbox](https://github.com/nshaud/DeepHyperX) ]
