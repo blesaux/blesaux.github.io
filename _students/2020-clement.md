@@ -3,7 +3,7 @@ title: "Multi-temporal analysis of SAR and optical data"
 name: 'Clément Rambour'
 collection: students
 permalink: /students/clement
-excerpt: 'Post-doc between CNAM-ParisTech and ONERA co-supervised with Élise Koeniguer, Michel Crucianu and Mihai Datcu'
+excerpt: 'Post-doc between CNAM-ParisTech and ONERA co-supervised with [Élise Koeniguer](https://www.onera.fr/fr/staff/elise-colin-koeniguer), [Michel Crucianu](http://cedric.cnam.fr/~crucianm/) and Mihai Datcu'
 date: 2020-12-01
 type: 'postdoc'
 ---
