@@ -5,7 +5,7 @@ collection: students
 permalink: /students/clement
 excerpt: 'Post-doc'
 date: 2020-12-01
-type: 'phd'
+type: 'postdoc'
 ---
 
 [Clément Rambour](https://clementrambour.wp.imt.fr/)
