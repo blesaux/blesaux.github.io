@@ -5,7 +5,7 @@ collection: students
 permalink: /students/clement
 excerpt: 'Post-doc'
 date: 2020-12-01
-type: 'postdoc'
+type: 'postdoc between CNAM-ParisTech and ONERA co-supervised with Élise Koeniguer, Michel Crucianu and Mihai Datcu'
 ---
 
 [Clément Rambour](https://clementrambour.wp.imt.fr/)
