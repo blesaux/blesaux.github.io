@@ -7,7 +7,7 @@ author_profile: true
 
 {% include students_head.html %}
 
-## Post-doc
+## Post-Doc
 <a name="PostDoc"></a>
 	
 {% for post in site.students reversed %} {% if post.type == "postdoc" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
