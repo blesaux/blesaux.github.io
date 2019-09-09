@@ -1,5 +1,5 @@
 ---
-title: "multi-temporal analysis of SAR and optical data"
+title: "Multi-temporal analysis of SAR and optical data"
 name: 'Clément Rambour'
 collection: students
 permalink: /students/clement
