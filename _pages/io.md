@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "Vitae"
-excerpt: "Vitae"
+title: "Full Vitae"
+excerpt: "Full Vitae"
 author_profile: true
 redirect_from: 
-  - /vitae/
-  - /vitae.html
+  - /io/
+  - /io.html
 ---
 
 I am a research scientist who designs data-driven techniques for visual understanding at [ONERA](https://www.onera.fr/en)/[DTIS](https://www.onera.fr/en/dtis-information-processing-and-systems), the French aerospace research centre.
