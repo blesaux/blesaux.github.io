@@ -14,6 +14,6 @@ PhD co-supervised with Pauline Trouvé-Peloux and Frédéric Champagnat from [ON
 
 <span style="color:orange;">Best Paper Award @ RFIAP'2018</span>
 
-\[ [website](http://mcarvalho.ml/), thesis summary on [theses.fr](http://www.theses.fr/s168476) \]
+\[ [website](http://mcarvalho.ml/), thesis summary on [theses.fr](http://www.theses.fr/s168476), [twitter](https://twitter.com/marcela_mpc), [github](https://github.com/marcelampc/) \]
 
 
