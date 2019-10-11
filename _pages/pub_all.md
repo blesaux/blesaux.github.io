@@ -28,7 +28,7 @@ All publications are listed below:
 
 **Réseaux de neurones semi-supervisés pour la segmentation sémantique en télédétection** _J. Castillo Navarro, B. Le Saux, A. Boulch, S. Lefèvre_ [Colloque GRETSI](http://gretsi.fr/colloque2019/), Lille, France, Sept. 2019
 
-\[ [pdf]() \]
+\[ [pdf]({{ site.url }}/files/castillo-le_saux-boulch-lefevre-semi-sup-GRETSI19.pdf) \]
 
 **Learning to understand Earth-observation images with weak and unreliable ground-truth** _R. Caye Daudt, A. Chan-Hon-Tong, B. Le Saux, A. Boulch_ [IGARSS 2019](https://igarss2019.org/), Yokohama, Japan, July 2019
 
@@ -131,15 +131,16 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 
 **Estimation de profondeur à partir d'une seule image avec un réseau adversaire** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, A. Almansa, F. Champagnat_, [Colloque GRETSI](http://gretsi.fr/colloque2017/), Juan-les-Pins, France, Sept. 2017
 
-\[ [pdf]() \]
+\[ [pdf]({{ site.url }}/files/carvalho-depth-GAN-GRETSI17.pdf) \]
+
 
 **Couplage de données géographiques participatives et d'images aériennes par apprentissage profond** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, [Colloque GRETSI](http://gretsi.fr/colloque2017/), Juan-les-Pins, France, Sept. 2017
 
-\[ [pdf]() \]
+\[ [pdf]({{ site.url }}/files/audebert-OSM-EO-deep-GRETSI17.pdf) \]
 
 **RCNN RGBD pour la détection de personnes en conditions difficiles** _Joris Guerry, Bertrand Le Saux, David Filliat_, [Colloque GRETSI](http://gretsi.fr/colloque2017/), Juan-les-Pins, France, Sept. 2017
 
-\[ [pdf]() \]
+\[ [pdf]({{ site.url }}/files/guerry-RCNN-RGBD-GRETSI17.pdf) \]
 
 **Joint Learning from Earth Observation and OpenStreetMap Data to Get Faster Better Semantic Maps** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, [CVPR](http://cvpr2017.thecvf.com/) / [Earth Vision](https://www.grss-ieee.org/earthvision2017/) workshop, Hawaï, USA, July 2017
 
