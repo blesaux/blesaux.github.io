@@ -27,7 +27,7 @@ Recent publications include:
 
 **Réseaux de neurones semi-supervisés pour la segmentation sémantique en télédétection** _J. Castillo Navarro, B. Le Saux, A. Boulch, S. Lefèvre_ [Colloque GRETSI](http://gretsi.fr/colloque2019/), Lille, France, Sept. 2019
 
-\[ [pdf]({{ site.url }}/files/castillo-le_saux-boulch-lefevre-semi-sup-GRETSI19.pdf) \]
+\[ [pdf]({{ site.url }}/files/castillo-le_saux-boulch-lefevre-semi-sup-GRETSI19.pdf) / [hal](https://hal.archives-ouvertes.fr/hal-02343961) \]
 
 
 **Learning to understand Earth-observation images with weak and unreliable ground-truth** _R. Caye Daudt, A. Chan-Hon-Tong, B. Le Saux, A. Boulch_ [IGARSS 2019](https://igarss2019.org/), Yokohama, Japan, July 2019
@@ -51,7 +51,7 @@ Recent publications include:
 
 **What data do we need for semantic segmentation in Earth-observation?** _J. Castillo Navarro, N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre_ IEEE Joint Urban Remote Sensing Event ([JURSE'2019](http://www.jurse2019.org/)) Vannes, France, May 2019
 
-\[ [pdf]({{ site.url }}/files/castillo_what-data_jurse19_final.pdf) \]
+\[ [pdf]({{ site.url }}/files/castillo_what-data_jurse19_final.pdf) / [hal](https://hal.archives-ouvertes.fr/hal-02343915) \]
 
 **2019 IEEE GRSS Data Fusion Contest: Large-Scale Semantic 3D Reconstruction** _B. Le Saux, N. Yokoya, R. Hänsch, M. Brown, G. Hager_, Geoscience and Remote Sensing Magazine (GRSM), March 2019
 
