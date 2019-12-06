@@ -17,6 +17,10 @@ Recent publications include:
 
 ## 2019
 
+**Multitask learning of Height and Semantics From Aerial Images** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_  [Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859) (GRSL), Nov. 2019
+
+\[ [doi](https://doi.org/10.1109/LGRS.2019.2947783) / [hal](https://hal-descartes.archives-ouvertes.fr/hal-02386074/) / [pdf \#1](https://hal.archives-ouvertes.fr/hal-02386074/document) / [code on github](https://github.com/marcelampc/aerial_mtl) \]
+
 **Distance transform regression for spatially-aware deep semantic segmentation** _N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre_,  [Computer Vision and Image Understanding](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding) (CVIU), vol. 189, Dec. 2019
 
 \[ [doi](https://doi.org/10.1016/j.cviu.2019.102809) / [arxiv](https://arxiv.org/abs/1909.01671) / [pdf](https://arxiv.org/pdf/1909.01671.pdf) \]

@@ -17,6 +17,10 @@ All publications are listed below:
 
 ## 2019
 
+**Multitask learning of Height and Semantics From Aerial Images** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_  [Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859) (GRSL), Nov. 2019
+
+\[ [doi](https://doi.org/10.1109/LGRS.2019.2947783) / [hal](https://hal-descartes.archives-ouvertes.fr/hal-02386074/) / [pdf \#1](https://hal.archives-ouvertes.fr/hal-02386074/document) / [code on github](https://github.com/marcelampc/aerial_mtl) \]
+
 
 **Distance transform regression for spatially-aware deep semantic segmentation** _N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre_,  [Computer Vision and Image Understanding](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding) (CVIU), vol. 189, Dec. 2019
 
@@ -217,7 +221,7 @@ Heremans, C. Debes, B. Bechtel, B. Le Saux, G. Moser, D. Tuia_, IEEE JSTARS, 201
 
 **Discriminatively-trained model mixture for object detection in aerial images** _Hicham Randrianarivo, Bertrand Le Saux, Michel Crucianu, Marin Ferecatu_, Image Info. Mining (IIM), Bucharest, Romania, October 2015
 
-[ [pdf](http://ceospacetech.pub.ro/images/IIM_2015_paper_8.pdf) ]
+[ [pdf]({{ site.url }}/files/randrianarivo-DtMM-vehicles-IIM2015.pdf) / [pdf](http://ceospacetech.pub.ro/images/IIM_2015_paper_8.pdf) ]
 
 **Benchmarking classification of Earth-observation data: from learning explicit features to convolutional networks** _Adrien Lagrange, Bertrand Le Saux, Anne Beaupère, Alexandre Boulch, Adrien Chan Hon Tong, Stéphane Herbin, Hicham Randrianarivo, Marin Ferecatu_, IEEE International Geoscience and Remote Sensing Symposium ([IGARSS'2015](http://www.igarss2015.org/)) Milan, Italy, July 2015
 
