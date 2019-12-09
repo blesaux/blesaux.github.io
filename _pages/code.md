@@ -9,16 +9,15 @@ author_profile: true
 
 Over the years, research projects and papers lead to various code and computer tools. They are here made available for the sake of reproducible research and to enable you to make use of it for building new extensions.
 
-## Aerial_MTL: Multi-Task Learning for Aerial Images (3D and Semantics)
+## Aerial_MTL: Multi-Task Learning for Aerial Images
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/mtl-sem-height-icon.jpg){: .align-left}
 
 [Aerial_MTL code](https://github.com/marcelampc/aerial_mtl)
 
-With [Marcela Carvalho](http://mcarvalho.ml/), we developped this approach for joint estimation of height (Digital Surface Models) and semantics (urban cartography) from aerial images. It consists in a deep network for _Multi-Task Learning_ and we've shown that each task help the other to get better results on both ISPRS Vaihingen and [IEEE GRSS Data Fusion Contest 2018](http://www.grss-ieee.org/community/technical-committees/data-fusion/2018-ieee-grss-data-fusion-contest/).
+With [Marcela Carvalho](http://mcarvalho.ml/), we developped this approach for joint estimation of *3D* (Digital Height Models) and *semantics* (urban cartography) from aerial images. It consists in a deep network for _Multi-Task Learning_ and we've shown that each task help the other to get better results on both ISPRS Vaihingen and [IEEE GRSS Data Fusion Contest 2018](http://www.grss-ieee.org/community/technical-committees/data-fusion/2018-ieee-grss-data-fusion-contest/).
 
 If using this code, please cite: **Multitask learning of Height and Semantics From Aerial Images** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ [IEEE Geoscience and Remote Sensing Letters (GRSL)](https://doi.org/10.1109/LGRS.2019.2947783), Nov. 2019.
-
 <details><summary>bibtex</summary>
 <p>
 ```
@@ -32,6 +31,7 @@ If using this code, please cite: **Multitask learning of Height and Semantics Fr
 ```
 </p>
 </details>
+
 
 \[ Related:  [doi](https://doi.org/10.1109/LGRS.2019.2947783) / [hal](https://hal-descartes.archives-ouvertes.fr/hal-02386074/) / [DFC 2018 data](http://www.grss-ieee.org/community/technical-committees/data-fusion/2018-ieee-grss-data-fusion-contest/)  \]
 
@@ -48,7 +48,8 @@ It was successfully applied to depth estimation from a single image, and ranked 
 state of the art on the [NUYv2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) dataset while being simpler to train in a single phase than most competitors.
 
 If using this code, please cite: **On Regression Losses for Deep Depth Estimation** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ IEEE Int. Conf. on Image Processing ([ICIP'2018](https://2018.ieeeicip.org/)) Athens, Greece, October 2018
-
+<details><summary>bibtex</summary>
+<p>
 ```
 @inproceedings{carvalho-18icip-losses,
  author = {Carvalho, Marcela and {Le Saux}, Bertrand and Trouv{\'e}-Peloux, Pauline and Champagnat, Fr{\'e}d{\'e}ric and Almansa, Andr{\`e}s},
@@ -59,6 +60,9 @@ If using this code, please cite: **On Regression Losses for Deep Depth Estimatio
 }
 
 ```
+</p>
+</details>
+
 
 \[ Related: [ICIP 2018 paper](http://mcarvalho.ml/material/docs/2018/regression_losses_icip_2018.pdf) / [ECCV/W 2018 paper](http://www.sys.info.hiroshima-cu.ac.jp/3drw2018/procs/W17-01.pdf) / [video](https://www.youtube.com/watch?v=Zx7k5-xc-BE) \]
 
@@ -85,6 +89,8 @@ The most straightforward way to start with deep learning in hyperspectral!
 With [Alexandre Boulch](http://www.boulch.eu/), we conceived SnapNet, a multi-view conv net for semantic labeling of unstructured 3D point clouds. During more than one year, it led the [semantic3D leaderboard](http://semantic3d.net/view_results.php?chl=1) for 3D urban mapping, and still is among the top ones. In particular, it is computationally efficient and allows to deal with large datasets in tractable times. With Joris Guerry, we developped a variant which was aplied on robotics datasets such as NYUv2 or SunRGBD with excellent classification results.
 
 If using this code, please cite: **SnapNet: Unstructured point cloud semantic labeling using deep segmentation networks** _Alexandre Boulch, Joris Guerry, Bertrand Le Saux, Nicolas Audebert_, Computer and Graphics, 2017
+<details><summary>bibtex</summary>
+<p>
 ```
 @article{boulch-17cag-snapnet,
   title={SnapNet: 3D point cloud semantic labeling with 2D deep segmentation networks},
@@ -94,6 +100,9 @@ If using this code, please cite: **SnapNet: Unstructured point cloud semantic la
   publisher={Elsevier}
 }
 ```
+</p>
+</details>
+
 
 \[ Related: [CaG 2017 paper](https://blesaux.github.io/files/2017-11-10-aboulch-snapnet-CAG17.pdf) /  [ICCV/W 2017 paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w13/Guerry_SnapNet-R_Consistent_3D_ICCV_2017_paper.pdf) \]
 
