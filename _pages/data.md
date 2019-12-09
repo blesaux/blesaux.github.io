@@ -30,5 +30,5 @@ address = {Melbourne, Australia},
 }
 ```
 
-\[ Report: [Cristchurch CASD]({{ site.url }}{{ site.baseurl }}/files/christchurch-CASD.pdf) / Related: [Deformable Part Models for remote sensing](http://blesaux.free.fr/papers/randrianarivo-2013-igarss-DPM.pdf) / [DtMM for Vehicle Detection]({{ site.url }}{{ site.baseurl }}/files/randrianarivo-DtMM-vehicles-IIM2015.pdf) / \]
+\[ Report: [Cristchurch CASD]({{ site.url }}{{ site.baseurl }}/files/christchurch-CASD.pdf) / Related: [Deformable Part Models for remote sensing](http://blesaux.free.fr/papers/randrianarivo-2013-igarss-DPM.pdf) / [DtMM for Vehicle Detection]({{ site.url }}{{ site.baseurl }}/files/randrianarivo-DtMM-vehicles-IIM2015.pdf) / [Segment-before-detect paper](http://blesaux.free.fr/papers/17-RemoteSensing-Segment-before-detect-AudebertLeSauxLefevre-compressed.pdf) \]
 
