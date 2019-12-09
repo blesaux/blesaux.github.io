@@ -9,7 +9,9 @@ author_profile: true
 
 Since machine learning algorithms are hungry for data to process, I contributed to build up various datasets. Some are listed below, other _will be added soon_.
 
-## Christchurch Aerial Semantic Dataset (CASD)
+## Christchurch Aerial Semantic Dataset (CASD) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3566005.svg)](https://doi.org/10.5281/zenodo.3566005)
+
+
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/christchurch-CASD-icon.jpg){: .align-left}
 
