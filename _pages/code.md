@@ -9,6 +9,32 @@ author_profile: true
 
 Over the years, research projects and papers lead to various code and computer tools. They are here made available for the sake of reproducible research and to enable you to make use of it for building new extensions.
 
+## Aerial_MTL: Multi-Task Learning for Aerial Images (3D and Semantics)
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/mtl-sem-height-icon.jpg){: .align-left}
+
+[Aerial_MTL code](https://github.com/marcelampc/aerial_mtl)
+
+With [Marcela Carvalho](http://mcarvalho.ml/), we developped this approach for joint estimation of height (Digital Surface Models) and semantics (urban cartography) from aerial images. It consists in a deep network for _Multi-Task Learning_ and we've shown that each task help the other to get better results on both ISPRS Vaihingen and [IEEE GRSS Data Fusion Contest 2018](http://www.grss-ieee.org/community/technical-committees/data-fusion/2018-ieee-grss-data-fusion-contest/).
+
+If using this code, please cite: **Multitask learning of Height and Semantics From Aerial Images** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_ [IEEE Geoscience and Remote Sensing Letters (GRSL)](https://doi.org/10.1109/LGRS.2019.2947783), Nov. 2019.
+
+<details><summary>bibtex</summary>
+<p>
+```
+@article{carvalho-2019grsl-mtl3D,
+ author = {Carvalho, Marcela and {Le Saux}, Bertrand and Trouv{\'e}-Peloux, Pauline and Champagnat, Fr{\'e}d{\'e}ric and Almansa, Andr{\`e}s},
+ title = {Multitask learning of Height and Semantics From Aerial Images},
+ journal={IEEE Geosci. and Remote Sensing Letters},
+ month = {November},
+ year = {2019},
+}
+```
+</p>
+</details>
+
+\[ Related:  [doi](https://doi.org/10.1109/LGRS.2019.2947783) / [hal](https://hal-descartes.archives-ouvertes.fr/hal-02386074/) / [DFC 2018 data](http://www.grss-ieee.org/community/technical-committees/data-fusion/2018-ieee-grss-data-fusion-contest/)  \]
+
 
 ## D3Net: An encoder-decoder FCN with dense blocks
 
