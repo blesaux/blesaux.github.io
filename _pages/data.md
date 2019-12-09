@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Since machine learning algorithms are hungry for data to process, I contributed to build up various datasets. Some are listed below, other _will be added soon_.
+Since machine learning algorithms are hungry for data to process, I contributed to build up various datasets. Some are listed below, other will be added soon.
 
 ## Christchurch Aerial Semantic Dataset (CASD) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3566005.svg)](https://doi.org/10.5281/zenodo.3566005)
 
@@ -17,7 +17,7 @@ Since machine learning algorithms are hungry for data to process, I contributed 
 
 [Christchurch Aerial Semantic Dataset (CASD)](https://zenodo.org/record/3566005)
 
-Hicham Randrianarivo and I annotated images from [Land Information New Zealand (LINZ)](https://www.linz.govt.nz/land/maps/linz-topographic-maps/imagery-orthophotos/christchurch-earthquake-imagery) with urban semantic classes: buildings, vehicles and vegetation. Annotations come at object level (shapefiles) and semantic maps (raster masks). All data (images and annotations) are under License CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Hicham Randrianarivo and I annotated images from [Land Information New Zealand (LINZ)](https://www.linz.govt.nz/land/maps/linz-topographic-maps/imagery-orthophotos/christchurch-earthquake-imagery) with urban semantic classes: buildings, vehicles and vegetation. Annotations come at object level (shapefiles) and semantic maps (raster masks). All data (images and annotations) are under [License CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
  
 If using this dataset, please cite: **Man-made structure detection with deformable part-based models** _H. Randrianarivo, B. Le Saux, and M. Ferecatu_ IEEE IGARSS Melbourne, Australia, July 2013
 
@@ -25,7 +25,7 @@ If using this dataset, please cite: **Man-made structure detection with deformab
 @inproceedings{randrianarivo-13igarss-DPM,
 author = {Randrianarivo, H. and {Le Saux}, B. and Ferecatu, M.},
 title = {Man-made structure detection with deformable part-based models},
-booktitle = {{{IEEE} Int. Geoscience and Remote Sensing Symposium ({IGARSS})}},
+booktitle = {IEEE Int. Geoscience and Remote Sensing Symposium (IGARSS)},
 year = {2013},
 month = {July},
 address = {Melbourne, Australia},
