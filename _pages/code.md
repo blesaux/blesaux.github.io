@@ -119,8 +119,7 @@ With [Alexandre Boulch](http://www.boulch.eu/), we conceived SnapNet, a multi-vi
 In particular, it is computationally efficient and allows to deal with large datasets in tractable times. With Joris Guerry, we developped a variant which was aplied on robotics datasets such as NYUv2 or SunRGBD with excellent classification results.
 
 If using this code, please cite: **SnapNet: Unstructured point cloud semantic labeling using deep segmentation networks** _Alexandre Boulch, Joris Guerry, Bertrand Le Saux, Nicolas Audebert_, Computer and Graphics, 2017
-<details><summary>bibtex</summary>
-<p>
+
 ```
 @article{boulch-17cag-snapnet,
   title={SnapNet: 3D point cloud semantic labeling with 2D deep segmentation networks},
