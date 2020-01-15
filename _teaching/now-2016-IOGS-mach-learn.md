@@ -31,9 +31,11 @@ Colab notebook can be saved in you own environment using the "Copy to drive" ite
 | 18/02 | BLS | Generative Networks and Auto-encoders | [Course #9](../courses/IOGS_ARF_2019_App_09_AE_GANs.pdf) | mini-project: [data-loaders available](http://www.boulch.eu/teaching/iogs-rdf) |
 | 25/02 | ACHT | Deep learning applications | Course #10 | mini-project ends |
 
- <!--  / [ipynb results](../courses/IOGS_ARF_TP_RESULT_tree_and_forest.ipynb) / [colab results](https://colab.research.google.com/drive/16xuX62nuaSPsFcivHwdC3hk5y1sCTuXk) |  -->
 
- <!-- / [colab results](https://colab.research.google.com/drive/14XYlnEyJw5z5aAVvHkPI8Mp1TXlM-DUv) |  -->
+
+ <!--  / [ipynb results](../courses/IOGS_ARF_TP_RESULT_tree_and_forest.ipynb) / [colab results](https://colab.research.google.com/drive/16xuX62nuaSPsFcivHwdC3hk5y1sCTuXk) -->
+
+ <!-- / [colab results](https://colab.research.google.com/drive/14XYlnEyJw5z5aAVvHkPI8Mp1TXlM-DUv)  -->
 
 <!-- 
 2019 Material:
