@@ -5,15 +5,14 @@ level: "Undergraduate course"
 type: "Uni"
 permalink: /teaching/ENSTA
 venue: "ENSTA ParisTech"
-date: 2018-11-01
-period: 2017 - now
+date: 2019-05-06
+period: 2017 - 2019
 location: "Palaiseau, France"
 ---
 
 (with [Stéphane Herbin](http://www.onera.fr/fr/staff/stephane-herbin) and Adrien Chan-Hon-Tong.).
 
 [Course description on the ENSTA website](https://synapses.ensta-paristech.fr/catalogue/2018-2019/ue/3278/MI203-apprentissage-automatique).
-
 
 2019 Material:
 
@@ -26,6 +25,7 @@ location: "Palaiseau, France"
 | 15/04 | Deep Learning | A. Chan-Hon-Tong |  --- |
 | 24/04 | Support-Vector Machines and statistical learning theory | S. Herbin |  --- |
 | 06/05 | Exam | S. Herbin and B. Le Saux |  Evaluated exercises |
+
 
 <!--
 Old 2018 material:
