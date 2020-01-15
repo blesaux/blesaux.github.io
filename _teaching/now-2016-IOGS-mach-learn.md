@@ -24,7 +24,7 @@ Colab notebook can be saved in you own environment using the "Copy to drive" ite
 | 20/01 | BLS | Decision trees, random forests and boosting | [Course #2](../courses/IOGS_ARDF_2020_02_arbres_et_ensembles.pdf) | [ipynb](../courses/IOGS_ARF_TP_tree_and_forest.ipynb) / [colab](https://colab.research.google.com/drive/1xWN7E10pUTg7bPYoz3q1xRda5JRpYamK) / [smile ref data for Olivetti faces](../courses/results-smile-GT-BLS.xml) |
 | 21/01 | ACHT | Neural Networks | course #3 | --- |
 | 27/01 | SH | Support Vector Machines | course #4 | --- |
-| 28/01 | BLS | Dimensionality reduction and clustering | Course #5 | [ipynb](../IOGS_ARF_TP_courses/pca_and_clustering.ipynb) / [colab](https://colab.research.google.com/drive/1HYnfKn4S-EMGbuaJviFMx9NQ4Q71ZhU6)   |
+| 28/01 | BLS | Dimensionality reduction and clustering | [Course #5](../courses/IOGS_ARDF_2020_05_non_supervis.pdf) | [ipynb](../IOGS_ARF_TP_courses/pca_and_clustering.ipynb) / [colab](https://colab.research.google.com/drive/1HYnfKn4S-EMGbuaJviFMx9NQ4Q71ZhU6)   |
 | 03/02 | ACHT | Deep Learning | Course #6 | --- |
 | 10/02 | SH | --- | Exam | mini-project starts |
 | 11/02 | SH | Regression | Course #8 | mini-project |
