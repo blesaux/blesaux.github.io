@@ -28,7 +28,7 @@ Colab notebook can be saved in you own environment using the "Copy to drive" ite
 | 03/02 | ACHT | Deep Learning | Course #6 | --- |
 | 10/02 | SH | --- | Exam | mini-project starts |
 | 11/02 | SH | Regression | Course #8 | mini-project |
-| 18/02 | BLS | Generative Networks and Auto-encoders | [Course #9](../courses/IOGS_ARF_2019_App_09_AE_GANs.pdf) | mini-project: [data-loaders available](http://www.boulch.eu/teaching/iogs-rdf) |
+| 18/02 | BLS | Generative Networks and Auto-encoders | [Course #9](../courses/IOGS_ARDF_2020_09_AE_GANs.pdf) | mini-project: [data-loaders available](http://www.boulch.eu/teaching/iogs-rdf) |
 | 25/02 | ACHT | Deep learning applications | Course #10 | mini-project ends |
 
 
