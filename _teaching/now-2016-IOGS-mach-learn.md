@@ -12,7 +12,7 @@ location: "Palaiseau, France"
 
 (with [François Goudail](https://www.lcf.institutoptique.fr/lcf-en/Groupes-de-recherche/SPIM/Membres/Permanents/Francois-Goudail), [Stéphane Herbin](http://www.onera.fr/fr/staff/stephane-herbin), Adrien Chan Hon Tong, [Alexandre Boulch](https://aboulch.github.io).).
 
-## 2020 Material:
+## 2020 Material
 
 [Description in the IOGS Course Panel - SynapseS](https://synapses.institutoptique.fr/catalogue/2018-2019/ue/832/9P441SCI-apprentissage-et-reconnaissance-de-formes)
 
@@ -32,7 +32,7 @@ Note: Colab notebooks can be saved in your own environment using the "Copy to dr
 | 25/02 | ACHT | Deep learning applications | Course #10 | mini-project ends |
 
 
-## Dehazing mini project.
+## Dehazing mini project
 
 The Dehazing mini project span over 4 exercise sessions. It is based on the [NTIRE 2020](http://www.vision.ee.ethz.ch/ntire20/) challenge on [Non homogeneous dehazing](https://competitions.codalab.org/competitions/22236). The goal is to dehaze some images, i.e. removing haze, fog, mist and other smoke.
 
@@ -49,8 +49,8 @@ Prepared numpy arrays can be downloaded: [Train data](https://drive.google.com/f
 
  <!-- / [colab results](https://colab.research.google.com/drive/14XYlnEyJw5z5aAVvHkPI8Mp1TXlM-DUv)  -->
 
-<!-- 
-2019 Material:
+
+## 2019 Material:
 
 [Description in the IOGS Course Panel - SynapseS](https://synapses.institutoptique.fr/catalogue/2018-2019/ue/832/9P441SCI-apprentissage-et-reconnaissance-de-formes)
 
@@ -69,5 +69,5 @@ Colab notebook can be saved in you own environment using the "Copy to drive" ite
 | BLS | Generative Networks and Auto-encoders | [Course #9](../courses/IOGS_ARF_2019_App_09_AE_GANs.pdf) | mini-project: [data-loaders available](http://www.boulch.eu/teaching/iogs-rdf) |
 | AB | Recurrent Neural Networks | Course #10 | mini-project ends |
 
--->
+
 
