@@ -12,11 +12,11 @@ location: "Palaiseau, France"
 
 (with [François Goudail](https://www.lcf.institutoptique.fr/lcf-en/Groupes-de-recherche/SPIM/Membres/Permanents/Francois-Goudail), [Stéphane Herbin](http://www.onera.fr/fr/staff/stephane-herbin), Adrien Chan Hon Tong, [Alexandre Boulch](https://aboulch.github.io).).
 
-2020 Material:
+## 2020 Material:
 
 [Description in the IOGS Course Panel - SynapseS](https://synapses.institutoptique.fr/catalogue/2018-2019/ue/832/9P441SCI-apprentissage-et-reconnaissance-de-formes)
 
-Colab notebook can be saved in you own environment using the "Copy to drive" item in the "File" menu.
+Note: Colab notebooks can be saved in your own environment using the "Copy to drive" item in the "File" menu.
 
 | Date | Instructor | Topic | Course | Exercises |
 | --- | --- | --- | --- | --- |
@@ -28,7 +28,7 @@ Colab notebook can be saved in you own environment using the "Copy to drive" ite
 | 03/02 | ACHT | Deep Learning | Course #6 | --- |
 | 10/02 | SH | --- | Exam | mini-project starts: cell segmentation / adversarial attacks / dehazing (see below) |
 | 11/02 | SH | Regression | Course #8 | mini-project |
-| 18/02 | BLS | Generative Networks and Auto-encoders | [Course #9](../courses/IOGS_ARDF_2020_09_AE_GANs.pdf) | mini-project: [data-loaders available](http://www.boulch.eu/teaching/iogs-rdf) |
+| 18/02 | BLS | Generative Networks and Auto-encoders | [Course #9](../courses/IOGS_ARDF_2020_09_AE_GANs.pdf) | mini-project |
 | 25/02 | ACHT | Deep learning applications | Course #10 | mini-project ends |
 
 
@@ -40,9 +40,9 @@ On the [codalab page](https://competitions.codalab.org/competitions/22236) of th
 
 We provide jupyter notebooks:
 * One to parse the images and save them in numpy arrays: [im2npy.ipynb](../courses/im2npy.ipynb)
-* A DataLoader for subsequent machine learning processing in pytorch (credit: [A. Boulch[http://www.boulch.eu/teaching/iogs-rdf)): [dehazing.ipynb](../courses/dehazing.ipynb)
+* A DataLoader for subsequent machine learning processing in pytorch: [dehazing.ipynb](../courses/dehazing.ipynb)  (credit: [A. Boulch]http://www.boulch.eu/teaching/iogs-rdf))
 
-Prepared numpy arrays can be downloaded: [Train data](https://drive.google.com/file/d/1yHCCPyBXEHd0YUmnmF6AnLBb9qVp0yOr/view?usp=sharing) / [Train GT](https://drive.google.com/file/d/1Id6c3K8-O3GfSO0L60NrpGxKhejUIcJi/view?usp=sharing) / [Validation data](https://drive.google.com/file/d/172GD31CUwsBOpjZQFTbPqztxm9OFy22N/view?usp=sharing). Copy data locally, or put them in your own drive for use on colab.
+Prepared numpy arrays can be downloaded: [Train data](https://drive.google.com/file/d/1yHCCPyBXEHd0YUmnmF6AnLBb9qVp0yOr/view?usp=sharing) / [Train GT](https://drive.google.com/file/d/1Id6c3K8-O3GfSO0L60NrpGxKhejUIcJi/view?usp=sharing) / [Validation data](https://drive.google.com/file/d/172GD31CUwsBOpjZQFTbPqztxm9OFy22N/view?usp=sharing). Please copy data locally, or put them in your own drive for use on Colab.
 
 
  <!--  / [ipynb results](../courses/IOGS_ARF_TP_RESULT_tree_and_forest.ipynb) / [colab results](https://colab.research.google.com/drive/16xuX62nuaSPsFcivHwdC3hk5y1sCTuXk) -->
