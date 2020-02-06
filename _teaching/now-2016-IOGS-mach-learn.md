@@ -39,8 +39,8 @@ The Dehazing mini project span over 4 exercise sessions. It is based on the [NTI
 On the [codalab page](https://competitions.codalab.org/competitions/22236) of the challenge, one can register and get access to the data. Data consists of a training set of 45 pairs of hazy and clean images, and a validation set of 5 hazy images.
 
 We provide jupyter notebooks:
-* One to parse the images and save them in numpy arrays: [im2npy.ipynb](../courses/im2npy.ipynb)
-* A DataLoader for subsequent machine learning processing in pytorch: [dehazing.ipynb](../courses/dehazing.ipynb)  (credit: [A. Boulch]http://www.boulch.eu/teaching/iogs-rdf))
+* One to parse the images and save them in numpy arrays: [im2npy.ipynb](../courses/im2npy.ipynb) [html](../courses/im2npy.html)
+* A DataLoader for subsequent machine learning processing in pytorch: [dehazing.ipynb](../courses/dehazing.ipynb) [html](../courses/dehazing.html)  (credit: [A. Boulch]http://www.boulch.eu/teaching/iogs-rdf))
 
 Prepared numpy arrays can be downloaded: [Train data](https://drive.google.com/file/d/1yHCCPyBXEHd0YUmnmF6AnLBb9qVp0yOr/view?usp=sharing) / [Train GT](https://drive.google.com/file/d/1Id6c3K8-O3GfSO0L60NrpGxKhejUIcJi/view?usp=sharing) / [Validation data](https://drive.google.com/file/d/172GD31CUwsBOpjZQFTbPqztxm9OFy22N/view?usp=sharing). Please copy data locally, or put them in your own drive for use on Colab.
 
@@ -50,7 +50,7 @@ Prepared numpy arrays can be downloaded: [Train data](https://drive.google.com/f
  <!-- / [colab results](https://colab.research.google.com/drive/14XYlnEyJw5z5aAVvHkPI8Mp1TXlM-DUv)  -->
 
 
-## 2019 Material:
+## 2019 Material
 
 [Description in the IOGS Course Panel - SynapseS](https://synapses.institutoptique.fr/catalogue/2018-2019/ue/832/9P441SCI-apprentissage-et-reconnaissance-de-formes)
 
