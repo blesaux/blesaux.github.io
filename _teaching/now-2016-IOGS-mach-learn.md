@@ -40,7 +40,7 @@ On the [codalab page](https://competitions.codalab.org/competitions/22236) of th
 
 We provide jupyter notebooks:
 * One to parse the images and save them in numpy arrays: [im2npy.ipynb](../courses/im2npy.ipynb) and [html](../courses/im2npy.html)
-* A DataLoader for subsequent machine learning processing in pytorch: [dehazing.ipynb](../courses/dehazing.ipynb) and [html](../courses/dehazing.html)  (credit: [A. Boulch]http://www.boulch.eu/teaching/iogs-rdf))
+* A DataLoader for subsequent machine learning processing in pytorch: [dehazing.ipynb](../courses/dehazing.ipynb) and [html](../courses/dehazing.html)  (credit: [A. Boulch](http://www.boulch.eu/teaching/iogs-rdf))
 
 Prepared numpy arrays can be downloaded: [Train data](https://drive.google.com/file/d/1yHCCPyBXEHd0YUmnmF6AnLBb9qVp0yOr/view?usp=sharing) / [Train GT](https://drive.google.com/file/d/1Id6c3K8-O3GfSO0L60NrpGxKhejUIcJi/view?usp=sharing) / [Validation data](https://drive.google.com/file/d/172GD31CUwsBOpjZQFTbPqztxm9OFy22N/view?usp=sharing). Please copy data locally, or put them in your own drive for use on Colab.
 
