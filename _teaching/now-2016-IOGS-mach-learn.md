@@ -26,10 +26,10 @@ Note: Colab notebooks can be saved in your own environment using the "Copy to dr
 | 27/01 | SH | Support Vector Machines | course #4 | --- |
 | 28/01 | BLS | Dimensionality reduction and clustering | [Course #5](../courses/IOGS_ARDF_2020_05_non_supervis.pdf) | [ipynb](../IOGS_ARF_TP_courses/pca_and_clustering.ipynb) / [colab](https://colab.research.google.com/drive/1HYnfKn4S-EMGbuaJviFMx9NQ4Q71ZhU6) / [colab results](https://colab.research.google.com/drive/14XYlnEyJw5z5aAVvHkPI8Mp1TXlM-DUv)  |
 | 03/02 | ACHT | Deep Learning | Course #6 | --- |
-| 10/02 | SH | --- | Exam | mini-project starts: cell segmentation / adversarial attacks / dehazing (see below) |
+| 10/02 | SH | --- | Exam (PCA [ipynb](../courses/Exam_IOGS20_PCA_corr.ipynb) / [html](../courses/Exam_IOGS20_PCA_corr.html) ) | mini-project starts: cell segmentation / adversarial attacks / dehazing (see below) |
 | 11/02 | SH | Regression | Course #8 | mini-project |
-| 18/02 | BLS | Generative Networks and Auto-encoders | [Course #9](../courses/IOGS_ARDF_2020_09_AE_GANs.pdf) | mini-project |
-| 25/02 | ACHT | Deep learning applications | Course #10 | mini-project ends |
+| 18/02 | ACHT | Deep learning applications | Course #10 | mini-project ends |
+| 25/02 | BLS | Generative Networks and Auto-encoders | [Course #9](../courses/IOGS_ARDF_2020_09_AE_GANs.pdf) | mini-project |
 
 
 ## Dehazing mini project
