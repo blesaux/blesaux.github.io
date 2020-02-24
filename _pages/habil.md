@@ -5,6 +5,18 @@ title: "Habilitation (HDR)"
 author_profile: true
 ---
 
+## Habilitation thesis (_Habilitation à Diriger des Recherches_)
+
+Univ. Paris Saclay, ED STIC
+December 2019
+
+[ [pdf]({{ site.url }}/files/hdr_b_le_saux.pdf) / [summary]({{ site.url }}/publications/habil#summary) / [résumé]({{ site.url }}/publications/habil#resume) ]
+
+---
+
+## Summary
+<a name="summary"></a>
+
 **Title**: Machine Learning Models for Scene Understanding
 
 **Keywords**: Machine learning; Neural networks; Scene understanding; Computer vision; Earth observation; 3D Vision; Image analysis
@@ -16,6 +28,9 @@ Scene understanding aims to answer the question:  how to build  a  model  of  a 
 These various approaches are based on common underlying mechanisms that are becoming increasingly important. They perform a multimodal analysis in order to benefit from the available, complementary data, obtained from different sensors but also from heterogeneous sources and meta-data. Symmetrically, joint optimization of multiple objectives helps to regularize the  learning  of  efficient  models.  Moreover,  they  increasingly rely on a multiplicity of points of view on thescene to relate, in both learning and inference, spatial invariances that serve a local analysis and a global semantic reconstruction. This is made possible by a growing integration of the appearance and 3D structure, and leads to a better semantic understanding ofthe scene.
 
 ---
+
+## Résumé
+<a name="resume"></a>
 
 **Titre** : Modèles d’Apprentissage Machine pour la Compréhension de Scènes
 
