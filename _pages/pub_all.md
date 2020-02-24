@@ -20,7 +20,7 @@ All publications are listed below:
 
 **Machine Learning Models for Scene Understanding** _Bertrand Le Saux_, Habilitation Thesis (HDR, University of Paris-Saclay), December 2019
 
-[ [pdf]({{ site.url }}/files/hdr_b_le_saux.pdf) ]
+[ [pdf]({{ site.url }}/files/hdr_b_le_saux.pdf) / [summary]({{ site.url }}/publications/habil) ]
 
 ## 2019
 
