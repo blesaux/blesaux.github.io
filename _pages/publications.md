@@ -15,7 +15,18 @@ author_profile: true
 
 Recent publications include:
 
+## 2020
+
+
+**Machine Learning Models for Scene Understanding** _Bertrand Le Saux_, Habilitation Thesis (HDR, University of Paris-Saclay), December 2019
+
+[ [pdf]({{ site.url }}/files/hdr_b_le_saux.pdf) ]
+
 ## 2019
+
+**2019 IEEE GRSS Data Fusion Contest: Large-Scale Semantic 3D Reconstruction** _B. Le Saux, N. Yokoya, R. Hänsch, M. Brown, G. Hager_, Geoscience and Remote Sensing Magazine (GRSM), December 2019
+
+\[ [doi](https://doi.org/10.1109/MGRS.2019.2949679) / [Open-Access pdf](https://ieeexplore.ieee.org/document/8936592) / [DFC 2019 website](http://www.grss-ieee.org/community/technical-committees/data-fusion/2019-ieee-grss-data-fusion-contest/) \]
 
 **Multitask learning of Height and Semantics From Aerial Images** _M. Pinheiro de Carvalho, B. Le Saux, P. Trouvé-Peloux, F. Champagnat, A. Almansa_  [Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859) (GRSL), Nov. 2019
 

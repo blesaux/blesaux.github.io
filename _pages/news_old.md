@@ -12,6 +12,8 @@ author_profile: true
 
 Below are various events that were worth a post in the [_news_](../news/) section in the past:
 
+* \[November 2019\] On Nov. 25th, my student [Marcela Carvalho](http://mcarvalho.ml/) will defend her PhD on _Deep Depth Learning: Neural Nets for Monocular Depth Estimation with Depth-from-Defocus_. This public event will be held at [Université Paris Descartes](https://map5.mi.parisdescartes.fr/acces/) in downtown Paris ([announce]({{ site.url }}/files/annonce-soutenance-resume-MPC.pdf)).
+* \[November 2019\] Rémy Leroy joins the lab as PhD student, working on _3D point-cloud prediction from a single image_. He is co-supervised with Pauline Trouvé-Peloux and Frédéric Champagnat.
 * \[September 2019\] Starting this month, I am now an ONERA's _Maître de Recherche_ (literally Research Master). Not Yoda yet, but maybe like Obi Wan Kenobi...
 * \[September 2019\] [Gaston Lenczner]({{ site.url }}/students/gaston) joins the lab as PhD student, working on _Interactive learning in aerial image interpretation_. He is supervised by Guy Le Besnerais, Nicola Luminari and myself, and this project is carried on in collaboration with the [Delair](https://delair.aero/) company.
 * \[September 2019\] We propose a special issue for "Computer Vision-based Approaches for Earth Observation" in [JSTARS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443). Guest editors include [Devis Tuia](https://sites.google.com/site/devistuia/), [Ronny Hänsch](http://www.rhaensch.de/), [Naoto Yokoya](http://naotoyokoya.com/), Myron Brown, [Yannis Kalantidis](https://www.skamalas.com/) and myself. [Full CfP here](http://www.grss-ieee.org/wp-content/uploads/2019/08/Call_for_Paper_Computer_Vision.pdf).
