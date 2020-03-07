@@ -7,7 +7,7 @@ author_profile: true
 
 ## Habilitation thesis (_Habilitation à Diriger des Recherches_)
 
-[Univ. Paris Saclay<)(https://www.universite-paris-saclay.fr/en), [Doctoral School ED STIC](https://www.universite-paris-saclay.fr/en/doctoral-schools/sciences-et-technologies-de-linformation-et-de-la-communication-stic)
+[Univ. Paris Saclay](https://www.universite-paris-saclay.fr/en), [Doctoral School ED STIC](https://www.universite-paris-saclay.fr/en/doctoral-schools/sciences-et-technologies-de-linformation-et-de-la-communication-stic)
 
 December 2019
 
