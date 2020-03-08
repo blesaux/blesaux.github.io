@@ -19,6 +19,7 @@ Italy
 ### Contact
 
 <pre>
-email: bertrand.le.saux@esa.int (ESA-related) or bls@ieee.org (for other academic matters)
+email (ESA-related): bertrand.le.saux@esa.int
+email (for other academic matters): bls@ieee.org
 phone: +39 06 941801
 </pre>
