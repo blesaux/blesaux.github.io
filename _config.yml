@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Bertrand Le Saux"
 title_separator          : "-"
 name                     : &name "Bertrand Le Saux"
-description              : &description "Research scientist at ONERA"
+description              : &description "Senior scientist at ESA"
 #url                      : http://localhost:4000/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : https://blesaux.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Bertrand Le Saux"
   avatar           : "profile.png"
-  bio              : "Research scientist at ONERA"
-  location         : "Paris, France"
+  bio              : "Senior scientist at ESA"
+  location         : "Rome, Italy"
   employer         :
   googlescholar    : "https://scholar.google.fr/citations?user=SiGd2-YAAAAJ&hl=fr&oi=ao"
   email            : bls@ieee.org
