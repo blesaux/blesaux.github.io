@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning in Remote Sensing: Best practices and recent solutions"
 collection: teaching
-level: "All"
+level: "Post-graduate"
 type: "Tutorial"
 permalink: /teaching/igarss19
 venue: "IGARSS 2019"
@@ -12,10 +12,10 @@ location: "Yokohama, JP"
 
 Machine Learning in Remote Sensing "_Best practices and recent solutions_" tutorial @ [IGARSS 2019](http://igarss2019.org/)
 
-[tutorial page @ JURSE](https://igarss2019.org/Tutorials.asp#FD3) / [Ronny's page](http://www.rhaensch.de/igarss19.html)
+[tutorial page @ IGARSS](https://igarss2019.org/Tutorials.asp#FD3) / [tutorial page @ Ronny's website](http://www.rhaensch.de/igarss19.html)
 
 **Instructors**:
-[Ronny Hänsch]() (http://rhaensch.de/), [Devis Tuia](https://www.wur.nl/en/Persons/Devis-dr.-D-Devis-Tuia.htm), [Yuliya Tarabalka](http://www-sop.inria.fr/members/Yuliya.Tarabalka), and [Bertrand Le Saux]({{ site.url }})
+[Ronny Hänsch](http://rhaensch.de/), [Devis Tuia](https://www.wur.nl/en/Persons/Devis-dr.-D-Devis-Tuia.htm), [Yuliya Tarabalka](http://www-sop.inria.fr/members/Yuliya.Tarabalka), and [Bertrand Le Saux]({{ site.url }})
 
 
 **Summary**
@@ -39,9 +39,9 @@ The tutorial will collaborate with the Code Workshop where specific methods can 
 
 <!-- <style>p{color:red;}</style> -->
 
-full-day tutorial
+_full-day tutorial_
 
-| ----------------:|:--------------------------:|:--------------------------:|
+| ----------------:|:--------------------------:|:--------------------------|
 |
 |  9.30am - 11.00am | Part I - Classical approaches to machine learning (Ronny Hänsch) | [Slides 1](https://www.dropbox.com/s/bdz3md3cxqh5r2w/part1.pdf?dl=0) |
 | 11.00am - 11.15am | coffee break | |
