@@ -12,7 +12,7 @@ location: "Yokohama, JP"
 
 Machine Learning in Remote Sensing "_Best practices and recent solutions_" tutorial @ [IGARSS 2019](http://igarss2019.org/)
 
-[tutorial page @ IGARSS](https://igarss2019.org/Tutorials.asp#FD3) / [tutorial page @ Ronny's website](http://www.rhaensch.de/igarss19.html)
+[Tutorial page @ IGARSS](https://igarss2019.org/Tutorials.asp#FD3) / [tutorial page @ Ronny's website](http://www.rhaensch.de/igarss19.html)
 
 **Instructors**:
 [Ronny Hänsch](http://rhaensch.de/), [Devis Tuia](https://www.wur.nl/en/Persons/Devis-dr.-D-Devis-Tuia.htm), [Yuliya Tarabalka](http://www-sop.inria.fr/members/Yuliya.Tarabalka), and [Bertrand Le Saux]({{ site.url }})
@@ -39,16 +39,15 @@ The tutorial will collaborate with the Code Workshop where specific methods can 
 
 <!-- <style>p{color:red;}</style> -->
 
-_full-day tutorial_
+_Full-day tutorial_
 
 | ----------------:|:--------------------------:|:--------------------------|
-|
 |  9.30am - 11.00am | Part I - Classical approaches to machine learning (Ronny Hänsch) | [Slides 1](https://www.dropbox.com/s/bdz3md3cxqh5r2w/part1.pdf?dl=0) |
-| 11.00am - 11.15am | coffee break | |
+| 11.00am - 11.15am | _coffee break_ | |
 | 11.15am - 12.45am | Part II - Features and Deep Learning (Yuliya Tarabalka) | [Slides 2](https://www.dropbox.com/s/zb7kbd1pfk8wijq/part2.pdf?dl=0) |
-| 12.45am - 14.15am | lunch break | |
+| 12.45am - 14.15am | _lunch break_ | |
 | 14.15am - 15.45am | Part III - Random Fields (Devis Tuia) | [Slides 3](https://www.dropbox.com/s/s7pf8dg6prik68e/part3.pdf?dl=0) |
-| 15.45am - 16.00am | coffee break | |
+| 15.45am - 16.00am | _coffee break_ | |
 | 16.00am - 17.30am | Part IV - Deep Learning (Bertrand Le Saux) | [Slides 4](https://www.dropbox.com/s/t30sunr59cxjc0v/part4.pdf?dl=0) |
 
 

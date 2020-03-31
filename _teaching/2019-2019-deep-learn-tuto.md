@@ -7,12 +7,12 @@ permalink: /teaching/DL4RS
 venue: "JURSE 2019"
 date: 2019-05-21
 period: 2019
-location: "Univ. South Brittany, Vannes"
+location: "Univ. South Brittany, Vannes, FR"
 ---
 
 Deep Learning for Remote Sensing tutorial @ [JURSE 2019](http://jurse2019.org/)
 
-[tutorial page @ JURSE](http://jurse2019.org/?page_id=57) / [program page @ JURSE](http://jurse2019.org/?page_id=975)
+[Tutorial page @ JURSE](http://jurse2019.org/?page_id=57) / [program page @ JURSE](http://jurse2019.org/?page_id=975)
 
 **Teachers**:
 [Loïc Landrieu](https://loiclandrieu.com/) (IGN, French Mapping Agency) and [Bertrand Le Saux]({{ site.url }}) (ONERA, French Aerospace Agency)
