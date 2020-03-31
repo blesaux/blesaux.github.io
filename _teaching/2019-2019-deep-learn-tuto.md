@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning for Remote Sensing"
 collection: teaching
-level: "Post-graduate"
+level: "All"
 type: "Tutorial"
 permalink: /teaching/DL4RS
 venue: "JURSE 2019"

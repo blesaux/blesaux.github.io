@@ -6,7 +6,7 @@ type: "Uni"
 permalink: /teaching/IOGS-machine-learning
 venue: "Institut d'Optique Graduate School"
 date: 2020-02-18
-period: 2016 - now
+period: 2016 - 2020
 location: "Palaiseau, France"
 ---
 
