@@ -1,5 +1,5 @@
 ---
-title: "Pattern recognition and Machine Learning"
+title: "Pattern Recognition and Machine Learning"
 collection: teaching
 level: "Graduate course"
 type: "Uni"
@@ -28,8 +28,8 @@ Note: Colab notebooks can be saved in your own environment using the "Copy to dr
 | 03/02 | ACHT | Deep Learning | Course #6 | --- |
 | 10/02 | SH | --- | Exam (PCA [ipynb](../courses/Exam_IOGS20_PCA_corr.ipynb) / [html](../courses/Exam_IOGS20_PCA_corr.html) ) | mini-project starts: cell segmentation / adversarial attacks / dehazing (see below) |
 | 11/02 | SH | Regression | Course #8 | mini-project |
-| 18/02 | ACHT | Deep learning applications | Course #10 | mini-project ends |
-| 25/02 | BLS | Generative Networks and Auto-encoders | [Course #9](../courses/IOGS_ARDF_2020_09_AE_GANs.pdf) | mini-project |
+| 18/02 | ACHT | Deep learning applications | Course #10 | mini-project |
+| 25/02 | BLS | Generative Networks and Auto-encoders | [Course #9](../courses/IOGS_ARDF_2020_09_AE_GANs.pdf) | mini-project ends |
 
 
 ## Dehazing mini project
