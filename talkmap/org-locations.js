@@ -35,6 +35,11 @@ var addressPoints = [
     2.6500745
   ],
   [
+    "Frascati, Italy",
+    41.8082452,
+    12.6803684
+  ],
+  [
     "Hsinchu, Taiwan",
     24.8066333,
     120.9686833
