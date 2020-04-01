@@ -5,7 +5,7 @@ title: "Full Vitae"
 author_profile: true
 ---
 
-I am a research scientist who designs data-driven techniques for visual understanding at [ESA](http://www.esa.int/)/[ESRIN](http://www.esa.int/About_Us/ESRIN) and more precisely in the [Phi-lab](http://blogs.esa.int/philab/), the lab for developing future systems for Earth observation programmes.
+I am a research scientist who designs data-driven techniques for visual understanding at [ESA](http://www.esa.int/)/[ESRIN](http://www.esa.int/About_Us/ESRIN) and more precisely in the [Phi-lab](http://blogs.esa.int/philab/), which develops future systems for Earth observation programmes.
 
 My work is at the crossroads of statistics, machine learning, image processing and computer vision. I am interested in tackling practical problems that arise in Earth observation, to bring solutions to current environment and population challenges.
 
