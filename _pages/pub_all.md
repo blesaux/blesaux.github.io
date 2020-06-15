@@ -18,11 +18,20 @@ All publications are listed below:
 
 ## 2020
 
+**DISIR: Deep image segmentation with interactive refinement** _G. Lenczner, B. Le Saux, N. Luminari, A. Chan-Hon-Tong, G. Le Besnerais_, ISPRS Annals, August 2020
+
+\[ [pdf]() / [arxiv](https://arxiv.org/abs/2003.14200) / [DISIR code](https://github.com/delair-ai/DISIR) / [video]() \]
+
+
+**Flood detection in times series of optical and SAR images** _C. Rambour, N. Audebert, É. Koeniguer, B. Le Saux, M. Crucianu, M. Datcu_, ISPRS Archives, August 2020
+
+\[ [pdf]() / [arxiv]() / [SEN12-FLOOD dataset]() / [video]() \]
+
+## 2019
+
 **Machine Learning Models for Scene Understanding** _Bertrand Le Saux_, Habilitation Thesis (HDR, University of Paris-Saclay), December 2019
 
 [ [pdf]({{ site.url }}/files/hdr_b_le_saux.pdf) / [summary]({{ site.url }}/publications/habil) ]
-
-## 2019
 
 **2019 IEEE GRSS Data Fusion Contest: Large-Scale Semantic 3D Reconstruction** _B. Le Saux, N. Yokoya, R. Hänsch, M. Brown, G. Hager_, Geoscience and Remote Sensing Magazine (GRSM), December 2019
 
