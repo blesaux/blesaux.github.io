@@ -19,13 +19,16 @@ Recent publications include:
 
 **DISIR: Deep image segmentation with interactive refinement** _G. Lenczner, B. Le Saux, N. Luminari, A. Chan-Hon-Tong, G. Le Besnerais_, ISPRS Annals, August 2020
 
-\[ [pdf]() / [arxiv](https://arxiv.org/abs/2003.14200) / [DISIR code](https://github.com/delair-ai/DISIR) / [video]() \]
+\[ [pdf]({{ site.url }}/files/Gaston-Lenczner_DISIR_isprs2020_final.pdf) / [arxiv](https://arxiv.org/abs/2003.14200) / [DISIR code](https://github.com/delair-ai/DISIR) / [video]() \]
 
 
 **Flood detection in times series of optical and SAR images** _C. Rambour, N. Audebert, É. Koeniguer, B. Le Saux, M. Crucianu, M. Datcu_, ISPRS Archives, August 2020
 
-\[ [pdf]() / [arxiv]() / [SEN12-FLOOD dataset]() / [video]() \]
+\[ [pdf]({{ site.url }}/files/Clement-Rambour_SEN12-FLOOD_isprs2020_final.pdf) / [arxiv]() / [SEN12-FLOOD dataset]() / [video]() \]
 
+**A real-world hyperspectral imaging processing workflow for vegetation stress and hydrocarbon indirect detection** _D. Dubucq, N. Audebert, V. Achard, S. Fabre, A. Credoz, Ph. Deliot, B. Le Saux_, ISPRS Archives, August 2020
+
+\[ [pdf]({{ site.url }}/files/NAOMI_HSI_proc_vege_hydrocarbon_det_ISPRS2020.pdf) / [arxiv]() / [video]() \]
 
 ## 2019
 
