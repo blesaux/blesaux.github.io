@@ -9,8 +9,7 @@ author_profile: true
 
 Since machine learning algorithms are hungry for data to process, I contributed to build up various datasets. Some are listed below, other will be added soon.
 
-## Onera Satellite Change Detection (OSCD) Dataset [![DataPort](https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection/embed)](https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection)
-
+## Onera Satellite Change Detection (OSCD) Dataset [http://dx.doi.org/10.21227/asqe-7s69](http://dx.doi.org/10.21227/asqe-7s69)
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/beirut-OSCD-icon.png){: .align-left}
 
