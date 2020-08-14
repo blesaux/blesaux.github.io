@@ -15,12 +15,11 @@ Since machine learning algorithms are hungry for data to process, I contributed 
 
 [Onera Satellite Change Detection (OSCD) Dataset](https://rcdaudt.github.io/oscd/)
 
-With [Rodrigo Daudt](https://rcdaudt.github.io), we released the first dataset for training deep learning models for pixelwise change detection over Sentinel data. It comprises 24 registered pairs of multispectral images from 2015 and 2018, all over the world.
-This dataset contains modified Copernicus data from 2015-2018. Original Copernicus Sentinel Data available from the European Space Agency ([https://sentinel.esa.int](https://sentinel.esa.int)). Change label maps are released under Creative-Commons BY-NC-SA. \[ [OSCD paper @ IGARSS'18]() / [Prime OSCD website @ Rodrigo](https://rcdaudt.github.io/oscd/) / [Alternate OSCD website @ DataPort](https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection) / Related: [CNNs for Change Detection](https://github.com/rcdaudt/fully_convolutional_change_detection) / [Evaluation @ DASE](http://dase.grss-ieee.org/index.php) \]
+With [Rodrigo Daudt](https://rcdaudt.github.io), we released the first dataset for training deep learning models for pixelwise change detection over Sentinel-2 data. It comprises 24 registered pairs of multispectral images from 2015 and 2018, all over the world. \[ [OSCD paper @ IGARSS'18]() / [Prime OSCD website @ Rodrigo](https://rcdaudt.github.io/oscd/) / [Alternate OSCD website @ DataPort](https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection) / Related: [CNNs for Change Detection](https://github.com/rcdaudt/fully_convolutional_change_detection) / [Evaluation @ DASE](http://dase.grss-ieee.org/index.php) \]
 
 {::options parse_block_html="true" /}
 <details>
-If using this dataset, please cite: **Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks** _R. Caye Daudt, B. Le Saux, A. Boulch, and Y. Gousseau_ IEEE IGARSS Valencia, Spain, July 2018
+This dataset contains modified Copernicus data from 2015-2018. Original Copernicus Sentinel Data available from the European Space Agency ([https://sentinel.esa.int](https://sentinel.esa.int)). Change label maps are released under [Creative-Commons BY-NC-SA](https://creativecommons.org/licenses/by/4.0/). If using this dataset, please cite: **Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks** _R. Caye Daudt, B. Le Saux, A. Boulch, and Y. Gousseau_ IEEE IGARSS Valencia, Spain, July 2018
 
 ```
 @inproceedings{daudt2018urban,
