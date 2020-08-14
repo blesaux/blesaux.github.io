@@ -9,8 +9,36 @@ author_profile: true
 
 Since machine learning algorithms are hungry for data to process, I contributed to build up various datasets. Some are listed below, other will be added soon.
 
-## Christchurch Aerial Semantic Dataset (CASD) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3566005.svg)](https://doi.org/10.5281/zenodo.3566005)
+## Onera Satellite Change Detection (OSCD) Dataset [![DataPort](https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection/embed)](https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection)
 
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/beirut-OSCD-icon.png){: .align-left}
+
+[Onera Satellite Change Detection (OSCD) Dataset](https://rcdaudt.github.io/oscd/)
+
+With [Rodrigo Daudt](https://rcdaudt.github.io), we released the first dataset for training deep learning models for pixelwise change detection over Sentinel data. It comprises 24 registered pairs of multispectral images from 2015 and 2018, all over the world.
+This dataset contains modified Copernicus data from 2015-2018. Original Copernicus Sentinel Data available from the European Space Agency ([https://sentinel.esa.int](https://sentinel.esa.int)). Change label maps are released under Creative-Commons BY-NC-SA. \[ [OSCD paper @ IGARSS'18]() / [Prime OSCD website @ Rodrigo](https://rcdaudt.github.io/oscd/) / [Alternate OSCD website @ DataPort](https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection) / Related: [CNNs for Change Detection](https://github.com/rcdaudt/fully_convolutional_change_detection) / [Evaluation @ DASE](http://dase.grss-ieee.org/index.php) \]
+
+{::options parse_block_html="true" /}
+<details>
+If using this dataset, please cite: **Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks** _R. Caye Daudt, B. Le Saux, A. Boulch, and Y. Gousseau_ IEEE IGARSS Valencia, Spain, July 2018
+
+```
+@inproceedings{daudt2018urban,
+  author = { {Caye Daudt}, R. and {Le Saux}, B. and Boulch, A. and Gousseau, Y.},
+  title = {Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks},
+  booktitle = {IEEE Int. Geoscience and Remote Sensing Symposium (IGARSS)},
+  address =  {Valencia, Spain},
+  month = {July},
+  year = {2018},
+}
+```
+</details>
+
+{::options parse_block_html="false" /}
+
+
+## Christchurch Aerial Semantic Dataset (CASD) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3566005.svg)](https://doi.org/10.5281/zenodo.3566005)
 
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/christchurch-CASD-icon.jpg){: .align-left}
