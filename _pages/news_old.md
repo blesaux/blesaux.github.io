@@ -12,7 +12,8 @@ author_profile: true
 
 Below are various events that were worth a post in the [_news_](../news/) section in the past:
 
-* \[June 2020\] I am co-organizing the [CVPR'2020](http://cvpr2020.thecvf.com/)/[EarthVision'20 workshop](https://www.grss-ieee.org/earthvision2020/): here is the [virtual website](http://cvpr20.com/remote-sensing-imagery/).* \[March 2020\] This month, I join [ESA](http://www.esa.int/)/[ESRIN](http://www.esa.int/About_Us/ESRIN) in Frascati, near Rome, Italy. I will work on machine learning for Earth observation in the [Φ-lab](http://blogs.esa.int/philab/).
+* \[June 2020\] I am co-organizing the [CVPR'2020](http://cvpr2020.thecvf.com/)/[EarthVision'20 workshop](https://www.grss-ieee.org/earthvision2020/): here is the [virtual website](http://cvpr20.com/remote-sensing-imagery/).
+* \[March 2020\] This month, I join [ESA](http://www.esa.int/)/[ESRIN](http://www.esa.int/About_Us/ESRIN) in Frascati, near Rome, Italy. I will work on machine learning for Earth observation in the [Φ-lab](http://blogs.esa.int/philab/).
 * \[February 2020\] After 12 years, I am leaving ONERA this month... Please update my contact address with the one on the left panel of this page. 
 * \[Jan-Feb 2020\] I give the Machine Learning and Pattern Recognition course in 3rd Year (M2)  at [Sup'Optique](https://www.institutoptique.fr/) with [Stéphane Herbin](https://stepherbin.github.io/) and [Adrien Chan Hon Tong](https://www.onera.fr/fr/staff/adrien-chan-hon-tong). Courses, exercises are available [here]({{ site.url }}/teaching/IOGS-machine-learning).
 * \[January 2020\] My [habilitation (HDR) thesis]({{ site.url }}/files/hdr_b_le_saux.pdf) is available! (in French, though). Check the [summary]({{ site.url }}/publications/habil). 
