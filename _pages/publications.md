@@ -17,18 +17,28 @@ Recent publications include:
 
 ## 2020
 
-**DISIR: Deep image segmentation with interactive refinement** _G. Lenczner, B. Le Saux, N. Luminari, A. Chan-Hon-Tong, G. Le Besnerais_, ISPRS Annals, August 2020
+**DISIR: Deep image segmentation with interactive refinement** _G. Lenczner, B. Le Saux, N. Luminari, A. Chan-Hon-Tong, G. Le Besnerais_, ISPRS Annals, Virtual / Nice, France, August 2020
 
-\[ [local pdf]({{ site.url }}/files/Gaston-Lenczner_DISIR_isprs2020_final.pdf) / [ISPRS ann.](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2020/877/2020/) / [arxiv](https://arxiv.org/abs/2003.14200) / [DISIR code](https://github.com/delair-ai/DISIR) / [video](https://isprs.stream-up.tv/media-44-disir-deep-image-segmentation-with-interactive-refinement) \]
+\[ [local pdf]({{ site.url }}/files/Gaston-Lenczner_DISIR_isprs2020_final.pdf) / [ISPRS ann.](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2020/877/2020/) / [ISPRS video](https://isprs.stream-up.tv/media-44-disir-deep-image-segmentation-with-interactive-refinement) / [arxiv](https://arxiv.org/abs/2003.14200) / [DISIR code](https://github.com/delair-ai/DISIR) \]
 
 
-**Flood detection in times series of optical and SAR images** _C. Rambour, N. Audebert, É. Koeniguer, B. Le Saux, M. Crucianu, M. Datcu_, ISPRS Archives, August 2020
+**Flood detection in times series of optical and SAR images** _C. Rambour, N. Audebert, É. Koeniguer, B. Le Saux, M. Crucianu, M. Datcu_, ISPRS Archives, Virtual / Bice, France, August 2020
 
 \[ [local pdf]({{ site.url }}/files/Clement-Rambour_SEN12-FLOOD_isprs2020_final.pdf) / [ISPRS arch.](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B2-2020/1343/2020/) / [hal](https://hal.archives-ouvertes.fr/hal-02924220) / [SEN12-FLOOD dataset](https://ieee-dataport.org/open-access/sen12-flood-sar-and-multispectral-dataset-flood-detection) \]
 
-**A real-world hyperspectral imaging processing workflow for vegetation stress and hydrocarbon indirect detection** _D. Dubucq, N. Audebert, V. Achard, S. Fabre, A. Credoz, Ph. Deliot, B. Le Saux_, ISPRS Archives, August 2020
+**A real-world hyperspectral imaging processing workflow for vegetation stress and hydrocarbon indirect detection** _D. Dubucq, N. Audebert, V. Achard, S. Fabre, A. Credoz, Ph. Deliot, B. Le Saux_, ISPRS Archives, Virtual / Nice, France, August 2020
 
 \[ [local pdf]({{ site.url }}/files/NAOMI_HSI_proc_vege_hydrocarbon_det_ISPRS2020.pdf) / [ISPRS arch.](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B3-2020/395/2020/) / [hal](https://hal.archives-ouvertes.fr/hal-02924091) \]
+
+
+**Segmentation sémantique d'images aériennes avec améliorations interactives**_G. Lenczner, B. Le Saux, N. Luminari, A. Chan-Hon-Tong, G. Le Besnerais_, [RFIAP]5https://cap-rfiap2020.sciencesconf.org/), Virtual / Vannes, France, June 2020
+
+\[ [pdf](https://cap-rfiap2020.sciencesconf.org/data/RFIAP_2020_paper_10.pdf) / [video](https://youtu.be/i-sOE6Q_aR8) / []() / []() \]
+
+**Pix2Point : prédiction monoculaire de scènes 3D par réseaux de neurones hybrides et transport optimal**, _Rémy Leroy, Bertrand Le Saux, Marcela Carvalho, Pauline Trouvé-Peloux, and Frédéric Champagnat_, [RFIAP]5https://cap-rfiap2020.sciencesconf.org/), Virtual / Vannes, France, June 2020
+
+\[ [pdf](https://cap-rfiap2020.sciencesconf.org/data/RFIAP_2020_paper_27.pdf)  \]
+
 
 ## 2019
 
