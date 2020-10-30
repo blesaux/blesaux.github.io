@@ -30,7 +30,6 @@ Recent publications include:
 
 \[ [local pdf]({{ site.url }}/files/NAOMI_HSI_proc_vege_hydrocarbon_det_ISPRS2020.pdf) / [ISPRS arch.](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B3-2020/395/2020/) / [hal](https://hal.archives-ouvertes.fr/hal-02924091) \]
 
-
 **Segmentation sémantique d'images aériennes avec améliorations interactives**_G. Lenczner, B. Le Saux, N. Luminari, A. Chan-Hon-Tong, G. Le Besnerais_, [RFIAP]5https://cap-rfiap2020.sciencesconf.org/), Virtual / Vannes, France, June 2020
 
 \[ [pdf](https://cap-rfiap2020.sciencesconf.org/data/RFIAP_2020_paper_10.pdf) / [video](https://youtu.be/i-sOE6Q_aR8) / []() / []() \]
