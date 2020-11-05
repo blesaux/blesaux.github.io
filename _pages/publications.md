@@ -24,7 +24,7 @@ Recent publications include:
 
 **On Auxiliary Losses for Semi-Supervised Semantic Segmentation** _J. Castillo-Navarro, B. Le Saux, A. Boulch, S. Lefèbre_, [ECML/PKDD](https://ecmlpkdd2020.net/) [MACLEAN](https://sites.google.com/view/maclean2020/), Virtual / Ghent, Belgium, September 2020
 
-\[ [tmp pdf](https://drive.google.com/file/d/1TAb4k6VgvTDZuw1LM7p8j3_QDXWBk5EZ/view?usp=sharing) / []() \]
+\[ [tmp pdf](https://drive.google.com/file/d/1TAb4k6VgvTDZuw1LM7p8j3_QDXWBk5EZ/view?usp=sharing) / [video](https://www.youtube.com/watch?v=PjRpFidKxp4) \]
 
 **DISIR: Deep image segmentation with interactive refinement** _G. Lenczner, B. Le Saux, N. Luminari, A. Chan-Hon-Tong, G. Le Besnerais_, ISPRS Annals, Virtual / Nice, France, August 2020
 
