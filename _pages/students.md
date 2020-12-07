@@ -7,9 +7,11 @@ author_profile: true
 
 {% include students_head.html %}
 
+## Post-Doc
+<a name="PostDoc"></a>
+
 ## PhD Students
 <a name="PhD"></a>
-
 
 {% for post in site.students reversed %} {% if post.type == "phd" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
 
@@ -19,7 +21,7 @@ author_profile: true
 {% for post in site.students reversed %} {% if post.type == "msc" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
 
 ## Past Post-Doc
-<a name="Past PostDoc"></a>
+<a name="PastPostDoc"></a>
 
 [**Clément Rambour**: Multi-temporal analysis of SAR and optical data]( {{ site.url }}/students/clement ) \[2019 - 2020\]  
 Post-doc between CNAM-ParisTech and ONERA co-supervised with [Élise Koeniguer](https://www.onera.fr/fr/staff/elise-colin-koeniguer), [Nicolas Audebert)(https://nicolas.audebert.at/), [Michel Crucianu](http://cedric.cnam.fr/~crucianm/) and Mihai Datcu. Now Assoc. Prof. at [CNAM-ParisTech](http://www.cnam.fr).
@@ -28,7 +30,7 @@ Post-doc between CNAM-ParisTech and ONERA co-supervised with [Élise Koeniguer](
 <a name="PastPhD"></a>
 
 [**Rodrigo Caye Daudt**: Convolutional Neural Networks for Change Analysis in Earth Observation Images with Noisy Labels and Domain Shifts]( {{ site.url }}/student/rodrigo ) \[PhD 11/2020\]  
-PhD co-supervised with [Alexandre Boulch]() from [ONERA](https://www.onera.fr/en) and [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/) from [LTCI](https://ltci.telecom-paristech.fr/en/)/[Télécoms ParisTech](https://www.telecom-paristech.fr/eng). <span style="color:orange;">Best Student Paper Award at CVPR/Earth Vision 19</span>. Now post-doct fellow at [ETHZ](https://ethz.ch/en.html)/[EcoVision group](https://prs.igp.ethz.ch/ecovision.html)
+PhD co-supervised with [Alexandre Boulch]() from [ONERA](https://www.onera.fr/en) and [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/) from [LTCI](https://ltci.telecom-paristech.fr/en/)/[Télécoms ParisTech](https://www.telecom-paristech.fr/eng). <span style="color:orange;">Best Student Paper Award at CVPR/Earth Vision 19</span>. Now post-doc fellow at [ETHZ](https://ethz.ch/en.html)/[EcoVision group](https://prs.igp.ethz.ch/ecovision.html)
 
 [**Marcela Carvalho**: 3D Camera by Depth from Defocus and Deep Learning]( {{ site.url }}/students/marcela ) \[PhD 11/2019\]  
 PhD co-supervised with Pauline Trouvé-Peloux and Frédéric Champagnat from [ONERA](https://www.onera.fr/en) and [Andrès Almansa](https://perso.telecom-paristech.fr/almansa/HomePage/) from [MAP5](http://map5.mi.parisdescartes.fr/)/[Univ. Paris Descartes](http://www.parisdescartes.fr/).  <span style="color:orange;">Best Paper Award at RFIAP 18</span>. Now Head of AI at [upciti](https://www.upciti.com/).
