@@ -10,7 +10,6 @@ author_profile: true
 ## PhD Students
 <a name="PhD"></a>
 
-PhD co-supervised with [Frédéric Champagnat](https://www.researchgate.net/profile/Frederic_Champagnat) and [Pauline Trouvé-Peloux](https://www.onera.fr/fr/staff/pauline-trouve-peloux) expected fall 2022
 
 {% for post in site.students reversed %} {% if post.type == "phd" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
 

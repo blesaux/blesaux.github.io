@@ -10,10 +10,10 @@ type: 'past-phd'
 
 [Rodrigo Caye Daudt](https://rcdaudt.github.io/)
 
-PhD co-supervised with [Alexandre Boulch]() from [ONERA](https://www.onera.fr/en) and [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/) from [LTCI](https://ltci.telecom-paristech.fr/en/)/[Télécoms ParisTech](https://www.telecom-paristech.fr/eng), expected Fall 2020
+PhD co-supervised with [Alexandre Boulch]() from [ONERA](https://www.onera.fr/en) and [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/) from [LTCI](https://ltci.telecom-paristech.fr/en/)/[Télécoms ParisTech](https://www.telecom-paristech.fr/eng), defended in november 2020.
 
 <span style="color:orange;">Best Student Paper Award @ CVPR/Earth Vision '2019</span>
 
-\[ [website](https://rcdaudt.github.io/), thesis summary on [theses.fr](http://www.theses.fr/s190227) \]
+\[ [website](https://rcdaudt.github.io/), thesis summary on [theses.fr](http://www.theses.fr/s190227) / [PhD defence summary]( {{ site.url }}/files/Annonce_soutenance_DAUDT_CAYE_Rodrigo_Anglais.pdf\]
 
 
