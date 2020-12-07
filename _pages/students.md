@@ -9,7 +9,9 @@ author_profile: true
 
 ## PhD Students
 <a name="PhD"></a>
-	
+
+PhD co-supervised with [Frédéric Champagnat](https://www.researchgate.net/profile/Frederic_Champagnat) and [Pauline Trouvé-Peloux](https://www.onera.fr/fr/staff/pauline-trouve-peloux) expected fall 2022
+
 {% for post in site.students reversed %} {% if post.type == "phd" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
 
 ## Undergrad / MSc. Students
@@ -20,7 +22,7 @@ author_profile: true
 ## Past Post-Doc
 <a name="Past PostDoc"></a>
 
-[Clément Rambour]( {{ site.url }}/students/clement ): Multi-temporal analysis of SAR and optical data, \[2019 - 2020\]
+\[2019 - 2020\] [*Clément Rambour*: Multi-temporal analysis of SAR and optical data]( {{ site.url }}/students/clement )  
 Post-doc between CNAM-ParisTech and ONERA co-supervised with [Élise Koeniguer](https://www.onera.fr/fr/staff/elise-colin-koeniguer), Nicolas Audebert [Michel Crucianu](http://cedric.cnam.fr/~crucianm/) and Mihai Datcu
 
 {% for post in site.students reversed %} {% if post.type == "postdoc" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
