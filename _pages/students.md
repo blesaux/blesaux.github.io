@@ -23,9 +23,9 @@ PhD co-supervised with [Frédéric Champagnat](https://www.researchgate.net/prof
 <a name="Past PostDoc"></a>
 
 \[2019 - 2020\] [**Clément Rambour**: Multi-temporal analysis of SAR and optical data]( {{ site.url }}/students/clement )  
-Post-doc between CNAM-ParisTech and ONERA co-supervised with [Élise Koeniguer](https://www.onera.fr/fr/staff/elise-colin-koeniguer), Nicolas Audebert [Michel Crucianu](http://cedric.cnam.fr/~crucianm/) and Mihai Datcu
+Post-doc between CNAM-ParisTech and ONERA co-supervised with [Élise Koeniguer](https://www.onera.fr/fr/staff/elise-colin-koeniguer), Nicolas Audebert [Michel Crucianu](http://cedric.cnam.fr/~crucianm/) and Mihai Datcu. Now Assoc. Prof. at CNAM.
 
-<!-- {% for post in site.students reversed %} {% if post.type == "postdoc" %} {% include archive-single-students.html %} {% endif %} {% endfor %} -->
+<!--- {% for post in site.students reversed %} {% if post.type == "postdoc" %} {% include archive-single-students.html %} {% endif %} {% endfor %} --->
 
 ## Past PhD Students
 <a name="PastPhD"></a>
