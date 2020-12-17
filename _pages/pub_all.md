@@ -20,7 +20,7 @@ All publications are listed below:
 
 **Interactive Learning for Semantic Segmentation in Earth Observation** _G. Lenczner, B. Le Saux, N. Luminari, A. Chan-Hon-Tong, G. Le Besnerais_, [ECML/PKDD](https://ecmlpkdd2020.net/) [MACLEAN](https://sites.google.com/view/maclean2020/), Virtual / Ghent, Belgium, September 2020
 
-\[ <span style="color:orange;">Best Student Paper Award</span> / [local pdf]({{ site.url }}/files/Gaston-Lenczner_DISCA_ECMLPKDD2020.pdf) / [ext pdf](https://drive.google.com/file/d/11DzAwKGPvGvC7kOtN3FiqVZVAAFGU4-X/view?usp=sharing) / [DISIR/DISCA video](https://www.youtube.com/watch?v=txN8L2mHYrM) / [DISCA code](https://github.com/delair-ai/DISCA) \]
+\[ <span style="color:orange;">Best Student Paper [Award](https://sites.google.com/view/maclean2020/program)</span> / [local pdf]({{ site.url }}/files/Gaston-Lenczner_DISCA_ECMLPKDD2020.pdf) / [ext pdf](https://drive.google.com/file/d/11DzAwKGPvGvC7kOtN3FiqVZVAAFGU4-X/view?usp=sharing) / [DISIR/DISCA video](https://www.youtube.com/watch?v=txN8L2mHYrM) / [DISCA code](https://github.com/delair-ai/DISCA) \]
 
 **On Auxiliary Losses for Semi-Supervised Semantic Segmentation** _J. Castillo-Navarro, B. Le Saux, A. Boulch, S. Lefèbre_, [ECML/PKDD](https://ecmlpkdd2020.net/) [MACLEAN](https://sites.google.com/view/maclean2020/), Virtual / Ghent, Belgium, September 2020
 

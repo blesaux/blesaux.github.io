@@ -17,7 +17,7 @@ author_profile: true
 PhD Univ. Paris-Saclay co-supervised with [Frédéric Champagnat](https://www.researchgate.net/profile/Frederic_Champagnat) and [Pauline Trouvé-Peloux](https://www.onera.fr/fr/staff/pauline-trouve-peloux) ([ONERA](https://www.onera.fr)), funded by [ONERA](https://www.onera.fr).
 
 [**Gaston Lenczner**: Interactive learning in aerial image interpretation ]({{ site.url }}/students/gaston) \[exp. fall 2022\]  
-PhD Univ. Paris-Saclay co-supervised with [Guy Le Besnerais](https://scholar.google.fr/citations?user=r8V306wAAAAJ&hl=fr), Adrien Chan-Hon-Tong ([ONERA](https://www.onera.fr)) and Nicola Luminari ([Delair/Alteia](https://www.delair.aero)), funded by [Delair/Alteia](https://www.delair.aero).
+PhD Univ. Paris-Saclay co-supervised with [Guy Le Besnerais](https://scholar.google.fr/citations?user=r8V306wAAAAJ&hl=fr), Adrien Chan-Hon-Tong ([ONERA](https://www.onera.fr)) and Nicola Luminari ([Delair/Alteia](https://www.delair.aero)), funded by [Delair/Alteia](https://www.delair.aero). <span style="color:orange;">Best Student Paper Award at ECML-PKDD/ [MACLEAN 2020](https://sites.google.com/view/maclean2020/program)</span>.
 
 [**Javiera Castillo Navarro**: Large-scale semi-supervised semantic segmentation]({{ site.url }}/students/javiera) \[exp. early 2022\]  
 PhD Univ. Bretagne Sud co-supervised with [Alexandre Boulch](https://aboulch.github.io/) and [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), co-funded by [ONERA](https://www.onera.fr) and [CNES](https://cnes.fr/en/web/CNES-en/7430-research-grants.php)
@@ -53,6 +53,12 @@ PhD co-supervised with [Marin Ferecatu](http://cedric.cnam.fr/~ferecatm/) and [M
 
 ## Past Undergrad / MSc. Students
 <a name="PastMSc"></a>
+
+[**Rémy Leroy**: Deep neural networks for 3D point cloud prediction from a single image](site.url }}/students/remy-msc)) \[2019\]  
+M.Eng. from [IMT Atlantique](https://www.imt-atlantique.fr/en) in 2019 co-supervised with [Marcela Carvalho](http://mcarvalho.ml/), now PhD student.
+
+[**Javiera Castillo Navarro**: Large-scale semi-supervised semantic segmentation](site.url }}/students/javiera-msc)) \[2018\]  
+MSc. from [Ecole Polytechnique](https://www.polytechnique.edu/fr/master-data-sciences) / [Master Data Science](https://datascience-x-master-paris-saclay.fr) in 2018 co-supervised with [Alexandre Boulch](https://aboulch.github.io/), [Nicolas Audebert](https://nicolas.audebert.at/) and [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), now PhD student.
 
 {% for post in site.students reversed %} {% if post.type == "past-msc" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
 
