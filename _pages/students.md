@@ -60,8 +60,15 @@ M.Eng. from [IMT Atlantique](https://www.imt-atlantique.fr/en) in 2019 co-superv
 [**Javiera Castillo Navarro**: Large-scale semi-supervised semantic segmentation](site.url }}/students/javiera-msc)) \[2018\]  
 MSc. from [Ecole Polytechnique](https://www.polytechnique.edu/fr/master-data-sciences) / [Master Data Science](https://datascience-x-master-paris-saclay.fr) in 2018 co-supervised with [Alexandre Boulch](https://aboulch.github.io/), [Nicolas Audebert](https://nicolas.audebert.at/) and [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), now PhD student.
 
-[**Adrien Lagrange**: Classification for Big Remote Sensing Data](site.url }}/students/javiera-msc)) \[2015\]
-MSc. / M.Eng from [ENSTA ParisTech](http://www.ensta-paristech.fr/) in 2015, then PhD student at [IRIT](http://www.irit.fr/), now research engineer at [Agenium Space](https://agenium.com/en/subsidiary/agenium-space). <span style="color:orange;">Data Fusion Contest 2nd rank Award!</span>
+[**Adrien Lagrange**: Classification for Big Remote Sensing Data](site.url }}/students/adrien)) \[2015\]
+MSc. / M.Eng from [ENSTA ParisTech](http://www.ensta-paristech.fr/), then PhD student at [IRIT](http://www.irit.fr/), now research engineer at [Agenium Space](https://agenium.com/en/subsidiary/agenium-space). <span style="color:orange;">Data Fusion Contest 2nd rank Award!</span>
+
+[**Thierry Dumas**: Depth from defocus and learning](site.url }}/students/adrien)) \[2014\]  
+MSc. / M.Eng from [Centrale Marseille](http://www.centrale-marseille.fr/) co-supervised with Pauline Trouvé, then PhD student at [IRISA/Sirocco](https://team.inria.fr/sirocco/), now researcher at InterDigital (ex-Technicolor)
+
+[**Morgane Rivière**: Domain adaptation for object recognition in aerial imagery](site.url }}/students/adrien)) \[2014\]
+M.Eng from [École Polytechnique](http://www.polytechnique.fr/), now researcher at [Facebook AI Research)(https://ai.facebook.com/)
+
 
 {% for post in site.students reversed %} {% if post.type == "past-msc" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
 
