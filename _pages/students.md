@@ -49,27 +49,27 @@ PhD co-supervised with [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lef
 PhD co-supervised with [David Filliat](http://perso.ensta-paristech.fr/~filliat/eng/index.html) from [ENSTA ParisTech](https://www.ensta-paristech.fr/en). <span style="color:orange;">PhD Award in "Complex Systems Engineering" from the [doctoral school Interfaces](https://www.universite-paris-saclay.fr/fr/formation/doctorat/interfaces#evenements)</span>. Now CTO at [Rumble Studio](https://rumble.studio/).
 
 [**Hicham Randrianarivo**: Statistical learning of semantic classes for aerial image interpretation]({{ site.url }}/students/hicham) \[PhD 12/2016\]  
-PhD co-supervised with [Marin Ferecatu](http://cedric.cnam.fr/~ferecatm/) and [Michel Crucianu](http://cedric.cnam.fr/~crucianm/) from [CNAM ParisTech](http://www.cnam.eu/site-en/). Now research engineer at [Qwant](https://www.qwant.com/?l=en).
+PhD co-supervised with [Marin Ferecatu](http://cedric.cnam.fr/~ferecatm/) and [Michel Crucianu](http://cedric.cnam.fr/~crucianm/) from [CNAM ParisTech](http://www.cnam.eu/site-en/).  <span style="color:orange;">Data Fusion Contest 2nd rank Award!</span> Now research engineer at [Qwant](https://www.qwant.com/?l=en).
 
 ## Past Undergrad / MSc. Students
 <a name="PastMSc"></a>
 
-[**Rémy Leroy**: Deep neural networks for 3D point cloud prediction from a single image](site.url }}/students/remy-msc)) \[2019\]  
+[**Rémy Leroy**: Deep neural networks for 3D point cloud prediction from a single image]({{ site.url }}/students/remy-msc) \[2019\]  
 M.Eng. from [IMT Atlantique](https://www.imt-atlantique.fr/en) in 2019 co-supervised with [Marcela Carvalho](http://mcarvalho.ml/), now PhD student.
 
-[**Javiera Castillo Navarro**: Large-scale semi-supervised semantic segmentation](site.url }}/students/javiera-msc)) \[2018\]  
+[**Javiera Castillo Navarro**: Large-scale semi-supervised semantic segmentation]({{ site.url }}/students/javiera-msc) \[2018\]  
 MSc. from [Ecole Polytechnique](https://www.polytechnique.edu/fr/master-data-sciences) / [Master Data Science](https://datascience-x-master-paris-saclay.fr) in 2018 co-supervised with [Alexandre Boulch](https://aboulch.github.io/), [Nicolas Audebert](https://nicolas.audebert.at/) and [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), now PhD student.
 
-[**Adrien Lagrange**: Classification for Big Remote Sensing Data](site.url }}/students/adrien)) \[2015\]
+[**Adrien Lagrange**: Classification for Big Remote Sensing Data]({{ site.url }}/students/adrien) \[2015\]  
 MSc. / M.Eng from [ENSTA ParisTech](http://www.ensta-paristech.fr/), then PhD student at [IRIT](http://www.irit.fr/), now research engineer at [Agenium Space](https://agenium.com/en/subsidiary/agenium-space). <span style="color:orange;">Data Fusion Contest 2nd rank Award!</span>
 
-[**Thierry Dumas**: Depth from defocus and learning](site.url }}/students/adrien)) \[2014\]  
+[**Thierry Dumas**: Depth from defocus and learning]({{ site.url }}/students/adrien) \[2014\]  
 MSc. / M.Eng from [Centrale Marseille](http://www.centrale-marseille.fr/) co-supervised with Pauline Trouvé, then PhD student at [IRISA/Sirocco](https://team.inria.fr/sirocco/), now researcher at InterDigital (ex-Technicolor)
 
-[**Morgane Rivière**: Domain adaptation for object recognition in aerial imagery](site.url }}/students/adrien)) \[2014\]
-M.Eng from [École Polytechnique](http://www.polytechnique.fr/), now researcher at [Facebook AI Research)(https://ai.facebook.com/)
+[**Morgane Rivière**: Domain adaptation for object recognition in aerial imagery]({{ site.url }}/students/morgane) \[2014\]  
+M.Eng from [École Polytechnique](http://www.polytechnique.fr/), now researcher at [Facebook AI Research](https://ai.facebook.com/)
 
-
+[**Roman Garcia - Tracking and recognition in videos from camera networks]({{ site.url }}/students/roman) \[2013\] 
 {% for post in site.students reversed %} {% if post.type == "past-msc" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
 
 
