@@ -69,12 +69,17 @@ MSc. / M.Eng from [Centrale Marseille](http://www.centrale-marseille.fr/) co-sup
 [**Morgane Rivière**: Domain adaptation for object recognition in aerial imagery]({{ site.url }}/students/morgane) \[2013\]  
 M.Eng from [École Polytechnique](http://www.polytechnique.fr/), now researcher at [Facebook AI Research](https://ai.facebook.com/)
 
-[**Roman Garcia**: Tracking and recognition in videos from camera networks]({{ site.url }}/students/roman) \[2012\]
+[**Roman Garcia**: Tracking and recognition in videos from camera networks]({{ site.url }}/students/roman) \[2012\]  
 M.Eng from [CPE Lyon](http://cpe.fr/) co-supervised with Valerie Leung
 
-[**Nicolas Chauffert**: Active learning of regions-of-interest in satellite images]({{ site.url }}/students/nicolas-c) \[2011\]
+[**Nicolas Chauffert**: Active learning of regions-of-interest in satellite images]({{ site.url }}/students/nicolas-c) \[2011\]  
 M.Eng from [École Polytechnique](http://www.polytechnique.fr/) in 2011, then PhD student at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en) / [INRIA Parietal team](https://team.inria.fr/parietal/), now mathematics professor.
 
-{% for post in site.students reversed %} {% if post.type == "past-msc" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
+[**Caroline Henry**: Vehicle detection for UAV vision systems]({{ site.url }}/students/caroline) \[2011\]  
+M.Eng from [ENS2M](http://www.ens2m.fr/).
+
+[**Fabien Giannesini**: GPU-based anomaly detection for large image browsing]({{ site.url }}/students/fabien) \[2011\]  
+M.Eng from [ENSEA](http://www.ensea.fr/en).
+
 
 
