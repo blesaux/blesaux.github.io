@@ -21,6 +21,10 @@ With Clément Rambour et al., we released [SEN12-FLOOD](https://ieee-dataport.or
 
 With [Rodrigo Daudt](https://rcdaudt.github.io) et a., we also released HRSCD, a large-scale dataset for semantic change detection at high-resolution (0.5m/pixel). \[ [HRSCD website @ Rodrigo](https://rcdaudt.github.io/hrscd/) / [HRSCD website @ DataPort](https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset) \].
 
+## Data Fusion Contest 2019 (DFC2019)
+
+The [DFC2019](http://www.grss-ieee.org/community/technical-committees/data-fusion/2019-ieee-grss-data-fusion-contest-data/) organised by IADF TC (Myself, Naoto Yokoya and Ronny Hänsch) and Johns Hopkins University (Myron Brown) was a benchmark about Large-Scale Semantic 3D Reconstruction, and involved 3D reconstruction, 3D prediction, and semantic segmentation in 2D and 3D. \[ [DFC2019 @ IEEE GRSS](http://www.grss-ieee.org/community/technical-committees/data-fusion/2019-ieee-grss-data-fusion-contest-data/) / [DFC2019 @ DataPort](https://ieee-dataport.org/open-access/data-fusion-contest-2019-dfc2019) \]
+
 ## Onera Satellite Change Detection (OSCD) Dataset  \[2018\] [![DOI]({{ site.url }}{{ site.baseurl }}/images/doi-OSCD.png)](http://dx.doi.org/10.21227/asqe-7s69)
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/beirut-OSCD-icon.png){: .align-left}
