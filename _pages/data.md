@@ -9,11 +9,15 @@ author_profile: true
 
 Since machine learning algorithms are hungry for data to process, I contributed to build up various datasets. Some are listed below, other will be added soon.
 
-## SEN12-FLOOD Dataset \[2020\]
+## \[2020\] MiniFrance Dataset
+
+With Javiera Castillo-Navarro et al., we released the first benchmark for semi-supervised learning in Earth observation: [MiniFrance](https://ieee-dataport.org/open-access/minifrance).
+
+## \[2020\] SEN12-FLOOD Dataset
 
 With Clément Rambour et al., we released [SEN12-FLOOD](https://ieee-dataport.org/open-access/sen12-flood-sar-and-multispectral-dataset-flood-detection), a SAR-Multispectral dataset for classification of flood events in image time-series.
 
-## High-Res. Semantic Change Dataset (HRSCD) \[2019\]
+## \[2019\] High-Res. Semantic Change Dataset (HRSCD) 
 
 With [Rodrigo Daudt](https://rcdaudt.github.io) et a., we also released HRSCD, a large-scale dataset for semantic change detection at high-resolution (0.5m/pixel). \[ [HRSCD website @ Rodrigo](https://rcdaudt.github.io/hrscd/) / [HRSCD website @ DataPort](https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset) \].
 
