@@ -66,10 +66,15 @@ MSc. / M.Eng from [ENSTA ParisTech](http://www.ensta-paristech.fr/), then PhD st
 [**Thierry Dumas**: Depth from defocus and learning]({{ site.url }}/students/adrien) \[2014\]  
 MSc. / M.Eng from [Centrale Marseille](http://www.centrale-marseille.fr/) co-supervised with Pauline Trouvé, then PhD student at [IRISA/Sirocco](https://team.inria.fr/sirocco/), now researcher at InterDigital (ex-Technicolor)
 
-[**Morgane Rivière**: Domain adaptation for object recognition in aerial imagery]({{ site.url }}/students/morgane) \[2014\]  
+[**Morgane Rivière**: Domain adaptation for object recognition in aerial imagery]({{ site.url }}/students/morgane) \[2013\]  
 M.Eng from [École Polytechnique](http://www.polytechnique.fr/), now researcher at [Facebook AI Research](https://ai.facebook.com/)
 
-[**Roman Garcia - Tracking and recognition in videos from camera networks]({{ site.url }}/students/roman) \[2013\] 
+[**Roman Garcia**: Tracking and recognition in videos from camera networks]({{ site.url }}/students/roman) \[2012\]
+M.Eng from [CPE Lyon](http://cpe.fr/) co-supervised with Valerie Leung
+
+[**Nicolas Chauffert**: Active learning of regions-of-interest in satellite images]({{ site.url }}/students/nicolas-c) \[2011\]
+M.Eng from [École Polytechnique](http://www.polytechnique.fr/) in 2011, then PhD student at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en) / [INRIA Parietal team](https://team.inria.fr/parietal/), now mathematics professor.
+
 {% for post in site.students reversed %} {% if post.type == "past-msc" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
 
 
