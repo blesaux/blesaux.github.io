@@ -18,6 +18,14 @@ All publications are listed below:
 
 ## 2020
 
+**Large-Scale Semantic 3-D Reconstruction: Outcome of the 2019 IEEE GRSS Data Fusion Contest - Part B** _Yanchao Lian, Tuo Feng, Jinliu Zhou, Meixia Jia, Aijin Li, Zhaoyang Wu, Licheng Jiao, M. Brown, G. Hager, N. Yokoya, R. Hänsch, B. Le Saux_ IEEE JSTARS, 14, 1158-1170 November 2020
+
+\[ [doi](https://doi.org/10.1109/JSTARS.2020.3035274) (open access) / [DFC2019](http://www.grss-ieee.org/community/technical-committees/data-fusion/2019-ieee-grss-data-fusion-contest/) / [Dataset on dataport](https://ieee-dataport.org/open-access/data-fusion-contest-2019-dfc2019) \]
+
+**Large-Scale Semantic 3-D Reconstruction: Outcome of the 2019 IEEE GRSS Data Fusion Contest - Part A** _H. Chen, M. Lin, H. Zhang, P. D’Angelo, D. Cerra, S. M. Azimi, M. Brown, G. Hager, N. Yokoya, R. Hänsch, B. Le Saux_ IEEE JSTARS, 12, 922-935 October 2020
+
+\[ [doi](https://doi.org/10.1109/JSTARS.2020.3032221) (open access) / [DFC2019](http://www.grss-ieee.org/community/technical-committees/data-fusion/2019-ieee-grss-data-fusion-contest/) / [Dataset on dataport](https://ieee-dataport.org/open-access/data-fusion-contest-2019-dfc2019) \]
+
 **Interactive Learning for Semantic Segmentation in Earth Observation** _G. Lenczner, B. Le Saux, N. Luminari, A. Chan-Hon-Tong, G. Le Besnerais_, [ECML/PKDD](https://ecmlpkdd2020.net/) [MACLEAN](https://sites.google.com/view/maclean2020/), Virtual / Ghent, Belgium, September 2020
 
 \[ <span style="color:orange;">Best Student Paper [Award](https://sites.google.com/view/maclean2020/program)</span> / [local pdf]({{ site.url }}/files/Gaston-Lenczner_DISCA_ECMLPKDD2020.pdf) / [ext pdf](https://drive.google.com/file/d/11DzAwKGPvGvC7kOtN3FiqVZVAAFGU4-X/view?usp=sharing) / [DISIR/DISCA video](https://www.youtube.com/watch?v=txN8L2mHYrM) / [DISCA code](https://github.com/delair-ai/DISCA) \]
