@@ -19,7 +19,7 @@ Recent publications include:
 
 **Semi-Supervised Semantic Segmentation in Earth Observation: The MiniFrance Suite, Dataset Analysis and Multi-task Network Study** _J. Castillo-Navarro, B. Le Saux, A. Boulch, N. Audebert, S. Lefèbre_, [Maching Learning](https://www.springer.com/journal/10994), accepted, to appear.
 
-\[ [_editor version_]() / [arxiv](https://arxiv.org/abs/2010.07830v1) / [MiniFrance dataset](https://ieee-dataport.org/open-access/minifrance) \]
+\[ [_editor version_]() / [local file]({{ site.url }}/files/JCN_MiniFrance_ML2020_final.pdf) / [arxiv](https://arxiv.org/abs/2010.07830v1) / [MiniFrance dataset](https://ieee-dataport.org/open-access/minifrance) \]
 
 
 ## 2020
@@ -82,7 +82,7 @@ Recent publications include:
 
 **Multitask learning for large-scale semantic change detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ [Computer Vision and Image Understanding](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding) (CVIU), vol. 187, Oct. 2019
 
-\[ [doi](https://doi.org/10.1016/j.cviu) / [arxiv](https://arxiv.org/abs/1810.08452) / [pdf](https://arxiv.org/pdf/1810.08452.pdf) / [HRSCD dataset coming soon!]() \]
+\[ [doi](https://doi.org/10.1016/j.cviu) / [arxiv](https://arxiv.org/abs/1810.08452) / [pdf](https://arxiv.org/pdf/1810.08452.pdf) / [HRSCD dataset](https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset) \]
 
 **Réseaux de neurones semi-supervisés pour la segmentation sémantique en télédétection** _J. Castillo Navarro, B. Le Saux, A. Boulch, S. Lefèvre_ [Colloque GRETSI](http://gretsi.fr/colloque2019/), Lille, France, Sept. 2019
 
