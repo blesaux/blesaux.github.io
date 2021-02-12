@@ -25,7 +25,7 @@ PhD Univ. Bretagne Sud co-supervised with [Alexandre Boulch](https://aboulch.git
 ## Undergrad / MSc. Students
 <a name="MSc"></a>
 
-[**Daniela Zaidenberg**: Quantum Neural Nets for Earth Observation Classification]()
+[**Daniela Zaidenberg**: Quantum Neural Nets for Earth Observation Classification]() \[2021\]  
 BSc from [MIT](https://misti.mit.edu/) co-supervised with Alessandro Sebastianelli and Silvia Ullo ([Uni. Sannio)(https://www.unisannio.it/))
 
 
