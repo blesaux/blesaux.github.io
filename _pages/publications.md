@@ -17,6 +17,10 @@ Recent publications include:
 
 ## 2021
 
+**Semi-Supervised Semantic Segmentation in Earth Observation: The MiniFrance Suite, Dataset Analysis and Multi-task Network Study** _J. Castillo-Navarro, B. Le Saux, A. Boulch, N. Audebert, S. Lefèbre_, [Maching Learning](https://www.springer.com/journal/10994), accepted, to appear.
+
+\[ [_editor version_]() / [arxiv](https://arxiv.org/abs/2010.07830v1) / [MiniFrance dataset](https://ieee-dataport.org/open-access/minifrance) \]
+
 
 ## 2020
 
