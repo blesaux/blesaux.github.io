@@ -16,7 +16,17 @@ author_profile: true
 All publications are listed below:
 
 
+## 2021
+
+**Semi-Supervised Semantic Segmentation in Earth Observation: The MiniFrance Suite, Dataset Analysis and Multi-task Network Study** _J. Castillo-Navarro, B. Le Saux, A. Boulch, N. Audebert, S. Lefèbre_, [Maching Learning](https://www.springer.com/journal/10994), accepted, to appear.
+
+\[ [_editor version_]() / [local file]({{ site.url }}/files/JCN_MiniFrance_ML2020_final.pdf) / [arxiv](https://arxiv.org/abs/2010.07830v1) / [MiniFrance dataset](https://ieee-dataport.org/open-access/minifrance) \]
+
 ## 2020
+
+**Street to Cloud: Improving Flood Maps With Crowdsourcing and Semantic Segmentation** _V. Sunkara, M. Purri, B. Le Saux, J. Adams_, [NeurIPS 2020](https://nips.cc/Conferences/2020/) [Workshop on Climate Change AI](https://www.climatechange.ai/events/neurips2020), virtual, December 2020
+
+\[ [CCAI page with video](https://www.climatechange.ai/papers/neurips2020/34.html) / [arxiv](https://arxiv.org/abs/2011.08010) \]
 
 **Large-Scale Semantic 3-D Reconstruction: Outcome of the 2019 IEEE GRSS Data Fusion Contest - Part B** _Yanchao Lian, Tuo Feng, Jinliu Zhou, Meixia Jia, Aijin Li, Zhaoyang Wu, Licheng Jiao, M. Brown, G. Hager, N. Yokoya, R. Hänsch, B. Le Saux_ IEEE JSTARS, 14, 1158-1170 November 2020
 
@@ -77,7 +87,7 @@ All publications are listed below:
 
 **Multitask learning for large-scale semantic change detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ [Computer Vision and Image Understanding](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding) (CVIU), vol. 187, Oct. 2019
 
-\[ [doi](https://doi.org/10.1016/j.cviu) / [arxiv](https://arxiv.org/abs/1810.08452) / [pdf](https://arxiv.org/pdf/1810.08452.pdf) / [HRSCD dataset coming soon!]() \]
+\[ [doi](https://doi.org/10.1016/j.cviu) / [arxiv](https://arxiv.org/abs/1810.08452) / [pdf](https://arxiv.org/pdf/1810.08452.pdf) / [HRSCD dataset](https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset) \]
 
 **Réseaux de neurones semi-supervisés pour la segmentation sémantique en télédétection** _J. Castillo Navarro, B. Le Saux, A. Boulch, S. Lefèvre_ [Colloque GRETSI](http://gretsi.fr/colloque2019/), Lille, France, Sept. 2019
 

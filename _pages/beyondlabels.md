@@ -6,18 +6,16 @@ author_profile: true
 ---
 
 
-Early 2021, I gave a series of talks on the topic of _Beyond Labels: Weakly-supervised, Continual and Semi-supervised Learning for Earth Observation_, in the following venues.
-* \[Jan. 2021, 10\] Keynote at [ICPR'2020-2021](https://www.micc.unifi.it/icpr2020/)/[Patt. Rec. in Remote Sensing workshop](http://iapr-tc7.ipb.uni-bonn.de/prrs2020/): [Slides]({{ site.url }}/files/ICPR21_PRRS_BLS_Beyond_Labels_Keynote_2021.pdf).
-* \[Jan. 2021, 14\] Talk at the [Dutch AI Technical Session](http://wijsmetlocatie-8026719.hs-sites.com/blog/save-the-date-technische-ai-sessie) organised by Iris Reimerink from [Netherlands' Kadaster](https://www.kadaster.nl/), with a focus on change detection.
-* \[Fev. 2021, 25\] Seminar at [CeADAR](https://www.ceadar.ie/), Ireland's Centre for Applied AI, [Seminar series](https://www.ceadar.ie/ceadar-online-tech-talks-feb-21/), with extension to Energy-based models.
+Early 2021, I gave a series of talks on the topic of *_Beyond Labels: Weakly-supervised, Continual and Semi-supervised Learning for Earth Observation_*, in the following venues.
+* \[Jan. 2021, 10\] Keynote at [*ICPR'2020-2021*](https://www.micc.unifi.it/icpr2020/)/[*PRRS workshop*](http://iapr-tc7.ipb.uni-bonn.de/prrs2020/): [Slides]({{ site.url }}/files/ICPR21_PRRS_BLS_Beyond_Labels_Keynote_2021.pdf).
+* \[Jan. 2021, 14\] Talk at the [*Dutch AI Technical Session*](http://wijsmetlocatie-8026719.hs-sites.com/blog/save-the-date-technische-ai-sessie) organised by Iris Reimerink from [Netherlands' Kadaster](https://www.kadaster.nl/), with a focus on change detection.
+* \[Fev. 2021, 25\] Seminar at Ireland's Centre for Applied AI, [*CeADAR*](https://www.ceadar.ie/) [*Seminar series*](https://www.ceadar.ie/ceadar-online-tech-talks-feb-21/), with extension to Energy-based models.
 
 
 The material for these presentations in mostly based on the works of [Javiera Castillo-Navarro](https://javicastillo.ml/), [Rodrigo Caye Daudt](https://rcdaudt.github.io/), [Gaston Lenczner](https://gaslen.github.io/) and [Veda Sunkara](https://cloudtostreet.info/veda-sunkara). Further information can be found in the following papers:
 
 **Multitask learning for large-scale semantic change detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ [Computer Vision and Image Understanding](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding) (CVIU), vol. 187, Oct. 2019
-
 \[ [doi](https://doi.org/10.1016/j.cviu) / [arxiv](https://arxiv.org/abs/1810.08452) / [pdf](https://arxiv.org/pdf/1810.08452.pdf) / [HRSCD dataset](https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset) \]
-
 **Guided Anisotropic Diffusion and Iterative Learning for Weakly Supervised Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE/CVF Conf. on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2019.thecvf.com/) / [EarthVision 19](https://www.grss-ieee.org/earthvision2019/)) Long Beach, Cal., USA, June 2019
 
 \[  <span style="color:orange;">Best Student Paper Award</span>  [pdf#1](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Daudt_Guided_Anisotropic_Diffusion_and_Iterative_Learning_for_Weakly_Supervised_Change_CVPRW_2019_paper.pdf) /  [pdf#2](http://rcdaudt.github.io/files/2019cvpr-gad.pdf) / [arxiv](https://arxiv.org/abs/1904.08208) \]
