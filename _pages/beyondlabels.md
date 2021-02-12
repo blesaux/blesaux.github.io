@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /io
+permalink: /beyondlabels
 title: "Beyond Labels: Weakly-supervised, Continual and Semi-supervised Learning for Earth Observation"
 author_profile: true
 ---
