@@ -24,6 +24,10 @@ Recent publications include:
 
 ## 2020
 
+**Street to Cloud: Improving Flood Maps With Crowdsourcing and Semantic Segmentation** _V. Sunkara, M. Purri, B. Le Saux, J. Adams_, [NeurIPS 2020](https://nips.cc/Conferences/2020/) [Workshop on Climate Change AI](https://www.climatechange.ai/events/neurips2020), virtual, December 2020
+
+\[ [CCAI page with video](https://www.climatechange.ai/papers/neurips2020/34.html) / [arxiv](https://arxiv.org/abs/2011.08010) \]
+
 **Large-Scale Semantic 3-D Reconstruction: Outcome of the 2019 IEEE GRSS Data Fusion Contest - Part B** _Yanchao Lian, Tuo Feng, Jinliu Zhou, Meixia Jia, Aijin Li, Zhaoyang Wu, Licheng Jiao, M. Brown, G. Hager, N. Yokoya, R. Hänsch, B. Le Saux_ IEEE JSTARS, 14, 1158-1170 November 2020
 
 \[ [doi](https://doi.org/10.1109/JSTARS.2020.3035274) (open access) / [DFC2019](http://www.grss-ieee.org/community/technical-committees/data-fusion/2019-ieee-grss-data-fusion-contest/) / [Dataset on dataport](https://ieee-dataport.org/open-access/data-fusion-contest-2019-dfc2019) \]

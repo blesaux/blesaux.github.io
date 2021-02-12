@@ -12,7 +12,7 @@ Early 2021, I gave a series of talks on the topic of _Beyond Labels: Weakly-supe
 * \[Fev. 2021, 25\] Seminar at [CeADAR](https://www.ceadar.ie/), Ireland's Centre for Applied AI, [Seminar series](https://www.ceadar.ie/ceadar-online-tech-talks-feb-21/), with extension to Energy-based models.
 
 
-The material for these presentations in mostly based on the works of [Javiera Castillo-Navarro](https://javicastillo.ml/), [Rodrigo Caye Daudt](https://rcdaudt.github.io/) and [Gaston Lenczner](https://gaslen.github.io/). Further information can be found in the following papers:
+The material for these presentations in mostly based on the works of [Javiera Castillo-Navarro](https://javicastillo.ml/), [Rodrigo Caye Daudt](https://rcdaudt.github.io/), [Gaston Lenczner](https://gaslen.github.io/) and [Veda Sunkara](https://cloudtostreet.info/veda-sunkara). Further information can be found in the following papers:
 
 **Multitask learning for large-scale semantic change detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ [Computer Vision and Image Understanding](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding) (CVIU), vol. 187, Oct. 2019
 
@@ -29,6 +29,10 @@ The material for these presentations in mostly based on the works of [Javiera Ca
 **Interactive Learning for Semantic Segmentation in Earth Observation** _G. Lenczner, B. Le Saux, N. Luminari, A. Chan-Hon-Tong, G. Le Besnerais_, [ECML/PKDD](https://ecmlpkdd2020.net/) [MACLEAN](https://sites.google.com/view/maclean2020/), Virtual / Ghent, Belgium, September 2020
 
 \[ <span style="color:orange;">Best Student Paper [Award](https://sites.google.com/view/maclean2020/program)</span> / [local pdf]({{ site.url }}/files/Gaston-Lenczner_DISCA_ECMLPKDD2020.pdf) / [ext pdf](https://drive.google.com/file/d/11DzAwKGPvGvC7kOtN3FiqVZVAAFGU4-X/view?usp=sharing) / [DISIR/DISCA video](https://www.youtube.com/watch?v=txN8L2mHYrM) / [DISCA code](https://github.com/delair-ai/DISCA) \]
+
+**Street to Cloud: Improving Flood Maps With Crowdsourcing and Semantic Segmentation** _V. Sunkara, M. Purri, B. Le Saux, J. Adams_, [NeurIPS 2020](https://nips.cc/Conferences/2020/) [Workshop on Climate Change AI](https://www.climatechange.ai/events/neurips2020), virtual, December 2020
+
+\[ [CCAI page with video](https://www.climatechange.ai/papers/neurips2020/34.html) / [arxiv](https://arxiv.org/abs/2011.08010) \]
 
 **On Auxiliary Losses for Semi-Supervised Semantic Segmentation** _J. Castillo-Navarro, B. Le Saux, A. Boulch, S. Lefèbre_, [ECML/PKDD](https://ecmlpkdd2020.net/) [MACLEAN](https://sites.google.com/view/maclean2020/), Virtual / Ghent, Belgium, September 2020
 
