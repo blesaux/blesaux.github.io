@@ -25,10 +25,6 @@ PhD Univ. Bretagne Sud co-supervised with [Alexandre Boulch](https://aboulch.git
 ## Undergrad / MSc. Students
 <a name="MSc"></a>
 
-[**Daniela Zaidenberg**: Quantum Neural Nets for Earth Observation Classification]() \[2021\]  
-BSc from [MIT](https://misti.mit.edu/) co-supervised with Alessandro Sebastianelli and Silvia Ullo ([Uni. Sannio](https://www.unisannio.it/))
-
-
 {% for post in site.students reversed %} {% if post.type == "msc" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
 
 ## Past Post-Doc
@@ -57,6 +53,9 @@ PhD co-supervised with [Marin Ferecatu](http://cedric.cnam.fr/~ferecatm/) and [M
 
 ## Past Undergrad / MSc. Students
 <a name="PastMSc"></a>
+
+[**Daniela Zaidenberg**: Quantum Neural Nets for Earth Observation Classification]() \[2021\]  
+BSc from [MIT](https://misti.mit.edu/) co-supervised with Alessandro Sebastianelli and Silvia Ullo ([Uni. Sannio](https://www.unisannio.it/))
 
 [**Rémy Leroy**: Deep neural networks for 3D point cloud prediction from a single image]({{ site.url }}/students/remy-msc) \[2019\]  
 M.Eng. from [IMT Atlantique](https://www.imt-atlantique.fr/en) in 2019 co-supervised with [Marcela Carvalho](http://mcarvalho.ml/), now PhD student.
