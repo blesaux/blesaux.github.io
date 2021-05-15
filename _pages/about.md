@@ -10,9 +10,9 @@ redirect_from:
 
 I am a research scientist who designs data-driven techniques for visual understanding in the [Φ-lab](https://philab.phi.esa.int/) at [ESA](http://www.esa.int/)/[ESRIN](http://www.esa.int/About_Us/ESRIN).
 
-My work is at the crossroads of statistics, machine learning, image processing and computer vision. I am interested in tackling practical problems that arise in Earth observation, to bring solutions to current environment and population challenges. For current works, check [the resources on _learning beyond labels_]({{ site.url }}/beyondlabels) or [my latest publications]({{ site.url }}/publications).
+My work is at the crossroads of statistics, machine learning, image processing, computer vision, and now quantum computing. I am interested in tackling practical problems that arise in Earth observation, to bring solutions to current environment and population challenges. For current works, check [the resources on _learning beyond labels_]({{ site.url }}/beyondlabels) or [my latest publications]({{ site.url }}/publications).
 
-I am an associate editor of the [Geoscience and Remote Sensing Letters (GRSL)](http://www.grss-ieee.org/publication-category/grsl/). I co-organise the CVPR Earth Vision worskhop series (next edition: [CVPR'2021](http://cvpr2021.thecvf.com/)/[EarthVision'21 workshop](https://www.grss-ieee.org/earthvision2021/)).
+I am an associate editor of the [Geoscience and Remote Sensing Letters (GRSL)](http://www.grss-ieee.org/publication-category/grsl/). I co-organise the CVPR Earth Vision worskhop series (next edition: [CVPR'2021](http://cvpr2021.thecvf.com/)/[EarthVision'21 workshop](https://www.grss-ieee.org/earthvision2021/)). I am currently a guest editor of [J. of Selected Topics in Applied Earth Observation and Remote Sensing (JSTARS)](http://www.grss-ieee.org/publication-category/jstars/) for the special issue about ["Quantum resources for Earth Observation"](http://www.grss-ieee.org/wp-content/uploads/2020/12/CFP.Quantum_resources_for_Earth_Observation.pdf) til end of November 2021.
 
 [Full bio]({{ site.url }}/io).
 
