@@ -25,13 +25,13 @@ Recent publications include:
 
 \[ [abstract](https://openreview.net/forum?id=1CtqZ1MvAFp) / [pdf](https://openreview.net/pdf?id=1CtqZ1MvAFp)  \]
 
-**Semi-Supervised Semantic Segmentation in Earth Observation: The MiniFrance Suite, Dataset Analysis and Multi-task Network Study** _J. Castillo-Navarro, B. Le Saux, A. Boulch, N. Audebert, S. Lefèbre_, [Maching Learning Journal](https://www.springer.com/journal/10994), April 2021.
-
-\[ [_editor version_](https://link.springer.com/article/10.1007/s10994-020-05943-y) / [local file]({{ site.url }}/files/JCN_MiniFrance_ML2020_final.pdf) / [arxiv](https://arxiv.org/abs/2010.07830v1) / [hal](https://hal.archives-ouvertes.fr/hal-03132924) / [MiniFrance dataset](https://ieee-dataport.org/open-access/minifrance) \]
-
 **Machine learning for earth system observation and prediction** _M. Bonavita, R. Arcucci, A. Carrassi, P. Dueben, A. J Geer, B. Le Saux, N. Longépé, P.-P. Mathieu, L. Raynaud_, [Bulletin of the American Meteorological Society (BAMS)](https://journals.ametsoc.org/view/journals/bams/bams-overview.xml) 102 (4) April 2021.
 
 \[ [article](https://journals.ametsoc.org/view/journals/bams/102/4/BAMS-D-20-0307.1.xml) / [doi](https://doi.org/10.1175/BAMS-D-20-0307.1) / [ECMWF-ESA Workshop on Machine Learning for Earth System Observation and Prediction (ML4ESOP)](https://events.ecmwf.int/event/172/) \]
+
+**Semi-Supervised Semantic Segmentation in Earth Observation: The MiniFrance Suite, Dataset Analysis and Multi-task Network Study** _J. Castillo-Navarro, B. Le Saux, A. Boulch, N. Audebert, S. Lefèbre_, [Maching Learning Journal](https://www.springer.com/journal/10994), April 2021.
+
+\[ [_editor version_](https://link.springer.com/article/10.1007/s10994-020-05943-y) / [local file]({{ site.url }}/files/JCN_MiniFrance_ML2020_final.pdf) / [arxiv](https://arxiv.org/abs/2010.07830v1) / [hal](https://hal.archives-ouvertes.fr/hal-03132924) / [MiniFrance dataset](https://ieee-dataport.org/open-access/minifrance) \]
 
 ## 2020
 
