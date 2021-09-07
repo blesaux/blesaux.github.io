@@ -17,6 +17,27 @@ Recent publications include:
 
 ## 2021
 
+**How to find a good image-text embedding for remote sensing visual question answering?** _C. Chappuis, , S. Lobry, B. Kellenberger, B. Le Saux, D. Tuia_, [ECML-PKDD 2021]() / [MACLEAN workshop](https://sites.google.com/view/maclean21/), Sept. 2021.
+
+\[ [pdf]() \]
+
+**Pix2Point: Learning Outdoor 3D Using Sparse Point Clouds and Optimal Transport** _R. Leroy, P. Trouvé, F. Champagnat, B. Le Saux, M. Carvalho_, [MVA 2021](http://www.mva-org.jp/mva2021/), August 2021.
+
+\[ [MVA'21 pdf](http://www.mva-org.jp/Proceedings/2021/papers/P2-8.pdf) / [arxiv](https://arxiv.org/abs/2107.14498) / [arxiv pdf](https://arxiv.org/pdf/2107.14498.pdf) \]
+
+**Advantages and Bottlenecks of Quantum Machine Learning for Remote Sensing** _D. Zaidenberg, A. Sebastianelli, D. Spiller, B. Le Saux, S. L. Ullo_, [IGARSS 2021](https://igarss2021.com/), July 2021.
+
+\[ [pdf]() / [arxiv](https://arxiv.org/abs/2101.10657) / [arxiv pdf](https://arxiv.org/pdf/2101.10657.pdf) / [IGARSS info](https://igarss2021.com/view_paper.php?PaperNum=4016)  \]
+
+**Classification and Generation of Earth-observation Images using a Join Energy-based Model** _J. Castillo-Navarro, B. Le Saux, A. Boulch, S. Lefèbre_, [IGARSS 2021](https://igarss2021.com/), July 2021.
+
+\[ [pdf]() / [IGARSS info](https://igarss2021.com/view_paper.php?PaperNum=3469)  \]
+
+**Long-term Burned Area Reconstruction through Deep Learning** _S. Lampe, B. Le Saux, I. Vanderkelen, W. Thiery_, [ICML 2021](https://icml.cc/) / [Climate Change AI workshop](https://www.climatechange.ai/events/icml2021.html), July 2021.
+
+\[ [abstract](https://www.climatechange.ai/papers/icml2021/72) / [pdf](https://www.climatechange.ai/papers/icml2021/72/paper.pdf) / [slides](https://www.climatechange.ai/papers/icml2021/72/slides.pdf)  \]
+
+
 **Weakly supervised change detection using guided anisotropic diffusion** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_, [Maching Learning Journal](https://www.springer.com/journal/10994), June 2021.
 
 \[ [_editor version_](https://link.springer.com/article/10.1007/s10994-020-05943-y) \]
@@ -116,8 +137,6 @@ Recent publications include:
 **Advanced Multi-Sensor Optical Remote Sensing for Urban Land Use and Land Cover Classification: Outcome of the 2018 IEEE GRSS Data Fusion Contest** _Y. Xu, B. Du, L. Zhang, D. Cerra, M. Pato, E. Carmona, S. Prasad, N. Yokoya, R. Hänsch, B. Le Saux_ IEEE JSTARS, June 2019
 
 \[ [doi](https://doi.org/10.1109/JSTARS.2019.2911113) (open access) / [DFC2018](http://www.grss-ieee.org/community/technical-committees/data-fusion/2018-ieee-grss-data-fusion-contest/) \]
-
-
 
 **Guided Anisotropic Diffusion and Iterative Learning for Weakly Supervised Change Detection** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_ IEEE/CVF Conf. on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2019.thecvf.com/) / [EarthVision 19](https://www.grss-ieee.org/earthvision2019/)) Long Beach, Cal., USA, June 2019
 
