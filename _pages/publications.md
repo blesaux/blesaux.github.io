@@ -21,6 +21,10 @@ Recent publications include:
 
 \[ [pdf]() \]
 
+**Deep Learning‐based Semantic Segmentation in Remote Sensing** _D. Tuia, D. Marcos, K. Schindler, B. Le Saux_ chapter of: **Deep learning for the Earth Sciences** _G. Camps-Valls, D. Tuia, XX Zhu, M. Reichstein (ed)_, Wiley, 2021
+
+\[ [doi](https://doi.org/10.1002/9781119646181.ch5) \]
+
 **Pix2Point: Learning Outdoor 3D Using Sparse Point Clouds and Optimal Transport** _R. Leroy, P. Trouvé, F. Champagnat, B. Le Saux, M. Carvalho_, [MVA 2021](http://www.mva-org.jp/mva2021/), August 2021.
 
 \[ [MVA'21 pdf](http://www.mva-org.jp/Proceedings/2021/papers/P2-8.pdf) / [arxiv](https://arxiv.org/abs/2107.14498) / [arxiv pdf](https://arxiv.org/pdf/2107.14498.pdf) \]
