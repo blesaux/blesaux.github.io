@@ -12,7 +12,7 @@ author_profile: true
 
 Below are various events that were worth a post in the [_news_](../news/) section in the past:
 
-* \[Fev. 2021\] On 25th, I talk in the seminar at Ireland's Centre for Applied AI, [**CeADAR**](https://www.ceadar.ie/) [**Seminar series**](https://www.ceadar.ie/ceadar-online-tech-talks-feb-21/), still beyond supervised learning, this time with extension to energy-based models.
+* \[Fev. 2021\] On 25th, I talk in the seminar at Ireland's Centre for Applied AI, [**CeADAR**](https://www.ceadar.ie/) [**Seminar series**](https://www.ceadar.ie/ceadar-online-tech-talks-feb-21/), still about _beyond supervised learning_, this time with extension to energy-based models.
 * \[Jan. 2021\] On 14th, I talk at the [**Dutch AI Technical Session**](http://wijsmetlocatie-8026719.hs-sites.com/blog/save-the-date-technische-ai-sessie) organised by Iris Reimerink from [Netherlands' Kadaster](https://www.kadaster.nl/), with a focus on change detection.
 * \[Jan. 2020\] On 10th I give the Keynote talk at [**ICPR'2020-2021**](https://www.micc.unifi.it/icpr2020/)/[**PRRS workshop**](http://iapr-tc7.ipb.uni-bonn.de/prrs2020/): _"Beyond Labels: Weakly-supervised, Continual and Semi-supervised Learning for Earth Observation"_ [Slides]({{ site.url }}/files/ICPR21_PRRS_BLS_Beyond_Labels_Keynote_2021.pdf).
 * \[Dec. 2020\] I am reviewer and committee in Antoine d'Acremont's PhD defence, held between [IMT Atlantique](https://www.imt-atlantique.fr/en) and [Troyes Institute of Technology](https://www.utt.fr/study-at-utt). Antoine's thesis _Neural Nets for Object Classification in Infra-Red Imagery_ was supervised by [Alexandre Baussard](https://recherche.utt.fr/icd-directory/alexandre-baussard), [Ronan Fablet](https://rfablet.github.io/) and Guillaume Quin.
