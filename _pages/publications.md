@@ -21,7 +21,7 @@ Recent publications include:
 
 \[ [arxiv](https://arxiv.org/abs/2109.09484) / [arxiv pdf](https://arxiv.org/pdf/2109.09484.pdf) / [code](https://github.com/ESA-PhiLab/QNN4EO) \]
 
-**How to find a good image-text embedding for remote sensing visual question answering?** _C. Chappuis, , S. Lobry, B. Kellenberger, B. Le Saux, D. Tuia_, [ECML-PKDD 2021]() / [MACLEAN workshop](https://sites.google.com/view/maclean21/), Sept. 2021.
+**How to find a good image-text embedding for remote sensing visual question answering?** _C. Chappuis, S. Lobry, B. Kellenberger, B. Le Saux, D. Tuia_, [ECML-PKDD 2021]() / [MACLEAN workshop](https://sites.google.com/view/maclean21/), Sept. 2021.
 
 \[ [CEUR pdf]() / [arxiv](https://arxiv.org/abs/2109.11848) / [arxiv pdf](https://arxiv.org/pdf/2109.11848.pdf) / [video](https://tube.switch.ch/videos/uvBPd4XtZ8) \]
 
