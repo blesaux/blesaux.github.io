@@ -9,7 +9,7 @@ I am a research scientist who designs data-driven techniques for visual understa
 
 My work is at the crossroads of statistics, machine learning, image processing, computer vision, and now quantum computing. I am interested in tackling practical problems that arise in Earth observation, to bring solutions to current environment and population challenges.
 
-I am an Associate Editor of the [Geoscience and Remote Sensing Letters](http://www.grss-ieee.org/publication-category/grsl/). I co-organise the CVPR Earth Vision worskhop series (current/last edition: [CVPR'2021](http://cvpr2021.thecvf.com/)/[EarthVision'21 workshop](http://www.classic.grss-ieee.org/earthvision2021/index.html).
+I am an Associate Editor of the [Geoscience and Remote Sensing Letters](http://www.grss-ieee.org/publication-category/grsl/). I co-organise the CVPR Earth Vision worskhop series (current/last edition: [CVPR'2021](http://cvpr2021.thecvf.com/)/[EarthVision'21 workshop](http://www.classic.grss-ieee.org/earthvision2021/index.html)).
 
 In earlier times, I did my PhD at with [INRIA](https://www.inria.fr/en/)/[Imedia team](https://www.inria.fr/en/teams/imedia) and [University of Versailles](http://www.uvsq.fr), near Paris, France. I also spent some time at [CNR](https://www.cnr.it/en) / [Istituto di Scienza e Tecnologie dell'Informazione (ISTI)](https://www.isti.cnr.it/) in Pisa, Italy, at [University of Bern](https://www.unibe.ch/index_eng.html) / [Institut für Informatik](http://www.inf.unibe.ch/) in Bern, Switzerland, and at [ENS Paris Saclay](https://ens-paris-saclay.fr/en) (was Cachan) / [Centre des Mathématiques et de Leurs Applications (CMLA)](http://cmla.ens-paris-saclay.fr/version-anglaise/). From 2008 to 2020, I was a research scientist at [ONERA](https://www.onera.fr/en), the French aerospace laboratory, near Paris, France, developing machine learning and computer vision for multimedia, robotics and Earth observation. In 2019, I obtained my [Habilitation (HDR)]({{ site.url }}/publications/habil) from [University Paris-Saclay](https://www.universite-paris-saclay.fr/en/doctoral-schools/sciences-and-technologies-information-and-communication).
  
@@ -25,7 +25,7 @@ I was a co-organizer of:
 * the [ESA](https://www.esa.int/) - [ECMWF](https://www.ecmwf.int/) workshops on [Machine Learning for Earth System Observation and Prediction](https://www.ml4esop.esa.int/) in 2020 and 2021, 
 * the [2021 Workshop on Quantum Algorithms and Machine Learning for Huge Data Analysis, Simulation and Potential Earth Observation Applications](https://ellisqphml.github.io/ellisphilab2021) with [ELLIS society](https://ellis.eu/),
 * the 2nd [conference on "Space and AI"](http://spaceandai.ijs.si/) co-located with [ECML-PKDD'21](https://2021.ecmlpkdd.org/) with [CLAIRE AI society](https://claire-ai.org).
-* 
+
 I have been guest editor for:
 * 2018/2019 [Geoscience and Remote Sensing Letters](http://www.grss-ieee.org/publication-category/grsl/) special stream on [Advanced Processing for Multimodal Optical Remote Sensing Imagery](http://www.grss-ieee.org/letters/special-streams/multimodal-2018/).
 * 2019/2020 [J. of Selected Topics in Applied Earth Observation and Remote Sensing (JSTARS)](http://www.grss-ieee.org/publication-category/jstars/) for the special issue about ["Computer Vision-based Approaches for Earth Observation"](http://www.grss-ieee.org/wp-content/uploads/2019/08/Call_for_Paper_Computer_Vision.pdf)
