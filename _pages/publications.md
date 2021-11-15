@@ -19,7 +19,7 @@ Recent publications include:
 
 **Energy-based Models in Earth Observation: from Generation to Semi-supervised Learning** _J. Castillo-Navarro, B. Le Saux, A. Boulch, S. Lefèbre_, [IEEE Trans. on Geosciences and Remote Sensing (TGRS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36), November 2021.
 
-\[ [TGRS pdf](https://ieeexplore.ieee.org/document/9606737) / [doi](https://doi.org/10.1109/TGRS.2021.3126428) / [arxiv - to appear]()   \]
+\[ [TGRS pdf](https://ieeexplore.ieee.org/document/9606737) / [doi](https://doi.org/10.1109/TGRS.2021.3126428) / [arxiv (to appear)]()   \]
 
 **CORTEX: An innovative solution for AI on-board**, R. Ruiloba, A. Lagrange, N.-M. Lemoine, F. De Vieilleville, B. Le Saux, [European CubeSat Symposium](https://www.cubesatsymposium.eu), Nov. 2021
 
@@ -31,7 +31,7 @@ Recent publications include:
 
 **How to find a good image-text embedding for remote sensing visual question answering?** _C. Chappuis, S. Lobry, B. Kellenberger, B. Le Saux, D. Tuia_, [ECML-PKDD 2021](https://2021.ecmlpkdd.org/) / [MACLEAN workshop](https://sites.google.com/view/maclean21/), Sept. 2021.
 
-\[ [CEUR pdf]() / [arxiv](https://arxiv.org/abs/2109.11848) / [arxiv pdf](https://arxiv.org/pdf/2109.11848.pdf) / [video](https://tube.switch.ch/videos/uvBPd4XtZ8) \]
+\[ [CEUR pdf (to appear)]() / [arxiv](https://arxiv.org/abs/2109.11848) / [arxiv pdf](https://arxiv.org/pdf/2109.11848.pdf) / [video](https://tube.switch.ch/videos/uvBPd4XtZ8) \]
 
 **Deep Learning‐based Semantic Segmentation in Remote Sensing** _D. Tuia, D. Marcos, K. Schindler, B. Le Saux_ chapter of: **Deep learning for the Earth Sciences** _G. Camps-Valls, D. Tuia, XX Zhu, M. Reichstein (ed)_, Wiley, 2021
 
@@ -43,11 +43,11 @@ Recent publications include:
 
 **Advantages and Bottlenecks of Quantum Machine Learning for Remote Sensing** _D. Zaidenberg, A. Sebastianelli, D. Spiller, B. Le Saux, S. L. Ullo_, [IGARSS 2021](https://igarss2021.com/), July 2021.
 
-\[ [pdf]() / [arxiv](https://arxiv.org/abs/2101.10657) / [arxiv pdf](https://arxiv.org/pdf/2101.10657.pdf) / [IGARSS info](https://igarss2021.com/view_paper.php?PaperNum=4016)  \]
+\[ [pdf (to appear)]() / [arxiv](https://arxiv.org/abs/2101.10657) / [arxiv pdf](https://arxiv.org/pdf/2101.10657.pdf) / [IGARSS info](https://igarss2021.com/view_paper.php?PaperNum=4016)  \]
 
 **Classification and Generation of Earth-observation Images using a Join Energy-based Model** _J. Castillo-Navarro, B. Le Saux, A. Boulch, S. Lefèbre_, [IGARSS 2021](https://igarss2021.com/), July 2021.
 
-\[ [pdf]() / [IGARSS info](https://igarss2021.com/view_paper.php?PaperNum=3469)  \]
+\[ [pdf (to appear)]() / [IGARSS info](https://igarss2021.com/view_paper.php?PaperNum=3469)  \]
 
 **Long-term Burned Area Reconstruction through Deep Learning** _S. Lampe, B. Le Saux, I. Vanderkelen, W. Thiery_, [ICML 2021](https://icml.cc/) / [Climate Change AI workshop](https://www.climatechange.ai/events/icml2021.html), July 2021.
 
