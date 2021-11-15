@@ -18,9 +18,58 @@ All publications are listed below:
 
 ## 2021
 
-**Semi-Supervised Semantic Segmentation in Earth Observation: The MiniFrance Suite, Dataset Analysis and Multi-task Network Study** _J. Castillo-Navarro, B. Le Saux, A. Boulch, N. Audebert, S. Lefèbre_, [Maching Learning](https://www.springer.com/journal/10994), accepted, to appear.
+**Energy-based Models in Earth Observation: from Generation to Semi-supervised Learning** _J. Castillo-Navarro, B. Le Saux, A. Boulch, S. Lefèbre_, [IEEE Trans. on Geosciences and Remote Sensing (TGRS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36), November 2021.
 
-\[ [_editor version_]() / [local file]({{ site.url }}/files/JCN_MiniFrance_ML2020_final.pdf) / [arxiv](https://arxiv.org/abs/2010.07830v1) / [MiniFrance dataset](https://ieee-dataport.org/open-access/minifrance) \]
+\[ [TGRS pdf](https://ieeexplore.ieee.org/document/9606737) / [doi](https://doi.org/10.1109/TGRS.2021.3126428) / [arxiv (to appear)]()   \]
+
+**CORTEX: An innovative solution for AI on-board**, R. Ruiloba, A. Lagrange, N.-M. Lemoine, F. De Vieilleville, B. Le Saux, [European CubeSat Symposium](https://www.cubesatsymposium.eu), Nov. 2021
+
+\[ [pdf (to appear)]() / [Project page](https://esacortexproject.agenium-space.com/) / [Sentinel 2 Ship detection dataset](https://zenodo.org/record/3923841) \]
+
+**On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification**, _A. Sebastianelli, D. A. Zaidenberg, D. Spiller, B. Le Saux, S. L. Ullo_, _to appear_, Sep. 2021
+
+\[ [arxiv](https://arxiv.org/abs/2109.09484) / [arxiv pdf](https://arxiv.org/pdf/2109.09484.pdf) / [code](https://github.com/ESA-PhiLab/QNN4EO) \]
+
+**How to find a good image-text embedding for remote sensing visual question answering?** _C. Chappuis, S. Lobry, B. Kellenberger, B. Le Saux, D. Tuia_, [ECML-PKDD 2021](https://2021.ecmlpkdd.org/) / [MACLEAN workshop](https://sites.google.com/view/maclean21/), Sept. 2021.
+
+\[ [CEUR pdf (to appear)]() / [arxiv](https://arxiv.org/abs/2109.11848) / [arxiv pdf](https://arxiv.org/pdf/2109.11848.pdf) / [video](https://tube.switch.ch/videos/uvBPd4XtZ8) \]
+
+**Deep Learning‐based Semantic Segmentation in Remote Sensing** _D. Tuia, D. Marcos, K. Schindler, B. Le Saux_ chapter of: **Deep learning for the Earth Sciences** _G. Camps-Valls, D. Tuia, XX Zhu, M. Reichstein (ed)_, Wiley, 2021
+
+\[ [doi](https://doi.org/10.1002/9781119646181.ch5) \]
+
+**Pix2Point: Learning Outdoor 3D Using Sparse Point Clouds and Optimal Transport** _R. Leroy, P. Trouvé, F. Champagnat, B. Le Saux, M. Carvalho_, [MVA 2021](http://www.mva-org.jp/mva2021/), August 2021.
+
+\[ [MVA'21 pdf](http://www.mva-org.jp/Proceedings/2021/papers/P2-8.pdf) / [arxiv](https://arxiv.org/abs/2107.14498) / [arxiv pdf](https://arxiv.org/pdf/2107.14498.pdf) \]
+
+**Advantages and Bottlenecks of Quantum Machine Learning for Remote Sensing** _D. Zaidenberg, A. Sebastianelli, D. Spiller, B. Le Saux, S. L. Ullo_, [IGARSS 2021](https://igarss2021.com/), July 2021.
+
+\[ [IEEE pdf](https://ieeexplore.ieee.org/document/9553133) / [arxiv](https://arxiv.org/abs/2101.10657) / [arxiv pdf](https://arxiv.org/pdf/2101.10657.pdf) / [IGARSS info](https://igarss2021.com/view_paper.php?PaperNum=4016)  \]
+
+**Classification and Generation of Earth-observation Images using a Joint Energy-based Model** _J. Castillo-Navarro, B. Le Saux, A. Boulch, S. Lefèbre_, [IGARSS 2021](https://igarss2021.com/), July 2021.
+
+\[ [IEEE pdf](https://ieeexplore.ieee.org/document/9553440) / [IGARSS info](https://igarss2021.com/view_paper.php?PaperNum=3469)  \]
+
+**Long-term Burned Area Reconstruction through Deep Learning** _S. Lampe, B. Le Saux, I. Vanderkelen, W. Thiery_, [ICML 2021](https://icml.cc/) / [Climate Change AI workshop](https://www.climatechange.ai/events/icml2021.html), July 2021.
+
+\[ [abstract](https://www.climatechange.ai/papers/icml2021/72) / [pdf](https://www.climatechange.ai/papers/icml2021/72/paper.pdf) / [slides](https://www.climatechange.ai/papers/icml2021/72/slides.pdf)  \]
+
+
+**Weakly supervised change detection using guided anisotropic diffusion** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_, [Maching Learning Journal](https://www.springer.com/journal/10994), June 2021.
+
+\[ [_editor version_](https://link.springer.com/article/10.1007/s10994-021-06008-4) / [doi](https://doi.org/10.1007/s10994-021-06008-4) \]
+
+**Energy-based Models for Earth Observation Applications** _J. Castillo-Navarro, B. Le Saux, A. Boulch, S. Lefèbre_, [ICLR 2021](https://iclr.cc/virtual/2021) / [Energy-based Model workshop](https://sites.google.com/view/ebm-workshop-iclr2021), April 2021.
+
+\[ [abstract](https://openreview.net/forum?id=1CtqZ1MvAFp) / [pdf](https://openreview.net/pdf?id=1CtqZ1MvAFp)  \]
+
+**Machine learning for Earth system observation and prediction** _M. Bonavita, R. Arcucci, A. Carrassi, P. Dueben, A. J Geer, B. Le Saux, N. Longépé, P.-P. Mathieu, L. Raynaud_, [Bulletin of the American Meteorological Society (BAMS)](https://journals.ametsoc.org/view/journals/bams/bams-overview.xml) 102 (4) April 2021.
+
+\[ [article](https://journals.ametsoc.org/view/journals/bams/102/4/BAMS-D-20-0307.1.xml) / [doi](https://doi.org/10.1175/BAMS-D-20-0307.1) / [ECMWF-ESA Workshop on Machine Learning for Earth System Observation and Prediction (ML4ESOP)](https://events.ecmwf.int/event/172/) \]
+
+**Semi-Supervised Semantic Segmentation in Earth Observation: The MiniFrance Suite, Dataset Analysis and Multi-task Network Study** _J. Castillo-Navarro, B. Le Saux, A. Boulch, N. Audebert, S. Lefèbre_, [Maching Learning Journal](https://www.springer.com/journal/10994), April 2021.
+
+\[ [_editor version_](https://link.springer.com/article/10.1007/s10994-020-05943-y) / [doi](https://doi.org/10.1007/s10994-020-05943-y) / [local file]({{ site.url }}/files/JCN_MiniFrance_ML2020_final.pdf) / [arxiv](https://arxiv.org/abs/2010.07830v1) / [hal](https://hal.archives-ouvertes.fr/hal-03132924) / [MiniFrance dataset](https://ieee-dataport.org/open-access/minifrance) \]
 
 ## 2020
 
@@ -38,16 +87,15 @@ All publications are listed below:
 
 **Interactive Learning for Semantic Segmentation in Earth Observation** _G. Lenczner, B. Le Saux, N. Luminari, A. Chan-Hon-Tong, G. Le Besnerais_, [ECML/PKDD](https://ecmlpkdd2020.net/) [MACLEAN](https://sites.google.com/view/maclean2020/), Virtual / Ghent, Belgium, September 2020
 
-\[ <span style="color:orange;">Best Student Paper [Award](https://sites.google.com/view/maclean2020/program)</span> / [local pdf]({{ site.url }}/files/Gaston-Lenczner_DISCA_ECMLPKDD2020.pdf) / [ext pdf](https://drive.google.com/file/d/11DzAwKGPvGvC7kOtN3FiqVZVAAFGU4-X/view?usp=sharing) / [DISIR/DISCA video](https://www.youtube.com/watch?v=txN8L2mHYrM) / [DISCA code](https://github.com/delair-ai/DISCA) \]
+\[ <span style="color:orange;">Best Student Paper [Award](https://sites.google.com/view/maclean2020/program)</span> / [local pdf]({{ site.url }}/files/Gaston-Lenczner_DISCA_ECMLPKDD2020.pdf) / [CEUR Proc.](http://ceur-ws.org/Vol-2766/) / [ext pdf](http://ceur-ws.org/Vol-2766/paper1.pdf) / [DISIR/DISCA video](https://www.youtube.com/watch?v=txN8L2mHYrM) / [DISCA code](https://github.com/delair-ai/DISCA) \]
 
 **On Auxiliary Losses for Semi-Supervised Semantic Segmentation** _J. Castillo-Navarro, B. Le Saux, A. Boulch, S. Lefèbre_, [ECML/PKDD](https://ecmlpkdd2020.net/) [MACLEAN](https://sites.google.com/view/maclean2020/), Virtual / Ghent, Belgium, September 2020
 
-\[ [local pdf]({{ site.url }}/files/castillo_self-supervised-losses-4-semi-sup_ECMLPKDD2020.pdf) / [ext pdf](https://drive.google.com/file/d/1TAb4k6VgvTDZuw1LM7p8j3_QDXWBk5EZ/view?usp=sharing) / [video](https://www.youtube.com/watch?v=PjRpFidKxp4) \]
+\[ [local pdf]({{ site.url }}/files/castillo_self-supervised-losses-4-semi-sup_ECMLPKDD2020.pdf) / [CEUR Proc.](http://ceur-ws.org/Vol-2766/) / [ext pdf](http://ceur-ws.org/Vol-2766/paper3.pdf) / [video](https://www.youtube.com/watch?v=PjRpFidKxp4) \]
 
 **DISIR: Deep image segmentation with interactive refinement** _G. Lenczner, B. Le Saux, N. Luminari, A. Chan-Hon-Tong, G. Le Besnerais_, ISPRS Annals, Virtual / Nice, France, August 2020
 
 \[ [local pdf]({{ site.url }}/files/Gaston-Lenczner_DISIR_isprs2020_final.pdf) / [ISPRS ann.](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2020/877/2020/) / [ISPRS video](https://isprs.stream-up.tv/media-44-disir-deep-image-segmentation-with-interactive-refinement) / [arxiv](https://arxiv.org/abs/2003.14200) / [DISIR code](https://github.com/delair-ai/DISIR) \]
-
 
 **Flood detection in times series of optical and SAR images** _C. Rambour, N. Audebert, É. Koeniguer, B. Le Saux, M. Crucianu, M. Datcu_, ISPRS Archives, Virtual / Bice, France, August 2020
 
@@ -57,14 +105,14 @@ All publications are listed below:
 
 \[ [local pdf]({{ site.url }}/files/NAOMI_HSI_proc_vege_hydrocarbon_det_ISPRS2020.pdf) / [ISPRS arch.](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B3-2020/395/2020/) / [hal](https://hal.archives-ouvertes.fr/hal-02924091) \]
 
-
 **Segmentation sémantique d'images aériennes avec améliorations interactives**_G. Lenczner, B. Le Saux, N. Luminari, A. Chan-Hon-Tong, G. Le Besnerais_, [RFIAP](https://cap-rfiap2020.sciencesconf.org/), Virtual / Vannes, France, June 2020
 
-\[ [pdf](https://cap-rfiap2020.sciencesconf.org/data/RFIAP_2020_paper_10.pdf) / [video](https://youtu.be/i-sOE6Q_aR8) / []() / []() \]
+\[ [pdf](https://cap-rfiap2020.sciencesconf.org/data/RFIAP_2020_paper_10.pdf) / [video](https://youtu.be/i-sOE6Q_aR8) \]
 
 **Pix2Point : prédiction monoculaire de scènes 3D par réseaux de neurones hybrides et transport optimal**, _Rémy Leroy, Bertrand Le Saux, Marcela Carvalho, Pauline Trouvé-Peloux, and Frédéric Champagnat_, [RFIAP](https://cap-rfiap2020.sciencesconf.org/), Virtual / Vannes, France, June 2020
 
 \[ [pdf](https://cap-rfiap2020.sciencesconf.org/data/RFIAP_2020_paper_27.pdf)  \]
+
 
 ## 2019
 
