@@ -43,11 +43,11 @@ Recent publications include:
 
 **Advantages and Bottlenecks of Quantum Machine Learning for Remote Sensing** _D. Zaidenberg, A. Sebastianelli, D. Spiller, B. Le Saux, S. L. Ullo_, [IGARSS 2021](https://igarss2021.com/), July 2021.
 
-\[ [pdf (to appear)]() / [arxiv](https://arxiv.org/abs/2101.10657) / [arxiv pdf](https://arxiv.org/pdf/2101.10657.pdf) / [IGARSS info](https://igarss2021.com/view_paper.php?PaperNum=4016)  \]
+\[ [IEEE pdf](https://ieeexplore.ieee.org/document/9553133) / [arxiv](https://arxiv.org/abs/2101.10657) / [arxiv pdf](https://arxiv.org/pdf/2101.10657.pdf) / [IGARSS info](https://igarss2021.com/view_paper.php?PaperNum=4016)  \]
 
-**Classification and Generation of Earth-observation Images using a Join Energy-based Model** _J. Castillo-Navarro, B. Le Saux, A. Boulch, S. Lefèbre_, [IGARSS 2021](https://igarss2021.com/), July 2021.
+**Classification and Generation of Earth-observation Images using a Joint Energy-based Model** _J. Castillo-Navarro, B. Le Saux, A. Boulch, S. Lefèbre_, [IGARSS 2021](https://igarss2021.com/), July 2021.
 
-\[ [pdf (to appear)]() / [IGARSS info](https://igarss2021.com/view_paper.php?PaperNum=3469)  \]
+\[ [IEEE pdf](https://ieeexplore.ieee.org/document/9553440) / [IGARSS info](https://igarss2021.com/view_paper.php?PaperNum=3469)  \]
 
 **Long-term Burned Area Reconstruction through Deep Learning** _S. Lampe, B. Le Saux, I. Vanderkelen, W. Thiery_, [ICML 2021](https://icml.cc/) / [Climate Change AI workshop](https://www.climatechange.ai/events/icml2021.html), July 2021.
 
