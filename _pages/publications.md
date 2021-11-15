@@ -17,6 +17,11 @@ Recent publications include:
 
 ## 2021
 
+**Energy-based Models in Earth Observation: from Generation to Semi-supervised Learning** _J. Castillo-Navarro, B. Le Saux, A. Boulch, S. Lefèbre_, [IEEE Trans. on Geosciences and Remote Sensing (TGRS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36), November 2021.
+
+\[ [TGRS pdf](https://ieeexplore.ieee.org/document/9606737) / [doi](https://doi.org/10.1109/TGRS.2021.3126428)
+) / [arxiv - to appear]()   \]
+
 **CORTEX: An innovative solution for AI on-board**, R. Ruiloba, A. Lagrange, N.-M. Lemoine, F. De Vieilleville, B. Le Saux, [European CubeSat Symposium](https://www.cubesatsymposium.eu), Nov. 2021
 
 \[ [pdf (to appear)]() / [Project page](https://esacortexproject.agenium-space.com/) / [Sentinel 2 Ship detection dataset](https://zenodo.org/record/3923841) \]
