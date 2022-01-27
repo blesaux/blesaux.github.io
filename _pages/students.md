@@ -13,6 +13,10 @@ author_profile: true
 ## PhD Students
 <a name="PhD"></a>
 
+
+[**Amer Delibasic**: Hybrid Quantum-Classical Processing]() \[exp. 2025\]  
+PhD University of Iceland co-supervised with [Gabriele Cavallaro](https://www.gabriele-cavallaro.com/) at [Julich Supercomputer Centre](https://www.fz-juelich.de) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
+
 [**Su-Yeon Chang**: Quantum Generative Neural Networks for Image Analysis](https://people.epfl.ch/su.chang/?lang=en) \[exp. 2024\]  
 PhD EPFL co-supervised with [Sofia Vallecorsa](https://www.linkedin.com/in/sofia-vallecorsa-93ab36b1/) at [EPFL](https://www.epfl.ch)/[LTPN](https://www.epfl.ch/labs/ltpn/), [CERN](https://home.cern/)/[Open Lab](https://openlab.cern/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
@@ -25,7 +29,7 @@ PhD Univ. Paris-Saclay co-supervised with [Guy Le Besnerais](https://scholar.goo
 [**Rémy Leroy**: Deep neural networks for 3D point cloud prediction from a single image]( {{ site.url }}/students/remy ) \[exp. fall 2022\]  
 PhD Univ. Paris-Saclay co-supervised with [Frédéric Champagnat](https://www.researchgate.net/profile/Frederic_Champagnat) and [Pauline Trouvé-Peloux](https://www.onera.fr/fr/staff/pauline-trouve-peloux) ([ONERA](https://www.onera.fr)), funded by [ONERA](https://www.onera.fr).
 
-[**Javiera Castillo Navarro**: Large-scale semi-supervised semantic segmentation]({{ site.url }}/students/javiera) \[exp. early 2022\]  
+[**Javiera Castillo Navarro**: Large-scale semi-supervised semantic segmentation]({{ site.url }}/students/javiera) \[exp. March 2022\]  
 PhD Univ. Bretagne Sud co-supervised with [Alexandre Boulch](https://aboulch.github.io/) and [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), co-funded by [ONERA](https://www.onera.fr) and [CNES](https://cnes.fr/en/web/CNES-en/7430-research-grants.php)
 
 ## Undergrad / MSc. Students
