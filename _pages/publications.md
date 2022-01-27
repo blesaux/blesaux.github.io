@@ -25,9 +25,9 @@ Recent publications include:
 
 \[ [pdf (to appear)]() / [Project page](https://esacortexproject.agenium-space.com/) / [Sentinel 2 Ship detection dataset](https://zenodo.org/record/3923841) \]
 
-**On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification**, _A. Sebastianelli, D. A. Zaidenberg, D. Spiller, B. Le Saux, S. L. Ullo_, _to appear_, Sep. 2021
+**On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification**, _A. Sebastianelli, D. A. Zaidenberg, D. Spiller, B. Le Saux, S. L. Ullo_, IEEE JSTARS, 15, Sep. 2021
 
-\[ [arxiv](https://arxiv.org/abs/2109.09484) / [arxiv pdf](https://arxiv.org/pdf/2109.09484.pdf) / [code](https://github.com/ESA-PhiLab/QNN4EO) \]
+\[ [editor version](https://ieeexplore.ieee.org/document/9647979) / [arxiv](https://arxiv.org/abs/2109.09484) / [arxiv pdf](https://arxiv.org/pdf/2109.09484.pdf) / [code](https://github.com/ESA-PhiLab/QNN4EO) \]
 
 **How to find a good image-text embedding for remote sensing visual question answering?** _C. Chappuis, S. Lobry, B. Kellenberger, B. Le Saux, D. Tuia_, [ECML-PKDD 2021](https://2021.ecmlpkdd.org/) / [MACLEAN workshop](https://sites.google.com/view/maclean21/), Sept. 2021.
 
