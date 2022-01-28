@@ -11,7 +11,8 @@ My current projects include:
 
 ## Weakly-supervised Learning for Earth Observation
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/){: .align-left} 
+![image-left]({{ site.url }}{{ site.baseurl }}/images/
+rodrigo-daudt-weakly-sup-attention-net.png){: .align-left} 
 
 Large scale datasets created from crowdsourced labels or openly available data have become crucial to provide training data for large scale learning algorithms. While these datasets are easier to acquire, the data are frequently noisy and unreliable, which is motivating research on weakly supervised learning techniques. With [Rodrigo Daudt](https://rcdaudt.github.io/), Alexandre Boulch and Yann Gousseau we propose the Guided Anisotropic Diffusion (GAD) algorithm, that we combine with Cycle-GANs and attention-based neural networks to overcome scarce and noisy labels, for application in post-natural disaster mapping and land-cover classification. 
 
