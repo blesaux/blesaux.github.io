@@ -9,6 +9,25 @@ author_profile: true
 
 I was previously involved in these projects (now finished, or which evolve in a [new one](../projects)):
 
+## Depth Estimation from a Single Image 	 
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/D3Net_arch_no_text-icon.jpg){: .align-left}
+
+Turning 2D images into depth is now possible with a monocular camera, without neither stereo nor active sensor. With [Marcela Carvalho](http://mcarvalho.ml/) and Pauline Trouvé, we designed a dense network for depth estimation from a single image. We investigate how to model the right loss for such a network, and how blur from defocus can help us predict better estimates. This network ranks among the top ones of the
+state of the art on the [NUYv2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) dataset while being simpler to train in a single phase than most competitors.
+
+\[ [ICIP'18 paper](http://mcarvalho.ml/material/docs/2018/regression_losses_icip_2018.pdf) / [ECCV/W'18 paper](https://arxiv.org/pdf/1809.01567.pdf) / [video](https://www.youtube.com/watch?v=Zx7k5-xc-BE) / [code]({{ site.url }}{{ site.baseurl }}/code) \]
+
+## Joint Use of EO Data and Cartography 	 
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/cvpr17-fusenet_osm-icon.jpg){: .align-left}
+
+Cartography and especially crowd-sourced geographic information like [OpenStreetMap](https://www.openstreetmap.org/) is a great way to drive a neural network towards a correct classification. With Nicolas Audebert and Sébastien Lefèvre, we built fusion networks able handle efficiently this new input.
+
+The SpaceNet Challenge round 2 winner is using a similar solution: see his [blog post which mentions our paper](http://i.ho.lc/winning-solution-for-the-spacenet-challenge-joint-learning-with-openstreetmap.html). OSM as input is promising !
+
+\[ [CVPR'17/EarthVision paper](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w18/html/Audebert_Joint_Learning_From_CVPR_2017_paper.html) / [arxiv](https://arxiv.org/abs/1705.06057) \]
+
 ## SnapNet: 3D Semantic Labeling 	 
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/snapnet_semantic3d-icon.png){: .align-left}
