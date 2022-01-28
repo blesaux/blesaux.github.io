@@ -9,7 +9,7 @@ author_profile: true
 
 I was previously involved in these projects (now finished, or which evolve in a [new one](../projects)):
 
-## Depth Estimation from a Single Image 	 
+## D^3 Net: Depth Estimation from a Single Image with Deep Depth from Defocus	 
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/D3Net_arch_no_text-icon.jpg){: .align-left}
 
@@ -46,7 +46,7 @@ With the accuracy of deep conv nets for pixelwise labeling, it is now possible t
 \[ [Segment-before-detect](http://www.mdpi.com/2072-4292/9/4/368/pdf) paper\]
 
 
-## Object Recognition for Robotics 	 
+## SnapNet-R: Object Recognition for Robotics 	 
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/wallE-recog-3D-icon.jpg){: .align-left}
 
@@ -74,8 +74,6 @@ We presented our work on [UAV-based 3D modelling and event localization \[video\
 
 
 \[ [IROS'13 paper](../files/bls-iros2013-semantic-map.pdf) / [video #1](http://www.youtube.com/watch?v=OTxaLcouOHE) /  [video #2](http://www.youtube.com/watch?v=JyHaeBkvKTQ) \]
-
-
 
 
 ## Car Detection in Aerial Images
