@@ -15,7 +15,7 @@ My current projects include:
 
 In [Gaston Lenczner]()'s PhD, we design interactive deep neural networks to foster user/algorithm collaboration. In the context of semantic segmentation  of remote sensing images, we target several use-cases including **online correction** of semantic maps (and model!) obtained by CNNs, **domain adaptation** to new locations, and **transfer learning** to add interactively new target classes to an existing model. To this end, we combine acceleration tricks and active learning to make deep networks learn continuously and efficiently from user inputs. This work is a collaboration with [Guy Le Besnerais](https://scholar.google.com/citations?user=r8V306wAAAAJ&hl=en), [Adrien Chan-Hon-Tong](https://www.onera.fr/en/staff/adrien-chan-hon-tong) (both from [ONERA](https://www.onera.fr/)) and Nicola Luminari ([Alteia](https://alteia.com/))
 
-\[ [DISIR @ ISPRS 2020](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2020/877/2020/isprs-annals-V-2-2020-877-2020.pdf) / [DISIR code](https://github.com/delair-ai/DISIR) / [DISCA @ ECMLPKDD/MacLean 2021 (Best student paper award!) ](http://ceur-ws.org/Vol-2766/paper1.pdf) / [DISCA Code](https://github.com/delair-ai/DISCA) \]
+\[ [DISIR @ ISPRS 2020](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2020/877/2020/isprs-annals-V-2-2020-877-2020.pdf) / [DISIR code](https://github.com/delair-ai/DISIR) / [DISCA @ ECMLPKDD/MacLean 2021 (Best student paper award!) ](http://ceur-ws.org/Vol-2766/paper1.pdf) / [DISCA Code](https://github.com/delair-ai/DISCA) / [DIAL arxiv](https://arxiv.org/abs/2201.01047) \]
 
 
 ## Weakly-supervised Learning for Earth Observation
