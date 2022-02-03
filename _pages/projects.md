@@ -17,7 +17,7 @@ With [Javiera Castillo-Navarro](), [Alex Boulch](https://www.boulch.eu/) and [Se
 
 \[ [EO-JEM preprint](https://hal.archives-ouvertes.fr/hal-03379500) / [EO-JEM in TGRS](https://ieeexplore.ieee.org/document/9606737) \]
 
-## Deep Interactive + Active Learning for EO
+## Deep Interactive + Active Learning
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/gaston-lenczner-dial.jpg){: .align-left} 
 
