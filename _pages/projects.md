@@ -9,11 +9,11 @@ author_profile: true
 
 My current projects include:
 
-## Joint Energy-based Models for EO Generation and Semi-Supervised Learning
+## Joint Energy-based Models for Generative EO Modelling
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/JCN-EBM-generated-EO2-icon.jpg){: .align-left} 
 
-With [Javiera Castillo-Navarro](), [Alex Boulch](https://www.boulch.eu/) and [Sebastien Lefevre](http://people.irisa.fr/Sebastien.Lefevre/) we explored the potential of Energy-Based Models for **generative modelling** of Earth observation images. It leads to powerful applications such as image synthesis through Stochastic Gradient Langevin Dynamics, Semi-Supervised Learning, and Out-Of-Distribution detection.
+With [Javiera Castillo-Navarro](), [Alex Boulch](https://www.boulch.eu/) and [Sebastien Lefevre](http://people.irisa.fr/Sebastien.Lefevre/) we explored the potential of Energy-Based Models for **generative modelling** of Earth observation images. It leads to powerful applications such as **image synthesis** through Stochastic Gradient Langevin Dynamics, **Semi-Supervised Learning**, and **Out-Of-Distribution detection**.
 
 \[ [EO-JEM preprint](https://hal.archives-ouvertes.fr/hal-03379500) / [EO-JEM in TGRS](https://ieeexplore.ieee.org/document/9606737) \]
 
