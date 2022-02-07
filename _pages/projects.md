@@ -52,7 +52,7 @@ With the very high resolution now available even from space, local changes can n
 
 ## Deep Learning for Hyperspectral data: DeepHyperX and HyperGANs
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/SemChangeDet_icon.jpg){: .align-left} 
+![image-left]({{ site.url }}{{ site.baseurl }}/images/nicolas-audebert-GANs-hyperspectral-synthesis-icon.jpg){: .align-left} 
 
 Hyperspectral sensors offer a unique perception on the world, in which spectral information (at multiple wavelengths, or so-to-say "colors") is as important as the spatial one. With [Nicolas Audebert](https://nicolas.audebert.at/) (prime) and [Sebastien Lefevre](http://people.irisa.fr/Sebastien.Lefevre), we investigated and reviewd various types of neural network architectures, from 1D to 3D, through complex combinations of spatial-spectral ones, to process hyperspectral data for classification. It resulted in a [review in GRSM](https://arxiv.org/abs/1904.10674) and the associated [DeepHyperX toolbox](https://github.com/nshaud/DeepHyperX) with many models ready to use on most common benchmarks! We also explored the use of Generative Adversarial Networks (GANs) to (conditionally) synthetize pure spectra (or endmmbers), and also published this [IGARSS paper](https://arxiv.org/abs/1806.02583) and the [HyperGANs toolbox](https://github.com/nshaud/HyperGANs): GANs for hyperspectral.
 
