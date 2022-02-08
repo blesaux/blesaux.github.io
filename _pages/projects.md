@@ -50,6 +50,14 @@ With the very high resolution now available even from space, local changes can n
 
 \[ [ICIP paper on siamese nets for change detection](http://rcdaudt.github.io/files/2018icip-fully-convolutional.pdf) / [code](https://github.com/rcdaudt/fully_convolutional_change_detection) / [OSCD dataset](https://rcdaudt.github.io/oscd/) / [HRSCD dataset](https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset) / [arxiv](https://arxiv.org/abs/1810.08452) \]
 
+## AerialMTL: Multi-Task Learning for Height and Semantics prediction from bird's view
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/marcela-carvalho-aerial-MTL-net-icon.jpg){: .align-left} 
+
+Thanks to statistical modelling, it is now possible to build elevation or height models from a single aerial image, without the need for stereo! With [Marcela Carvalho](https://marcelampc.github.io/) we proposed to leverage **multi-task learning** to build stronger representations, by learning classes of interest along with the relative height. Indeed, similar classes of urban objects are likely to have similar heights, which brings consistence to the model. We published our results in a [paper in GRSL](https://hal-univ-paris.archives-ouvertes.fr/UNIV-PARIS5/hal-02386074/) and published the [AerialMTL code](https://github.com/marcelampc/aerial_mtl).
+
+\[ [paper in Geosci. Rem. Sens. Lett.](https://doi.org/10.1109/LGRS.2019.2947783) / [preprint](https://hal-univ-paris.archives-ouvertes.fr/UNIV-PARIS5/hal-02386074/) / [AerialMTL github](https://github.com/marcelampc/aerial_mtl) [Code description]({{ site.url }}{{ site.baseurl }}/code) \]
+
 ## Deep Learning for Hyperspectral data: DeepHyperX and HyperGANs
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/nicolas-audebert-GANs-hyperspectral-synthesis-icon.jpg){: .align-left} 
