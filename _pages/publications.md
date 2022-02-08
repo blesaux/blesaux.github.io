@@ -56,7 +56,7 @@ Recent publications include:
 
 **Weakly supervised change detection using guided anisotropic diffusion** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_, [Maching Learning Journal](https://www.springer.com/journal/10994), June 2021.
 
-\[ [_editor version_](https://link.springer.com/article/10.1007/s10994-021-06008-4) / [doi](https://doi.org/10.1007/s10994-021-06008-4) \]
+\[ [_editor version_](https://link.springer.com/article/10.1007/s10994-021-06008-4) / [doi](https://doi.org/10.1007/s10994-021-06008-4) / [arxiv](https://arxiv.org/abs/2112.15367) \]
 
 **Energy-based Models for Earth Observation Applications** _J. Castillo-Navarro, B. Le Saux, A. Boulch, S. Lefèbre_, [ICLR 2021](https://iclr.cc/virtual/2021) / [Energy-based Model workshop](https://sites.google.com/view/ebm-workshop-iclr2021), April 2021.
 
