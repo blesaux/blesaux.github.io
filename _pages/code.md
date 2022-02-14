@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Over the years, research projects and papers lead to various code and computer tools. They are here made available for the sake of reproducible research and to enable you to make use of it for building new extensions.
+Over the years, research projects and papers lead to various code and computer tools. Here, they are made available for the sake of reproducible research and to enable you to make use of it for building new extensions.
 
 ## AerialMTL: Multi-Task Learning for Aerial Images
 
