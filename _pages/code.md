@@ -71,13 +71,11 @@ If using this code, please cite: **On Regression Losses for Deep Depth Estimatio
 {::options parse_block_html="false" /}
 
 
-
-
 ## HyperGANs: GANs for Hyperspectral Toolbox
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/nicolas-audebert-GANs-hyperspectral-synthesis-icon.png){: .align-left}
 
-[DeepHyperX code](https://github.com/nshaud/HyperGANs)
+[HyperGANs code](https://github.com/nshaud/HyperGANs)
 
 The HyperGANs toolbox by[Nicolas Audebert](https://nicolas.audebert.at/) implements Generative Adversarial Network (GAN) for synthesis of realistic hyperspectral spectra (conditioned by material class / after mixing). \[ Related: [GANs for hyperspectral paper](https://arxiv.org/abs/1806.02583) with [Sébastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/)\]
 
