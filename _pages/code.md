@@ -71,6 +71,13 @@ If using this code, please cite: **On Regression Losses for Deep Depth Estimatio
 {::options parse_block_html="false" /}
 
 
+## HyperGANs: GANs for Hyperspectral Toolbox
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/nicolas-audebert-GANs-hyperspectral-synthesis-icon.jpg){: .align-left}
+
+[HyperGANs code](https://github.com/nshaud/HyperGANs)
+
+
 ## DeepHyperX: Deep Learning for Hyperspectral Imaging Toolbox
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/deephyperx-icon.png){: .align-left}
