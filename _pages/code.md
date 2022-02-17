@@ -38,23 +38,6 @@ If using this code, please cite: **Multitask learning of Height and Semantics Fr
 
 {::options parse_block_html="false" /}
 
-## HyperGANs: GANs for Hyperspectral Toolbox
-
-![image-left]({{ site.url }}{{ site.baseurl }}/images/nicolas-audebert-GANs-hyperspectral-synthesis-icon.jpg){: .align-left}
-
-[HyperGANs code](https://github.com/nshaud/HyperGANs)
-
-he HyperGANs toolbox by[Nicolas Audebert](https://nicolas.audebert.at/) implements Generative Adversarial Network (GAN) for synthesis of realistic hyperspectral spectra (conditioned by material class / after mixing). \[ Related: [GANs for hyperspectral paper](https://arxiv.org/abs/1806.02583) with [Sébastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/)\]
-
-{::options parse_block_html="true" /}
-<details>
- It allows to generate spectra of a hyperspectral sensor which are likely with respect to the original distribution of the training example dataset. Moreover, it comes in a class-conditional flavour, which allows to synthetise realistic samples of pure material spectra. It can be easily adapted to new datasets.
-
-</details>
-
-{::options parse_block_html="false" /}
-
-
 
 ## HyperGANs: GANs for Hyperspectral Toolbox
 
@@ -70,7 +53,15 @@ The HyperGANs toolbox by[Nicolas Audebert](https://nicolas.audebert.at/) impleme
 
 If using this code, please cite: **Generative adversarial networks for realistic synthesis of hyperspectral samples** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, Proc. IGARSS 2018. [https://arxiv.org/abs/1904.10674](https://arxiv.org/abs/1904.10674)
 
-
+```
+@inproceedings{audebert_generative_2018,
+    title = {Generative adversarial networks for realistic synthesis of hyperspectral samples},
+    booktitle = {{IEEE} {International} {Geoscience} and {Remote} {Sensing} {Symposium} ({IGARSS})},
+    author = {Audebert, N. and {Le Saux}, B. and Lef{\`e}vre, S.},
+    month = jul,
+    year = {2018},
+}
+```
 
 </details>
 
