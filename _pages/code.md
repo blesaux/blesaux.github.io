@@ -54,7 +54,12 @@ The HyperGANs toolbox by [Nicolas Audebert](https://nicolas.audebert.at/) implem
 If using this code, please cite: **Generative adversarial networks for realistic synthesis of hyperspectral samples** _Nicolas Audebert, Bertrand Le Saux, Sébastien Lefèvre_, Proc. IGARSS 2018. [https://arxiv.org/abs/1904.10674](https://arxiv.org/abs/1904.10674)
 
 ```
-bibtex
+@inproceedings{audebert_generative_2018,
+    title = {Generative adversarial networks for realistic synthesis of hyperspectral samples},
+    booktitle = {2018 {IEEE} {International} {Geoscience} and {Remote} {Sensing} {Symposium} ({IGARSS})},
+    author = {Audebert, N. and Le Saux, B. and Lefevre, S.},
+    month = jul,
+    year = {2018} } 
 ```
 
 </details>
