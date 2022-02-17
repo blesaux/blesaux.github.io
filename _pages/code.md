@@ -46,11 +46,13 @@ If using this code, please cite: **Multitask learning of Height and Semantics Fr
 
 he HyperGANs toolbox by[Nicolas Audebert](https://nicolas.audebert.at/) implements Generative Adversarial Network (GAN) for synthesis of realistic hyperspectral spectra (conditioned by material class / after mixing). \[ Related: [GANs for hyperspectral paper](https://arxiv.org/abs/1806.02583) with [Sébastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/)\]
 
-Bertrand Le Saux <bertrand.lesaux@gmail.com>
-	
-Feb 14, 2022, 6:27 PM (3 days ago)
-	
-to me
+{::options parse_block_html="true" /}
+<details>
+ It allows to generate spectra of a hyperspectral sensor which are likely with respect to the original distribution of the training example dataset. Moreover, it comes in a class-conditional flavour, which allows to synthetise realistic samples of pure material spectra. It can be easily adapted to new datasets.
+
+</details>
+
+{::options parse_block_html="false" /}
 
 
 
