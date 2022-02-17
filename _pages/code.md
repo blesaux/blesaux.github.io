@@ -58,6 +58,8 @@ If using this code, please cite: **Generative adversarial networks for realistic
  title = {Generative adversarial networks for realistic synthesis of hyperspectral samples},
  booktitle = {Proc. IGARSS},
  author = {Audebert, N. and Le Saux, B. and Lefèvre, S.},
+ month = {jul},
+ year = {2018},
  } 
 ```
 
