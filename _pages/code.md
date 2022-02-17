@@ -38,6 +38,13 @@ If using this code, please cite: **Multitask learning of Height and Semantics Fr
 
 {::options parse_block_html="false" /}
 
+## HyperGANs: GANs for Hyperspectral Toolbox
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/nicolas-audebert-GANs-hyperspectral-synthesis-icon.jpg){: .align-left}
+
+[HyperGANs code](https://github.com/nshaud/HyperGANs)
+
+he HyperGANs toolbox by[Nicolas Audebert](https://nicolas.audebert.at/) implements Generative Adversarial Network (GAN) for synthesis of realistic hyperspectral spectra (conditioned by material class / after mixing). \[ Related: [GANs for hyperspectral paper](https://arxiv.org/abs/1806.02583) with [Sébastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/)\]
 
 ## D3Net: An encoder-decoder FCN with dense blocks
 
@@ -69,13 +76,6 @@ If using this code, please cite: **On Regression Losses for Deep Depth Estimatio
 </details>
 
 {::options parse_block_html="false" /}
-
-
-## HyperGANs: GANs for Hyperspectral Toolbox
-
-![image-left]({{ site.url }}{{ site.baseurl }}/images/nicolas-audebert-GANs-hyperspectral-synthesis-icon.jpg){: .align-left}
-
-[HyperGANs code](https://github.com/nshaud/HyperGANs)
 
 
 ## DeepHyperX: Deep Learning for Hyperspectral Imaging Toolbox
