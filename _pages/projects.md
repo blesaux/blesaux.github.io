@@ -11,7 +11,7 @@ My current projects include:
 
 ## Visual Question & Answering (VQA) for EO data
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/JCN-EBM-generated-EO2-icon.jpg){: .align-left} 
+![image-left]({{ site.url }}{{ site.baseurl }}/images/christel-chappuis-rsvqa-icon.jpg){: .align-left} 
 
 In [Christel Chappuis](https://people.epfl.ch/christel.chappuis/?lang=en)'s PhD at [EPFL](https://www.epfl.ch/en/)/[ECEO](https://www.epfl.ch/labs/eceo/), co-supervised with [Devis Tuia](https://sites.google.com/site/devistuia/) ([EPFL](https://www.epfl.ch/labs/eceo)) and [Sylvain Lobry](https://www.sylvainlobry.com/) ([Univ. of Paris](https://u-paris.fr/en/)), we investigate remote sensing visual question & answering (RSVQA). _How to interact easily with Earth observation and geospatial data archives, using natural language and no computer expertise?_ This is key for empowering people with EO capacities! We explored image-text embedding for RSVQA ([ECML-PKDD Workshop paper](https://arxiv.org/abs/2109.11848)) and now are moving to advanced Natural Language Processing (NLP) techniques to address times-series of environmental data.
 
