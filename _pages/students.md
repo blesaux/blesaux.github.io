@@ -26,7 +26,7 @@ PhD EPFL co-supervised with [Sofia Vallecorsa](https://www.linkedin.com/in/sofia
 [**Christel Chappuis**: An AI assistant to visual query and answering for EO data](https://people.epfl.ch/christel.chappuis/?lang=en) \[exp. 2024\]  
 PhD EPFL co-supervised with [Devis Tuia](https://sites.google.com/site/devistuia/) and [Sylvain Lobry](https://www.sylvainlobry.com/) at [EPFL](https://www.epfl.ch)/[ECEO](https://www.epfl.ch/labs/eceo/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
-[**Gaston Lenczner**: Interactive learning in aerial image interpretation ]({{ site.url }}/students/gaston) \[exp. fall 2022\]  
+[**Gaston Lenczner**: Interactive learning in aerial image interpretation]({{ site.url }}/students/gaston) \[exp. fall 2022\]  
 PhD Univ. Paris-Saclay co-supervised with [Guy Le Besnerais](https://scholar.google.fr/citations?user=r8V306wAAAAJ&hl=fr), Adrien Chan-Hon-Tong ([ONERA](https://www.onera.fr)) and Nicola Luminari ([Delair/Alteia](https://www.delair.aero)), funded by [Delair/Alteia](https://www.delair.aero). <span style="color:orange;">Best Student Paper Award at ECML-PKDD/ [MACLEAN 2020](https://sites.google.com/view/maclean2020/program)</span>.
 
 [**Rémy Leroy**: Deep neural networks for 3D point cloud prediction from a single image]( {{ site.url }}/students/remy ) \[exp. fall 2022\]  
