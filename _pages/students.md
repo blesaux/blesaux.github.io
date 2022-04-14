@@ -32,9 +32,6 @@ PhD Univ. Paris-Saclay co-supervised with [Guy Le Besnerais](https://scholar.goo
 [**Rémy Leroy**: Deep neural networks for 3D point cloud prediction from a single image]( {{ site.url }}/students/remy ) \[exp. fall 2022\]  
 PhD Univ. Paris-Saclay co-supervised with [Frédéric Champagnat](https://www.researchgate.net/profile/Frederic_Champagnat) and [Pauline Trouvé-Peloux](https://www.onera.fr/fr/staff/pauline-trouve-peloux) ([ONERA](https://www.onera.fr)), funded by [ONERA](https://www.onera.fr).
 
-[**Javiera Castillo Navarro**: Large-scale semi-supervised semantic segmentation]({{ site.url }}/students/javiera) \[exp. March 2022\]  
-PhD Univ. Bretagne Sud co-supervised with [Alexandre Boulch](https://aboulch.github.io/) and [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), co-funded by [ONERA](https://www.onera.fr) and [CNES](https://cnes.fr/en/web/CNES-en/7430-research-grants.php)
-
 ## Undergrad / MSc. Students
 <a name="MSc"></a>
 
@@ -51,6 +48,10 @@ Post-doc between CNAM-ParisTech and ONERA co-supervised with [Élise Koeniguer](
 
 ## Past PhD Students
 <a name="PastPhD"></a>
+
+
+[**Javiera Castillo Navarro**: Large-scale semi-supervised semantic segmentation]({{ site.url }}/students/javiera) \[PhD March 2022\]  
+PhD Univ. Bretagne Sud co-supervised with [Alexandre Boulch](https://aboulch.github.io/) and [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), co-funded by [ONERA](https://www.onera.fr) and [CNES](https://cnes.fr/en/web/CNES-en/7430-research-grants.php). Now post-doc fellow at [IRISA](http://www-obelix.irisa.fr/)
 
 [**Rodrigo Caye Daudt**: Convolutional Neural Networks for Change Analysis in Earth Observation Images with Noisy Labels and Domain Shifts]( {{ site.url }}/student/rodrigo ) \[PhD 11/2020\]  
 PhD [Inst. Polytechnique Paris](https://www.ip-paris.fr/en) co-supervised with [Alexandre Boulch]() from [ONERA](https://www.onera.fr/en) and [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/) from [LTCI](https://ltci.telecom-paristech.fr/en/)/[Télécoms ParisTech](https://www.telecom-paristech.fr/eng). <span style="color:orange;">Best Student Paper Award at CVPR/Earth Vision 19</span>. Now post-doc fellow at [ETHZ](https://ethz.ch/en.html)/[EcoVision group](https://prs.igp.ethz.ch/ecovision.html)
