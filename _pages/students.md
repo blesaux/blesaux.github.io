@@ -35,6 +35,9 @@ PhD Univ. Bretagne Sud co-supervised with [Alexandre Boulch](https://aboulch.git
 ## Undergrad / MSc. Students
 <a name="MSc"></a>
 
+[**Stephen Moran**: ](Physical-based machine learning for weather forecast) \[2022\]  
+MSc from [TU Berlin](https://www.tu.berlin/en/) co-supervised with Federico Serva and [Begüm Demir](https://begumdemir.com/) ([RSIM group @ TU Berlin](https://rsim.berlin/))
+
 {% for post in site.students reversed %} {% if post.type == "msc" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
 
 ## Past Post-Doc
