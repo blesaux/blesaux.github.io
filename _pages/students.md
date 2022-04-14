@@ -10,11 +10,14 @@ author_profile: true
 ## Post-Doc
 <a name="PostDoc"></a>
 
+
+[**Manish Gupta**: Spectral processing with Quantum Neural Networks]() \[2022-2023\]  
+Post-doc co-supervised with [Piotr Gawron](https://astrocent.camk.edu.pl/?team=professor-piotr-gawron) at [Nicolaus Copernicus Astronomical CEnter of Polish Academy of Sciences](https://astrocent.camk.edu.pl/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
+
 ## PhD Students
 <a name="PhD"></a>
 
-
-[**Amer Delilbasic**: Hybrid Quantum-Classical Processing]() \[exp. 2025\]  
+[**Amer Delilbasic**: Hybrid Quantum-Classical Processing](https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/delilbasic_a.html) \[exp. 2025\]  
 PhD University of Iceland co-supervised with [Gabriele Cavallaro](https://www.gabriele-cavallaro.com/) and [Kristel Michielsen](https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/michielsen_k.html) at [Julich Supercomputer Centre (Forschungszentrum Jülich)](https://www.fz-juelich.de) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
 [**Su-Yeon Chang**: Quantum Generative Neural Networks for Image Analysis](https://people.epfl.ch/su.chang/?lang=en) \[exp. 2024\]  
