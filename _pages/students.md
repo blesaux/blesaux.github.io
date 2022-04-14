@@ -35,7 +35,7 @@ PhD Univ. Paris-Saclay co-supervised with [Frédéric Champagnat](https://www.re
 ## Undergrad / MSc. Students
 <a name="MSc"></a>
 
-[**Juan Francesco Amieva** and **Alessandro Austoni**: ](Change detection in hyperspectral data) \[2022\]  
+[**Juan Francesco Amieva** and **Alessandro Austoni**: Change detection in hyperspectral data]() \[2022\]  
 MSc from [Politecnico di Milano](https://www.polimi.it/en/) co-supervised with Federico Serva and [Maria Antonia Brovelli](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?evn_didattica=evento&k_doc=1262&aa=2019&lang=EN&jaf_currentWFID=main) ( [PoliMi/GeoLab](http://www.geolab.polimi.it/) )
 
 [**Stephen Moran**: Physical-based machine learning for weather forecast]() \[2022\]  
