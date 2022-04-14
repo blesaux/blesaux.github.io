@@ -36,7 +36,7 @@ PhD Univ. Paris-Saclay co-supervised with [Frédéric Champagnat](https://www.re
 <a name="MSc"></a>
 
 [**Stephen Moran**: Physical-based machine learning for weather forecast]() \[2022\]  
-MSc from [TU Berlin](https://www.tu.berlin/en/) co-supervised with Federico Serva and [Begüm Demir](https://begumdemir.com/) ([RSIM group @ TU Berlin](https://rsim.berlin/))
+MSc from [TU Berlin](https://www.tu.berlin/en/) co-supervised with Federico Serva and [Begüm Demir](https://begumdemir.com/) ( [RSIM group / TU Berlin](https://rsim.berlin/) )
 
 {% for post in site.students reversed %} {% if post.type == "msc" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
 
