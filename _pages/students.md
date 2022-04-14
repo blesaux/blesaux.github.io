@@ -26,11 +26,11 @@ PhD EPFL co-supervised with [Sofia Vallecorsa](https://www.linkedin.com/in/sofia
 [**Christel Chappuis**: An AI assistant to visual query and answering for EO data](https://people.epfl.ch/christel.chappuis/?lang=en) \[exp. 2024\]  
 PhD EPFL co-supervised with [Devis Tuia](https://sites.google.com/site/devistuia/) and [Sylvain Lobry](https://www.sylvainlobry.com/) at [EPFL](https://www.epfl.ch)/[ECEO](https://www.epfl.ch/labs/eceo/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
-[**Gaston Lenczner**: Interactive learning in aerial image interpretation]( {{ site.url }}/students/gaston) \[exp. fall 2022\]  
-PhD Univ. Paris-Saclay co-supervised with [Guy Le Besnerais](https://scholar.google.fr/citations?user=r8V306wAAAAJ&hl=fr), Adrien Chan-Hon-Tong ([ONERA](https://www.onera.fr)) and Nicola Luminari ([Delair/Alteia](https://www.delair.aero)), funded by [Delair/Alteia](https://www.delair.aero). <span style="color:orange;">Best Student Paper Award at ECML-PKDD/ [MACLEAN 2020](https://sites.google.com/view/maclean2020/program)</span>.
-
 [**Rémy Leroy**: Deep neural networks for 3D point cloud prediction from a single image]( {{ site.url }}/students/remy ) \[exp. fall 2022\]  
 PhD Univ. Paris-Saclay co-supervised with [Frédéric Champagnat](https://www.researchgate.net/profile/Frederic_Champagnat) and [Pauline Trouvé-Peloux](https://www.onera.fr/fr/staff/pauline-trouve-peloux) ([ONERA](https://www.onera.fr)), funded by [ONERA](https://www.onera.fr).
+
+[**Gaston Lenczner**: Interactive learning in aerial image interpretation]( {{ site.url }}/students/gaston) \[exp. Sept. 2022\]  
+PhD Univ. Paris-Saclay co-supervised with [Guy Le Besnerais](https://scholar.google.fr/citations?user=r8V306wAAAAJ&hl=fr), Adrien Chan-Hon-Tong ([ONERA](https://www.onera.fr)) and Nicola Luminari ([Delair/Alteia](https://www.delair.aero)), funded by [Delair/Alteia](https://www.delair.aero). <span style="color:orange;">Best Student Paper Award at ECML-PKDD/ [MACLEAN 2020](https://sites.google.com/view/maclean2020/program)</span>.
 
 ## Undergrad / MSc. Students
 <a name="MSc"></a>
@@ -56,7 +56,7 @@ Post-doc between CNAM-ParisTech and ONERA co-supervised with [Élise Koeniguer](
 <a name="PastPhD"></a>
 
 
-[**Javiera Castillo Navarro**: Large-scale semi-supervised semantic segmentation]({{ site.url }}/students/javiera) \[PhD March 2022\]  
+[**Javiera Castillo Navarro**: Large-scale semi-supervised semantic segmentation]({{ site.url }}/students/javiera) \[PhD 03/2022\]  
 PhD Univ. Bretagne Sud co-supervised with [Alexandre Boulch](https://aboulch.github.io/) and [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), co-funded by [ONERA](https://www.onera.fr) and [CNES](https://cnes.fr/en/web/CNES-en/7430-research-grants.php). Now post-doc fellow at [IRISA](http://www-obelix.irisa.fr/)
 
 [**Rodrigo Caye Daudt**: Convolutional Neural Networks for Change Analysis in Earth Observation Images with Noisy Labels and Domain Shifts]( {{ site.url }}/student/rodrigo ) \[PhD 11/2020\]  
