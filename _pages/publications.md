@@ -15,6 +15,13 @@ author_profile: true
 
 Recent publications include:
 
+
+## 2022
+
+**Deep Learning for Archaeological Object Detection on LiDAR: New Evaluation Measures and Insights** _Marco Fiorucci, Wouter B. Verschoof-van der Vaart, Paolo Soleni, Bertrand Le Saux and Arianna Traviglia_, [Remote Sensing](https://www.mdpi.com/2072-4292/14/7/1694), March 2022.
+
+\[ [Open-access editor version](https://www.mdpi.com/2072-4292/14/7/1694) \]
+
 ## 2021
 
 **Energy-based Models in Earth Observation: from Generation to Semi-supervised Learning** _J. Castillo-Navarro, B. Le Saux, A. Boulch, S. Lefèbre_, [IEEE Trans. on Geosciences and Remote Sensing (TGRS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36), November 2021.
