@@ -18,6 +18,16 @@ Recent publications include:
 
 ## 2022
 
+**2022 IEEE GRSS Data Fusion Contest: Semi-Supervised Learning** _Hänsch, R.; Persello, C.; Vivone, G.; Castillo Navarro, J.; Boulch, A.; Lefèvre, S.; Le Saux, B._, [IEEE Geoscience and Remote Sensing Magazine (GRSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), March 2022.
+
+\[ [editor version]() /  [DFC 2022 benchmark](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest/) / [data](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022)  \]
+
+
+**DIAL: Deep Interactive and Active Learning for Semantic Segmentation in Remote Sensing** _G. Lenczner, A. Chan-Hon-Tong, B. Le Saux, N. Luminari, G. Le Besnerais_, [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443), March 2022.
+
+\[ [editor version](https://ieeexplore.ieee.org/document/9756343) / [arxiv](https://arxiv.org/abs/2201.01047) / [DIAL code](https://github.com/alteia-ai/DIAL) \]
+
+
 **Deep Learning for Archaeological Object Detection on LiDAR: New Evaluation Measures and Insights** _Marco Fiorucci, Wouter B. Verschoof-van der Vaart, Paolo Soleni, Bertrand Le Saux and Arianna Traviglia_, [Remote Sensing](https://www.mdpi.com/2072-4292/14/7/1694), March 2022.
 
 \[ [Open-access editor version](https://www.mdpi.com/2072-4292/14/7/1694) \]
