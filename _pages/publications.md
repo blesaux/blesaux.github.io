@@ -34,6 +34,10 @@ Recent publications include:
 
 ## 2021
 
+**Quantum Machine Learning for Earth Observation Images**, Su-yeon Chang, S. Vallecorsa, B. Le Saux, [NeurIPS 2nd WS on Quantum Tensor Networks in Machine Learning](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21838), Dec. 2021.
+
+\[ [abstract](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21838#collapse42000) \]
+
 **Energy-based Models in Earth Observation: from Generation to Semi-supervised Learning** _J. Castillo-Navarro, B. Le Saux, A. Boulch, S. Lefèbre_, [IEEE Trans. on Geosciences and Remote Sensing (TGRS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36), November 2021.
 
 \[ [TGRS pdf](https://ieeexplore.ieee.org/document/9606737) / [doi](https://doi.org/10.1109/TGRS.2021.3126428) / [arxiv (to appear)]() / [hal](https://hal.archives-ouvertes.fr/hal-03379500)  \]
