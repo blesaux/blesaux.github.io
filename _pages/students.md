@@ -35,14 +35,15 @@ PhD Univ. Paris-Saclay co-supervised with [Guy Le Besnerais](https://scholar.goo
 ## Undergrad / MSc. Students
 <a name="MSc"></a>
 
+
+[**Apolline Horn**: Virtual Reality and Digital Communication](https://www.linkedin.com/in/apollinehorn) \[2022\]  
+BSc from [King's College London](https://www.kcl.ac.uk/)
+
 [**Juan Francesco Amieva** and **Alessandro Austoni**: Change detection in hyperspectral data]() \[2022\]  
 MSc from [Politecnico di Milano](https://www.polimi.it/en/) co-supervised with Federico Serva and [Maria Antonia Brovelli](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?evn_didattica=evento&k_doc=1262&aa=2019&lang=EN&jaf_currentWFID=main) ( [PoliMi/GeoLab](http://www.geolab.polimi.it/) )
 
 [**Stephen Moran**: Physical-based machine learning for weather forecast]() \[2022\]  
 MSc from [TU Berlin](https://www.tu.berlin/en/) co-supervised with Federico Serva and [Begüm Demir](https://begumdemir.com/) ( [TU Berlin/RSIM group](https://rsim.berlin/) )
-
-[**Sébastien Malherbe**: Physical-based machine learning for cyclone track prediction](https://www.linkedin.com/in/sebastien-malherbe) \[2022\]  
-MSc from [ENS Paris](https://www.ens.psl.eu/en)
 
 {% for post in site.students reversed %} {% if post.type == "msc" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
 
@@ -76,6 +77,9 @@ PhD co-supervised with [Marin Ferecatu](http://cedric.cnam.fr/~ferecatm/) and [M
 
 ## Past Undergrad / MSc. Students
 <a name="PastMSc"></a>
+
+[**Sébastien Malherbe**: Physical-based machine learning for cyclone track prediction](https://www.linkedin.com/in/sebastien-malherbe) \[2022\]  
+MSc from [ENS Paris](https://www.ens.psl.eu/en)
 
 [**Daniela Zaidenberg**: Quantum Neural Nets for Earth Observation Classification]() \[2021\]  
 BSc from [MIT](https://misti.mit.edu/) co-supervised with Alessandro Sebastianelli and Silvia Ullo ([Uni. Sannio](https://www.unisannio.it/))
