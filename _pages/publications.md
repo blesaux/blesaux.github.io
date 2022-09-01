@@ -18,6 +18,22 @@ Recent publications include:
 
 ## 2022
 
+**Language Transformers for Remote Sensing Visual Question Answering**, _C. Chappuis, V. Mendez, E. Walt, D. Tuia, S. Lobry, B. Le Saux_, [IGARSS 2022](https://www.igarss2022.org), July 2022.
+
+\[ [IEEE pdf to appear]() / [arxiv]() / [IGARSS info](https://www.igarss2022.org/view_paper.php?PaperNum=2215)  \]
+
+**Weakly-supervised Continual Learning for Class-Incremental Segmentation**, _G. Lenczner, A. Chan-Hon-Tong, N. Luminari, B. Le Saux_, [IGARSS 2022](https://www.igarss2022.org), July 2022.
+
+\[ [IEEE pdf to appear]() / [arxiv](https://arxiv.org/abs/2201.01029) / [IGARSS info](https://www.igarss2022.org/view_paper.php?PaperNum=1326) / [code](https://github.com/alteia-ai/ICSS) \]
+
+**Quantum Convolutional Circuits for Earth Observation Image Classification**, _Su-yeon Chang, S. Vallecorsa, M. Grossi, B. Le Saux_, [IGARSS 2022](https://www.igarss2022.org), July 2022.
+
+\[ [IEEE pdf to appear]() / [arxiv pdf to appear]() / [IGARSS info](https://www.igarss2022.org/view_paper.php?PaperNum=3440)  \]
+
+**Prompt-RSVQA: Prompting Visual Context to a Language Model for Remote Sensing Visual Question Answering** _C. Chappuis, V. Zermatten, S. Lobry, B. Le Saux, D. Tuia_, [CVPR 2022](https://cvpr2022.thecvf.com/) / [Earth Vision workshop](https://www.grss-ieee.org/events/earthvision-2022/), June 2022.
+
+\[ [CVF page with abstract](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/html/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.html) / [CVPR/EV22 pdf](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.pdf) / [arxiv to appear]() \]
+
 **2022 IEEE GRSS Data Fusion Contest: Semi-Supervised Learning** _Hänsch, R.; Persello, C.; Vivone, G.; Castillo Navarro, J.; Boulch, A.; Lefèvre, S.; Le Saux, B._, [IEEE Geoscience and Remote Sensing Magazine (GRSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), March 2022.
 
 \[ [editor version]() /  [DFC 2022 benchmark](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest/) / [data](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022)  \]
