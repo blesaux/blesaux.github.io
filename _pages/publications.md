@@ -30,6 +30,10 @@ Recent publications include:
 
 \[ [IEEE pdf to appear]() / [arxiv pdf to appear]() / [IGARSS info](https://www.igarss2022.org/view_paper.php?PaperNum=3440)  \]
 
+**A Multibranch Convolutional Neural Network for Hyperspectral Unmixing** _Lukasz Tulczyjew, Michal Kawulok, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IEEE Geoscience and Remote Sensing Letters (GRSL)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), June 2022.
+
+\[ [editor version](https://ieeexplore.ieee.org/document/9803212) /  [arxiv](https://arxiv.org/abs/2208.02361) \]
+
 **Graph Neural Networks Extract High-Resolution Cultivated Land Maps From Sentinel-2 Image Series** _Lukasz Tulczyjew, Michal Kawulok, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IEEE Geoscience and Remote Sensing Letters (GRSL)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), June 2022.
 
 \[ [editor version](https://ieeexplore.ieee.org/document/9803235) /  [arxiv](https://arxiv.org/abs/2208.02349) \]
