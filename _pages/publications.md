@@ -30,13 +30,17 @@ Recent publications include:
 
 \[ [IEEE pdf to appear]() / [arxiv pdf to appear]() / [IGARSS info](https://www.igarss2022.org/view_paper.php?PaperNum=3440)  \]
 
+**Graph Neural Networks Extract High-Resolution Cultivated Land Maps From Sentinel-2 Image Series** _Lukasz Tulczyjew, Michal Kawulok, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IEEE Geoscience and Remote Sensing Letters (GRSL)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), June 2022.
+
+\[ [editor version](https://ieeexplore.ieee.org/document/9803235) /  [arxiv](https://arxiv.org/abs/2208.02349) \]
+
 **Prompt-RSVQA: Prompting Visual Context to a Language Model for Remote Sensing Visual Question Answering** _C. Chappuis, V. Zermatten, S. Lobry, B. Le Saux, D. Tuia_, [CVPR 2022](https://cvpr2022.thecvf.com/) / [Earth Vision workshop](https://www.grss-ieee.org/events/earthvision-2022/), June 2022.
 
 \[ [CVF page with abstract](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/html/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.html) / [CVPR/EV22 pdf](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.pdf) / [arxiv to appear]() \]
 
 **2022 IEEE GRSS Data Fusion Contest: Semi-Supervised Learning** _Hänsch, R.; Persello, C.; Vivone, G.; Castillo Navarro, J.; Boulch, A.; Lefèvre, S.; Le Saux, B._, [IEEE Geoscience and Remote Sensing Magazine (GRSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), March 2022.
 
-\[ [editor version]() /  [DFC 2022 benchmark](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest/) / [data](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022)  \]
+\[ [editor version](https://ieeexplore.ieee.org/document/9764835) /  [DFC 2022 benchmark](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest/) / [data](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022)  \]
 
 
 **DIAL: Deep Interactive and Active Learning for Semantic Segmentation in Remote Sensing** _G. Lenczner, A. Chan-Hon-Tong, B. Le Saux, N. Luminari, G. Le Besnerais_, [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443), March 2022.
