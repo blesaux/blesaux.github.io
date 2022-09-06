@@ -38,6 +38,10 @@ Recent publications include:
 
 \[ [editor version](https://ieeexplore.ieee.org/document/9803235) /  [arxiv](https://arxiv.org/abs/2208.02349) \]
 
+**Self-supervised learning -- A way to minimize time and effort for precision agriculture?** _M. Marszalek, B. Le Saux, PP Mathieu, A. Nowakowski, D. Springer_, [ISPRS Congress 2022](https://www.isprs2022-nice.com/), June 2022.
+
+\[ [ISPRS](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B3-2022/1327/2022/) / [ISPRS pdf](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B3-2022/1327/2022/isprs-archives-XLIII-B3-2022-1327-2022.pdf) / [arxiv](https://arxiv.org/abs/2204.02100) \]
+
 **Prompt-RSVQA: Prompting Visual Context to a Language Model for Remote Sensing Visual Question Answering** _C. Chappuis, V. Zermatten, S. Lobry, B. Le Saux, D. Tuia_, [CVPR 2022](https://cvpr2022.thecvf.com/) / [Earth Vision workshop](https://www.grss-ieee.org/events/earthvision-2022/), June 2022.
 
 \[ [CVF page with abstract](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/html/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.html) / [CVPR/EV22 pdf](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.pdf) / [arxiv to appear]() \]
