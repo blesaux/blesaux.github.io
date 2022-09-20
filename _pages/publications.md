@@ -18,6 +18,19 @@ Recent publications include:
 
 ## 2022
 
+
+**Rapid Training of Quantum Recurrent Neural Networks**, _M. Siemaszko, T. McDermott, A. Buraczewski, B. Le Saux and M. Stobińska_, [QTML'2022](https://quasar.unina.it/qtml2022.html), Naples, Italy, Nov 2022.
+
+\[ [arxiv](https://arxiv.org/abs/2207.00378) \]
+
+**Multiclass SVM with Quantum Annealing**, _A. Delilbasic, G. Cavallaro, B. Le Saux, M. Riedel and K. Michielsen_, [Quantum Machine Learning workshop](https://quantml.lis-lab.fr/QMLatECMLPKDD/) at [EML-PKDD 2022](https://2022.ecmlpkdd.org/), Grenoble, France, Sep 2022.
+
+\[ \]
+
+**Rapid Training of Quantum Recurrent Neural Network**, _M. Siemaszko, T. McDermott, A. Buraczewski, B. Le Saux and M. Stobińska_, [Quantum Machine Learning workshop](https://quantml.lis-lab.fr/QMLatECMLPKDD/) at [EML-PKDD 2022](https://2022.ecmlpkdd.org/), Grenoble, France, Sep 2022.
+
+\[ \]
+
 **Language Transformers for Remote Sensing Visual Question Answering**, _C. Chappuis, V. Mendez, E. Walt, D. Tuia, S. Lobry, B. Le Saux_, [IGARSS 2022](https://www.igarss2022.org), July 2022.
 
 \[ [IEEE pdf to appear]() / [arxiv]() / [IGARSS info](https://www.igarss2022.org/view_paper.php?PaperNum=2215)  \]
