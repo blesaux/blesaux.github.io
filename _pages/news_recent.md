@@ -7,6 +7,8 @@
 * \[May 2022\] On May 30th, I will give a keynote talk on _Quantum Computing for Earth Observation_ at the [Summer School](https://www.hdc-rs.com/) of the [IEEE GRSS](https://www.grss-ieee.org) working group on [High Performance and Disruptive Computing](https://www.grss-ieee.org/technical-committees/earth-science-informatics/working-group-earth-science-informatics/hdcrs/)
 * \[May 2022\] On May 20th, I am delighted to be reviewer in the PhD Defence committee of [Nico Lang](https://langnico.github.io/) at [ETH Zurich](https://ethz.ch/en.html), along with [Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986) (ETHZ / [Photogramm. and Remote Sensing Group](https://prs.igp.ethz.ch/) ), [Jan Dirk Wegner](https://igp.ethz.ch/personen/person-detail.html?persid=186562) (Univ. of Zurich / [EcoVision](https://prs.igp.ethz.ch/ecovision.html)), [Irena  Hajnsek](https://ifu.ethz.ch/the-institute/people/personen-detail.MTY5NjAx.TGlzdC8xMjM0LDEwMjk4MzY2NTk=.html) (ETHZ) and [Walter Jetz](https://jetzlab.yale.edu/people/walter-jetz) ([Yale University](https://eeb.yale.edu/)).
 * \[May 2022\] On May 4th, I will give a keynote talk on _AI4EO, Present and Future_ at the [Swiss Remote Sensing Days 2022](https://www.epfl.ch/research/domains/eo/events-and-news/srsd-2022/) in Ascona, Ticino (CH).
+* \[March 2022\] On March 23 my student [Javiera Castillo-Navarro](https://javicastillo.ml/) defends her PhD on *Semi-supervised learning for
+large scale Earth observation data understanding* ([announce]({{ site.url }}/files/soutenance-Javiera-Castillo-Navarro-23032022.pdf))!
 
 
 
