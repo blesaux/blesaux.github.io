@@ -15,8 +15,61 @@ author_profile: true
 
 All publications are listed below:
 
+## 2022
+
+**Rapid Training of Quantum Recurrent Neural Networks**, _M. Siemaszko, T. McDermott, A. Buraczewski, B. Le Saux and M. Stobińska_, [QTML'2022](https://quasar.unina.it/qtml2022.html), Naples, Italy, Nov 2022.
+
+\[ [arxiv](https://arxiv.org/abs/2207.00378) \]
+
+**Multiclass SVM with Quantum Annealing**, _A. Delilbasic, G. Cavallaro, B. Le Saux, M. Riedel and K. Michielsen_, [Quantum Machine Learning workshop](https://quantml.lis-lab.fr/QMLatECMLPKDD/) at [EML-PKDD 2022](https://2022.ecmlpkdd.org/), Grenoble, France, Sep 2022.
+
+**Rapid Training of Quantum Recurrent Neural Network**, _M. Siemaszko, T. McDermott, A. Buraczewski, B. Le Saux and M. Stobińska_, [Quantum Machine Learning workshop](https://quantml.lis-lab.fr/QMLatECMLPKDD/) at [EML-PKDD 2022](https://2022.ecmlpkdd.org/), Grenoble, France, Sep 2022.
+
+**Language Transformers for Remote Sensing Visual Question Answering**, _C. Chappuis, V. Mendez, E. Walt, D. Tuia, S. Lobry, B. Le Saux_, [IGARSS 2022](https://www.igarss2022.org), July 2022.
+
+\[ [IEEE pdf to appear]() / [arxiv]() / [IGARSS info](https://www.igarss2022.org/view_paper.php?PaperNum=2215)  \]
+
+**Weakly-supervised Continual Learning for Class-Incremental Segmentation**, _G. Lenczner, A. Chan-Hon-Tong, N. Luminari, B. Le Saux_, [IGARSS 2022](https://www.igarss2022.org), July 2022.
+
+\[ [IEEE pdf to appear]() / [arxiv](https://arxiv.org/abs/2201.01029) / [IGARSS info](https://www.igarss2022.org/view_paper.php?PaperNum=1326) / [code](https://github.com/alteia-ai/ICSS) \]
+
+**Quantum Convolutional Circuits for Earth Observation Image Classification**, _Su-yeon Chang, S. Vallecorsa, M. Grossi, B. Le Saux_, [IGARSS 2022](https://www.igarss2022.org), July 2022.
+
+\[ [IEEE pdf to appear]() / [arxiv pdf to appear]() / [IGARSS info](https://www.igarss2022.org/view_paper.php?PaperNum=3440)  \]
+
+**A Multibranch Convolutional Neural Network for Hyperspectral Unmixing** _Lukasz Tulczyjew, Michal Kawulok, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IEEE Geoscience and Remote Sensing Letters (GRSL)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), June 2022.
+
+\[ [editor version](https://ieeexplore.ieee.org/document/9803212) /  [arxiv](https://arxiv.org/abs/2208.02361) \]
+
+**Graph Neural Networks Extract High-Resolution Cultivated Land Maps From Sentinel-2 Image Series** _Lukasz Tulczyjew, Michal Kawulok, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IEEE Geoscience and Remote Sensing Letters (GRSL)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), June 2022.
+
+\[ [editor version](https://ieeexplore.ieee.org/document/9803235) /  [arxiv](https://arxiv.org/abs/2208.02349) \]
+
+**Self-supervised learning -- A way to minimize time and effort for precision agriculture?** _M. Marszalek, B. Le Saux, PP Mathieu, A. Nowakowski, D. Springer_, [ISPRS Congress 2022](https://www.isprs2022-nice.com/), June 2022.
+
+\[ [ISPRS](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B3-2022/1327/2022/) / [ISPRS pdf](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B3-2022/1327/2022/isprs-archives-XLIII-B3-2022-1327-2022.pdf) / [arxiv](https://arxiv.org/abs/2204.02100) \]
+
+**Prompt-RSVQA: Prompting Visual Context to a Language Model for Remote Sensing Visual Question Answering** _C. Chappuis, V. Zermatten, S. Lobry, B. Le Saux, D. Tuia_, [CVPR 2022](https://cvpr2022.thecvf.com/) / [Earth Vision workshop](https://www.grss-ieee.org/events/earthvision-2022/), June 2022.
+
+\[ [CVF page with abstract](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/html/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.html) / [CVPR/EV22 pdf](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.pdf) / [arxiv to appear]() \]
+
+**2022 IEEE GRSS Data Fusion Contest: Semi-Supervised Learning** _Hänsch, R.; Persello, C.; Vivone, G.; Castillo Navarro, J.; Boulch, A.; Lefèvre, S.; Le Saux, B._, [IEEE Geoscience and Remote Sensing Magazine (GRSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), March 2022.
+
+\[ [editor version](https://ieeexplore.ieee.org/document/9764835) /  [DFC 2022 benchmark](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest/) / [data](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022)  \]
+
+**DIAL: Deep Interactive and Active Learning for Semantic Segmentation in Remote Sensing** _G. Lenczner, A. Chan-Hon-Tong, B. Le Saux, N. Luminari, G. Le Besnerais_, [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443), March 2022.
+
+\[ [editor version](https://ieeexplore.ieee.org/document/9756343) / [arxiv](https://arxiv.org/abs/2201.01047) / [DIAL code](https://github.com/alteia-ai/DIAL) \]
+
+**Deep Learning for Archaeological Object Detection on LiDAR: New Evaluation Measures and Insights** _Marco Fiorucci, Wouter B. Verschoof-van der Vaart, Paolo Soleni, Bertrand Le Saux and Arianna Traviglia_, [Remote Sensing](https://www.mdpi.com/2072-4292/14/7/1694), March 2022.
+
+\[ [Open-access editor version](https://www.mdpi.com/2072-4292/14/7/1694) \]
 
 ## 2021
+
+**Quantum Machine Learning for Earth Observation Images**, Su-yeon Chang, S. Vallecorsa, B. Le Saux, [NeurIPS 2nd WS on Quantum Tensor Networks in Machine Learning](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21838), Dec. 2021.
+
+\[ [abstract](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21838#collapse42000) \]
 
 **Energy-based Models in Earth Observation: from Generation to Semi-supervised Learning** _J. Castillo-Navarro, B. Le Saux, A. Boulch, S. Lefèbre_, [IEEE Trans. on Geosciences and Remote Sensing (TGRS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36), November 2021.
 
@@ -26,13 +79,13 @@ All publications are listed below:
 
 \[ [pdf (to appear)]() / [Project page](https://esacortexproject.agenium-space.com/) / [Sentinel 2 Ship detection dataset](https://zenodo.org/record/3923841) \]
 
-**On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification**, _A. Sebastianelli, D. A. Zaidenberg, D. Spiller, B. Le Saux, S. L. Ullo_, _to appear_, Sep. 2021
+**On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification**, _A. Sebastianelli, D. A. Zaidenberg, D. Spiller, B. Le Saux, S. L. Ullo_, IEEE JSTARS, 15, Sep. 2021
 
-\[ [arxiv](https://arxiv.org/abs/2109.09484) / [arxiv pdf](https://arxiv.org/pdf/2109.09484.pdf) / [code](https://github.com/ESA-PhiLab/QNN4EO) \]
+\[ [JSTARS pdf](https://ieeexplore.ieee.org/document/9647979) / [arxiv](https://arxiv.org/abs/2109.09484) / [arxiv pdf](https://arxiv.org/pdf/2109.09484.pdf) / [code](https://github.com/ESA-PhiLab/QNN4EO) \]
 
 **How to find a good image-text embedding for remote sensing visual question answering?** _C. Chappuis, S. Lobry, B. Kellenberger, B. Le Saux, D. Tuia_, [ECML-PKDD 2021](https://2021.ecmlpkdd.org/) / [MACLEAN workshop](https://sites.google.com/view/maclean21/), Sept. 2021.
 
-\[ [CEUR pdf (to appear)]() / [arxiv](https://arxiv.org/abs/2109.11848) / [arxiv pdf](https://arxiv.org/pdf/2109.11848.pdf) / [video](https://tube.switch.ch/videos/uvBPd4XtZ8) \]
+\[ [CEUR Proceedings](http://ceur-ws.org/Vol-3088/) / [CEUR pdf](http://ceur-ws.org/Vol-3088/paper1.pdf) / [arxiv](https://arxiv.org/abs/2109.11848) / [arxiv pdf](https://arxiv.org/pdf/2109.11848.pdf) / [video](https://tube.switch.ch/videos/uvBPd4XtZ8) \]
 
 **Deep Learning‐based Semantic Segmentation in Remote Sensing** _D. Tuia, D. Marcos, K. Schindler, B. Le Saux_ chapter of: **Deep learning for the Earth Sciences** _G. Camps-Valls, D. Tuia, XX Zhu, M. Reichstein (ed)_, Wiley, 2021
 
