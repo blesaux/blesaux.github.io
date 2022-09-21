@@ -25,11 +25,7 @@ Recent publications include:
 
 **Multiclass SVM with Quantum Annealing**, _A. Delilbasic, G. Cavallaro, B. Le Saux, M. Riedel and K. Michielsen_, [Quantum Machine Learning workshop](https://quantml.lis-lab.fr/QMLatECMLPKDD/) at [EML-PKDD 2022](https://2022.ecmlpkdd.org/), Grenoble, France, Sep 2022.
 
-\[ \]
-
 **Rapid Training of Quantum Recurrent Neural Network**, _M. Siemaszko, T. McDermott, A. Buraczewski, B. Le Saux and M. Stobińska_, [Quantum Machine Learning workshop](https://quantml.lis-lab.fr/QMLatECMLPKDD/) at [EML-PKDD 2022](https://2022.ecmlpkdd.org/), Grenoble, France, Sep 2022.
-
-\[ \]
 
 **Language Transformers for Remote Sensing Visual Question Answering**, _C. Chappuis, V. Mendez, E. Walt, D. Tuia, S. Lobry, B. Le Saux_, [IGARSS 2022](https://www.igarss2022.org), July 2022.
 
@@ -63,11 +59,9 @@ Recent publications include:
 
 \[ [editor version](https://ieeexplore.ieee.org/document/9764835) /  [DFC 2022 benchmark](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest/) / [data](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022)  \]
 
-
 **DIAL: Deep Interactive and Active Learning for Semantic Segmentation in Remote Sensing** _G. Lenczner, A. Chan-Hon-Tong, B. Le Saux, N. Luminari, G. Le Besnerais_, [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443), March 2022.
 
 \[ [editor version](https://ieeexplore.ieee.org/document/9756343) / [arxiv](https://arxiv.org/abs/2201.01047) / [DIAL code](https://github.com/alteia-ai/DIAL) \]
-
 
 **Deep Learning for Archaeological Object Detection on LiDAR: New Evaluation Measures and Insights** _Marco Fiorucci, Wouter B. Verschoof-van der Vaart, Paolo Soleni, Bertrand Le Saux and Arianna Traviglia_, [Remote Sensing](https://www.mdpi.com/2072-4292/14/7/1694), March 2022.
 
@@ -93,7 +87,7 @@ Recent publications include:
 
 **How to find a good image-text embedding for remote sensing visual question answering?** _C. Chappuis, S. Lobry, B. Kellenberger, B. Le Saux, D. Tuia_, [ECML-PKDD 2021](https://2021.ecmlpkdd.org/) / [MACLEAN workshop](https://sites.google.com/view/maclean21/), Sept. 2021.
 
-\[ [CEUR pdf (to appear)]() / [arxiv](https://arxiv.org/abs/2109.11848) / [arxiv pdf](https://arxiv.org/pdf/2109.11848.pdf) / [video](https://tube.switch.ch/videos/uvBPd4XtZ8) \]
+\[  [CEUR Proceedings](http://ceur-ws.org/Vol-3088/) / [CEUR pdf](http://ceur-ws.org/Vol-3088/paper1.pdf) / [arxiv](https://arxiv.org/abs/2109.11848) / [arxiv pdf](https://arxiv.org/pdf/2109.11848.pdf) / [video](https://tube.switch.ch/videos/uvBPd4XtZ8) \]
 
 **Deep Learning‐based Semantic Segmentation in Remote Sensing** _D. Tuia, D. Marcos, K. Schindler, B. Le Saux_ chapter of: **Deep learning for the Earth Sciences** _G. Camps-Valls, D. Tuia, XX Zhu, M. Reichstein (ed)_, Wiley, 2021
 
