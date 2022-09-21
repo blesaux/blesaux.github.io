@@ -10,7 +10,6 @@ author_profile: true
 ## Post-Doc
 <a name="PostDoc"></a>
 
-
 [**Manish Gupta**: Spectral processing with Quantum Neural Networks](https://astrocent.camk.edu.pl/?team=dr-manish-gupta) \[2022 - 2023\]  
 Post-doc co-supervised with [Piotr Gawron](https://astrocent.camk.edu.pl/?team=professor-piotr-gawron) at [Nicolaus Copernicus Astronomical CEnter of Polish Academy of Sciences](https://astrocent.camk.edu.pl/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
@@ -29,15 +28,8 @@ PhD EPFL co-supervised with [Devis Tuia](https://sites.google.com/site/devistuia
 [**Rémy Leroy**: Deep neural networks for 3D point cloud prediction from a single image]( {{ site.url }}/students/remy ) \[exp. fall 2022\]  
 PhD Univ. Paris-Saclay co-supervised with [Frédéric Champagnat](https://www.researchgate.net/profile/Frederic_Champagnat) and [Pauline Trouvé-Peloux](https://www.onera.fr/fr/staff/pauline-trouve-peloux) ([ONERA](https://www.onera.fr)), funded by [ONERA](https://www.onera.fr).
 
-[**Gaston Lenczner**: Interactive learning in aerial image interpretation]( {{ site.url }}/students/gaston) \[exp. Sept. 2022\]  
-PhD Univ. Paris-Saclay co-supervised with [Guy Le Besnerais](https://scholar.google.fr/citations?user=r8V306wAAAAJ&hl=fr), Adrien Chan-Hon-Tong ([ONERA](https://www.onera.fr)) and Nicola Luminari ([Delair/Alteia](https://www.delair.aero)), funded by [Delair/Alteia](https://www.delair.aero). <span style="color:orange;">Best Student Paper Award at ECML-PKDD/ [MACLEAN 2020](https://sites.google.com/view/maclean2020/program)</span>.
-
 ## Undergrad / MSc. Students
 <a name="MSc"></a>
-
-
-[**Apolline Horn**: Virtual Reality and Digital Communication](https://www.linkedin.com/in/apollinehorn) \[2022\]  
-BSc from [King's College London](https://www.kcl.ac.uk/)
 
 [**Juan Francesco Amieva** and **Alessandro Austoni**: Change detection in hyperspectral data]() \[2022\]  
 MSc from [Politecnico di Milano](https://www.polimi.it/en/) co-supervised with Federico Serva and [Maria Antonia Brovelli](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?evn_didattica=evento&k_doc=1262&aa=2019&lang=EN&jaf_currentWFID=main) ( [PoliMi/GeoLab](http://www.geolab.polimi.it/) )
@@ -56,9 +48,11 @@ Post-doc between CNAM-ParisTech and ONERA co-supervised with [Élise Koeniguer](
 ## Past PhD Students
 <a name="PastPhD"></a>
 
+[**Gaston Lenczner**: Interactive learning in aerial image interpretation]( {{ site.url }}/students/gaston ) \[PhD 09/2022\]  
+PhD Univ. Paris-Saclay co-supervised with [Guy Le Besnerais](https://scholar.google.fr/citations?user=r8V306wAAAAJ&hl=fr), Adrien Chan-Hon-Tong ([ONERA](https://www.onera.fr)) and Nicola Luminari ([Delair/Alteia](https://www.delair.aero)), funded by [Delair/Alteia](https://www.delair.aero). <span style="color:orange;">Best Student Paper Award at ECML-PKDD/ [MACLEAN 2020](https://sites.google.com/view/maclean2020/program)</span>. Now full-time climber / alpinist.
 
 [**Javiera Castillo Navarro**: Large-scale semi-supervised semantic segmentation]({{ site.url }}/students/javiera) \[PhD 03/2022\]  
-PhD Univ. Bretagne Sud co-supervised with [Alexandre Boulch](https://aboulch.github.io/) and [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), co-funded by [ONERA](https://www.onera.fr) and [CNES](https://cnes.fr/en/web/CNES-en/7430-research-grants.php). Now post-doc fellow at [IRISA](http://www-obelix.irisa.fr/)
+PhD Univ. Bretagne Sud co-supervised with [Alexandre Boulch](https://aboulch.github.io/) and [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), co-funded by [ONERA](https://www.onera.fr) and [CNES](https://cnes.fr/en/web/CNES-en/7430-research-grants.php). Now post-doc fellow at [EPFL](https://www.epfl.ch)/[ECEO](https://www.epfl.ch/labs/eceo/)
 
 [**Rodrigo Caye Daudt**: Convolutional Neural Networks for Change Analysis in Earth Observation Images with Noisy Labels and Domain Shifts]( {{ site.url }}/student/rodrigo ) \[PhD 11/2020\]  
 PhD [Inst. Polytechnique Paris](https://www.ip-paris.fr/en) co-supervised with [Alexandre Boulch]() from [ONERA](https://www.onera.fr/en) and [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/) from [LTCI](https://ltci.telecom-paristech.fr/en/)/[Télécoms ParisTech](https://www.telecom-paristech.fr/eng). <span style="color:orange;">Best Student Paper Award at CVPR/Earth Vision 19</span>. Now post-doc fellow at [ETHZ](https://ethz.ch/en.html)/[EcoVision group](https://prs.igp.ethz.ch/ecovision.html)
@@ -77,6 +71,9 @@ PhD co-supervised with [Marin Ferecatu](http://cedric.cnam.fr/~ferecatm/) and [M
 
 ## Past Undergrad / MSc. Students
 <a name="PastMSc"></a>
+
+[**Apolline Horn**: Virtual Reality and Digital Communication](https://www.linkedin.com/in/apollinehorn) \[2022\]  
+BSc from [King's College London](https://www.kcl.ac.uk/)
 
 [**Sébastien Malherbe**: Physical-based machine learning for cyclone track prediction](https://www.linkedin.com/in/sebastien-malherbe) \[2022\]  
 MSc from [ENS Paris](https://www.ens.psl.eu/en)
