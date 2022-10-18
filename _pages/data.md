@@ -11,9 +11,9 @@ Since machine learning algorithms are hungry for data to process, I contributed 
 
 ## \[2022\] 2022 Data Fusion Contest: Semi-supervised Learning for Land Cover Classification
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/beirut-OSCD-icon.png){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/images/DFC2022-IADF-header-sm.jpeg){: .align-left}
 
-With Javiera Castillo-Navarro, Ronny Haensch and other co-organisers, we held a competition for semi-supervised learning in Earth observation based on MiniFrance data, in the frame of the IEEE GRSS Data Fusion Contests: [the DFC2022](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest-semi-supervised-learning-for-land-cover-classification/). Along with VHR EO imagery and landcover classes, we added digital elevation models to the new [MiniFrance-DFC22 data](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022). [GRSM Paper announce](https://ieeexplore.ieee.org/document/9764835).
+With Javiera Castillo-Navarro, Ronny Haensch and others, we held a competition for semi-supervised learning in Earth observation based on MiniFrance data, in the frame of the IEEE GRSS Data Fusion Contests: [the DFC2022](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest-semi-supervised-learning-for-land-cover-classification/). Along with VHR EO imagery and landcover classes, we added digital elevation models to the new [MiniFrance-DFC22 data](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022). [GRSM Paper announce](https://ieeexplore.ieee.org/document/9764835).
 
 ## \[2020\] MiniFrance Dataset
 
