@@ -18,13 +18,17 @@ Recent publications include:
 
 ## 2022
 
-**Learning Local Depth Regression from Defocus Blur by Soft-Assignment Encoding**, _R. Leroy, P. Trouvé, B. Le Saux, B. Buat, F. Champagnat_, Optica [Applied Optics](https://opg.optica.org/ao/home.cfm), October 2022.
-
-\[ [Appl. Opt.](https://opg.optica.org/ao/abstract.cfm?uri=ao-61-29-8843) / [pdf](https://opg.optica.org/ao/viewmedia.cfm?uri=ao-61-29-8843&seq=0) / \]
-
 **Rapid Training of Quantum Recurrent Neural Networks**, _M. Siemaszko, T. McDermott, A. Buraczewski, B. Le Saux and M. Stobińska_, [QTML'2022](https://quasar.unina.it/qtml2022.html), Naples, Italy, Nov 2022.
 
 \[ [arxiv](https://arxiv.org/abs/2207.00378) \]
+
+**Learning Local Depth Regression from Defocus Blur by Soft-Assignment Encoding**, _R. Leroy, P. Trouvé, B. Le Saux, B. Buat, F. Champagnat_, Optica [Applied Optics](https://opg.optica.org/ao/home.cfm), October 2022.
+
+\[ [Appl. Opt.](https://opg.optica.org/ao/abstract.cfm?uri=ao-61-29-8843) / [pdf](https://opg.optica.org/ao/viewmedia.cfm?uri=ao-61-29-8843&seq=0) \]
+
+**Hybrid Quantum-Classical Networks for Reconstruction and Classification of Earth Observation Images**, _Su-yeon Chang, S. Vallecorsa, M. Grossi, B. Le Saux_, [21st Int. Ws on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2022)](https://indico.cern.ch/event/1106990/), Bari, Italy, October 2022.
+
+\[  \]
 
 **Multiclass SVM with Quantum Annealing**, _A. Delilbasic, G. Cavallaro, B. Le Saux, M. Riedel and K. Michielsen_, [Quantum Machine Learning workshop](https://quantml.lis-lab.fr/QMLatECMLPKDD/) at [EML-PKDD 2022](https://2022.ecmlpkdd.org/), Grenoble, France, Sep 2022.
 
