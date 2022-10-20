@@ -22,6 +22,10 @@ Recent publications include:
 
 \[ [arxiv](https://arxiv.org/abs/2207.00378) \]
 
+**The Hyperview Challenge: Estimating Soil Parameters from Hyperspectral Images** _Jakub Nalepa, Bertrand Le Saux, Nicolas Longépé, Lukasz Tulczyjew, Michal Myller, Michal Kawulok, Krzysztof Smykala, Michal Gumiela_, [ICIP 2022](https://2022.ieeeicip.org/), Bordeaux, France, October 2022.
+
+\[ [editor version](https://ieeexplore.ieee.org/document/9897443) / [doi](https://doi.org/10.1109/ICIP46576.2022.9897443) / [challenge](https://platform.ai4eo.eu/seeing-beyond-the-visible)  \]
+
 **Learning Local Depth Regression from Defocus Blur by Soft-Assignment Encoding**, _R. Leroy, P. Trouvé, B. Le Saux, B. Buat, F. Champagnat_, Optica [Applied Optics](https://opg.optica.org/ao/home.cfm), October 2022.
 
 \[ [Appl. Opt.](https://opg.optica.org/ao/abstract.cfm?uri=ao-61-29-8843) / [pdf](https://opg.optica.org/ao/viewmedia.cfm?uri=ao-61-29-8843&seq=0) \]
