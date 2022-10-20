@@ -13,7 +13,7 @@ Since machine learning algorithms are hungry for data to process, I contributed 
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/DFC2022-IADF-header-sm.jpeg){: .align-left}
 
-With Javiera Castillo-Navarro, Ronny Haensch and others, we held a competition for semi-supervised learning in Earth observation based on MiniFrance data, in the frame of the IEEE GRSS Data Fusion Contests: [the DFC2022](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest-semi-supervised-learning-for-land-cover-classification/). Along with VHR EO imagery and landcover classes, we added digital elevation models to the new [MiniFrance-DFC22 data](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022). [GRSM Paper announce](https://ieeexplore.ieee.org/document/9764835).
+With Javiera Castillo-Navarro, Ronny Haensch and others, we held a competition for semi-supervised learning in Earth observation based on MiniFrance data, in the frame of the IEEE GRSS Data Fusion Contests: [the DFC2022](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest-semi-supervised-learning-for-land-cover-classification/). Along with VHR EO imagery and landcover classes, we added digital elevation models to the new [MiniFrance-DFC22 data](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022). Full description in the [GRSM Paper announcement](https://ieeexplore.ieee.org/document/9764835).
 
 ## \[2020\] MiniFrance Dataset
 
@@ -21,9 +21,13 @@ With Javiera Castillo-Navarro et al., we released the first benchmark for semi-s
 
 ## \[2020\] SEN12-FLOOD Dataset
 
-With Clément Rambour et al., we released [SEN12-FLOOD](https://ieee-dataport.org/open-access/sen12-flood-sar-and-multispectral-dataset-flood-detection), a SAR-Multispectral dataset for classification of flood events in image time-series.
+![image-left]({{ site.url }}{{ site.baseurl }}/images/sen12floods-icon){: .align-left}
+
+With Clément Rambour et al., we released [SEN12-FLOOD](https://ieee-dataport.org/open-access/sen12-flood-sar-and-multispectral-dataset-flood-detection), a SAR-Multispectral dataset for classification of flood events in image time-series. And the dataset is also available on [Radiant Earth](https://www.radiant.earth/) platform: [MLHub.earth](https://mlhub.earth/data/sen12floods)
 
 ## \[2019\] High-Res. Semantic Change Dataset (HRSCD) 
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/HRSCD-icon){: .align-left}
 
 With [Rodrigo Daudt](https://rcdaudt.github.io) et a., we also released HRSCD, a large-scale dataset for semantic change detection at high-resolution (0.5m/pixel). \[ [HRSCD website @ Rodrigo](https://rcdaudt.github.io/hrscd/) / [HRSCD website @ DataPort](https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset) \].
 
