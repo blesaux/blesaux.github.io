@@ -33,6 +33,8 @@ With [Rodrigo Daudt](https://rcdaudt.github.io) et a., we also released HRSCD, a
 
 ## \[2019\] Data Fusion Contest 2019 (DFC2019)
 
+![image-left]({{ site.url }}{{ site.baseurl }}/images/dfc19-icon.png){: .align-left}
+
 The [DFC2019](http://www.grss-ieee.org/community/technical-committees/data-fusion/2019-ieee-grss-data-fusion-contest-data/) organised by IADF TC (Myself, Naoto Yokoya and Ronny Hänsch) and Johns Hopkins University (Myron Brown) was a benchmark about Large-Scale Semantic 3D Reconstruction, and involved 3D reconstruction, 3D prediction, and semantic segmentation in 2D and 3D. \[ [DFC2019 @ IEEE GRSS](http://www.grss-ieee.org/community/technical-committees/data-fusion/2019-ieee-grss-data-fusion-contest-data/) / [DFC2019 @ DataPort](https://ieee-dataport.org/open-access/data-fusion-contest-2019-dfc2019) \]
 
 ## \[2018\] Onera Satellite Change Detection (OSCD) Dataset  [![DOI]({{ site.url }}{{ site.baseurl }}/images/doi-OSCD.png)](http://dx.doi.org/10.21227/asqe-7s69)
@@ -60,6 +62,12 @@ This dataset contains modified Copernicus data from 2015-2018. Original Copernic
 </details>
 
 {::options parse_block_html="false" /}
+
+## \[2018\] Data Fusion Contest 2018 (DFC2018)
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/dfc18-icon.png){: .align-left}
+
+The [DFC2018](http://www.classic.grss-ieee.org/community/technical-committees/data-fusion/2018-ieee-grss-data-fusion-contest/) organised by IADF TC (Myself, Naoto Yokoya and Ronny Hänsch) and Houston University (Saurabh Prasad) was a benchmark about urban land use and land cover classification (or semantic segmentation). It used multispectral LiDAR point cloud data (intensity rasters and digital surface models), **hyperspectral** data, and very high-resolution RGB imagery. As such, it still is a relevant becnhmark for hyperspectral classification and data fusion. \[ [DFC2018 @ IEEE GRSS](http://www.classic.grss-ieee.org/community/technical-committees/data-fusion/2018-ieee-grss-data-fusion-contest/) / [DFC2018 @ DataPort](https://ieee-dataport.org/open-access/2018-ieee-grss-data-fusion-challenge-%E2%80%93-fusion-multispectral-lidar-and-hyperspectral-data) \]
 
 
 ## \[2013\] Christchurch Aerial Semantic Dataset (CASD) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3566005.svg)](https://doi.org/10.5281/zenodo.3566005)
