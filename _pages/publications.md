@@ -34,21 +34,21 @@ Recent publications include:
 
 \[  \]
 
-**Multiclass SVM with Quantum Annealing**, _A. Delilbasic, G. Cavallaro, B. Le Saux, M. Riedel and K. Michielsen_, [Quantum Machine Learning workshop](https://quantml.lis-lab.fr/QMLatECMLPKDD/) at [EML-PKDD 2022](https://2022.ecmlpkdd.org/), Grenoble, France, Sep 2022.
+**Multiclass SVM with Quantum Annealing**, _A. Delilbasic, G. Cavallaro, B. Le Saux, M. Riedel and K. Michielsen_, [Quantum Machine Learning workshop](https://quantml.lis-lab.fr/QMLatECMLPKDD/) at [ECML-PKDD 2022](https://2022.ecmlpkdd.org/), Grenoble, France, Sep 2022.
 
-**Rapid Training of Quantum Recurrent Neural Network**, _M. Siemaszko, T. McDermott, A. Buraczewski, B. Le Saux and M. Stobińska_, [Quantum Machine Learning workshop](https://quantml.lis-lab.fr/QMLatECMLPKDD/) at [EML-PKDD 2022](https://2022.ecmlpkdd.org/), Grenoble, France, Sep 2022.
+**Rapid Training of Quantum Recurrent Neural Network**, _M. Siemaszko, T. McDermott, A. Buraczewski, B. Le Saux and M. Stobińska_, [Quantum Machine Learning workshop](https://quantml.lis-lab.fr/QMLatECMLPKDD/) at [ECML-PKDD 2022](https://2022.ecmlpkdd.org/), Grenoble, France, Sep 2022.
 
 **Language Transformers for Remote Sensing Visual Question Answering**, _C. Chappuis, V. Mendez, E. Walt, D. Tuia, S. Lobry, B. Le Saux_, [IGARSS 2022](https://www.igarss2022.org), July 2022.
 
-\[ [IEEE pdf to appear]() / [arxiv]() / [IGARSS info](https://www.igarss2022.org/view_paper.php?PaperNum=2215)  \]
+\[ [IEEE pdf](https://ieeexplore.ieee.org/document/9884036) / [IGARSS info](https://www.igarss2022.org/view_paper.php?PaperNum=2215)  \]
 
 **Weakly-supervised Continual Learning for Class-Incremental Segmentation**, _G. Lenczner, A. Chan-Hon-Tong, N. Luminari, B. Le Saux_, [IGARSS 2022](https://www.igarss2022.org), July 2022.
 
-\[ [IEEE pdf to appear]() / [arxiv](https://arxiv.org/abs/2201.01029) / [IGARSS info](https://www.igarss2022.org/view_paper.php?PaperNum=1326) / [code](https://github.com/alteia-ai/ICSS) \]
+\[ [IEEE pdf](https://ieeexplore.ieee.org/document/9884547) / [arxiv](https://arxiv.org/abs/2201.01029) / [IGARSS info](https://www.igarss2022.org/view_paper.php?PaperNum=1326) / [code](https://github.com/alteia-ai/ICSS) \]
 
 **Quantum Convolutional Circuits for Earth Observation Image Classification**, _Su-yeon Chang, S. Vallecorsa, M. Grossi, B. Le Saux_, [IGARSS 2022](https://www.igarss2022.org), July 2022.
 
-\[ [IEEE pdf to appear]() / [arxiv pdf to appear]() / [IGARSS info](https://www.igarss2022.org/view_paper.php?PaperNum=3440)  \]
+\[ [IEEE pdf](https://ieeexplore.ieee.org/document/9883992) / [IGARSS info](https://www.igarss2022.org/view_paper.php?PaperNum=3440)  \]
 
 **A Multibranch Convolutional Neural Network for Hyperspectral Unmixing** _Lukasz Tulczyjew, Michal Kawulok, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IEEE Geoscience and Remote Sensing Letters (GRSL)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), June 2022.
 
