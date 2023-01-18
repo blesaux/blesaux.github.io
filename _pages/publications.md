@@ -50,6 +50,10 @@ Recent publications include:
 
 \[ [IEEE pdf](https://ieeexplore.ieee.org/document/9883992) / [IGARSS info](https://www.igarss2022.org/view_paper.php?PaperNum=3440)  \]
 
+**ESA-ECMWF Report on recent progress and research directions in machine learning for Earth System observation and prediction**, _R. Schneider, M. Bonavita, A. Geer, R. Arcucci, P. Dueben, C. Vitolo, B. Le Saux, B. Demir & PP. Mathieu_, [npj climate and atmospheric science](https://www.nature.com/npjclimatsci/) 5 (51), June 2022.
+
+\[ [NPJ CAS version](https://www.nature.com/articles/s41612-022-00269-z) / [doi](https://doi.org/10.1038/s41612-022-00269-z) / [workshop website ml4esop.esa.int](https://www.ml4esop.esa.int/) \]
+
 **A Multibranch Convolutional Neural Network for Hyperspectral Unmixing** _Lukasz Tulczyjew, Michal Kawulok, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IEEE Geoscience and Remote Sensing Letters (GRSL)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), June 2022.
 
 \[ [editor version](https://ieeexplore.ieee.org/document/9803212) /  [arxiv](https://arxiv.org/abs/2208.02361) \]
