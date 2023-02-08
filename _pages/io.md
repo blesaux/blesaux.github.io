@@ -20,9 +20,12 @@ I served as Chair of the [IEEE GRSS Image Analysis and Data Fusion Technical Com
 I was a co-organizer of:
 * the RFIAP'18/[TerraData workshop](https://sites.google.com/view/terradata2018), 
 * the [CVPR'19](http://cvpr2019.thecvf.com/)/[EarthVision workshop'19](https://www.grss-ieee.org/earthvision2019/), [CVPR'20](http://cvpr2020.thecvf.com/)/[EarthVision workshop'20](http://www.classic.grss-ieee.org/earthvision2020/), and [CVPR'2021](http://cvpr2021.thecvf.com/)/[EarthVision'21 workshop](https://www.grss-ieee.org/earthvision2021/), 
-* the [ESA](https://www.esa.int/) - [ECMWF](https://www.ecmwf.int/) workshops on [Machine Learning for Earth System Observation and Prediction](https://www.ml4esop.esa.int/), [2020 edition](https://events.ecmwf.int/event/172/) and [2021 edition](https://www.ml4esop.esa.int/), 
+* the [ESA](https://www.esa.int/) - [ECMWF](https://www.ecmwf.int/) workshops on [Machine Learning for Earth System Observation and Prediction](https://www.ml4esop.esa.int/), [2020 edition](https://events.ecmwf.int/event/172/), [2021 edition](https://www.ml4esop.esa.int/), and [2022 edition](https://events.ecmwf.int/event/304/).
 * the [ESA](https://www.esa.int/) - [ELLIS society](https://ellis.eu/) [2021 Workshop on Quantum Algorithms and Machine Learning for Huge Data Analysis, Simulation and Potential Earth Observation Applications](https://ellisqphml.github.io/ellisphilab2021),
 * the 2nd [conference on "Space and AI"](http://spaceandai.ijs.si/) co-located with [ECML-PKDD'21](https://2021.ecmlpkdd.org/) with [CLAIRE AI society](https://claire-ai.org).
+* the [ESA](https://www.esa.int/) 5th [Quantum Technology Conference](https://atpi.eventsair.com/5th-quantum-technology-conference)
+* Hyperview, the [ICIP 2022](https://2022.ieeeicip.org/) Grand Challenge on [Seeing beyond the visible: Estimating soil parameters from hyperspectral images](https://platform.ai4eo.eu/seeing-beyond-the-visible)
+* the [NeurIPS 2022](https://neurips.cc/Conferences/2022/CompetitionTrack) competition [Weather4Cast](https://www.iarai.ac.at/weather4cast/) on forecasting rain events from satellite data.
 
 I have been guest editor for:
 * 2018/2019 [Geoscience and Remote Sensing Letters](http://www.grss-ieee.org/publication-category/grsl/) special stream on [Advanced Processing for Multimodal Optical Remote Sensing Imagery](http://www.grss-ieee.org/letters/special-streams/multimodal-2018/).
