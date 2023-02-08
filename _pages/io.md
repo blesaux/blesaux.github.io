@@ -24,7 +24,7 @@ I was a co-organizer of:
 * the [ESA](https://www.esa.int/) - [ELLIS society](https://ellis.eu/) [2021 Workshop on Quantum Algorithms and Machine Learning for Huge Data Analysis, Simulation and Potential Earth Observation Applications](https://ellisqphml.github.io/ellisphilab2021),
 * the 2nd [conference on "Space and AI"](http://spaceandai.ijs.si/) co-located with [ECML-PKDD'21](https://2021.ecmlpkdd.org/) with [CLAIRE AI society](https://claire-ai.org).
 * the [ESA](https://www.esa.int/) 5th [Quantum Technology Conference](https://atpi.eventsair.com/5th-quantum-technology-conference)
-* Hyperview, the [ICIP 2022](https://2022.ieeeicip.org/) Grand Challenge on [Seeing beyond the visible: Estimating soil parameters from hyperspectral images](https://platform.ai4eo.eu/seeing-beyond-the-visible)
+* the [ICIP 2022](https://2022.ieeeicip.org/) Grand Challenge Hyperview on [Seeing beyond the visible: Estimating soil parameters from hyperspectral images](https://platform.ai4eo.eu/seeing-beyond-the-visible)
 * the [NeurIPS 2022](https://neurips.cc/Conferences/2022/CompetitionTrack) competition [Weather4Cast](https://www.iarai.ac.at/weather4cast/) on forecasting rain events from satellite data.
 
 I have been guest editor for:
