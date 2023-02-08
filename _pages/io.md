@@ -19,7 +19,7 @@ I served as Chair of the [IEEE GRSS Image Analysis and Data Fusion Technical Com
 
 I was a co-organizer of:
 * the RFIAP'18/[TerraData workshop](https://sites.google.com/view/terradata2018), 
-* the [CVPR'19](http://cvpr2019.thecvf.com/)/[EarthVision workshop'19](https://www.grss-ieee.org/earthvision2019/), [CVPR'20](http://cvpr2020.thecvf.com/)/[EarthVision workshop'20](http://www.classic.grss-ieee.org/earthvision2020/), and [CVPR'2021](http://cvpr2021.thecvf.com/)/[EarthVision'21 workshop](https://www.grss-ieee.org/earthvision2021/), 
+* the [CVPR'19](http://cvpr2019.thecvf.com/)/[EarthVision workshop'19](https://www.grss-ieee.org/earthvision2019/), [CVPR'20](http://cvpr2020.thecvf.com/)/[EarthVision workshop'20](http://www.classic.grss-ieee.org/earthvision2020/), [CVPR'2021](http://cvpr2021.thecvf.com/)/[EarthVision'21 workshop](https://www.grss-ieee.org/earthvision2021/), and [CVPR'2022](http://cvpr2022.thecvf.com/)/[EarthVision'22 workshop](https://www.grss-ieee.org/events/earthvision-2022/))
 * the [ESA](https://www.esa.int/) - [ECMWF](https://www.ecmwf.int/) workshops on [Machine Learning for Earth System Observation and Prediction](https://www.ml4esop.esa.int/), [2020 edition](https://events.ecmwf.int/event/172/), [2021 edition](https://www.ml4esop.esa.int/), and [2022 edition](https://events.ecmwf.int/event/304/).
 * the [ESA](https://www.esa.int/) - [ELLIS society](https://ellis.eu/) [2021 Workshop on Quantum Algorithms and Machine Learning for Huge Data Analysis, Simulation and Potential Earth Observation Applications](https://ellisqphml.github.io/ellisphilab2021),
 * the 2nd [conference on "Space and AI"](http://spaceandai.ijs.si/) co-located with [ECML-PKDD'21](https://2021.ecmlpkdd.org/) with [CLAIRE AI society](https://claire-ai.org).
