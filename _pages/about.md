@@ -14,7 +14,7 @@ My work is at the crossroads of statistics, machine learning, image processing, 
 
 I am an associate editor of the [Geoscience and Remote Sensing Letters (GRSL)](http://www.grss-ieee.org/publication-category/grsl/). I co-organise the CVPR Earth Vision worskhop series (this year's edition: [CVPR'2023](https://cvpr2023.thecvf.com/)/[EarthVision'23 workshop](https://www.grss-ieee.org/events/earthvision-2023/)) and the ESA-ECMWF Machine Learning for Earth System Observation and Prediction workshop series (last year's edition: [ML4ESOP'2022](https://events.ecmwf.int/event/304/)).
 
-[Full bio]({{ site.url }}/io).
+[Full bio]({{ site.url }}/io) / [Short professional bio]({{ site.url }}/bio).
 
 ## News
 
