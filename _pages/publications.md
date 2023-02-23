@@ -26,15 +26,15 @@ Recent publications include:
 
 \[ [EGU abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-5746.html) / [doi](https://doi.org/10.5194/egusphere-egu23-5746) \]
 
-**Hybrid Quantum-Classical Networks for Reconstruction and Classification of Earth Observation Images**, _Su-yeon Chang, S. Vallecorsa, M. Grossi, B. Le Saux_, [21st Int. Ws on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2022)](https://indico.cern.ch/event/1106990/), Bari, Italy, October 2022.
+**Correlation between PQC Descriptors and Training Accuracy in Hybrid Quantum-Classical Model for Earth Observation Image Classification**, _Su-yeon Chang, B. Le Saux, S. Vallecorsa, M. Grossi_, [Quantum Information Processing (QIP 2023)](https://indico.cern.ch/event/1175020/), Ghent, Belgium, February 2023.
 
-\[  \]
+\[ [QIP website](https://indico.cern.ch/event/1175020/) \]
 
 ## 2022
 
 **Report on the 2022 IEEE Geoscience and Remote Sensing Society Data Fusion Contest: Semisupervised Learning** _Hänsch, R.; Persello, C.; Vivone, G.; Castillo Navarro, J.; Boulch, A.; Lefèvre, S.; Le Saux, B._, [IEEE Geoscience and Remote Sensing Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), vol. 10, no. 4, pp. 270-273, Dec. 2022, doi: 10.1109/MGRS.2022.3219935.
 
-\[ [IEEE GRSM version](https://ieeexplore.ieee.org/document/9956742) / [doi](https://doi.org/10.1109/MGRS.2022.32199350 / [DFC 2022 benchmark](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest/) / [data](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022) \]
+\[ [IEEE GRSM version](https://ieeexplore.ieee.org/document/9956742) / [doi](https://doi.org/10.1109/MGRS.2022.32199350) / [DFC 2022 benchmark](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest/) / [data](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022) \]
 
 
 **Rapid Training of Quantum Recurrent Neural Networks**, _M. Siemaszko, T. McDermott, A. Buraczewski, B. Le Saux and M. Stobińska_, [QTML'2022](https://quasar.unina.it/qtml2022.html), Naples, Italy, Nov 2022.
