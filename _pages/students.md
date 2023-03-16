@@ -25,17 +25,11 @@ PhD EPFL co-supervised with [Sofia Vallecorsa](https://www.linkedin.com/in/sofia
 [**Christel Chappuis**: An AI assistant to visual query and answering for EO data](https://people.epfl.ch/christel.chappuis/?lang=en) \[exp. 2024\]  
 PhD EPFL co-supervised with [Devis Tuia](https://sites.google.com/site/devistuia/) and [Sylvain Lobry](https://www.sylvainlobry.com/) at [EPFL](https://www.epfl.ch)/[ECEO](https://www.epfl.ch/labs/eceo/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
-[**Rémy Leroy**: Deep neural networks for 3D point cloud prediction from a single image]( {{ site.url }}/students/remy ) \[exp. fall 2022\]  
-PhD Univ. Paris-Saclay co-supervised with [Frédéric Champagnat](https://www.researchgate.net/profile/Frederic_Champagnat) and [Pauline Trouvé-Peloux](https://www.onera.fr/fr/staff/pauline-trouve-peloux) ([ONERA](https://www.onera.fr)), funded by [ONERA](https://www.onera.fr).
-
 ## Undergrad / MSc. Students
 <a name="MSc"></a>
 
-[**Juan Francesco Amieva** and **Alessandro Austoni**: Change detection in hyperspectral data]() \[2022\]  
-MSc from [Politecnico di Milano](https://www.polimi.it/en/) co-supervised with Federico Serva and [Maria Antonia Brovelli](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?evn_didattica=evento&k_doc=1262&aa=2019&lang=EN&jaf_currentWFID=main) ( [PoliMi/GeoLab](http://www.geolab.polimi.it/) )
-
-[**Stephen Moran**: Physical-based machine learning for weather forecast]() \[2022\]  
-MSc from [TU Berlin](https://www.tu.berlin/en/) co-supervised with Federico Serva and [Begüm Demir](https://begumdemir.com/) ( [TU Berlin/RSIM group](https://rsim.berlin/) )
+[**Fulvio Sanguigni**: Diffusion Models for Earth Observation]() \[2023\]  
+MSc from [La Sapienza DIAG](https://www.diag.uniroma1.it/) co-supervised with [Irene Amerini](https://www.diag.uniroma1.it/users/irene_amerini).
 
 {% for post in site.students reversed %} {% if post.type == "msc" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
 
@@ -47,6 +41,9 @@ Post-doc between CNAM-ParisTech and ONERA co-supervised with [Élise Koeniguer](
 
 ## Past PhD Students
 <a name="PastPhD"></a>
+
+[**Rémy Leroy**: Deep neural networks for 3D point cloud prediction from a single image]( {{ site.url }}/students/remy ) \[exp. fall 2022\]  
+PhD Univ. Paris-Saclay co-supervised with [Frédéric Champagnat](https://www.researchgate.net/profile/Frederic_Champagnat) and [Pauline Trouvé-Peloux](https://www.onera.fr/fr/staff/pauline-trouve-peloux) ([ONERA](https://www.onera.fr)), funded by [ONERA](https://www.onera.fr).
 
 [**Gaston Lenczner**: Interactive learning in aerial image interpretation]( {{ site.url }}/students/gaston ) \[PhD 09/2022\]  
 PhD Univ. Paris-Saclay co-supervised with [Guy Le Besnerais](https://scholar.google.fr/citations?user=r8V306wAAAAJ&hl=fr), Adrien Chan-Hon-Tong ([ONERA](https://www.onera.fr)) and Nicola Luminari ([Delair/Alteia](https://www.delair.aero)), funded by [Delair/Alteia](https://www.delair.aero). <span style="color:orange;">Best Student Paper Award at ECML-PKDD/ [MACLEAN 2020](https://sites.google.com/view/maclean2020/program)</span>. Now full-time climber / alpinist.
@@ -71,6 +68,12 @@ PhD co-supervised with [Marin Ferecatu](http://cedric.cnam.fr/~ferecatm/) and [M
 
 ## Past Undergrad / MSc. Students
 <a name="PastMSc"></a>
+
+[**Juan Francesco Amieva** and **Alessandro Austoni**: Change detection in hyperspectral data]() \[2022\]  
+MSc from [Politecnico di Milano](https://www.polimi.it/en/) co-supervised with Federico Serva and [Maria Antonia Brovelli](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?evn_didattica=evento&k_doc=1262&aa=2019&lang=EN&jaf_currentWFID=main) ( [PoliMi/GeoLab](http://www.geolab.polimi.it/) )
+
+[**Stephen Moran**: Physical-based machine learning for weather forecast]() \[2022\]  
+MSc from [TU Berlin](https://www.tu.berlin/en/) co-supervised with Federico Serva and [Begüm Demir](https://begumdemir.com/) ( [TU Berlin/RSIM group](https://rsim.berlin/) )
 
 [**Apolline Horn**: Virtual Reality and Digital Communication](https://www.linkedin.com/in/apollinehorn) \[2022\]  
 BSc from [King's College London](https://www.kcl.ac.uk/)
