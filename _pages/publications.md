@@ -18,6 +18,10 @@ Recent publications include:
 
 ## 2023
 
+**Detecting Clouds in Multispectral Satellite Images Using Quantum-Kernel Support Vector Machines** _Artur Miroszewski, Jakub Mielczarek, Grzegorz Czelusta, Filip Szczepanek, Bartosz Grabowski, Bertrand Le Saux, Jakub Nalepa_, to appear, pre-print available.
+
+\[ [arxiv](https://arxiv.org/abs/2302.08270) \]
+
 **Towards generation of synthetic hyperspectral image datasets with GAN**, _François De Vieilleville, Adrien Lagrange, Nicolas Dublé, and Bertrand Le Saux_, [EGU'2023](https://www.egu23.eu/), Vienna, Austria, April 2023.
 
 \[ [EGU abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-7299.html) \]
@@ -27,6 +31,11 @@ Recent publications include:
 \[ [EGU abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-5746.html) / [doi](https://doi.org/10.5194/egusphere-egu23-5746) \]
 
 **Correlation between PQC Descriptors and Training Accuracy in Hybrid Quantum-Classical Model for Earth Observation Image Classification**, _Su-yeon Chang, B. Le Saux, S. Vallecorsa, M. Grossi_, [Quantum Information Processing (QIP 2023)](https://indico.cern.ch/event/1175020/), Ghent, Belgium, February 2023.
+
+\[ [QIP website](https://indico.cern.ch/event/1175020/) \]
+
+**Multispectral Satellite Data Analysis Using Support Vector Machines With Quantum Kernels**, _Artur Miroszewski, F. Szczepanek, G. Czelusta,
+B. Grabowski, B. Le Saux, J. Nalepa and J. Mielczarek_, [Quantum Information Processing (QIP 2023)](https://indico.cern.ch/event/1175020/), Ghent, Belgium, February 2023.
 
 \[ [QIP website](https://indico.cern.ch/event/1175020/) \]
 
