@@ -18,6 +18,30 @@ Recent publications include:
 
 ## 2023
 
+**Knowledge distillation for memory-efficient on-board image classification of Mars imagery**, _Piotr Bosowski, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
+
+\[ [IEEE pdf later]() / [IGARSS info later]()  \]
+
+
+**Unbiased validation of hyperspectral unmixing algorithms**, _Lukasz Tulczyjew, Michal Kawulok, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
+
+\[ [IEEE pdf later]() / [IGARSS info later]()  \]
+
+
+**Cloud detection in multispectral satellite images using support vector machines with quantum kernels**, _Artur Miroszewski, Jakub Mielczarek, Filip Szczepanek, Grzegorz Czelusta, Bartosz Grabowski, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
+
+\[ [IEEE pdf later]() / [IGARSS info later]()  \]
+
+**Optimizing Kernel-Target Alignment for cloud detection in multispectral satellite images**, _Artur Miroszewski, Jakub Mielczarek, Filip Szczepanek, Grzegorz Czelusta, Bartosz Grabowski, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
+
+\[ [IEEE pdf later]() / [IGARSS info later]()  \]
+
+
+**Analysing the impact of PQK Transform on the multispectral features**, _Manish K. Gupta, Michał Romaszewski, Bertrand Le Saux, Piotr Gawron_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
+
+\[ [IEEE pdf later]() / [IGARSS info later]()  \]
+
+
 **Detecting Clouds in Multispectral Satellite Images Using Quantum-Kernel Support Vector Machines** _Artur Miroszewski, Jakub Mielczarek, Grzegorz Czelusta, Filip Szczepanek, Bartosz Grabowski, Bertrand Le Saux, Jakub Nalepa_, to appear, pre-print available.
 
 \[ [arxiv](https://arxiv.org/abs/2302.08270) \]
