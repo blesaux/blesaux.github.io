@@ -179,7 +179,7 @@ large scale Earth observation data understanding* ([announce]({{ site.url }}/fil
 *    [May'15] Our paper about classification of EO data got an award in the Data Fusion Contest 2015 ;o)
     [Apr'15] Kick-off of FP7 Inachus Work-Package #4, in Leiden
 *    [Apr'15] Talk about Environment mapping and interpretation by drone at Jurse 2015, in Lausanne
-    [Mar'15] Adrien Lagrange (Ensta ParisTech) joined the group
+*    [Mar'15] Adrien Lagrange (Ensta ParisTech) joined the group
 *    [Jan'15] Talk about Discriminative models for object detection in earth-observation data at Sébastien Lefèvre's team Irisa/Obelix, in Vannes
 *    [Oct'14] Joris Guerry started his PhD about 3D object detection and domain adaptation for UAVs, co-advised with David Filliat and Antoine Manzanera at Ensta ParisTech
 *    [Aug'14] Talk about Interactive design of classifiers in remote sensing at ICPR'14, in Stockholm
