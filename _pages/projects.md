@@ -34,46 +34,6 @@ In [Gaston Lenczner](https://gaslen.github.io/)'s PhD, we design interactive dee
 \[ [DISIR @ ISPRS 2020](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2020/877/2020/isprs-annals-V-2-2020-877-2020.pdf) / [DISIR code](https://github.com/delair-ai/DISIR) / [DISCA @ ECMLPKDD/MacLean 2021 (Best student paper award!) ](http://ceur-ws.org/Vol-2766/paper1.pdf) / [DISCA Code](https://github.com/delair-ai/DISCA) / [DIAL arxiv](https://arxiv.org/abs/2201.01047) / [Transfer learning arxiv](https://arxiv.org/abs/2201.01029) \]
 
 
-## Weakly-supervised Learning for Earth Observation
-
-![image-left]({{ site.url }}{{ site.baseurl }}/images/rodrigo-daudt-weakly-sup-attention-net.jpg){: .align-left} 
-
-Large scale datasets created from crowdsourced labels or openly available data have become crucial to provide training data for large scale learning algorithms. While these datasets are easier to acquire, the data are frequently noisy and unreliable, which is motivating research on weakly supervised learning techniques. With [Rodrigo Daudt](https://rcdaudt.github.io/), Alexandre Boulch and Yann Gousseau we propose the Guided Anisotropic Diffusion (GAD) algorithm, that we combine with Cycle-GANs and attention-based neural networks to overcome scarce and noisy labels, for application in post-natural disaster mapping and land-cover classification. 
-
-\[ [Mach. Learn. paper on Weakly-supervised learning for EO](https://link.springer.com/article/10.1007%2Fs10994-021-06008-4) / [CVPR'19/Earth Vision paper (Best student paper award!) ](https://openaccess.thecvf.com/content_CVPRW_2019/html/EarthVision/Daudt_Guided_Anisotropic_Diffusion_and_Iterative_Learning_for_Weakly_Supervised_Change_CVPRW_2019_paper.html) / [Rodrigo Daudt's PhD thesis](https://tel.archives-ouvertes.fr/tel-03105668) \]
-
-## Semi-Supervised Learning for Earth Observation
-
-![image-left]({{ site.url }}{{ site.baseurl }}/images/berundanet-icon.jpg){: .align-left} 
-
-Labelled datasets are more and more common in EO, and yet this is only a waterdrop in the ocean of unlabelled imagery. In [Javiera Castillo-Navarro](https://javicastillo.ml/)'s PhD, co-supervised with [A. Boulch](http://www.boulch.eu/) and [S. Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), we explore semi-supervised strategies to harness unlabelled data for better semantic segmentation. In particular, we showed that common datasets were not suitable to assess real-life generalization issues ([paper](https://hal.archives-ouvertes.fr/hal-02343915)), released [MiniFrance](https://ieee-dataport.org/open-access/minifrance) the 1st large-scale dataset designed for semi-supervised training and evaluation, and proposed semi-supervised neural nets ([paper](https://arxiv.org/abs/2010.07830)) with self-supervised losses ([paper](https://drive.google.com/file/d/1TAb4k6VgvTDZuw1LM7p8j3_QDXWBk5EZ/view?usp=sharing)).
-
-\[ [Mach. Learn. paper on Semi-supervised learning for EO](https://arxiv.org/abs/2010.07830) / [MiniFrance dataset](https://ieee-dataport.org/open-access/minifrance) \]
-
-## Semantic Change Detection
-
-![image-left]({{ site.url }}{{ site.baseurl }}/images/SemChangeDet_icon.jpg){: .align-left} 
-
-With the very high resolution now available even from space, local changes can now be characterized precisely. [Rodrigo Daudt](https://rcdaudt.github.io/), [Alexandre Boulch](https://www.boulch.eu/), [Yann Gousseau]() and I have proposed the first deep neural network architectures for change detection in Earth-observation. We also created and released [OSCD](https://rcdaudt.github.io/oscd/), a dataset with reference data for training such nets. The last evolution of this line of work is _Semantic Change Detection_, which allows to characterize the modification of land use, and we propose a Multi-Task Learning network to solve this problem automatically along with the high-res [HRSCD dataset](https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset).
-
-\[ [ICIP paper on siamese nets for change detection](http://rcdaudt.github.io/files/2018icip-fully-convolutional.pdf) / [code](https://github.com/rcdaudt/fully_convolutional_change_detection) / [OSCD dataset](https://rcdaudt.github.io/oscd/) / [HRSCD dataset](https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset) / [arxiv](https://arxiv.org/abs/1810.08452) \]
-
-## AerialMTL: Multi-Task Learning for Height and Semantics prediction from bird's view
-
-![image-left]({{ site.url }}{{ site.baseurl }}/images/marcela-carvalho-aerial-MTL-net-icon.jpg){: .align-left} 
-
-Thanks to statistical modelling, it is now possible to build elevation or height models from a single aerial image, without the need for stereo! With [Marcela Carvalho](https://marcelampc.github.io/) we proposed to leverage **multi-task learning** to build stronger representations, by learning classes of interest along with the relative height. Indeed, similar classes of urban objects are likely to have similar heights, which brings consistence to the model. We published our results in a [paper in GRSL](https://hal-univ-paris.archives-ouvertes.fr/UNIV-PARIS5/hal-02386074/) and published the [AerialMTL code](https://github.com/marcelampc/aerial_mtl).
-
-\[ [paper in Geosci. Rem. Sens. Lett.](https://doi.org/10.1109/LGRS.2019.2947783) / [preprint](https://hal-univ-paris.archives-ouvertes.fr/UNIV-PARIS5/hal-02386074/) / [AerialMTL github](https://github.com/marcelampc/aerial_mtl) [Code description]({{ site.url }}{{ site.baseurl }}/code) \]
-
-## Deep Learning for Hyperspectral data: DeepHyperX and HyperGANs
-
-![image-left]({{ site.url }}{{ site.baseurl }}/images/nicolas-audebert-GANs-hyperspectral-synthesis-icon.jpg){: .align-left} 
-
-Hyperspectral sensors offer a unique perception on the world, in which spectral information (at multiple wavelengths, or so-to-say "colors") is as important as the spatial one. With [Nicolas Audebert](https://nicolas.audebert.at/) (prime) and [Sebastien Lefevre](http://people.irisa.fr/Sebastien.Lefevre), we investigated and reviewd various types of neural network architectures, from 1D to 3D, through complex combinations of spatial-spectral ones, to process hyperspectral data for classification. It resulted in a [review in GRSM](https://arxiv.org/abs/1904.10674) and the associated [DeepHyperX toolbox](https://github.com/nshaud/DeepHyperX) with many models ready to use on most common benchmarks! We also explored the use of Generative Adversarial Networks (GANs) to (conditionally) synthetize pure spectra (or endmmbers), and also published this [IGARSS paper](https://arxiv.org/abs/1806.02583) and the [HyperGANs toolbox](https://github.com/nshaud/HyperGANs): GANs for hyperspectral.
-
-\[ [Deep Learning for Hyperspectral Classification]() / [DeepHyperX toolbox](https://github.com/nshaud/DeepHyperX) / [GANs for hyperspectral paper](https://arxiv.org/abs/1806.02583) / [HyperGANs toolbox](https://github.com/nshaud/HyperGANs) \]
-
 
 ---
 
