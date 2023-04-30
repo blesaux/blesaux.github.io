@@ -28,6 +28,9 @@ PhD EPFL co-supervised with [Devis Tuia](https://sites.google.com/site/devistuia
 ## Undergrad / MSc. Students
 <a name="MSc"></a>
 
+[**Francesca di Falco**: Quantum Generative AI]() \[2023\]  
+MSc from [La Sapienza DIET](https://web.uniroma1.it/dip_diet/) co-supervised with [Massimo Panella](https://massimopanella.site.uniroma1.it/), [Andrea Ceschini](https://phd.uniroma1.it/web/ANDREA-CESCHINI_nP1870857_IT.aspx) and [Alessandro Sebastianelli](https://scholar.google.com/citations?user=WoTTS-UAAAAJ&hl=it)
+
 [**Fulvio Sanguigni**: Diffusion Models for Earth Observation]() \[2023\]  
 MSc from [La Sapienza DIAG](https://www.diag.uniroma1.it/) co-supervised with [Irene Amerini](https://www.diag.uniroma1.it/users/irene_amerini).
 
@@ -46,10 +49,10 @@ Post-doc between CNAM-ParisTech and ONERA co-supervised with [Élise Koeniguer](
 PhD Univ. Paris-Saclay co-supervised with [Frédéric Champagnat](https://www.researchgate.net/profile/Frederic_Champagnat) and [Pauline Trouvé-Peloux](https://www.onera.fr/fr/staff/pauline-trouve-peloux) ([ONERA](https://www.onera.fr)), funded by [ONERA](https://www.onera.fr).
 
 [**Gaston Lenczner**: Interactive learning in aerial image interpretation]( {{ site.url }}/students/gaston ) \[PhD 09/2022\]  
-PhD Univ. Paris-Saclay co-supervised with [Guy Le Besnerais](https://scholar.google.fr/citations?user=r8V306wAAAAJ&hl=fr), Adrien Chan-Hon-Tong ([ONERA](https://www.onera.fr)) and Nicola Luminari ([Delair/Alteia](https://www.delair.aero)), funded by [Delair/Alteia](https://www.delair.aero). <span style="color:orange;">Best Student Paper Award at ECML-PKDD/ [MACLEAN 2020](https://sites.google.com/view/maclean2020/program)</span>. Now full-time climber / alpinist.
+PhD Univ. Paris-Saclay co-supervised with [Guy Le Besnerais](https://scholar.google.fr/citations?user=r8V306wAAAAJ&hl=fr), Adrien Chan-Hon-Tong ([ONERA](https://www.onera.fr)) and Nicola Luminari ([Delair/Alteia](https://www.delair.aero)), funded by [Delair/Alteia](https://www.delair.aero). <span style="color:orange;">Best Student Paper Award at ECML-PKDD/ [MACLEAN 2020](https://sites.google.com/view/maclean2020/program)</span>. Now post-doc fellow at [EPFL](https://www.epfl.ch)/[ECEO](https://www.epfl.ch/labs/eceo/) and part-time climber / alpinist.
 
 [**Javiera Castillo Navarro**: Large-scale semi-supervised semantic segmentation]({{ site.url }}/students/javiera) \[PhD 03/2022\]  
-PhD Univ. Bretagne Sud co-supervised with [Alexandre Boulch](https://aboulch.github.io/) and [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), co-funded by [ONERA](https://www.onera.fr) and [CNES](https://cnes.fr/en/web/CNES-en/7430-research-grants.php). Now post-doc fellow at [EPFL](https://www.epfl.ch)/[ECEO](https://www.epfl.ch/labs/eceo/)
+PhD Univ. Bretagne Sud co-supervised with [Alexandre Boulch](https://aboulch.github.io/) and [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), co-funded by [ONERA](https://www.onera.fr) and [CNES](https://cnes.fr/en/web/CNES-en/7430-research-grants.php). Now post-doc fellow at [EPFL](https://www.epfl.ch)/[ECEO](https://www.epfl.ch/labs/eceo/) and part-time climber / alpinist.
 
 [**Rodrigo Caye Daudt**: Convolutional Neural Networks for Change Analysis in Earth Observation Images with Noisy Labels and Domain Shifts]( {{ site.url }}/student/rodrigo ) \[PhD 11/2020\]  
 PhD [Inst. Polytechnique Paris](https://www.ip-paris.fr/en) co-supervised with [Alexandre Boulch]() from [ONERA](https://www.onera.fr/en) and [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/) from [LTCI](https://ltci.telecom-paristech.fr/en/)/[Télécoms ParisTech](https://www.telecom-paristech.fr/eng). <span style="color:orange;">Best Student Paper Award at CVPR/Earth Vision 19</span>. Now post-doc fellow at [ETHZ](https://ethz.ch/en.html)/[EcoVision group](https://prs.igp.ethz.ch/ecovision.html)
@@ -64,7 +67,7 @@ PhD co-supervised with [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lef
 PhD co-supervised with [David Filliat](http://perso.ensta-paristech.fr/~filliat/eng/index.html) from [ENSTA ParisTech](https://www.ensta-paristech.fr/en). <span style="color:orange;">PhD Award in "Complex Systems Engineering" from the [doctoral school Interfaces](https://www.universite-paris-saclay.fr/fr/formation/doctorat/interfaces#evenements)</span>. Now CTO at [Rumble Studio](https://rumble.studio/).
 
 [**Hicham Randrianarivo**: Statistical learning of semantic classes for aerial image interpretation]({{ site.url }}/students/hicham) \[PhD 12/2016\]  
-PhD co-supervised with [Marin Ferecatu](http://cedric.cnam.fr/~ferecatm/) and [Michel Crucianu](http://cedric.cnam.fr/~crucianm/) from [CNAM ParisTech](http://www.cnam.eu/site-en/).  <span style="color:orange;">Data Fusion Contest 2nd rank Award!</span> Now research engineer at [Qwant](https://www.qwant.com/?l=en).
+PhD co-supervised with [Marin Ferecatu](http://cedric.cnam.fr/~ferecatm/) and [Michel Crucianu](http://cedric.cnam.fr/~crucianm/) from [CNAM ParisTech](http://www.cnam.eu/site-en/).  <span style="color:orange;">Data Fusion Contest 2nd rank Award!</span> Now research engineer at [Huawei](https://www.huawei.com/it/corporate-information/research-development).
 
 ## Past Undergrad / MSc. Students
 <a name="PastMSc"></a>
