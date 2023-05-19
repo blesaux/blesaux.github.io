@@ -22,6 +22,13 @@ Recent publications include:
 
 \[ [arxiv](https://arxiv.org/abs/2305.08413) / [pdf](https://arxiv.org/pdf/2305.08413)  \] 
 
+
+
+**2022 ECMWF-ESA workshop report: current status, progress and opportunities in machine learning for Earth system observation and prediction**, _Rochelle Schneider, Massimo Bonavita, Rossella Arcucci, Matthew Chantry, Marcin Chrust, Alan Geer, Bertrand Le Saux, and Claudia Vitolo_,  [npj Climate and Atmospheric Science](https://www.nature.com/npjclimatsci/), _to appear_ 2023.
+
+\[ [to appear]() \] 
+
+
 **Knowledge distillation for memory-efficient on-board image classification of Mars imagery**, _Piotr Bosowski, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
 
 \[ [IEEE pdf later]() / [IGARSS info later]()  \]
