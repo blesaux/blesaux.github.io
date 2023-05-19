@@ -18,15 +18,17 @@ Recent publications include:
 
 ## 2023
 
+**Artificial intelligence to advance Earth observation: a perspective**, _Devis Tuia, Konrad Schindler, Begüm Demir, Gustau Camps-Valls, Xiao Xiang Zhu, Mrinalini Kochupillai, Sašo Džeroski, Jan N. van Rijn, Holger H. Hoos, Fabio Del Frate, Mihai Datcu, Jorge-Arnulfo Quiané-Ruiz, Volker Markl, Bertrand Le Saux, Rochelle Schneider_,  [arXiv:2305.08413](https://doi.org/10.48550/arXiv.2305.08413), May 2023.
+
+\[ [arxiv](https://arxiv.org/abs/2305.08413) / [pdf](https://arxiv.org/pdf/2305.08413)  \] 
+
 **Knowledge distillation for memory-efficient on-board image classification of Mars imagery**, _Piotr Bosowski, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
 
 \[ [IEEE pdf later]() / [IGARSS info later]()  \]
 
-
 **Unbiased validation of hyperspectral unmixing algorithms**, _Lukasz Tulczyjew, Michal Kawulok, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
 
 \[ [IEEE pdf later]() / [IGARSS info later]()  \]
-
 
 **Cloud detection in multispectral satellite images using support vector machines with quantum kernels**, _Artur Miroszewski, Jakub Mielczarek, Filip Szczepanek, Grzegorz Czelusta, Bartosz Grabowski, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
 
@@ -36,15 +38,17 @@ Recent publications include:
 
 \[ [IEEE pdf later]() / [IGARSS info later]()  \]
 
-
 **Analysing the impact of PQK Transform on the multispectral features**, _Manish K. Gupta, Michał Romaszewski, Bertrand Le Saux, Piotr Gawron_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
 
 \[ [IEEE pdf later]() / [IGARSS info later]()  \]
 
-
 **Detecting Clouds in Multispectral Satellite Images Using Quantum-Kernel Support Vector Machines** _Artur Miroszewski, Jakub Mielczarek, Grzegorz Czelusta, Filip Szczepanek, Bartosz Grabowski, Bertrand Le Saux, Jakub Nalepa_, to appear, pre-print available.
 
-\[ [arxiv](https://arxiv.org/abs/2302.08270) \]
+\[ [arxiv](https://arxiv.org/abs/2302.08270) / [pdf](https://arxiv.org/pdf/2302.08270) \]
+
+**A Single-Step Multiclass SVM based on Quantum Annealing for Remote Sensing Data Classification** _Amer Delilbasic, Bertrand Le Saux, Morris Riedel, Kristel Michielsen, Gabriele Cavallaro_, to appear, pre-print available.
+
+\[ [arxiv](https://arxiv.org/abs/2303.11705) / [pdf](https://arxiv.org/pdf/2303.11705) \]
 
 **Towards generation of synthetic hyperspectral image datasets with GAN**, _François De Vieilleville, Adrien Lagrange, Nicolas Dublé, and Bertrand Le Saux_, [EGU'2023](https://www.egu23.eu/), Vienna, Austria, April 2023.
 
@@ -177,7 +181,7 @@ B. Grabowski, B. Le Saux, J. Nalepa and J. Mielczarek_, [Quantum Information Pro
 \[ [abstract](https://www.climatechange.ai/papers/icml2021/72) / [pdf](https://www.climatechange.ai/papers/icml2021/72/paper.pdf) / [slides](https://www.climatechange.ai/papers/icml2021/72/slides.pdf)  \]
 
 
-**Weakly supervised change detection using guided anisotropic diffusion** _R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau_, [Maching Learning Journal](https://www.springer.com/journal/10994), June 2021.
+**Weakly supervised change detection using guided anisotropic diffusion** _R. Caye , B. Le Saux, A. Boulch, Y. Gousseau_, [Maching Learning Journal](https://www.springer.com/journal/10994), June 2021.
 
 \[ [_editor version_](https://link.springer.com/article/10.1007/s10994-021-06008-4) / [doi](https://doi.org/10.1007/s10994-021-06008-4) / [arxiv](https://arxiv.org/abs/2112.15367) \]
 
@@ -266,7 +270,7 @@ B. Grabowski, B. Le Saux, J. Nalepa and J. Mielczarek_, [Quantum Information Pro
 
 **Learning to understand Earth-observation images with weak and unreliable ground-truth** _R. Caye Daudt, A. Chan-Hon-Tong, B. Le Saux, A. Boulch_ [IGARSS 2019](https://igarss2019.org/), Yokohama, Japan, July 2019
 
-\[ \]
+\[ [ieee](https://ieeexplore.ieee.org/abstract/document/8898563) [https://doi.org/10.1109/IGARSS.2019.8898563](https://doi.org/10.1109/IGARSS.2019.8898563) \]
 
 **Deep Learning for Classification of Hyperspectral Data: A Comparative Review** _N. Audebert, B. Le Saux, S. Lefèvre_ [IEEE Geoscience and Remote Sensing Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), vol. 7 (2), June 2019
 
