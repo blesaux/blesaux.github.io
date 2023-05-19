@@ -18,7 +18,7 @@ I used to teach regularly at [University Paris Dauphine](https://www.dauphine.fr
 I served as Chair of the [IEEE GRSS Image Analysis and Data Fusion Technical Committee](http://www.grss-ieee.org/community/technical-committees/data-fusion/) from 2017 to 2019, and previously as co-chair from 2015 to 2017. One of our main activities was to organize the [Data Fusion Contest](http://www.grss-ieee.org/community/technical-committees/data-fusion/data-fusion-contest/), an annual competition for multimodal Earth observation. 
 
 I am/was a co-organizer of:
-* the [Dagstuhl](https://www.dagstuhl.de/en) seminar on ["Space and Artificial Intelligence"](Space and Artificial Intelligence) in November 2023,
+* the [Dagstuhl](https://www.dagstuhl.de/en) seminar on ["Space and Artificial Intelligence"](https://www.dagstuhl.de/23461) in November 2023,
 * the [Big Data from Space (BiDS) 2023](https://www.bigdatafromspace2023.org/) conference,
 * the [AI for Humanitarian Assistance and Disaster Response Workshop (AI+HADR) 2023](https://www.hadr.ai/) workshop at [ICCV'2023](https://iccv2023.thecvf.com/),
 * the Earth Vision workshop series, computer vision meets Earth observation: [CVPR'19](http://cvpr2019.thecvf.com/)/[EarthVision workshop'19](https://www.grss-ieee.org/earthvision2019/), [CVPR'20](http://cvpr2020.thecvf.com/)/[EarthVision workshop'20](http://www.classic.grss-ieee.org/earthvision2020/), [CVPR'2021](http://cvpr2021.thecvf.com/)/[EarthVision'21 workshop](https://www.grss-ieee.org/earthvision2021/), [CVPR'2022](http://cvpr2022.thecvf.com/)/[EarthVision'22 workshop](https://www.grss-ieee.org/earthvision2022/), and [CVPR'2023](http://cvpr2023.thecvf.com/)/[EarthVision'23 workshop](https://www.grss-ieee.org/earthvision2023/),
