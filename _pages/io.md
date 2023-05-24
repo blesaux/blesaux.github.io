@@ -26,11 +26,13 @@ I am/was a co-organizer of:
 * the [NeurIPS 2022](https://neurips.cc/Conferences/2022/CompetitionTrack) competition [_Weather4Cast_](https://www.iarai.ac.at/weather4cast/) on forecasting rain events from satellite data.
 * the [ESA](https://www.esa.int/) - [ECMWF](https://www.ecmwf.int/) workshops on [Machine Learning for Earth System Observation and Prediction](https://www.ml4esop.esa.int/), [2020 edition](https://events.ecmwf.int/event/172/), [2021 edition](https://www.ml4esop.esa.int/), and [2022 edition](https://events.ecmwf.int/event/304/),
 * the [ICIP 2022](https://2022.ieeeicip.org/) Grand Challenge _Hyperview_ on [Seeing beyond the visible: Estimating soil parameters from hyperspectral images](https://platform.ai4eo.eu/seeing-beyond-the-visible),
+* the IEEE GRSS [Data Fusion Contest 2022](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest/),
 * the [ESA](https://www.esa.int/) 5th [Quantum Technology Conference](https://atpi.eventsair.com/5th-quantum-technology-conference) in 2021,
+* The ECML/PKDD Discovery Challenge [Mysteries of the Mayas](https://biasvariancelabs.github.io/maya_challenge/) for cultural heritage with remote sensing,
 * the 2nd [conference on "Space and AI"](http://spaceandai.ijs.si/) co-located with [ECML-PKDD'21](https://2021.ecmlpkdd.org/) with [CLAIRE AI society](https://claire-ai.org),
 * the [ESA](https://www.esa.int/) - [ELLIS society](https://ellis.eu/) [2021 Workshop on Quantum Algorithms and Machine Learning for Huge Data Analysis, Simulation and Potential Earth Observation Applications](https://ellisqphml.github.io/ellisphilab2021),
-* the RFIAP'18/[TerraData workshop](https://sites.google.com/view/terradata2018).
-
+* the IEEE GRSS [Data Fusion Contests]() in 2016, 2017, 2018, 2019.
+* the RFIAP'18/[TerraData workshop](https://sites.google.com/view/terradata2018),
 
 I have been guest editor for:
 * 2018/2019 [Geoscience and Remote Sensing Letters](http://www.grss-ieee.org/publication-category/grsl/) special stream on [Advanced Processing for Multimodal Optical Remote Sensing Imagery](http://www.grss-ieee.org/letters/special-streams/multimodal-2018/).
