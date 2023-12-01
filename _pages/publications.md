@@ -22,12 +22,17 @@ Recent publications include:
 
 \[ [arxiv](https://arxiv.org/abs/2305.08413) / [pdf](https://arxiv.org/pdf/2305.08413)  \] 
 
+**A Single-Step Multiclass SVM based on Quantum Annealing for Remote Sensing Data Classification** _Amer Delilbasic, Bertrand Le Saux, Morris Riedel, Kristel Michielsen, Gabriele Cavallaro_, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), Vol. 16, November 2023.
 
+\[ [JSTARS article](https://ieeexplore.ieee.org/document/10329968) / [doi](https://doi.org/10.1109/JSTARS.2023.3336926) / [arxiv](https://arxiv.org/abs/2303.11705) / [pdf](https://arxiv.org/pdf/2303.11705) \]
 
-**2022 ECMWF-ESA workshop report: current status, progress and opportunities in machine learning for Earth system observation and prediction**, _Rochelle Schneider, Massimo Bonavita, Rossella Arcucci, Matthew Chantry, Marcin Chrust, Alan Geer, Bertrand Le Saux, and Claudia Vitolo_,  [npj Climate and Atmospheric Science](https://www.nature.com/npjclimatsci/), _to appear_ 2023.
+**2022 ECMWF-ESA workshop report: current status, progress and opportunities in machine learning for Earth system observation and prediction**, _Rochelle Schneider, Massimo Bonavita, Rossella Arcucci, Matthew Chantry, Marcin Chrust, Alan Geer, Bertrand Le Saux, and Claudia Vitolo_,  [npj Climate and Atmospheric Science](https://www.nature.com/npjclimatsci/), vol. 6, July 2023.
 
-\[ [to appear]() \] 
+\[ [npj article](https://www.nature.com/articles/s41612-023-00387-2) / [2022 ECMWF-ESA workshop at Reading](https://events.ecmwf.int/event/304/) \] 
 
+**Detecting Clouds in Multispectral Satellite Images Using Quantum-Kernel Support Vector Machines** _Artur Miroszewski, Jakub Mielczarek, Grzegorz Czelusta, Filip Szczepanek, Bartosz Grabowski, Bertrand Le Saux, Jakub Nalepa_, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), Vol. 16, August 2023.
+
+\[ [JSTARS article](https://ieeexplore.ieee.org/document/10214376) / [doi](https://doi.org/10.1109/JSTARS.2023.3304122) / [arxiv](https://arxiv.org/abs/2302.08270) / [pdf](https://arxiv.org/pdf/2302.08270) \]
 
 **Knowledge distillation for memory-efficient on-board image classification of Mars imagery**, _Piotr Bosowski, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
 
@@ -44,18 +49,6 @@ Recent publications include:
 **Optimizing Kernel-Target Alignment for cloud detection in multispectral satellite images**, _Artur Miroszewski, Jakub Mielczarek, Filip Szczepanek, Grzegorz Czelusta, Bartosz Grabowski, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
 
 \[ [IEEE pdf later]() / [IGARSS info later]()  \]
-
-**Analysing the impact of PQK Transform on the multispectral features**, _Manish K. Gupta, Michał Romaszewski, Bertrand Le Saux, Piotr Gawron_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
-
-\[ [IEEE pdf later]() / [IGARSS info later]()  \]
-
-**Detecting Clouds in Multispectral Satellite Images Using Quantum-Kernel Support Vector Machines** _Artur Miroszewski, Jakub Mielczarek, Grzegorz Czelusta, Filip Szczepanek, Bartosz Grabowski, Bertrand Le Saux, Jakub Nalepa_, to appear, pre-print available.
-
-\[ [arxiv](https://arxiv.org/abs/2302.08270) / [pdf](https://arxiv.org/pdf/2302.08270) \]
-
-**A Single-Step Multiclass SVM based on Quantum Annealing for Remote Sensing Data Classification** _Amer Delilbasic, Bertrand Le Saux, Morris Riedel, Kristel Michielsen, Gabriele Cavallaro_, to appear, pre-print available.
-
-\[ [arxiv](https://arxiv.org/abs/2303.11705) / [pdf](https://arxiv.org/pdf/2303.11705) \]
 
 **Towards generation of synthetic hyperspectral image datasets with GAN**, _François De Vieilleville, Adrien Lagrange, Nicolas Dublé, and Bertrand Le Saux_, [EGU'2023](https://www.egu23.eu/), Vienna, Austria, April 2023.
 
