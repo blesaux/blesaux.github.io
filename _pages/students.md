@@ -45,7 +45,7 @@ Post-doc between CNAM-ParisTech and ONERA co-supervised with [Élise Koeniguer](
 <a name="PastPhD"></a>
 
 [**Rémy Leroy**: Deep neural networks for 3D point cloud prediction from a single image]( {{ site.url }}/students/remy ) \[exp. fall 2022\]  
-PhD Univ. Paris-Saclay co-supervised with [Frédéric Champagnat](https://www.researchgate.net/profile/Frederic_Champagnat) and [Pauline Trouvé-Peloux](https://www.onera.fr/fr/staff/pauline-trouve-peloux) ([ONERA](https://www.onera.fr)), funded by [ONERA](https://www.onera.fr).
+PhD Univ. Paris-Saclay co-supervised with [Frédéric Champagnat](https://www.researchgate.net/profile/Frederic_Champagnat) and [Pauline Trouvé-Peloux](https://www.onera.fr/fr/staff/pauline-trouve-peloux) ([ONERA](https://www.onera.fr)), funded by [ONERA](https://www.onera.fr). Now post-doc at [INRIA](https://www.inria.fr/en)/[IRISA](https://www.irisa.fr/en).
 
 [**Gaston Lenczner**: Interactive learning in aerial image interpretation]( {{ site.url }}/students/gaston ) \[PhD 09/2022\]  
 PhD Univ. Paris-Saclay co-supervised with [Guy Le Besnerais](https://scholar.google.fr/citations?user=r8V306wAAAAJ&hl=fr), Adrien Chan-Hon-Tong ([ONERA](https://www.onera.fr)) and Nicola Luminari ([Delair/Alteia](https://www.delair.aero)), funded by [Delair/Alteia](https://www.delair.aero). <span style="color:orange;">Best Student Paper Award at ECML-PKDD/ [MACLEAN 2020](https://sites.google.com/view/maclean2020/program)</span>. Now post-doc fellow at [EPFL](https://www.epfl.ch)/[ECEO](https://www.epfl.ch/labs/eceo/) and part-time climber / alpinist.
@@ -63,7 +63,7 @@ PhD co-supervised with Pauline Trouvé-Peloux and Frédéric Champagnat from [ON
 PhD co-supervised with [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/) from [IRISA](http://www-irisa.univ-ubs.fr/)/[Univ Bretagne Sud](http://www.univ-ubs.fr/). <span style="color:orange;">2nd Best Student Award at JURSE 17</span> and <span style="color:orange;">Award for Best contribution to the ISPRS 2D Semantic Labeling Contest</span>. Now Assoc. Prof. at [CNAM-ParisTech](http://www.cnam.fr).
 
 [**Joris Guerry**: Robust visual recognition by neural networks in robotic exploration scenarios. Detect me if you can!]({{ site.url }}/students/joris) \[PhD 11/2017\]  
-PhD co-supervised with [David Filliat](http://perso.ensta-paristech.fr/~filliat/eng/index.html) from [ENSTA ParisTech](https://www.ensta-paristech.fr/en). <span style="color:orange;">PhD Award in "Complex Systems Engineering" from the [doctoral school Interfaces](https://www.universite-paris-saclay.fr/fr/formation/doctorat/interfaces#evenements)</span>. Now CTO at [Rumble Studio](https://rumble.studio/).
+PhD co-supervised with [David Filliat](http://perso.ensta-paristech.fr/~filliat/eng/index.html) from [ENSTA ParisTech](https://www.ensta-paristech.fr/en). <span style="color:orange;">PhD Award in "Complex Systems Engineering" from the [doctoral school Interfaces](https://www.universite-paris-saclay.fr/fr/formation/doctorat/interfaces#evenements)</span>. Now CTO at [Rumble Studio](https://rumble.studio/) and founder at [Banana Army](http://banana.army).
 
 [**Hicham Randrianarivo**: Statistical learning of semantic classes for aerial image interpretation]({{ site.url }}/students/hicham) \[PhD 12/2016\]  
 PhD co-supervised with [Marin Ferecatu](http://cedric.cnam.fr/~ferecatm/) and [Michel Crucianu](http://cedric.cnam.fr/~crucianm/) from [CNAM ParisTech](http://www.cnam.eu/site-en/).  <span style="color:orange;">Data Fusion Contest 2nd rank Award!</span> Now research engineer at [Huawei](https://www.huawei.com/it/corporate-information/research-development).
@@ -72,10 +72,10 @@ PhD co-supervised with [Marin Ferecatu](http://cedric.cnam.fr/~ferecatm/) and [M
 <a name="PastMSc"></a>
 
 [**Francesca di Falco**: Quantum Generative AI]() \[2023\]  
-MSc from [La Sapienza DIET](https://web.uniroma1.it/dip_diet/) co-supervised with [Massimo Panella](https://massimopanella.site.uniroma1.it/), [Andrea Ceschini](https://phd.uniroma1.it/web/ANDREA-CESCHINI_nP1870857_IT.aspx) and [Alessandro Sebastianelli](https://scholar.google.com/citations?user=WoTTS-UAAAAJ&hl=it)
+MSc from [La Sapienza DIET](https://web.uniroma1.it/dip_diet/) co-supervised with [Massimo Panella](https://massimopanella.site.uniroma1.it/), [Andrea Ceschini](https://phd.uniroma1.it/web/ANDREA-CESCHINI_nP1870857_IT.aspx) and [Alessandro Sebastianelli](https://scholar.google.com/citations?user=WoTTS-UAAAAJ&hl=it). Now PhD student at La Sapienza, Università di Roma.
 
 [**Fulvio Sanguigni**: Diffusion Models for Earth Observation]() \[2023\]  
-MSc from [La Sapienza DIAG](https://www.diag.uniroma1.it/) co-supervised with [Irene Amerini](https://www.diag.uniroma1.it/users/irene_amerini).
+MSc from [La Sapienza DIAG](https://www.diag.uniroma1.it/) co-supervised with [Irene Amerini](https://www.diag.uniroma1.it/users/irene_amerini). Now PhD student at Università degli Studi di Modena e Reggio Emilia.
 
 [**Juan Francesco Amieva** and **Alessandro Austoni**: Change detection in hyperspectral data]() \[2022\]  
 MSc from [Politecnico di Milano](https://www.polimi.it/en/) co-supervised with Federico Serva and [Maria Antonia Brovelli](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?evn_didattica=evento&k_doc=1262&aa=2019&lang=EN&jaf_currentWFID=main) ( [PoliMi/GeoLab](http://www.geolab.polimi.it/) )
