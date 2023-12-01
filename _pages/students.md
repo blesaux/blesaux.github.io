@@ -13,6 +13,11 @@ author_profile: true
 [**Manish Gupta**: Spectral processing with Quantum Neural Networks](https://astrocent.camk.edu.pl/?team=dr-manish-gupta) \[2022 - 2023\]  
 Post-doc co-supervised with [Piotr Gawron](https://astrocent.camk.edu.pl/?team=professor-piotr-gawron) at [Nicolaus Copernicus Astronomical CEnter of Polish Academy of Sciences](https://astrocent.camk.edu.pl/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
+
+[**Artur Miroszewski**: Quantum Machine Learning for Hyperspectral imaging](https://scholar.google.com/citations?hl=en&user=3ayjWdYAAAAJ) \[2022 - 2023\]  
+Post-doc co-supervised with [Jakub Mielcszarek](https://jakubmielczarek.com/) at [Jagiellonian University](https://en.uj.edu.pl)/[Quantum Cosmos Lab](https://quantumcosmos.org/), [Jakub Nalepa](https://www.researchgate.net/profile/Jakub-Nalepa-2) at [KP Labs](https://kplabs.space/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
+
+
 ## PhD Students
 <a name="PhD"></a>
 
@@ -27,12 +32,6 @@ PhD EPFL co-supervised with [Devis Tuia](https://sites.google.com/site/devistuia
 
 ## Undergrad / MSc. Students
 <a name="MSc"></a>
-
-[**Francesca di Falco**: Quantum Generative AI]() \[2023\]  
-MSc from [La Sapienza DIET](https://web.uniroma1.it/dip_diet/) co-supervised with [Massimo Panella](https://massimopanella.site.uniroma1.it/), [Andrea Ceschini](https://phd.uniroma1.it/web/ANDREA-CESCHINI_nP1870857_IT.aspx) and [Alessandro Sebastianelli](https://scholar.google.com/citations?user=WoTTS-UAAAAJ&hl=it)
-
-[**Fulvio Sanguigni**: Diffusion Models for Earth Observation]() \[2023\]  
-MSc from [La Sapienza DIAG](https://www.diag.uniroma1.it/) co-supervised with [Irene Amerini](https://www.diag.uniroma1.it/users/irene_amerini).
 
 {% for post in site.students reversed %} {% if post.type == "msc" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
 
@@ -71,6 +70,12 @@ PhD co-supervised with [Marin Ferecatu](http://cedric.cnam.fr/~ferecatm/) and [M
 
 ## Past Undergrad / MSc. Students
 <a name="PastMSc"></a>
+
+[**Francesca di Falco**: Quantum Generative AI]() \[2023\]  
+MSc from [La Sapienza DIET](https://web.uniroma1.it/dip_diet/) co-supervised with [Massimo Panella](https://massimopanella.site.uniroma1.it/), [Andrea Ceschini](https://phd.uniroma1.it/web/ANDREA-CESCHINI_nP1870857_IT.aspx) and [Alessandro Sebastianelli](https://scholar.google.com/citations?user=WoTTS-UAAAAJ&hl=it)
+
+[**Fulvio Sanguigni**: Diffusion Models for Earth Observation]() \[2023\]  
+MSc from [La Sapienza DIAG](https://www.diag.uniroma1.it/) co-supervised with [Irene Amerini](https://www.diag.uniroma1.it/users/irene_amerini).
 
 [**Juan Francesco Amieva** and **Alessandro Austoni**: Change detection in hyperspectral data]() \[2022\]  
 MSc from [Politecnico di Milano](https://www.polimi.it/en/) co-supervised with Federico Serva and [Maria Antonia Brovelli](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?evn_didattica=evento&k_doc=1262&aa=2019&lang=EN&jaf_currentWFID=main) ( [PoliMi/GeoLab](http://www.geolab.polimi.it/) )
