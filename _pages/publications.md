@@ -26,13 +26,21 @@ Recent publications include:
 
 \[ [JSTARS article](https://ieeexplore.ieee.org/document/10329968) / [doi](https://doi.org/10.1109/JSTARS.2023.3336926) / [arxiv](https://arxiv.org/abs/2303.11705) / [pdf](https://arxiv.org/pdf/2303.11705) \]
 
+**Detection of Forest Fires through Deep Unsupervised Learning Modeling of Sentinel-1 Time Series** _Thomas di Martino, Bertrand Le Saux, Régis Guinvarc’h, Laetitia Thirion-Lefevre, Elise Colin_, ISPRS International Journal of Geo-Information, vol. 12, num. 8, August 2023.
+
+\[ [journal version](https://www.mdpi.com/2220-9964/12/8/332) / [doi](https://doi.org/10.3390/ijgi12080332) \]
+
+**Detecting Clouds in Multispectral Satellite Images Using Quantum-Kernel Support Vector Machines** _Artur Miroszewski, Jakub Mielczarek, Grzegorz Czelusta, Filip Szczepanek, Bartosz Grabowski, Bertrand Le Saux, Jakub Nalepa_, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), vol. 16, August 2023.
+
+\[ [JSTARS article](https://ieeexplore.ieee.org/document/10214376) / [doi](https://doi.org/10.1109/JSTARS.2023.3304122) / [arxiv](https://arxiv.org/abs/2302.08270) / [pdf](https://arxiv.org/pdf/2302.08270) \]
+
+**Rapid Training of Quantum Recurrent Neural Networks**, _M. Siemaszko, A. Buraczewski, B. Le Saux and M. Stobińska_, [Quantum Machine Intelligence](https://www.springer.com/journal/42484), vol. 2, num. 5, July 2023.
+
+\[ [Open-access QMI html](https://link.springer.com/article/10.1007/s42484-023-00117-0) / [Open-access QMI pdf](https://link.springer.com/content/pdf/10.1007/s42484-023-00117-0.pdf) / [arxiv](https://arxiv.org/abs/2207.00378) \]
+
 **2022 ECMWF-ESA workshop report: current status, progress and opportunities in machine learning for Earth system observation and prediction**, _Rochelle Schneider, Massimo Bonavita, Rossella Arcucci, Matthew Chantry, Marcin Chrust, Alan Geer, Bertrand Le Saux, and Claudia Vitolo_,  [npj Climate and Atmospheric Science](https://www.nature.com/npjclimatsci/), vol. 6, July 2023.
 
 \[ [npj article](https://www.nature.com/articles/s41612-023-00387-2) / [2022 ECMWF-ESA workshop at Reading](https://events.ecmwf.int/event/304/) \] 
-
-**Detecting Clouds in Multispectral Satellite Images Using Quantum-Kernel Support Vector Machines** _Artur Miroszewski, Jakub Mielczarek, Grzegorz Czelusta, Filip Szczepanek, Bartosz Grabowski, Bertrand Le Saux, Jakub Nalepa_, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), Vol. 16, August 2023.
-
-\[ [JSTARS article](https://ieeexplore.ieee.org/document/10214376) / [doi](https://doi.org/10.1109/JSTARS.2023.3304122) / [arxiv](https://arxiv.org/abs/2302.08270) / [pdf](https://arxiv.org/pdf/2302.08270) \]
 
 **Knowledge distillation for memory-efficient on-board image classification of Mars imagery**, _Piotr Bosowski, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
 
