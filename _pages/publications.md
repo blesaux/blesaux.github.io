@@ -35,13 +35,29 @@ Recent publications include:
 
 \[ [abstract](https://inspirehep.net/literature/2706061) / [IEEE QCE proceedings](https://ieeexplore.ieee.org/document/10313654) / [arxiv](https://arxiv.org/abs/2310.02323) \]
 
+**Quantum Machine Learning for Remote Sensing: Exploring potential and challenges** _Artur Miroszewski, Jakub Nalepa, Bertrand Le Saux, Jakub Mielczarek_, [Big Data from Space'23](https://www.bigdatafromspace2023.org/), Vienna, Austria, Nov. 2023
+
+\[ [arxiv](https://arxiv.org/abs/2311.07626) / [BiDS proceedings](https://publications.jrc.ec.europa.eu/repository/handle/JRC135493) / [BiDS proc. #2](https://op.europa.eu/s/y561) \] 
+
+**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection** _Fulvio Sanguigni, Mikolaj Czerkawski, Lorenzo Papa, Irene Amerini, Bertrand Le Saux_, [Big Data from Space'23](https://www.bigdatafromspace2023.org/), Vienna, Austria, Nov. 2023
+
+\[ [arxiv](https://arxiv.org/abs/2311.06222) / [BiDS proceedings](https://publications.jrc.ec.europa.eu/repository/handle/JRC135493) / [BiDS proc. #2](https://op.europa.eu/s/y561) \] 
+
+**Super-resolved rainfall prediction with physics-aware deep learning** _S Moran, B Demir, F Serva, B Le Saux_, [Big Data from Space'23](https://www.bigdatafromspace2023.org/), Vienna, Austria, Nov. 2023
+
+\[ [arxiv](https://arxiv.org/abs/2310.15615) / [BiDS proceedings](https://publications.jrc.ec.europa.eu/repository/handle/JRC135493) / [BiDS proc. #2](https://op.europa.eu/s/y561) \] 
+
+**Deep-Learning-based Change Detection with Spaceborne Hyperspectral PRISMA data** _JF Amieva, A Austoni, MA Brovelli, L Ansalone, P Naylor, F Serva, B Le Saux_, [Big Data from Space'23](https://www.bigdatafromspace2023.org/), Vienna, Austria, Nov. 2023
+
+\[ [arxiv](https://arxiv.org/abs/2310.13627) / [BiDS proceedings](https://publications.jrc.ec.europa.eu/repository/handle/JRC135493) / [BiDS proc. #2](https://op.europa.eu/s/y561) \] 
+
 **A Single-Step Multiclass SVM based on Quantum Annealing for Remote Sensing Data Classification** _Amer Delilbasic, Bertrand Le Saux, Morris Riedel, Kristel Michielsen, Gabriele Cavallaro_, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), Vol. 16, November 2023.
 
 \[ [JSTARS article](https://ieeexplore.ieee.org/document/10329968) / [doi](https://doi.org/10.1109/JSTARS.2023.3336926) / [arxiv](https://arxiv.org/abs/2303.11705) / [pdf](https://arxiv.org/pdf/2303.11705) \]
 
 **Detection of Forest Fires through Deep Unsupervised Learning Modeling of Sentinel-1 Time Series** _Thomas di Martino, Bertrand Le Saux, Régis Guinvarc’h, Laetitia Thirion-Lefevre, Elise Colin_, ISPRS International Journal of Geo-Information, vol. 12, num. 8, August 2023.
 
-\[ [journal version](https://www.mdpi.com/2220-9964/12/8/332) / [doi](https://doi.org/10.3390/ijgi12080332) \]
+\[ [IJGI version](https://www.mdpi.com/2220-9964/12/8/332) / [doi](https://doi.org/10.3390/ijgi12080332) \]
 
 **Detecting Clouds in Multispectral Satellite Images Using Quantum-Kernel Support Vector Machines** _Artur Miroszewski, Jakub Mielczarek, Grzegorz Czelusta, Filip Szczepanek, Bartosz Grabowski, Bertrand Le Saux, Jakub Nalepa_, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), vol. 16, August 2023.
 
