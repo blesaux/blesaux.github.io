@@ -22,6 +22,10 @@ Recent publications include:
 
 \[ [arxiv](https://arxiv.org/abs/2305.08413) / [pdf](https://arxiv.org/pdf/2305.08413)  \] 
 
+**IceCloudNet: Cirrus and mixed-phase cloud prediction from SEVIRI input learned from sparse supervision** _Kai Jeggle, Mikolaj Czerkawski, Federico Serva, Bertrand Le Saux, David Neubauer, Ulrike Lohmann_, [NeurIPS](https://neurips.cc/Conferences/2023) / [CCAI](https://neurips.cc/virtual/2023/workshop/66543), New Orleans, LA, Dec. 2023
+
+\[ [arxiv](https://arxiv.org/abs/2310.03499) / [CCAI @ NeurIPS'23](https://www.climatechange.ai/events/neurips2023) / [video and slides](https://neurips.cc/virtual/2023/workshop/66543#wse-detail-76988) \]
+
 **Approximately Equivariant Quantum Neural Network for Group Symmetries in Images**, _Su-yeon Chang, M. Grossi, B. Le Saux, S. Vallecorsa_, [IEEE Quantum Week'23](https://qce.quantum.ieee.org/2023/), Bellevue, WA, USA, Sep. 2023 / [QTML'23](https://qtml-2023.web.cern.ch/), Geneva, Swittzerland, Nov. 2023.
 
 \[ [abstract](https://inspirehep.net/literature/2706061) / [IEEE QCE proceedings](https://ieeexplore.ieee.org/document/10313654) / [arxiv](https://arxiv.org/abs/2310.02323) \]
