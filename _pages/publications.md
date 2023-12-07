@@ -26,7 +26,11 @@ Recent publications include:
 
 \[ [arxiv](https://arxiv.org/abs/2310.03499) / [CCAI @ NeurIPS'23](https://www.climatechange.ai/events/neurips2023) / [video and slides](https://neurips.cc/virtual/2023/workshop/66543#wse-detail-76988) \]
 
-**Approximately Equivariant Quantum Neural Network for Group Symmetries in Images**, _Su-yeon Chang, M. Grossi, B. Le Saux, S. Vallecorsa_, [IEEE Quantum Week'23](https://qce.quantum.ieee.org/2023/), Bellevue, WA, USA, Sep. 2023 / [QTML'23](https://qtml-2023.web.cern.ch/), Geneva, Swittzerland, Nov. 2023.
+**The curse of language biases in remote sensing VQA: the role of spatial attributes, language diversity, and the need for clear evaluation** _Christel Chappuis, Eliot Walt, Vincent Mendez, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, to appear.
+
+\[ [arxiv](https://arxiv.org/abs/2311.16782) \]
+
+**Approximately Equivariant Quantum Neural Network for _p4m_ Group Symmetries in Images**, _Su-yeon Chang, M. Grossi, B. Le Saux, S. Vallecorsa_, [IEEE Quantum Week'23](https://qce.quantum.ieee.org/2023/), Bellevue, WA, USA, Sep. 2023 / [QTML'23](https://qtml-2023.web.cern.ch/), Geneva, Swittzerland, Nov. 2023.
 
 \[ [abstract](https://inspirehep.net/literature/2706061) / [IEEE QCE proceedings](https://ieeexplore.ieee.org/document/10313654) / [arxiv](https://arxiv.org/abs/2310.02323) \]
 
