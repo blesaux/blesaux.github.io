@@ -15,6 +15,7 @@ author_profile: true
 
 All publications are listed below:
 
+
 ## 2023
 
 **Artificial intelligence to advance Earth observation: a perspective**, _Devis Tuia, Konrad Schindler, Begüm Demir, Gustau Camps-Valls, Xiao Xiang Zhu, Mrinalini Kochupillai, Sašo Džeroski, Jan N. van Rijn, Holger H. Hoos, Fabio Del Frate, Mihai Datcu, Jorge-Arnulfo Quiané-Ruiz, Volker Markl, Bertrand Le Saux, Rochelle Schneider_,  [arXiv:2305.08413](https://doi.org/10.48550/arXiv.2305.08413), May 2023.
@@ -24,11 +25,19 @@ All publications are listed below:
 
 **IceCloudNet: Cirrus and mixed-phase cloud prediction from SEVIRI input learned from sparse supervision** _Kai Jeggle, Mikolaj Czerkawski, Federico Serva, Bertrand Le Saux, David Neubauer, Ulrike Lohmann_, [NeurIPS](https://neurips.cc/Conferences/2023) / [CCAI](https://neurips.cc/virtual/2023/workshop/66543), New Orleans, LA, Dec. 2023
 
-\[ [arxiv](https://arxiv.org/abs/2310.03499) / [CCAI @ NeurIPS'23](https://www.climatechange.ai/events/neurips2023) / [video and slides](https://neurips.cc/virtual/2023/workshop/66543#wse-detail-76988) \]
+\[ [arxiv](https://arxiv.org/abs/2310.03499) / [CCAI abstract and paper @ NeurIPS'23](https://www.climatechange.ai/papers/neurips2023/51) / [NeurIPS video and slides](https://neurips.cc/virtual/2023/workshop/66543#wse-detail-76988) \]
 
 **The curse of language biases in remote sensing VQA: the role of spatial attributes, language diversity, and the need for clear evaluation** _Christel Chappuis, Eliot Walt, Vincent Mendez, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, to appear.
 
 \[ [arxiv](https://arxiv.org/abs/2311.16782) \]
+
+**ChangeMatch: A Semi-Supervised Deep Learning Framework for Change Detection in Open-Pit Mines Using SAR Imagery** _Murdaca, Gianluca; Ricciuti, Federico; Rucci, Alessio; Le Saux, Bertrand; Fumagalli, Alfio; Prati, Claudio_, Remote Sensing 15 (24), December 2023.
+
+\[ [Remote Sensing article](https://www.mdpi.com/2072-4292/15/24/5664) / [doi](https://doi.org/10.3390/rs15245664) / [arxiv to appear]() \]
+
+**Multi-task prompt-RSVQA to explicitly count objects on aerial images** _Christel Chappuis, Charlotte Sertic, Nicolas Santacroce, Javiera Castillo, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, [BMVC](https://bmvc2023.org/) [workshop on Machine Vision for Earth Observation](https://mveo.github.io/index.html), Aberdeen, UK, Nov. 2023.
+
+\[ [BMVC workshop proceedings](https://workshops.proceedings.bmvc2023.org/) / [pdf](https://workshops.proceedings.bmvc2023.org/WorkshoponMachineVisionforEarthObservation/6/CameraReady/6.pdf) / [arxiv](https://arxiv.org/abs/2311.16782) \]
 
 **Approximately Equivariant Quantum Neural Network for _p4m_ Group Symmetries in Images**, _Su-yeon Chang, M. Grossi, B. Le Saux, S. Vallecorsa_, [IEEE Quantum Week'23](https://qce.quantum.ieee.org/2023/), Bellevue, WA, USA, Sep. 2023 / [QTML'23](https://qtml-2023.web.cern.ch/), Geneva, Swittzerland, Nov. 2023.
 
@@ -40,7 +49,7 @@ All publications are listed below:
 
 **Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection** _Fulvio Sanguigni, Mikolaj Czerkawski, Lorenzo Papa, Irene Amerini, Bertrand Le Saux_, [Big Data from Space'23](https://www.bigdatafromspace2023.org/), Vienna, Austria, Nov. 2023
 
-\[ [arxiv](https://arxiv.org/abs/2311.06222) / [BiDS proceedings](https://publications.jrc.ec.europa.eu/repository/handle/JRC135493) / [BiDS proc. #2](https://op.europa.eu/s/y561) \] 
+\[ [arxiv](https://arxiv.org/abs/2311.06222) / [BiDS proceedings](https://publications.jrc.ec.europa.eu/repository/handle/JRC135493) / [BiDS proc. #2](https://op.europa.eu/s/y561) / [code](https://github.com/furio1999/EO_Diffusion) \] 
 
 **Super-resolved rainfall prediction with physics-aware deep learning** _S Moran, B Demir, F Serva, B Le Saux_, [Big Data from Space'23](https://www.bigdatafromspace2023.org/), Vienna, Austria, Nov. 2023
 
@@ -53,6 +62,10 @@ All publications are listed below:
 **A Single-Step Multiclass SVM based on Quantum Annealing for Remote Sensing Data Classification** _Amer Delilbasic, Bertrand Le Saux, Morris Riedel, Kristel Michielsen, Gabriele Cavallaro_, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), Vol. 16, November 2023.
 
 \[ [JSTARS article](https://ieeexplore.ieee.org/document/10329968) / [doi](https://doi.org/10.1109/JSTARS.2023.3336926) / [arxiv](https://arxiv.org/abs/2303.11705) / [pdf](https://arxiv.org/pdf/2303.11705) \]
+
+**Weather4cast at NeurIPS 2022: Super-Resolution Rain Movie Prediction under Spatio-temporal Shifts** _A. Gruca, F. Serva, ...., B. Le Saux, D. Kopp, S. Hochreiter, D. Kreil_, Proceedings of Machine Learning Research, vol. 220, _Proceedings of the NeurIPS 2022 Competitions Track_, 292-313, 2023.
+
+\[ [PMLR abstract](https://proceedings.mlr.press/v220/gruca23a.html) / [PMLR pdf](https://proceedings.mlr.press/v220/gruca23a/gruca23a.pdf) \]
 
 **Detection of Forest Fires through Deep Unsupervised Learning Modeling of Sentinel-1 Time Series** _Thomas di Martino, Bertrand Le Saux, Régis Guinvarc’h, Laetitia Thirion-Lefevre, Elise Colin_, ISPRS International Journal of Geo-Information, vol. 12, num. 8, August 2023.
 
@@ -72,27 +85,27 @@ All publications are listed below:
 
 **Knowledge distillation for memory-efficient on-board image classification of Mars imagery**, _Piotr Bosowski, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
 
-\[ [IEEE pdf later]() / [IGARSS info later]()  \]
+\[ [IEEE](https://ieeexplore.ieee.org/abstract/document/10282698) / [doi](https://doi.org/10.1109/IGARSS52108.2023.10282698)  \]
 
 **Unbiased validation of hyperspectral unmixing algorithms**, _Lukasz Tulczyjew, Michal Kawulok, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
 
-\[ [IEEE pdf later]() / [IGARSS info later]()  \]
+\[ [IEEE](https://ieeexplore.ieee.org/abstract/document/10282506/) / [doi](https://doi.org/10.1109/IGARSS52108.2023.10282506)  \]
 
 **Cloud detection in multispectral satellite images using support vector machines with quantum kernels**, _Artur Miroszewski, Jakub Mielczarek, Filip Szczepanek, Grzegorz Czelusta, Bartosz Grabowski, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
 
-\[ [IEEE pdf later]() / [IGARSS info later]()  \]
+\[ [IEEE](https://ieeexplore.ieee.org/abstract/document/10282416) / [doi](https://doi.org/10.1109/IGARSS52108.2023.10282416) / [arxiv](https://arxiv.org/abs/2307.07281)  \]
 
 **Optimizing Kernel-Target Alignment for cloud detection in multispectral satellite images**, _Artur Miroszewski, Jakub Mielczarek, Filip Szczepanek, Grzegorz Czelusta, Bartosz Grabowski, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
 
-\[ [IEEE pdf later]() / [IGARSS info later]()  \]
+\[ [IEEE](https://ieeexplore.ieee.org/document/10282296) / [doi](https://doi.org/10.1109/IGARSS52108.2023.10282296) / [arxiv](https://arxiv.org/abs/2306.14515)  \]
 
 **Towards generation of synthetic hyperspectral image datasets with GAN**, _François De Vieilleville, Adrien Lagrange, Nicolas Dublé, and Bertrand Le Saux_, [EGU'2023](https://www.egu23.eu/), Vienna, Austria, April 2023.
 
-\[ [EGU abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-7299.html) \]
+\[ [EGU abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-7299.html) / [pdf](https://meetingorganizer.copernicus.org/EGU23/EGU23-7299.html?pdf) / [doi](https://doi.org/10.5194/egusphere-egu23-7299) \]
 
 **Confidence estimation of DNN predictions for on-board applications**, _Nicolas Dublé, François De Vieilleville, Adrien Lagrange, and Bertrand Le Saux_, [EGU'2023](https://www.egu23.eu/), Vienna, Austria, April 2023.
 
-\[ [EGU abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-5746.html) / [doi](https://doi.org/10.5194/egusphere-egu23-5746) \]
+\[ [EGU abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-5746.html) / [pdf](https://meetingorganizer.copernicus.org/EGU23/EGU23-5746.html?pdf) / [doi](https://doi.org/10.5194/egusphere-egu23-5746) \]
 
 **Correlation between PQC Descriptors and Training Accuracy in Hybrid Quantum-Classical Model for Earth Observation Image Classification**, _Su-yeon Chang, B. Le Saux, S. Vallecorsa, M. Grossi_, [Quantum Information Processing (QIP 2023)](https://indico.cern.ch/event/1175020/), Ghent, Belgium, February 2023.
 
@@ -102,6 +115,7 @@ All publications are listed below:
 B. Grabowski, B. Le Saux, J. Nalepa and J. Mielczarek_, [Quantum Information Processing (QIP 2023)](https://indico.cern.ch/event/1175020/), Ghent, Belgium, February 2023.
 
 \[ [QIP website](https://indico.cern.ch/event/1175020/) \]
+
 
 ## 2022
 
