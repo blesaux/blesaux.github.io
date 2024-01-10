@@ -31,6 +31,10 @@ Recent publications include:
 
 \[ [arxiv](https://arxiv.org/abs/2311.16782) \]
 
+**Multi-task prompt-RSVQA to explicitly count objects on aerial images** _Christel Chappuis, Charlotte Sertic, Nicolas Santacroce, Javiera Castillo, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, [BMVC](https://bmvc2023.org/) [workshop on Machine Vision for Earth Observation](https://mveo.github.io/index.html), Aberdeen, UK, Nov. 2023.
+
+\[ [BMVC workshop proceedings](https://workshops.proceedings.bmvc2023.org/) / [pdf](https://workshops.proceedings.bmvc2023.org/WorkshoponMachineVisionforEarthObservation/6/CameraReady/6.pdf) / [arxiv](https://arxiv.org/abs/2311.16782) \]
+
 **Approximately Equivariant Quantum Neural Network for _p4m_ Group Symmetries in Images**, _Su-yeon Chang, M. Grossi, B. Le Saux, S. Vallecorsa_, [IEEE Quantum Week'23](https://qce.quantum.ieee.org/2023/), Bellevue, WA, USA, Sep. 2023 / [QTML'23](https://qtml-2023.web.cern.ch/), Geneva, Swittzerland, Nov. 2023.
 
 \[ [abstract](https://inspirehep.net/literature/2706061) / [IEEE QCE proceedings](https://ieeexplore.ieee.org/document/10313654) / [arxiv](https://arxiv.org/abs/2310.02323) \]
