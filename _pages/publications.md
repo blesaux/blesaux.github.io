@@ -41,7 +41,7 @@ Recent publications include:
 
 **Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection** _Fulvio Sanguigni, Mikolaj Czerkawski, Lorenzo Papa, Irene Amerini, Bertrand Le Saux_, [Big Data from Space'23](https://www.bigdatafromspace2023.org/), Vienna, Austria, Nov. 2023
 
-\[ [arxiv](https://arxiv.org/abs/2311.06222) / [BiDS proceedings](https://publications.jrc.ec.europa.eu/repository/handle/JRC135493) / [BiDS proc. #2](https://op.europa.eu/s/y561) \] 
+\[ [arxiv](https://arxiv.org/abs/2311.06222) / [BiDS proceedings](https://publications.jrc.ec.europa.eu/repository/handle/JRC135493) / [BiDS proc. #2](https://op.europa.eu/s/y561) / [code](https://github.com/furio1999/EO_Diffusion) \] 
 
 **Super-resolved rainfall prediction with physics-aware deep learning** _S Moran, B Demir, F Serva, B Le Saux_, [Big Data from Space'23](https://www.bigdatafromspace2023.org/), Vienna, Austria, Nov. 2023
 
