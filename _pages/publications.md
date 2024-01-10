@@ -31,6 +31,10 @@ Recent publications include:
 
 \[ [arxiv](https://arxiv.org/abs/2311.16782) \]
 
+**ChangeMatch: A Semi-Supervised Deep Learning Framework for Change Detection in Open-Pit Mines Using SAR Imagery** _Murdaca, Gianluca; Ricciuti, Federico; Rucci, Alessio; Le Saux, Bertrand; Fumagalli, Alfio; Prati, Claudio_, Remote Sensing 15 (24), December 2023.
+
+\[ [Remote Sensing article](https://www.mdpi.com/2072-4292/15/24/5664) / [doi](https://doi.org/10.3390/rs15245664) / [arxiv to appear]() \]
+
 **Multi-task prompt-RSVQA to explicitly count objects on aerial images** _Christel Chappuis, Charlotte Sertic, Nicolas Santacroce, Javiera Castillo, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, [BMVC](https://bmvc2023.org/) [workshop on Machine Vision for Earth Observation](https://mveo.github.io/index.html), Aberdeen, UK, Nov. 2023.
 
 \[ [BMVC workshop proceedings](https://workshops.proceedings.bmvc2023.org/) / [pdf](https://workshops.proceedings.bmvc2023.org/WorkshoponMachineVisionforEarthObservation/6/CameraReady/6.pdf) / [arxiv](https://arxiv.org/abs/2311.16782) \]
