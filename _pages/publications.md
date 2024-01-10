@@ -55,6 +55,10 @@ Recent publications include:
 
 \[ [JSTARS article](https://ieeexplore.ieee.org/document/10329968) / [doi](https://doi.org/10.1109/JSTARS.2023.3336926) / [arxiv](https://arxiv.org/abs/2303.11705) / [pdf](https://arxiv.org/pdf/2303.11705) \]
 
+**Weather4cast at NeurIPS 2022: Super-Resolution Rain Movie Prediction under Spatio-temporal Shifts** _A. Gruca, F. Serva, ...., B. Le Saux, D. Kopp, S. Hochreiter, D. Kreil_, Proceedings of Machine Learning Research, vol. 220, _Proceedings of the NeurIPS 2022 Competitions Track_, 292-313, 2023.
+
+\[ [PMLR abstract](https://proceedings.mlr.press/v220/gruca23a.html) / [PMLR pdf](https://proceedings.mlr.press/v220/gruca23a/gruca23a.pdf) \]
+
 **Detection of Forest Fires through Deep Unsupervised Learning Modeling of Sentinel-1 Time Series** _Thomas di Martino, Bertrand Le Saux, Régis Guinvarc’h, Laetitia Thirion-Lefevre, Elise Colin_, ISPRS International Journal of Geo-Information, vol. 12, num. 8, August 2023.
 
 \[ [IJGI version](https://www.mdpi.com/2220-9964/12/8/332) / [doi](https://doi.org/10.3390/ijgi12080332) \]
