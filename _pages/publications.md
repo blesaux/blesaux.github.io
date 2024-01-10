@@ -77,19 +77,19 @@ Recent publications include:
 
 **Knowledge distillation for memory-efficient on-board image classification of Mars imagery**, _Piotr Bosowski, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
 
-\[ [IEEE pdf later]() / [IGARSS info later]()  \]
+\[ [IEEE](https://ieeexplore.ieee.org/abstract/document/10282698) / [doi](https://doi.org/10.1109/IGARSS52108.2023.10282698)  \]
 
 **Unbiased validation of hyperspectral unmixing algorithms**, _Lukasz Tulczyjew, Michal Kawulok, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
 
-\[ [IEEE pdf later]() / [IGARSS info later]()  \]
+\[ [IEEE](https://ieeexplore.ieee.org/abstract/document/10282506/) / [doi](https://doi.org/10.1109/IGARSS52108.2023.10282506)  \]
 
 **Cloud detection in multispectral satellite images using support vector machines with quantum kernels**, _Artur Miroszewski, Jakub Mielczarek, Filip Szczepanek, Grzegorz Czelusta, Bartosz Grabowski, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
 
-\[ [IEEE pdf later]() / [IGARSS info later]()  \]
+\[ [IEEE](https://ieeexplore.ieee.org/abstract/document/10282416) / [doi](https://doi.org/10.1109/IGARSS52108.2023.10282416) / [arxiv](https://arxiv.org/abs/2307.07281)  \]
 
 **Optimizing Kernel-Target Alignment for cloud detection in multispectral satellite images**, _Artur Miroszewski, Jakub Mielczarek, Filip Szczepanek, Grzegorz Czelusta, Bartosz Grabowski, Bertrand Le Saux, Jakub Nalepa_, [IGARSS 2023](https://2023.ieeeigarss.org/), July 2023, Pasadena, CA, USA.
 
-\[ [IEEE pdf later]() / [IGARSS info later]()  \]
+\[ [IEEE](https://ieeexplore.ieee.org/document/10282296) / [doi](https://doi.org/10.1109/IGARSS52108.2023.10282296) / [arxiv](https://arxiv.org/abs/2306.14515)  \]
 
 **Towards generation of synthetic hyperspectral image datasets with GAN**, _François De Vieilleville, Adrien Lagrange, Nicolas Dublé, and Bertrand Le Saux_, [EGU'2023](https://www.egu23.eu/), Vienna, Austria, April 2023.
 
