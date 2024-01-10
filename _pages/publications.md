@@ -25,7 +25,7 @@ Recent publications include:
 
 **IceCloudNet: Cirrus and mixed-phase cloud prediction from SEVIRI input learned from sparse supervision** _Kai Jeggle, Mikolaj Czerkawski, Federico Serva, Bertrand Le Saux, David Neubauer, Ulrike Lohmann_, [NeurIPS](https://neurips.cc/Conferences/2023) / [CCAI](https://neurips.cc/virtual/2023/workshop/66543), New Orleans, LA, Dec. 2023
 
-\[ [arxiv](https://arxiv.org/abs/2310.03499) / [CCAI @ NeurIPS'23](https://www.climatechange.ai/events/neurips2023) / [video and slides](https://neurips.cc/virtual/2023/workshop/66543#wse-detail-76988) \]
+\[ [arxiv](https://arxiv.org/abs/2310.03499) / [CCAI abstrcat and paper @ NeurIPS'23]([https://www.climatechange.ai/events/neurips2023](https://www.climatechange.ai/papers/neurips2023/51)) / [NeurIPS video and slides](https://neurips.cc/virtual/2023/workshop/66543#wse-detail-76988) \]
 
 **The curse of language biases in remote sensing VQA: the role of spatial attributes, language diversity, and the need for clear evaluation** _Christel Chappuis, Eliot Walt, Vincent Mendez, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, to appear.
 
