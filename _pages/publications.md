@@ -39,6 +39,18 @@ Recent publications include:
 
 \[ [BMVC workshop proceedings](https://workshops.proceedings.bmvc2023.org/) / [pdf](https://workshops.proceedings.bmvc2023.org/WorkshoponMachineVisionforEarthObservation/6/CameraReady/6.pdf) / [arxiv](https://arxiv.org/abs/2311.16782) \]
 
+**A Single-Step Multiclass SVM based on Quantum Annealing for Remote Sensing Data Classification** _Amer Delilbasic, Bertrand Le Saux, Morris Riedel, Kristel Michielsen, Gabriele Cavallaro_, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), Vol. 16, November 2023 / [QTML'23](https://qtml-2023.web.cern.ch/), Geneva, Swittzerland, Nov. 2023.
+
+\[ [JSTARS article](https://ieeexplore.ieee.org/document/10329968) / [doi](https://doi.org/10.1109/JSTARS.2023.3336926) / [arxiv](https://arxiv.org/abs/2303.11705) / [pdf](https://arxiv.org/pdf/2303.11705) \]
+
+**Towards Strategies to Avoid Barren Plateaus**, _Sebastian Mair, Alessandro Sebastianelli, Andrea Ceschini, Samuel Vidal, Massimo Panella, Bertrand Le Saux_,  [QTML'23](https://qtml-2023.web.cern.ch/), Geneva, Swittzerland, Nov. 2023.
+
+\[  [abstract]() \]
+
+**Towards Quantum Diffusion Models**, _Francesca De Falco, Andrea Ceschini, Alessandro Sebastianelli, Massimo Panella, Bertrand Le Saux_,  [QTML'23](https://qtml-2023.web.cern.ch/), Geneva, Swittzerland, Nov. 2023.
+
+\[  [abstract]() \]
+
 **Approximately Equivariant Quantum Neural Network for _p4m_ Group Symmetries in Images**, _Su-yeon Chang, M. Grossi, B. Le Saux, S. Vallecorsa_, [IEEE Quantum Week'23](https://qce.quantum.ieee.org/2023/), Bellevue, WA, USA, Sep. 2023 / [QTML'23](https://qtml-2023.web.cern.ch/), Geneva, Swittzerland, Nov. 2023.
 
 \[ [abstract](https://inspirehep.net/literature/2706061) / [IEEE QCE proceedings](https://ieeexplore.ieee.org/document/10313654) / [arxiv](https://arxiv.org/abs/2310.02323) \]
@@ -58,10 +70,6 @@ Recent publications include:
 **Deep-Learning-based Change Detection with Spaceborne Hyperspectral PRISMA data** _JF Amieva, A Austoni, MA Brovelli, L Ansalone, P Naylor, F Serva, B Le Saux_, [Big Data from Space'23](https://www.bigdatafromspace2023.org/), Vienna, Austria, Nov. 2023
 
 \[ [arxiv](https://arxiv.org/abs/2310.13627) / [BiDS proceedings](https://publications.jrc.ec.europa.eu/repository/handle/JRC135493) / [BiDS proc. #2](https://op.europa.eu/s/y561) \] 
-
-**A Single-Step Multiclass SVM based on Quantum Annealing for Remote Sensing Data Classification** _Amer Delilbasic, Bertrand Le Saux, Morris Riedel, Kristel Michielsen, Gabriele Cavallaro_, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), Vol. 16, November 2023.
-
-\[ [JSTARS article](https://ieeexplore.ieee.org/document/10329968) / [doi](https://doi.org/10.1109/JSTARS.2023.3336926) / [arxiv](https://arxiv.org/abs/2303.11705) / [pdf](https://arxiv.org/pdf/2303.11705) \]
 
 **Weather4cast at NeurIPS 2022: Super-Resolution Rain Movie Prediction under Spatio-temporal Shifts** _A. Gruca, F. Serva, ...., B. Le Saux, D. Kopp, S. Hochreiter, D. Kreil_, Proceedings of Machine Learning Research, vol. 220, _Proceedings of the NeurIPS 2022 Competitions Track_, 292-313, 2023.
 
