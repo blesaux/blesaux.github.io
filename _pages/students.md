@@ -10,12 +10,20 @@ author_profile: true
 ## Post-Doc
 <a name="PostDoc"></a>
 
+[**Artur Miroszewski**: Quantum Machine Learning for Hyperspectral imaging](https://scholar.google.com/citations?hl=en&user=3ayjWdYAAAAJ) \[2022 - 2024\]  
+Post-doc co-supervised with [Jakub Mielcszarek](https://jakubmielczarek.com/) at [Jagiellonian University](https://en.uj.edu.pl)/[Quantum Cosmos Lab](https://quantumcosmos.org/), [Jakub Nalepa](https://www.researchgate.net/profile/Jakub-Nalepa-2) at [KP Labs](https://kplabs.space/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
+
+[**Alessandro Sebastianelli**: Artificial Intelligence for EO / Quantum Machine Learning](https://alessandrosebastianelli.github.io/) \[2022 - 2024\]  
+Post-doc co-supervised at [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
+
 [**Manish Gupta**: Spectral processing with Quantum Neural Networks](https://astrocent.camk.edu.pl/?team=dr-manish-gupta) \[2022 - 2023\]  
 Post-doc co-supervised with [Piotr Gawron](https://astrocent.camk.edu.pl/?team=professor-piotr-gawron) at [Nicolaus Copernicus Astronomical CEnter of Polish Academy of Sciences](https://astrocent.camk.edu.pl/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
+[**Federico Serva**: Physics-aware Machine Learning for Earth sciences](https://orcid.org/0000-0002-7118-0817) \[2021 - 2022\]  
+Post-doc co-supervised at [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
-[**Artur Miroszewski**: Quantum Machine Learning for Hyperspectral imaging](https://scholar.google.com/citations?hl=en&user=3ayjWdYAAAAJ) \[2022 - 2023\]  
-Post-doc co-supervised with [Jakub Mielcszarek](https://jakubmielczarek.com/) at [Jagiellonian University](https://en.uj.edu.pl)/[Quantum Cosmos Lab](https://quantumcosmos.org/), [Jakub Nalepa](https://www.researchgate.net/profile/Jakub-Nalepa-2) at [KP Labs](https://kplabs.space/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
+[**Clément Rambour**: Multi-temporal analysis of SAR and optical data]( {{ site.url }}/students/clement ) \[2019 - 2020\]  
+Post-doc between CNAM-ParisTech and ONERA co-supervised with [Élise Koeniguer](https://www.onera.fr/fr/staff/elise-colin-koeniguer), [Nicolas Audebert](https://nicolas.audebert.at/), [Michel Crucianu](http://cedric.cnam.fr/~crucianm/) and Mihai Datcu. Now Assoc. Prof. at [CNAM-ParisTech](http://www.cnam.fr).
 
 
 ## PhD Students
@@ -30,21 +38,8 @@ PhD EPFL co-supervised with [Sofia Vallecorsa](https://www.linkedin.com/in/sofia
 [**Christel Chappuis**: An AI assistant to visual query and answering for EO data](https://people.epfl.ch/christel.chappuis/?lang=en) \[exp. 2024\]  
 PhD EPFL co-supervised with [Devis Tuia](https://sites.google.com/site/devistuia/) and [Sylvain Lobry](https://www.sylvainlobry.com/) at [EPFL](https://www.epfl.ch)/[ECEO](https://www.epfl.ch/labs/eceo/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
-## Undergrad / MSc. Students
-<a name="MSc"></a>
 
-{% for post in site.students reversed %} {% if post.type == "msc" %} {% include archive-single-students.html %} {% endif %} {% endfor %}
-
-## Past Post-Doc
-<a name="PastPostDoc"></a>
-
-[**Clément Rambour**: Multi-temporal analysis of SAR and optical data]( {{ site.url }}/students/clement ) \[2019 - 2020\]  
-Post-doc between CNAM-ParisTech and ONERA co-supervised with [Élise Koeniguer](https://www.onera.fr/fr/staff/elise-colin-koeniguer), [Nicolas Audebert](https://nicolas.audebert.at/), [Michel Crucianu](http://cedric.cnam.fr/~crucianm/) and Mihai Datcu. Now Assoc. Prof. at [CNAM-ParisTech](http://www.cnam.fr).
-
-## Past PhD Students
-<a name="PastPhD"></a>
-
-[**Rémy Leroy**: Deep neural networks for 3D point cloud prediction from a single image]( {{ site.url }}/students/remy ) \[exp. fall 2022\]  
+[**Rémy Leroy**: Deep neural networks for 3D point cloud prediction from a single image]( {{ site.url }}/students/remy ) \[PhD 03/2023\]  
 PhD Univ. Paris-Saclay co-supervised with [Frédéric Champagnat](https://www.researchgate.net/profile/Frederic_Champagnat) and [Pauline Trouvé-Peloux](https://www.onera.fr/fr/staff/pauline-trouve-peloux) ([ONERA](https://www.onera.fr)), funded by [ONERA](https://www.onera.fr). Now post-doc at [INRIA](https://www.inria.fr/en)/[IRISA](https://www.irisa.fr/en).
 
 [**Gaston Lenczner**: Interactive learning in aerial image interpretation]( {{ site.url }}/students/gaston ) \[PhD 09/2022\]  
@@ -68,7 +63,7 @@ PhD co-supervised with [David Filliat](http://perso.ensta-paristech.fr/~filliat/
 [**Hicham Randrianarivo**: Statistical learning of semantic classes for aerial image interpretation]({{ site.url }}/students/hicham) \[PhD 12/2016\]  
 PhD co-supervised with [Marin Ferecatu](http://cedric.cnam.fr/~ferecatm/) and [Michel Crucianu](http://cedric.cnam.fr/~crucianm/) from [CNAM ParisTech](http://www.cnam.eu/site-en/).  <span style="color:orange;">Data Fusion Contest 2nd rank Award!</span> Now research engineer at [Huawei](https://www.huawei.com/it/corporate-information/research-development).
 
-## Past Undergrad / MSc. Students
+## Undergrad / MSc. Students
 <a name="PastMSc"></a>
 
 [**Francesca di Falco**: Quantum Generative AI]() \[2023\]  
