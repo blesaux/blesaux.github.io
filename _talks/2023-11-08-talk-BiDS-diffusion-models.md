@@ -8,6 +8,8 @@ date: 2023-11-08
 location: "Vienna, Austria"
 ---
 
+Talk at [https://www.bigdatafromspace2023.org/](https://www.bigdatafromspace2023.org/) presenting first applications of diffusion models to Earth observation.
+
 _Title_: Diffusion Models for Earth Observation Use-Cases: from Cloud Removal to Urban Change Detection
 
 _Authors_: Fulvio Sanguini, Mikolaj Czerkawski, Lorenzo Papa, Irene Amerini and *Bertrand Le Saux* 🗣
