@@ -3,7 +3,7 @@ title: "ESA’s Quantum Computing for Earth Observation (QC4EO) Initiative: Curr
 collection: keynote
 type: "Keynote"
 permalink: /talks/2023-06-01
-venue: "Groska"
+venue: "IEEE HDCRS Summer School"
 date: 2023-06-01
 location: "Reykjavík, Iceland"
 ---
