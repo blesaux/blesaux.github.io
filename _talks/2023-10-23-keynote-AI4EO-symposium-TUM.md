@@ -3,7 +3,7 @@ title: "Next Generation AI4EO"
 collection: keynote
 type: "Keynote"
 permalink: /talks/2023-10-10
-venue: "TU Munich"
+venue: "AI4EO Symposium at TU Munich"
 date: 2023-10-10
 location: "Munich, Germany"
 ---
