@@ -3,7 +3,7 @@ title: "Next Generation Machine Learning for Earth Observation"
 collection: keynote
 type: "Keynote"
 permalink: /talks/2023-09-08
-venue: "INRIA Sophia-antipolis"
+venue: "IDESSAI Summer School, INRIA Sophia-antipolis"
 date: 2023-09-08
 location: "Nice Sophia-Antipolis, France"
 ---
