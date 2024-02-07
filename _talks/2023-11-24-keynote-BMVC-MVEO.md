@@ -3,7 +3,7 @@ title: "Next Generation(s) Machine Learning for Earth Observation"
 collection: keynote
 type: "Keynote"
 permalink: /talks/2023-11-24
-venue: "National Subsea Centre"
+venue: "BMVC 2023 worshop on Machine Vision for EO"
 date: 2023-11-24
 location: "Aberdeen, Scotland"
 ---
