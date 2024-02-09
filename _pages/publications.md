@@ -16,12 +16,19 @@ author_profile: true
 Recent publications include:
 
 
-## 2023
+
+## 2024
 
 **Artificial intelligence to advance Earth observation: a perspective**, _Devis Tuia, Konrad Schindler, Begüm Demir, Gustau Camps-Valls, Xiao Xiang Zhu, Mrinalini Kochupillai, Sašo Džeroski, Jan N. van Rijn, Holger H. Hoos, Fabio Del Frate, Mihai Datcu, Jorge-Arnulfo Quiané-Ruiz, Volker Markl, Bertrand Le Saux, Rochelle Schneider_,  [arXiv:2305.08413](https://doi.org/10.48550/arXiv.2305.08413), May 2023.
 
 \[ [arxiv](https://arxiv.org/abs/2305.08413) / [pdf](https://arxiv.org/pdf/2305.08413)  \] 
 
+
+**PhilEO Bench: Evaluating Geo-Spatial Foundation Models**, _Casper Fibaek, Luke Camilleri, Andreas Luyts, Nikolaos Dionelis, Bertrand Le Saux_,  [arXiv:2401.04464](https://doi.org/10.48550/arXiv.2401.04464), January 2024.
+
+\[ [Project page](https://phileo-bench.github.io/) / [arxiv](https://arxiv.org/abs/2401.04464) / [pdf](https://arxiv.org/pdf/2401.04464) / [GitHub](https://github.com/ESA-PhiLab/PhilEO-Bench) / [HugginFace](http://huggingface.co/ESA-philab) / [Dataset of downsteam tasks](http://huggingface.co/datasets/ESA-philab/PhilEO-downstream) \] 
+
+## 2023
 
 **IceCloudNet: Cirrus and mixed-phase cloud prediction from SEVIRI input learned from sparse supervision** _Kai Jeggle, Mikolaj Czerkawski, Federico Serva, Bertrand Le Saux, David Neubauer, Ulrike Lohmann_, [NeurIPS](https://neurips.cc/Conferences/2023) / [CCAI](https://neurips.cc/virtual/2023/workshop/66543), New Orleans, LA, Dec. 2023
 
