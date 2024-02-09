@@ -28,6 +28,12 @@ Recent publications include:
 
 \[ [Project page](https://phileo-bench.github.io/) / [arxiv](https://arxiv.org/abs/2401.04464) / [pdf](https://arxiv.org/pdf/2401.04464) / [GitHub](https://github.com/ESA-PhiLab/PhilEO-Bench) / [HugginFace](http://huggingface.co/ESA-philab) / [Dataset of downsteam tasks](http://huggingface.co/datasets/ESA-philab/PhilEO-downstream) \] 
 
+ . « Squeezing adaptive deep learning methods with knowledge distillation for on-board cloud detection ». In :  132 (2024), p. 107835. url : https://www.sciencedirect.com/science/article/pii/S0952197623020195
+
+ **Squeezing adaptive deep learning methods with knowledge distillation for on-board cloud detection** _B. Grabowski, M. Ziaja, M. Kawulok, P. Bosowski, N. Longépé, B. Le Saux et J. Nalepa_, Engineering Applications of Artificial Intelligence 132, p. 107835, January 2024.
+
+\[ [article](https://www.sciencedirect.com/science/article/pii/S0952197623020195) / [doi](https://doi.org/10.1016/j.engappai.2023.107835) / [arxiv](https://arxiv.org/abs/2306.09886) \]
+
 ## 2023
 
 **IceCloudNet: Cirrus and mixed-phase cloud prediction from SEVIRI input learned from sparse supervision** _Kai Jeggle, Mikolaj Czerkawski, Federico Serva, Bertrand Le Saux, David Neubauer, Ulrike Lohmann_, [NeurIPS](https://neurips.cc/Conferences/2023) / [CCAI](https://neurips.cc/virtual/2023/workshop/66543), New Orleans, LA, Dec. 2023
