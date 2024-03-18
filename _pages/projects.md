@@ -12,7 +12,8 @@ My current projects include:
 
 ## Quantum Generative AI: QGANs and Quantum Diffusion Models
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/){: .align-left} 
+![image-left]({{ site.url }}{{ site.baseurl }}/images/QGAN-continuous-SYC.png![Uploading image.png…]()
+){: .align-left} 
 
 Quantum neural networks has shown interesting properties to learn faster from fewer training samples, hinting to a _different_ generalisation capacity than standard networks. We explore this potential in two works. In [Su-Yeong Chang](https://www.linkedin.com/in/su-yeon-chang-5b48a3182)'s PhD, co-supervised with Michele Grossi and Sofia Vallecorsa at CERN, we build Quantum Generative Adversarial Networks (*Quantum GANs*) with continuous output generation, which allow us to generate an arbitrary number of images similar to a given dataset. With Francesca di Falco, Andrea Ceschini and Massimo Panella from La Sapienza University and Alessandro Sebastianelli, we design two variants of hybrid quantum diffusion models: embedding of quantum layers in standard diffusion models, and latent quantum diffusion models, with surprisingly good performances given the size of the models.
 
