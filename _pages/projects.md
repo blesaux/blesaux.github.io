@@ -19,6 +19,15 @@ Quantum neural networks has shown interesting properties to learn faster from fe
 \[ [Quantum GANs (to appear)]() / [Hybrid Quantum Diifusion Models](https://arxiv.org/abs/2402.16147) / [Latent Quantum Diffusion Models (to appear)]() \]
 
 
+## Physics-aware ML for Weather Forecast
+![image-left]({{ site.url }}{{ site.baseurl }}/images/weather4cast-icon.png){: .align-left} 
+
+With [Federico Serva]() we investigate forecasting of weather events. In particular, we're part of the organising committee of the [Weather4Cast](https://weather4cast.net/) competition led by [Aleksandra Gruca](https://www.researchgate.net/profile/Aleksandra-Gruca) and [David Kreil](https://www.researchgate.net/profile/David-Kreil-2) at NeurIPS in 2022 and 2023, which establish a benchmark for rain prediction from spatio-temporal time-series (i.e. movies). Check the report on the 2022 edition: [Weather4cast at NeurIPS 2022: Super-Resolution Rain Movie Prediction under Spatio-temporal Shifts](https://proceedings.mlr.press/v220/gruca23a.html) in PMLR. In parallel, we developed [Super-resolved rainfall prediction with physics-aware deep learning](https://arxiv.org/abs/2310.15615) approaches for rain prediction with Stephen Moran and [Begum Demir](https://begumdemir.com/) from TU Berlin.
+
+\[ [Weather4Cast](https://weather4cast.net/) / [Weather4cast at NeurIPS 2022](https://nips.cc/virtual/2022/competition/50099) /  [Weather4cast Paper 2022 in PMLR](https://proceedings.mlr.press/v220/gruca23a.html) /  [Weather4cast at NeurIPS 2023](https://neurips.cc/virtual/2023/competition/66592) /  [Rain prediction paper at BiDS'23](https://arxiv.org/abs/2310.15615) / \]
+
+
+
 ## Visual Question & Answering (VQA) for EO data
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/christel-chappuis-rsvqa-icon.jpg){: .align-left} 
