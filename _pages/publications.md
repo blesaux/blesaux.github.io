@@ -33,6 +33,22 @@ Recent publications include:
 
 \[ [to appear](https://manchester2024.earsel.org/)  \] 
 
+**The PhilEO Geospatial Foundation Model Suite**, _Bertrand Le Saux, Casper Fibaek, Luke Camilleri, Andreas Luyts, Nikolaos Dionelis, Giacomo Donato Cascarano, Leonardo Bagaglini, and Giorgio Pasquali_,  [EGU'24](https://www.egu24.eu/), Vienna, April 2024.
+
+\[ [EGU Abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-17934.html) / [doi](https://doi.org/10.5194/egusphere-egu24-17934) / [Project page](https://phileo-bench.github.io/) / [arxiv](https://arxiv.org/abs/2401.04464) / [pdf](https://arxiv.org/pdf/2401.04464) / [GitHub](https://github.com/ESA-PhiLab/PhilEO-Bench) / [HugginFace](http://huggingface.co/ESA-philab) / [Dataset of downsteam tasks](http://huggingface.co/datasets/ESA-philab/PhilEO-downstream) \] 
+
+**IceCloudNet: 3D reconstruction of cloud ice from Meteosat SEVIRI input**, _Kai Jeggle, Mikolaj Czerkawski, Federico Serva, Bertrand Le Saux, David Neubauer, and Ulrike Lohmann_,  [EGU'24](https://www.egu24.eu/), Vienna, April 2024.
+
+\[ [EGU Abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-11933.html) / [doi](https://doi.org/10.5194/egusphere-egu24-11933) \] 
+
+**Reconstructing 20th century burned area by combining global fire model input, satellite observations and machine learning**, _Seppe Lampe, Lukas Gudmundsson, Vincent Humphrey, Inne Vanderkelen, Bertrand Le Saux, and Wim Thiery_,  [EGU'24](https://www.egu24.eu/), Vienna, April 2024.
+
+\[ [EGU Abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-10920.html)) / [doi](https://doi.org/10.5194/egusphere-egu24-10920) \] 
+
+**Advancing Measurements and Observations in the Geosciences**, _Nick Everard, Bertrand Le Saux, Kirk Martinez_,  [EGU'24](https://www.egu24.eu/), Vienna, April 2024.
+
+\[ [EGU Union Symposium session](https://meetingorganizer.copernicus.org/EGU24/session/50650) \] 
+
 
  **Squeezing adaptive deep learning methods with knowledge distillation for on-board cloud detection** _B. Grabowski, M. Ziaja, M. Kawulok, P. Bosowski, N. Longépé, B. Le Saux et J. Nalepa_, Engineering Applications of Artificial Intelligence 132, p. 107835, January 2024.
 
