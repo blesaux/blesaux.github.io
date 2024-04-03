@@ -45,24 +45,6 @@ While at [ESA](https://www.esa.int/)/[Φ-lab](https://philab.esa.int/), I superv
 \[ [All outputs of Quantum Computing for EO study](https://eo4society.esa.int/projects/qc4eo-study/) / [All outputs of Quantum Advantage for EO study](https://eo4society.esa.int/projects/qa4eo-study/) /  HPIC workshop [slides](https://eo4society.esa.int/projects/qc4eo-study) / [report](https://eo4society.esa.int/wp-content/uploads/2024/02/ESA-High-Performance-and-Innovative-Computing-WS-Report.pdf) / [ovearll presentation at QTML'2024](https://indico.cern.ch/event/1288979/contributions/5677697/attachments/2757215/4800831/QTML%20ESA%20at%20Industry%20Panel.pdf) \]
 
 
-## Joint Energy-based Models for Generative EO Modelling
-
-![image-left]({{ site.url }}{{ site.baseurl }}/images/JCN-EBM-generated-EO2-icon.jpg){: .align-left} 
-
-With [Javiera Castillo-Navarro](), [Alex Boulch](https://www.boulch.eu/) and [Sebastien Lefevre](http://people.irisa.fr/Sebastien.Lefevre/) we explored the potential of Energy-Based Models for **generative modelling** of Earth observation images. It leads to powerful applications such as **image synthesis** through Stochastic Gradient Langevin Dynamics, **Out-Of-Distribution detection** (see papers at [ICLR/EBM ws](https://openreview.net/forum?id=1CtqZ1MvAFp) and [IGARSS](https://ieeexplore.ieee.org/document/9553440) in 2021), and **Semi-Supervised Learning** (see our [TGRS paper](https://hal.archives-ouvertes.fr/hal-03379500)).
-
-\[ [EO-JEM preprint](https://hal.archives-ouvertes.fr/hal-03379500) / [EO-JEM in TGRS](https://ieeexplore.ieee.org/document/9606737) \]
-
-## Deep Interactive + Active Learning
-
-![image-left]({{ site.url }}{{ site.baseurl }}/images/gaston-lenczner-dial.jpg){: .align-left} 
-
-In [Gaston Lenczner](https://gaslen.github.io/)'s PhD, we design interactive deep neural networks to foster user/algorithm collaboration. In the context of semantic segmentation  of remote sensing images, we target several use-cases including **online correction** of semantic maps (and model!) obtained by CNNs, **domain adaptation** to new locations (see our [ISPRS'2020](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2020/877/2020/isprs-annals-V-2-2020-877-2020.pdf) and [MACLEAN 2021](http://ceur-ws.org/Vol-2766/paper1.pdf)), and **transfer learning** to add interactively new target classes to an existing model (see our [IGARSS2022 paper]()). To this end, we combine acceleration tricks and active learning to make deep networks learn continuously and efficiently from user inputs. This work is a collaboration with [Guy Le Besnerais](https://scholar.google.com/citations?user=r8V306wAAAAJ&hl=en), [Adrien Chan-Hon-Tong](https://www.onera.fr/en/staff/adrien-chan-hon-tong) (both from [ONERA](https://www.onera.fr/)) and Nicola Luminari ([Alteia](https://alteia.com/))
-
-\[ [DISIR @ ISPRS 2020](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2020/877/2020/isprs-annals-V-2-2020-877-2020.pdf) / [DISIR code](https://github.com/delair-ai/DISIR) / [DISCA @ ECMLPKDD/MacLean 2021 (Best student paper award!) ](http://ceur-ws.org/Vol-2766/paper1.pdf) / [DISCA Code](https://github.com/delair-ai/DISCA) / [DIAL arxiv](https://arxiv.org/abs/2201.01047) / [Transfer learning arxiv](https://arxiv.org/abs/2201.01029) \]
-
-
-
 ---
 
 Older projects can be found [here](finished)
