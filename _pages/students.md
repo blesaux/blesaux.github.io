@@ -13,6 +13,9 @@ author_profile: true
 [**Artur Miroszewski**: Quantum Machine Learning for Hyperspectral imaging](https://scholar.google.com/citations?hl=en&user=3ayjWdYAAAAJ) \[2022 - 2024\]  
 Post-doc co-supervised with [Jakub Mielcszarek](https://jakubmielczarek.com/) at [Jagiellonian University](https://en.uj.edu.pl)/[Quantum Cosmos Lab](https://quantumcosmos.org/), [Jakub Nalepa](https://www.researchgate.net/profile/Jakub-Nalepa-2) at [KP Labs](https://kplabs.space/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
+[**Peter Naylor**: Implicit Neural Representations for the Earth Sciences](https://www.linkedin.com/in/peter-naylor-29825ab9) \[2023 - 2024\]  
+Post-doc co-supervised at [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
+
 [**Alessandro Sebastianelli**: Artificial Intelligence for EO / Quantum Machine Learning](https://alessandrosebastianelli.github.io/) \[2022 - 2024\]  
 Post-doc co-supervised at [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
