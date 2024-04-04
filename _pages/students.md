@@ -14,16 +14,16 @@ author_profile: true
 Post-doc co-supervised with [Jakub Mielcszarek](https://jakubmielczarek.com/) at [Jagiellonian University](https://en.uj.edu.pl)/[Quantum Cosmos Lab](https://quantumcosmos.org/), [Jakub Nalepa](https://www.researchgate.net/profile/Jakub-Nalepa-2) at [KP Labs](https://kplabs.space/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
 [**Peter Naylor**: Implicit Neural Representations for the Earth Sciences](https://www.linkedin.com/in/peter-naylor-29825ab9) \[2023 - 2024\]  
-Post-doc co-supervised at [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
+Post-doc supervised at [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
 [**Alessandro Sebastianelli**: Artificial Intelligence for EO / Quantum Machine Learning](https://alessandrosebastianelli.github.io/) \[2022 - 2024\]  
-Post-doc co-supervised at [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
+Post-doc supervised at [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
 [**Manish Gupta**: Spectral processing with Quantum Neural Networks](https://astrocent.camk.edu.pl/?team=dr-manish-gupta) \[2022 - 2023\]  
 Post-doc co-supervised with [Piotr Gawron](https://astrocent.camk.edu.pl/?team=professor-piotr-gawron) at [Nicolaus Copernicus Astronomical CEnter of Polish Academy of Sciences](https://astrocent.camk.edu.pl/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
 [**Federico Serva**: Physics-aware Machine Learning for Earth sciences](https://orcid.org/0000-0002-7118-0817) \[2021 - 2022\]  
-Post-doc co-supervised at [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
+Post-doc supervised at [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
 [**Clément Rambour**: Multi-temporal analysis of SAR and optical data]( {{ site.url }}/students/clement ) \[2019 - 2020\]  
 Post-doc between CNAM-ParisTech and ONERA co-supervised with [Élise Koeniguer](https://www.onera.fr/fr/staff/elise-colin-koeniguer), [Nicolas Audebert](https://nicolas.audebert.at/), [Michel Crucianu](http://cedric.cnam.fr/~crucianm/) and Mihai Datcu. Now Assoc. Prof. at [CNAM-ParisTech](http://www.cnam.fr).
