@@ -36,7 +36,7 @@ With [Federico Serva](https://fserva.github.io/) we investigate forecasting of w
 
 ## Unsupervised AI for Forestry and Biomass
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/paluba-SAR-NDVI-icon.jpg){: .align-left} 
+![image-left]({{ site.url }}{{ site.baseurl }}/images/paluba-SAR-NDVI-icon.png){: .align-left} 
 
 With the [EO4Landscape](https://eo4landscape.natur.cuni.cz/) [group](https://eo4landscape.natur.cuni.cz/team/) of [Univerzita Karlova](https://www.natur.cuni.cz/geografie/geoinformatika-kartografie/veda-a-vyzkum/vyzkumne-tymy/vyzkumny-tym-hodnoceni-land-use-a-land-cover-z-druzicovych-dat) ([Charles University](https://cuni.cz/UKEN-1.html)) in Pragues: [Přemysl Štych](https://eo4landscape.natur.cuni.cz/premysl-stych/), Daniel Paluba, and Jan Svoboda, we investigate AI with no or low supervision to classify forests and trees. With [Daniel Paluba](https://eo4landscape.natur.cuni.cz/daniel-paluba/) (and Francesco Sarti from [ESA](https://www.esa.int/)), we developed an approach to estimate common forest index (LAI, NDVI, etc.) from SAR data (Sentinel 1) so forests can be monitored even in the presence of clouds. With [Jan Svoboda](https://eo4landscape.natur.cuni.cz/jan-svoboda/) (and [Peter Naylor](https://github.com/PeterJackNaylor) from [ESA](https://philab.esa.int/)) we worked on land cover classification refinement using [Segment-Anything](https://segment-anything.com/)-based image segmentation.
 
