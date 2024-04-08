@@ -21,9 +21,9 @@ Quantum neural networks has shown interesting properties to learn faster from fe
 ## AI-based Forecast of Solar Irradiance for Renewable Energy
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/solar-AI-forecast-icon.png){: .align-left} 
 
-With [Alessandro Sebastianelli](https://alessandrosebastianelli.github.io/), [Federico Serva](https://fserva.github.io/) and [Quentin Paletta]() from [ESA](https://www.esa.int/)/[Φ-lab](https://philab.esa.int/) on the one hand, and on the other hand [Andrea Ceschini](https://phd.uniroma1.it/web/ANDREA-CESCHINI_nP1870857_IT.aspx) and [Massimo Panella](https://massimopanella.site.uniroma1.it/) from La Sapienza University (DIET - [Department of Information Engineering](https://web.uniroma1.it/dip_diet/)), we developped and benchmarked methods for AI-based forecasting of solar irradiance from previous days and Meteosat weather data. 
+With [Alessandro Sebastianelli](https://alessandrosebastianelli.github.io/), [Federico Serva](https://fserva.github.io/) and [Quentin Paletta](https://quentinpaletta.github.io/) from [ESA](https://www.esa.int/)/[Φ-lab](https://philab.esa.int/) on the one hand, and on the other hand [Andrea Ceschini](https://phd.uniroma1.it/web/ANDREA-CESCHINI_nP1870857_IT.aspx) and [Massimo Panella](https://massimopanella.site.uniroma1.it/) from La Sapienza University (DIET - [Department of Information Engineering](https://web.uniroma1.it/dip_diet/)), we developped and benchmarked methods for AI-based forecasting of solar irradiance from previous days and Meteosat weather data. I also collaborated with [Quentin Paletta](https://quentinpaletta.github.io/) for to improve spatial domain adaptation of AI solar forecasting models with physics-informed transfer learning.
 
-\[ []() / []() \]
+\[ []() / [Energy Conversion and Management paper on cross-site generalizability of vision-based solar forecasting models with physics-informed transfer learning (_to appear_)]() \]
 
 
 ## Physics-aware ML for Weather Forecast
