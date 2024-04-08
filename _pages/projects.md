@@ -23,7 +23,7 @@ Quantum neural networks has shown interesting properties to learn faster from fe
 
 With [Alessandro Sebastianelli](https://alessandrosebastianelli.github.io/), [Federico Serva](https://fserva.github.io/) and [Quentin Paletta](https://quentinpaletta.github.io/) from [ESA](https://www.esa.int/)/[Φ-lab](https://philab.esa.int/) on the one hand, and on the other hand [Andrea Ceschini](https://phd.uniroma1.it/web/ANDREA-CESCHINI_nP1870857_IT.aspx) and [Massimo Panella](https://massimopanella.site.uniroma1.it/) from La Sapienza University (DIET - [Department of Information Engineering](https://web.uniroma1.it/dip_diet/)), we developped and benchmarked methods for AI-based forecasting of solar irradiance from previous days and Meteosat weather data. I also collaborated with [Quentin Paletta](https://quentinpaletta.github.io/) for to improve spatial domain adaptation of AI solar forecasting models with physics-informed transfer learning.
 
-\[ [AI Forecast of irradiance]() / [Energy Conversion and Management paper on cross-site generalizability of vision-based solar forecasting models with physics-informed transfer learning (_to appear_)]() \]
+\[ [AI Forecast of irradiance]() / [Energy Conversion and Management paper on _cross-site generalizability of vision-based solar forecasting models with physics-informed transfer learning_ (_to appear_)]() \]
 
 
 ## Physics-aware ML for Weather Forecast
@@ -40,7 +40,7 @@ With [Federico Serva](https://fserva.github.io/) we investigate forecasting of w
 
 With the [EO4Landscape](https://eo4landscape.natur.cuni.cz/) [group](https://eo4landscape.natur.cuni.cz/team/) of [Univerzita Karlova](https://www.natur.cuni.cz/geografie/geoinformatika-kartografie/veda-a-vyzkum/vyzkumne-tymy/vyzkumny-tym-hodnoceni-land-use-a-land-cover-z-druzicovych-dat) ([Charles University](https://cuni.cz/UKEN-1.html)) in Pragues: [Přemysl Štych](https://eo4landscape.natur.cuni.cz/premysl-stych/), Daniel Paluba, and Jan Svoboda, we investigate AI with no or low supervision to classify forests and trees. With [Daniel Paluba](https://eo4landscape.natur.cuni.cz/daniel-paluba/) (and Francesco Sarti from [ESA](https://www.esa.int/)), we developed an approach to estimate common forest index (LAI, NDVI, etc.) from SAR data (Sentinel 1) so forests can be monitored even in the presence of clouds. With [Jan Svoboda](https://eo4landscape.natur.cuni.cz/jan-svoboda/) (and [Peter Naylor](https://github.com/PeterJackNaylor) from [ESA](https://philab.esa.int/)) we worked on land cover classification refinement using [Segment-Anything](https://segment-anything.com/)-based image segmentation.
 
-\[ [Estimating optical vegetation indices with Sentinel-1 SAR data and AutoML](https://arxiv.org/abs/2311.07537) / [Forest dataset to appear]() / [EARSEL'2024 paper on Segment-Anything for Landcover]() \]
+\[ [Estimating optical vegetation indices with Sentinel-1 SAR data and AutoML](https://arxiv.org/abs/2311.07537) / [Forest dataset (_to appear_)]() / [EARSEL'2024 paper on Segment-Anything for Landcover]() \]
 
 
 ## Visual Question & Answering (VQA) for EO data
