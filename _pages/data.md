@@ -15,6 +15,30 @@ Since machine learning algorithms are hungry for data to process, I contributed 
 
 With Javiera Castillo-Navarro, Ronny Haensch and others, we held a competition for semi-supervised learning in Earth observation based on MiniFrance data, in the frame of the IEEE GRSS Data Fusion Contests: [the DFC2022](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest-semi-supervised-learning-for-land-cover-classification/). Along with VHR EO imagery and landcover classes, we added digital elevation models to the new [MiniFrance-DFC22 data](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022). Full description in the [GRSM Paper announcement](https://ieeexplore.ieee.org/document/9764835).
 
+## \[2022\] Hyperview Challenge: Estimating Soil Parameters from Hyperspectral Images
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/hyperview-icon.png){: .align-left}
+
+With [Jakub Nalepa](https://www.researchgate.net/profile/Jakub-Nalepa-2), [Nicolas Longépé](), and colleagues from New Space company [KP Labs](https://kplabs.space/) and [ESA](https://www.esa.int/) organised the [HyperView](https://platform.ai4eo.eu/seeing-beyond-the-visible-permanent) challenge for geology and agriculture from space, leveraging hyperspectral imagery (check the [video](https://youtu.be/UeBbkfLJe40)). Hyperview _"Seeing beyond the visible"_  was powered by the [ai4eo.eu platform](https://ai4eo.eu/challenge/hyperview-challenge/) and held as a Grand Challenge at [ICIP 2022](https://2022.ieeeicip.org/challenges/) ([Hyperview description in the ICIP paper](https://ieeexplore.ieee.org/document/9897443)).
+
+{::options parse_block_html="true" /}
+<details>
+You are free to use and/or refer to the HYPERVIEW dataset in your own research (non-commercial use): [hyperview can be found here](https://platform.ai4eo.eu/seeing-beyond-the-visible-permanent/data) and the (incomplete) [PapersWithCode entry is here](https://paperswithcode.com/dataset/hyperview). If using this dataset, please cite: **The Hyperview Challenge: Estimating Soil Parameters from Hyperspectral Images** _Nalepa et al._ IEEE ICIP Bordeaux, France, October 2022
+
+```
+@INPROCEEDINGS{9897443,
+  author={Nalepa, Jakub and {Le Saux}, Bertrand and {Longépé}, Nicolas and Tulczyjew, Lukasz and Myller, Michal and Kawulok, Michal and Smykala, Krzysztof and Gumiela, Michal},
+  booktitle={2022 IEEE International Conference on Image Processing (ICIP)},
+  title={The Hyperview Challenge: Estimating Soil Parameters from Hyperspectral Images},
+  year={2022},
+  pages={4268-4272},
+  doi={10.1109/ICIP46576.2022.9897443}
+}
+```
+</details>
+
+{::options parse_block_html="false" /}
+
 ## \[2020\] MiniFrance Dataset
 
 With Javiera Castillo-Navarro et al., we released the first benchmark for semi-supervised learning in Earth observation: [MiniFrance](https://ieee-dataport.org/open-access/minifrance).
