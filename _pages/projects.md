@@ -10,6 +10,14 @@ author_profile: true
 My current projects include:
 
 
+## Foundation Models for EO: PhilEO and DOFA
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/phileo-overview-icon.png){: .align-left} 
+
+Foundation models, that is AI models pre-trained at very large scale on massive data, have the power to revolutionise the way we use machine learning, by capturing extensive information from unlabelled data and specialising the pre-trained models on few data for specific tasks (making it parsimonious in labelled data). With the [PhilEO](https://phileo-bench.github.io/) team at [ESA](https://www.esa.int/)/[Φ-lab](https://philab.esa.int/) ([Casper Fibaek](https://github.com/casperfibaek), [Nikolaos Dionelis](https://www.linkedin.com/in/nikolaos-dionelis-60688279/), Luke Camilleri, Andreas Luyts) we proposed the [PhilEO Bench](https://phileo-bench.github.io/) to assess the capacity of emerging geospatial FMs on a benchmark of diverse tasks. We also propose the PhilEO Foundation Model and PhilEO precursor-FMs, trained at scale on massive Sentinel 2 data: PhilEO-FM is trained with geo-awareness to be more capable. PhilEO is presented at [EGU 2024](https://meetingorganizer.copernicus.org/EGU24/EGU24-17934.html) and [IGARSS 2024](https://arxiv.org/abs/2402.16147). I also collaborated with [Zhitong Xiong](https://www.asg.ed.tum.de/en/sipeo/team/dr-zhitong-xiong/) and [Xiaoxiang Zhu](https://www.professoren.tum.de/en/zhu-xiaoxiang) at [TU Munich](https://www.asg.ed.tum.de/en/sipeo/home/) who develop sensor-agnostic FM named DOFA (Dynamic One-For-All foundation model), a [Neural Plasticity-Inspired Foundation Model for Observing the Earth Crossing Modalities](https://arxiv.org/abs/2403.15356).
+
+\[ [PhilEO Bench project](https://phileo-bench.github.io/) / [PhilEO Foundation Model]() / [PhilEO Bench on arxiv](https://arxiv.org/abs/2402.16147) / [HuggingFace community)](https://huggingface.co/PhilEO-community) / [DOFA project](https://github.com/zhu-xlab/DOFA) / [DOFA arxiv](https://arxiv.org/abs/2403.15356) \]
+
 ## Quantum Generative AI: QGANs and Quantum Diffusion Models
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/QGAN-continuous-SYC.png){: .align-left} 
