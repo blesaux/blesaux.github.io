@@ -24,7 +24,7 @@ The PhilEO-bench is a benchmark for geospatial foundation models (e.g. trained o
 If using this code, please cite: **PhilEO Bench: Evaluating Geo-Spatial Foundation Models** _Casper Fibaek, Luke Camilleri, Andreas Luyts, Nikolaos Dionelis, Bertrand Le Saux_ IGARSS, July 2024.
 
 ```
-@article{fibaek2024-phileo-bench,
+@inproceedings{fibaek2024-phileo-bench,
  author = { Fibaek, Casper and  Camilleri, Luke and  Luyts, Andreas and  Dionelis, Nikolaos and  {Le Saux}, Bertrand},
  title = {PhilEO Bench: Evaluating Geo-Spatial Foundation Models},
  journal={IGARSS},
