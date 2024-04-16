@@ -16,7 +16,7 @@ Over the years, research projects and papers lead to various code and computer t
 
 [Project page](https://phileo-bench.github.io/) with links to [GitHub](https://github.com/ESA-PhiLab/PhilEO-Bench), [HugginFace](https://huggingface.co/PhilEO-community) and [Dataset of downsteam tasks](http://huggingface.co/datasets/ESA-philab/PhilEO-downstream).
 
-The PhilEO-bench is a benchmark for geospatial foundation models (e.g. trained on Sneitnel 2 or HLS data) with three tasks (land cover classification, road segmentation, and building density regression) on the same massive and global dataset (400Go). Thus, this is a real game changer for really evaluating EO foundation models and their assumptions of universality (everywhere on Earth) and genericity (multiple tasks). In the [paper](https://arxiv.org/abs/2401.04464) ([pdf](https://arxiv.org/pdf/2401.04464)) we compare various foundation models such as Prithvi, SeCo, Satlas to our own Foundation Model: PhilEO. Weights are on the [huggin face page](https://huggingface.co/PhilEO-community)!
+The PhilEO-bench is a benchmark for geospatial foundation models (e.g. trained on Sneitnel 2 or HLS data) with three tasks (land cover classification, road segmentation, and building density regression) on the same massive and global dataset (400Go). Thus, this is a real game changer for really evaluating EO foundation models and their assumptions of _universality_ (everywhere on Earth) and _genericity_ (multiple tasks). In the [paper](https://arxiv.org/abs/2401.04464) ([pdf](https://arxiv.org/pdf/2401.04464)) we compare various foundation models such as Prithvi, SeCo, Satlas to our own Foundation Model: PhilEO. Weights are on the [huggin face page](https://huggingface.co/PhilEO-community)!
 
 {::options parse_block_html="true" /}
 <details>
@@ -32,8 +32,9 @@ If using this code, please cite: **PhilEO Bench: Evaluating Geo-Spatial Foundati
  year = {2024},
 }
 ```
-
 </details>
+
+{::options parse_block_html="false" /}
 
 ## AerialMTL: Multi-Task Learning for Aerial Images
 
