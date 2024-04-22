@@ -28,9 +28,9 @@ Recent publications include:
 
 \[ [Project page](https://phileo-bench.github.io/) / [arxiv](https://arxiv.org/abs/2401.04464) / [pdf](https://arxiv.org/pdf/2401.04464) / [GitHub](https://github.com/ESA-PhiLab/PhilEO-Bench) / [HugginFace](http://huggingface.co/ESA-philab) / [Dataset of downsteam tasks](http://huggingface.co/datasets/ESA-philab/PhilEO-downstream) \] 
 
-**Improving cross-site generalizability of vision-based solar forecasting models with physics-informed transfer learning** _Quentin Paletta; Yuhao Nie; Yves-Marie Saint-Drenan; Bertrand Le Saux_, [Energy Conversoin and Management](https://www.sciencedirect.com/journal/energy-conversion-and-management), _to appear_ 2024.
+**Improving cross-site generalizability of vision-based solar forecasting models with physics-informed transfer learning** _Quentin Paletta; Yuhao Nie; Yves-Marie Saint-Drenan; Bertrand Le Saux_, [Energy Conversoin and Management](https://www.sciencedirect.com/journal/energy-conversion-and-management), April 2024.
 
-\[ [article]() / [doi]() / [arxiv]() \]
+\[ [article](https://www.sciencedirect.com/science/article/pii/S019689042400339X?via%3Dihub) / [doi](https://doi.org/10.1016/j.enconman.2024.118398) / [talk at ESA-ECMWF workshop](https://www.ml4esop.esa.int/agenda%202) \]
 
 **Land Cover Classification Refinement Through Image Segmentation**, _Jan Svoboda, Bertrand Le Saux, Peter Naylor, Josef Laštovička, Přemysl Štych_, _to appear at_ [EARSeL Symposium 2024](https://manchester2024.earsel.org/), Manchester, June 2024.
 
