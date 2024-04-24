@@ -13,9 +13,9 @@ My current projects include:
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/semantic-surfaces-icon.png){: .align-left} 
 
-With [Mathilde Letard](https://www.mletard.com/) from [CNRS in Rennes](https://letg.cnrs.fr/) and [Peter Naylor](https://github.com/PeterJackNaylor) from [ESA](https://philab.esa.int/) we explore new ways to learn informative representations from 3D Data using Implicit Neural Representations. It results in surfaces with semantic meaning (ground, top of canopy, etc...) which can be used for completion, super-resolution, or continuous 3D modelling. 
+With [Mathilde Letard](https://www.mletard.com/) from [CNRS in Rennes](https://letg.cnrs.fr/) and [Peter Naylor](https://github.com/PeterJackNaylor) from [ESA](https://philab.esa.int/) we explore new ways to learn informative representations from 3D Data using Implicit Neural Representations. It results in surfaces with semantic meaning (ground, top of canopy, etc...) which can be used for completion, super-resolution, or continuous 3D modelling. Also involved in Rennes: [Dimitri Lague](https://geosciences.univ-rennes.fr/interlocuteurs/dimitri-lague) and [Thomas Corpetti](https://tcorpetti.github.io/).
 
-\[ \]
+\[ [more to come soon]() \]
 
 ## Foundation Models for EO: PhilEO and DOFA
 
