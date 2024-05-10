@@ -25,9 +25,9 @@ Recent publications include:
 
 **Estimating Soil Parameters From Hyperspectral Images : A benchmark dataset and the outcome of the HYPERVIEW challenge**, _Jakub Nalepa , Lukasz Tulczyjew , Bertrand Le Saux , Nicolas Longépé ,
 Bogdan Ruszczak , Agata M. Wijata , Krzysztof Smykala , Michal Myller ,Michal Kawulok , Ridvan Salih Kuzu , Frauke Albrecht, Caroline Arnold ,Mohammad Alasawedah, Suzanne Angeli, Delphine Nobileau,
-Achille Ballabeni, Alessandro Lotti , Alfredo Locarini , Dario Modenini ,Paolo Tortora , And Michal Gumiela_, IEEE Geoscience and Remote Sensing Magazine (GRSM), vol. 12, issue 2, to appear in June 2024.
+Achille Ballabeni, Alessandro Lotti , Alfredo Locarini , Dario Modenini ,Paolo Tortora , And Michal Gumiela_, IEEE Geoscience and Remote Sensing Magazine (GRSM), vol. 12, issue 2, May 2024.
 
-\[ [GRSM article (soon)]() / [permanently open HYPERVIEW benchmark](https://platform.ai4eo.eu/seeing-beyond-the-visible-permanent)  \] 
+\[ [GRSM article](https://ieeexplore.ieee.org/document/10526314) / [doi](https://doi.org/10.1109/MGRS.2024.3394040) / [permanently open HYPERVIEW benchmark](https://platform.ai4eo.eu/seeing-beyond-the-visible-permanent)  \] 
 
 **PhilEO Bench: Evaluating Geo-Spatial Foundation Models**, _Casper Fibaek, Luke Camilleri, Andreas Luyts, Nikolaos Dionelis, Bertrand Le Saux_,  [arXiv:2401.04464](https://doi.org/10.48550/arXiv.2401.04464), _to appear_ [IGARSS'2024](https://www.2024.ieeeigarss.org/), July 2024.
 
