@@ -67,7 +67,7 @@ PhD co-supervised with [David Filliat](http://perso.ensta-paristech.fr/~filliat/
 PhD co-supervised with [Marin Ferecatu](http://cedric.cnam.fr/~ferecatm/) and [Michel Crucianu](http://cedric.cnam.fr/~crucianm/) from [CNAM ParisTech](http://www.cnam.eu/site-en/).  <span style="color:orange;">Data Fusion Contest 2nd rank Award!</span> Now research engineer at [Huawei](https://www.huawei.com/it/corporate-information/research-development).
 
 ## Undergrad / MSc. Students
-<a name="PastMSc"></a>
+<a name="MSc"></a>
 
 [**Francesca di Falco**: Quantum Generative AI]() \[2023\]  
 MSc from [La Sapienza DIET](https://web.uniroma1.it/dip_diet/) co-supervised with [Massimo Panella](https://massimopanella.site.uniroma1.it/), [Andrea Ceschini](https://phd.uniroma1.it/web/ANDREA-CESCHINI_nP1870857_IT.aspx) and [Alessandro Sebastianelli](https://scholar.google.com/citations?user=WoTTS-UAAAAJ&hl=it). Now PhD student at La Sapienza, Università di Roma.
