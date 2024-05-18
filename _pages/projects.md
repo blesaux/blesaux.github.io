@@ -25,6 +25,14 @@ Foundation models, that is AI models pre-trained at very large scale on massive 
 
 \[ [PhilEO Bench project](https://phileo-bench.github.io/) / [PhilEO Foundation Model]() / [PhilEO Bench on arxiv](https://arxiv.org/abs/2402.16147) / [HuggingFace community)](https://huggingface.co/PhilEO-community) / [DOFA project](https://github.com/zhu-xlab/DOFA) / [DOFA arxiv](https://arxiv.org/abs/2403.15356) \]
 
+## IceCloudNet
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/icecloudnet-icon.png){: .align-left} 
+
+Clouds with ice particles play a crucial role in the climate system. Yet, they remain a source of great uncertainty in climate models and future climate projections. With [Kai Jeggle](), we proposed  IceCloudNet to approximate the ice water path at the spatio-temporal coverage of the SEVIRI topview instrument (Meteosat 2nd Gen, MSG). IceCloudNet is a generative convolutional neural network trained on three years of SEVIRI and DARDAR data, where 3D information comes from the CALIPSO mission, which stopped in 2023. Thus, with IceCloudNet it is now possible to generate similar data from MSG, at more frequent time revisit!
+
+\[ [arxiv](https://arxiv.org/abs/2310.03499) / [dataset on WDC Climate](https://www.wdc-climate.de/ui/q?query=*:*&page=0&rows=15&hierarchy_steps_ss=IceCloudNet) / [NeurIPS'23 / CCAI summary and slides](https://neurips.cc/virtual/2023/76988) / [EGU'24 summary](https://meetingorganizer.copernicus.org/EGU24/EGU24-11933.html) \]
+
 ## Quantum Generative AI: QGANs and Quantum Diffusion Models
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/QGAN-continuous-SYC.png){: .align-left} 
