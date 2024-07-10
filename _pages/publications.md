@@ -35,23 +35,31 @@ Achille Ballabeni, Alessandro Lotti , Alfredo Locarini , Dario Modenini ,Paolo T
 
 **Learning from Unlabelled Data with Transformers: Domain Adaptation for Semantic Segmentation of High Resolution Aerial Images**, _Nikolaos Dionelis, Francesco Pro, Luca Maiano, Irene Amerini, Bertrand Le Saux_, [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
 
-\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=1292) / [arxiv](https://arxiv.org/abs/2404.11299) / [pdf](https://arxiv.org/pdf/2404.11299) / \] 
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=1292) / [arxiv](https://arxiv.org/abs/2404.11299) / [pdf](https://arxiv.org/pdf/2404.11299) \] 
 
 **A Semantic Segmentation-guided Approach For Ground-to-aerial Image Matching**, _Francesco Pro, Nikolaos Dionelis, Luca Maiano, Bertrand Le Saux, Irene Amerini_,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
 
-\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=1286) / [arxiv](https://arxiv.org/abs/2404.11302) / [pdf](https://arxiv.org/pdf/2404.11302) / \] 
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=1286) / [arxiv](https://arxiv.org/abs/2404.11302) / [pdf](https://arxiv.org/pdf/2404.11302) \] 
+
+**Detection Of Bare Soil In Hyperspectral Images Using Quantum-kernel Support Vector Machines**, _Agata M. Wijata, Artur Miroszewski, Bertrand Le Saux, Nicolas Longépé, Bogdan Ruszczak, Jakub Nalepa_,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=5046) \] 
+
+**A Hybrid MLP-quantum Approach In Graph Convolutional Neural Networks For Oceanic Nino Index (Oni) Prediction**, _Francesco Mauro, Alessandro Sebastianelli, Bertrand Le Saux, Paolo Gamba, Silvia Liberata Ullo_,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=5893) \] 
+
+**Utility Of Quantum Kernel Machines In Remote Sensing Applications**, _Artur Miroszewski, Bertrand Le Saux, Nicolas Longépé, Jakub Nalepa_,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=3427) \] 
+
+**Reverse Quantum Annealing For Hybrid Quantum-classical Satellite Mission Planning**, _Amer Delilbasic, Bertrand Le Saux, Morris Riedel, Kristel Michielsen, Gabriele Cavallaro_,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=5045) \] 
 
 **Title**, __,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
 
-\[ [IGARSS Session link]() / [arxiv](https://arxiv.org/abs/2401.04464) / [pdf](https://arxiv.org/pdf/2401.04464) / \] 
-
-**Title**, __,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
-
-\[ [IGARSS Session link]() / [arxiv](https://arxiv.org/abs/2401.04464) / [pdf](https://arxiv.org/pdf/2401.04464) / \] 
-
-**Title**, __,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
-
-\[ [IGARSS Session link]() / [arxiv](https://arxiv.org/abs/2401.04464) / [pdf](https://arxiv.org/pdf/2401.04464) / \] 
+\[ [IGARSS Session link]() / [arxiv](https://arxiv.org/abs/2401.04464) / [pdf](https://arxiv.org/pdf/2401.04464) \] 
 
 **Improving cross-site generalizability of vision-based solar forecasting models with physics-informed transfer learning** _Quentin Paletta; Yuhao Nie; Yves-Marie Saint-Drenan; Bertrand Le Saux_, [Energy Conversion and Management](https://www.sciencedirect.com/journal/energy-conversion-and-management), April 2024.
 
