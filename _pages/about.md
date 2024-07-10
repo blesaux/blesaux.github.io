@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist who designs data-driven techniques for visual understanding, in particular for our planet: AI for Earth, for short. I have been with the [Φ-lab](https://philab.phi.esa.int/) at [ESA](http://www.esa.int/)/[ESRIN](http://www.esa.int/About_Us/ESRIN) and the [Imave-Vision-Learning team](https://www.onera.fr/en/dtis/research-units#iva) at [ONERA](https://www.onera.fr/en) .
+I am a research scientist who designs data-driven techniques for visual understanding, in particular for our planet: AI for Earth, for short. I have been with the [Φ-lab](https://philab.phi.esa.int/) at [ESA](http://www.esa.int/)/[ESRIN](http://www.esa.int/About_Us/ESRIN) and the [Image-Vision-Learning team](https://www.onera.fr/en/dtis/research-units#iva) at [ONERA](https://www.onera.fr/en) .
 
 My work is at the crossroads of statistics, machine learning, image processing, computer vision, and now quantum computing. I am interested in tackling practical problems that arise in Earth observation, to bring solutions to current environment and population challenges. For current works, check [the resources on _learning beyond labels_]({{ site.url }}/beyondlabels) or [my latest publications]({{ site.url }}/publications).
 
