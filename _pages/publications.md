@@ -29,9 +29,29 @@ Achille Ballabeni, Alessandro Lotti , Alfredo Locarini , Dario Modenini ,Paolo T
 
 \[ [GRSM article](https://ieeexplore.ieee.org/document/10526314) / [doi](https://doi.org/10.1109/MGRS.2024.3394040) / [permanently open HYPERVIEW benchmark](https://platform.ai4eo.eu/seeing-beyond-the-visible-permanent)  \] 
 
-**PhilEO Bench: Evaluating Geo-Spatial Foundation Models**, _Casper Fibaek, Luke Camilleri, Andreas Luyts, Nikolaos Dionelis, Bertrand Le Saux_,  [arXiv:2401.04464](https://doi.org/10.48550/arXiv.2401.04464), _to appear_ [IGARSS'2024](https://www.2024.ieeeigarss.org/), July 2024.
+**PhilEO Bench: Evaluating Geo-Spatial Foundation Models**, _Casper Fibaek, Luke Camilleri, Andreas Luyts, Nikolaos Dionelis, Bertrand Le Saux_,  [arXiv:2401.04464](https://doi.org/10.48550/arXiv.2401.04464), [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
 
-\[ [Project page](https://phileo-bench.github.io/) / [arxiv](https://arxiv.org/abs/2401.04464) / [pdf](https://arxiv.org/pdf/2401.04464) / [GitHub](https://github.com/ESA-PhiLab/PhilEO-Bench) / [HugginFace](http://huggingface.co/ESA-philab) / [Dataset of downsteam tasks](http://huggingface.co/datasets/ESA-philab/PhilEO-downstream) \] 
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=1288) /  [Project page](https://phileo-bench.github.io/) / [arxiv](https://arxiv.org/abs/2401.04464) / [pdf](https://arxiv.org/pdf/2401.04464) / [GitHub](https://github.com/ESA-PhiLab/PhilEO-Bench) / [HugginFace](http://huggingface.co/ESA-philab) / [Dataset of downsteam tasks](http://huggingface.co/datasets/ESA-philab/PhilEO-downstream) \] 
+
+**Learning from Unlabelled Data with Transformers: Domain Adaptation for Semantic Segmentation of High Resolution Aerial Images**, _Nikolaos Dionelis, Francesco Pro, Luca Maiano, Irene Amerini, Bertrand Le Saux_, [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=1292) / [arxiv](https://arxiv.org/abs/2404.11299) / [pdf](https://arxiv.org/pdf/2404.11299) / \] 
+
+**A Semantic Segmentation-guided Approach For Ground-to-aerial Image Matching**, _Francesco Pro, Nikolaos Dionelis, Luca Maiano, Bertrand Le Saux, Irene Amerini_,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=1286) / [arxiv](https://arxiv.org/abs/2404.11302) / [pdf](https://arxiv.org/pdf/2404.11302) / \] 
+
+**Title**, __,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link]() / [arxiv](https://arxiv.org/abs/2401.04464) / [pdf](https://arxiv.org/pdf/2401.04464) / \] 
+
+**Title**, __,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link]() / [arxiv](https://arxiv.org/abs/2401.04464) / [pdf](https://arxiv.org/pdf/2401.04464) / \] 
+
+**Title**, __,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link]() / [arxiv](https://arxiv.org/abs/2401.04464) / [pdf](https://arxiv.org/pdf/2401.04464) / \] 
 
 **Improving cross-site generalizability of vision-based solar forecasting models with physics-informed transfer learning** _Quentin Paletta; Yuhao Nie; Yves-Marie Saint-Drenan; Bertrand Le Saux_, [Energy Conversion and Management](https://www.sciencedirect.com/journal/energy-conversion-and-management), April 2024.
 
