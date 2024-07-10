@@ -57,9 +57,17 @@ Achille Ballabeni, Alessandro Lotti , Alfredo Locarini , Dario Modenini ,Paolo T
 
 \[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=5045) \] 
 
-**Title**, __,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+**Estimating Soil Parameters From Hyperspectral Images Using Ensembles Of Classic And Deep Machine Learning Models**, _Wiktor Gacek, Lukasz Tulczyjew, Agata M. Wijata, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
 
-\[ [IGARSS Session link]() / [arxiv](https://arxiv.org/abs/2401.04464) / [pdf](https://arxiv.org/pdf/2401.04464) \] 
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=5115)  \] 
+
+**Soil Analysis With Very Few Labels Using Semi-supervised Hyperspectral Image Classification**, _Bartosz Grabowski, Agata M. Wijata, Lukasz Tulczyjew, Bertrand Le Saux, Jakub Nalepa_,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=5084)  \] 
+
+**Vision-language Models As Multimodal Access To Remote Sensing Information**, _Devis Tuia, Valerie Zermatten, Li Mi, Christel Chappuis, Javiera Castillo-Navarro, Antoine Bosselut, Syrielle Montariol, Sylvain Lobry, Bertrand Le Saux_,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=2134)  \] 
 
 **Improving cross-site generalizability of vision-based solar forecasting models with physics-informed transfer learning** _Quentin Paletta; Yuhao Nie; Yves-Marie Saint-Drenan; Bertrand Le Saux_, [Energy Conversion and Management](https://www.sciencedirect.com/journal/energy-conversion-and-management), April 2024.
 
