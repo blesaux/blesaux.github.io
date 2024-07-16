@@ -16,12 +16,90 @@ author_profile: true
 All publications are listed below:
 
 
-## 2023
 
-**Artificial intelligence to advance Earth observation: a perspective**, _Devis Tuia, Konrad Schindler, Begüm Demir, Gustau Camps-Valls, Xiao Xiang Zhu, Mrinalini Kochupillai, Sašo Džeroski, Jan N. van Rijn, Holger H. Hoos, Fabio Del Frate, Mihai Datcu, Jorge-Arnulfo Quiané-Ruiz, Volker Markl, Bertrand Le Saux, Rochelle Schneider_,  [arXiv:2305.08413](https://doi.org/10.48550/arXiv.2305.08413), May 2023.
+## 2024
+
+**Artificial intelligence to advance Earth observation: a perspective**, _Devis Tuia, Konrad Schindler, Begüm Demir, Gustau Camps-Valls, Xiao Xiang Zhu, Mrinalini Kochupillai, Sašo Džeroski, Jan N. van Rijn, Holger H. Hoos, Fabio Del Frate, Mihai Datcu, Jorge-Arnulfo Quiané-Ruiz, Volker Markl, Bertrand Le Saux, Rochelle Schneider_,  [arXiv:2305.08413](https://doi.org/10.48550/arXiv.2305.08413), May 2023, to appear in IEEE Geoscience and Remote Sensing Magazine (GRSM).
 
 \[ [arxiv](https://arxiv.org/abs/2305.08413) / [pdf](https://arxiv.org/pdf/2305.08413)  \] 
 
+**Estimating Soil Parameters From Hyperspectral Images : A benchmark dataset and the outcome of the HYPERVIEW challenge**, _Jakub Nalepa , Lukasz Tulczyjew , Bertrand Le Saux , Nicolas Longépé ,
+Bogdan Ruszczak , Agata M. Wijata , Krzysztof Smykala , Michal Myller ,Michal Kawulok , Ridvan Salih Kuzu , Frauke Albrecht, Caroline Arnold ,Mohammad Alasawedah, Suzanne Angeli, Delphine Nobileau,
+Achille Ballabeni, Alessandro Lotti , Alfredo Locarini , Dario Modenini ,Paolo Tortora , And Michal Gumiela_, IEEE Geoscience and Remote Sensing Magazine (GRSM), vol. 12, issue 2, May 2024.
+
+\[ [GRSM article](https://ieeexplore.ieee.org/document/10526314) / [doi](https://doi.org/10.1109/MGRS.2024.3394040) / [permanently open HYPERVIEW benchmark](https://platform.ai4eo.eu/seeing-beyond-the-visible-permanent)  \] 
+
+**PhilEO Bench: Evaluating Geo-Spatial Foundation Models**, _Casper Fibaek, Luke Camilleri, Andreas Luyts, Nikolaos Dionelis, Bertrand Le Saux_,  [arXiv:2401.04464](https://doi.org/10.48550/arXiv.2401.04464), [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=1288) /  [Project page](https://phileo-bench.github.io/) / [arxiv](https://arxiv.org/abs/2401.04464) / [pdf](https://arxiv.org/pdf/2401.04464) / [GitHub](https://github.com/ESA-PhiLab/PhilEO-Bench) / [HugginFace](http://huggingface.co/ESA-philab) / [Dataset of downsteam tasks](http://huggingface.co/datasets/ESA-philab/PhilEO-downstream) \] 
+
+**Learning from Unlabelled Data with Transformers: Domain Adaptation for Semantic Segmentation of High Resolution Aerial Images**, _Nikolaos Dionelis, Francesco Pro, Luca Maiano, Irene Amerini, Bertrand Le Saux_, [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=1292) / [arxiv](https://arxiv.org/abs/2404.11299) / [pdf](https://arxiv.org/pdf/2404.11299) \] 
+
+**A Semantic Segmentation-guided Approach For Ground-to-aerial Image Matching**, _Francesco Pro, Nikolaos Dionelis, Luca Maiano, Bertrand Le Saux, Irene Amerini_,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=1286) / [arxiv](https://arxiv.org/abs/2404.11302) / [pdf](https://arxiv.org/pdf/2404.11302) \] 
+
+**Detection Of Bare Soil In Hyperspectral Images Using Quantum-kernel Support Vector Machines**, _Agata M. Wijata, Artur Miroszewski, Bertrand Le Saux, Nicolas Longépé, Bogdan Ruszczak, Jakub Nalepa_,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=5046) \] 
+
+**A Hybrid MLP-quantum Approach In Graph Convolutional Neural Networks For Oceanic Nino Index (Oni) Prediction**, _Francesco Mauro, Alessandro Sebastianelli, Bertrand Le Saux, Paolo Gamba, Silvia Liberata Ullo_,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=5893) \] 
+
+**Utility Of Quantum Kernel Machines In Remote Sensing Applications**, _Artur Miroszewski, Bertrand Le Saux, Nicolas Longépé, Jakub Nalepa_,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=3427) \] 
+
+**Reverse Quantum Annealing For Hybrid Quantum-classical Satellite Mission Planning**, _Amer Delilbasic, Bertrand Le Saux, Morris Riedel, Kristel Michielsen, Gabriele Cavallaro_,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=5045) \] 
+
+**Estimating Soil Parameters From Hyperspectral Images Using Ensembles Of Classic And Deep Machine Learning Models**, _Wiktor Gacek, Lukasz Tulczyjew, Agata M. Wijata, Nicolas Longépé, Bertrand Le Saux, Jakub Nalepa_,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=5115)  \] 
+
+**Soil Analysis With Very Few Labels Using Semi-supervised Hyperspectral Image Classification**, _Bartosz Grabowski, Agata M. Wijata, Lukasz Tulczyjew, Bertrand Le Saux, Jakub Nalepa_,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=5084)  \] 
+
+**Vision-language Models As Multimodal Access To Remote Sensing Information**, _Devis Tuia, Valerie Zermatten, Li Mi, Christel Chappuis, Javiera Castillo-Navarro, Antoine Bosselut, Syrielle Montariol, Sylvain Lobry, Bertrand Le Saux_,  [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
+
+\[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=2134)  \] 
+
+**Improving cross-site generalizability of vision-based solar forecasting models with physics-informed transfer learning** _Quentin Paletta; Yuhao Nie; Yves-Marie Saint-Drenan; Bertrand Le Saux_, [Energy Conversion and Management](https://www.sciencedirect.com/journal/energy-conversion-and-management), April 2024.
+
+\[ [article](https://www.sciencedirect.com/science/article/pii/S019689042400339X?via%3Dihub) / [doi](https://doi.org/10.1016/j.enconman.2024.118398) / [talk at ESA-ECMWF workshop](https://www.ml4esop.esa.int/agenda%202) \]
+
+**Land Cover Classification Refinement Through Image Segmentation**, _Jan Svoboda, Bertrand Le Saux, Peter Naylor, Josef Laštovička, Přemysl Štych_, _to appear at_ [EARSeL Symposium 2024](https://manchester2024.earsel.org/), Manchester, June 2024.
+
+\[ [to appear](https://manchester2024.earsel.org/)  \] 
+
+**The PhilEO Geospatial Foundation Model Suite**, _Bertrand Le Saux, Casper Fibaek, Luke Camilleri, Andreas Luyts, Nikolaos Dionelis, Giacomo Donato Cascarano, Leonardo Bagaglini, and Giorgio Pasquali_,  [EGU'24](https://www.egu24.eu/), Vienna, April 2024.
+
+\[ [EGU Abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-17934.html) / [doi](https://doi.org/10.5194/egusphere-egu24-17934) / [Project page](https://phileo-bench.github.io/) / [arxiv](https://arxiv.org/abs/2401.04464) / [pdf](https://arxiv.org/pdf/2401.04464) / [GitHub](https://github.com/ESA-PhiLab/PhilEO-Bench) / [HugginFace](http://huggingface.co/ESA-philab) / [Dataset of downsteam tasks](http://huggingface.co/datasets/ESA-philab/PhilEO-downstream) \] 
+
+**IceCloudNet: 3D reconstruction of cloud ice from Meteosat SEVIRI input**, _Kai Jeggle, Mikolaj Czerkawski, Federico Serva, Bertrand Le Saux, David Neubauer, and Ulrike Lohmann_,  [EGU'24](https://www.egu24.eu/), Vienna, April 2024.
+
+\[ [EGU Abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-11933.html) / [doi](https://doi.org/10.5194/egusphere-egu24-11933) \] 
+
+**Reconstructing 20th century burned area by combining global fire model input, satellite observations and machine learning**, _Seppe Lampe, Lukas Gudmundsson, Vincent Humphrey, Inne Vanderkelen, Bertrand Le Saux, and Wim Thiery_,  [EGU'24](https://www.egu24.eu/), Vienna, April 2024.
+
+\[ [EGU Abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-10920.html)) / [doi](https://doi.org/10.5194/egusphere-egu24-10920) \] 
+
+**Advancing Measurements and Observations in the Geosciences**, _Nick Everard, Bertrand Le Saux, Kirk Martinez_,  [EGU'24](https://www.egu24.eu/), Vienna, April 2024.
+
+\[ [EGU Union Symposium session](https://meetingorganizer.copernicus.org/EGU24/session/50650) \] 
+
+
+ **Squeezing adaptive deep learning methods with knowledge distillation for on-board cloud detection** _B. Grabowski, M. Ziaja, M. Kawulok, P. Bosowski, N. Longépé, B. Le Saux et J. Nalepa_, Engineering Applications of Artificial Intelligence 132, p. 107835, January 2024.
+
+\[ [article](https://www.sciencedirect.com/science/article/pii/S0952197623020195) / [doi](https://doi.org/10.1016/j.engappai.2023.107835) / [arxiv](https://arxiv.org/abs/2306.09886) \]
+
+
+## 2023
 
 **IceCloudNet: Cirrus and mixed-phase cloud prediction from SEVIRI input learned from sparse supervision** _Kai Jeggle, Mikolaj Czerkawski, Federico Serva, Bertrand Le Saux, David Neubauer, Ulrike Lohmann_, [NeurIPS](https://neurips.cc/Conferences/2023) / [CCAI](https://neurips.cc/virtual/2023/workshop/66543), New Orleans, LA, Dec. 2023
 
@@ -38,6 +116,18 @@ All publications are listed below:
 **Multi-task prompt-RSVQA to explicitly count objects on aerial images** _Christel Chappuis, Charlotte Sertic, Nicolas Santacroce, Javiera Castillo, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, [BMVC](https://bmvc2023.org/) [workshop on Machine Vision for Earth Observation](https://mveo.github.io/index.html), Aberdeen, UK, Nov. 2023.
 
 \[ [BMVC workshop proceedings](https://workshops.proceedings.bmvc2023.org/) / [pdf](https://workshops.proceedings.bmvc2023.org/WorkshoponMachineVisionforEarthObservation/6/CameraReady/6.pdf) / [arxiv](https://arxiv.org/abs/2311.16782) \]
+
+**A Single-Step Multiclass SVM based on Quantum Annealing for Remote Sensing Data Classification** _Amer Delilbasic, Bertrand Le Saux, Morris Riedel, Kristel Michielsen, Gabriele Cavallaro_, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), Vol. 16, November 2023 / [QTML'23](https://qtml-2023.web.cern.ch/), Geneva, Swittzerland, Nov. 2023.
+
+\[ [JSTARS article](https://ieeexplore.ieee.org/document/10329968) / [doi](https://doi.org/10.1109/JSTARS.2023.3336926) / [arxiv](https://arxiv.org/abs/2303.11705) / [pdf](https://arxiv.org/pdf/2303.11705) \]
+
+**Towards Strategies to Avoid Barren Plateaus**, _Sebastian Mair, Alessandro Sebastianelli, Andrea Ceschini, Samuel Vidal, Massimo Panella, Bertrand Le Saux_,  [QTML'23](https://qtml-2023.web.cern.ch/), Geneva, Swittzerland, Nov. 2023.
+
+\[  [abstract]() \]
+
+**Towards Quantum Diffusion Models**, _Francesca De Falco, Andrea Ceschini, Alessandro Sebastianelli, Massimo Panella, Bertrand Le Saux_,  [QTML'23](https://qtml-2023.web.cern.ch/), Geneva, Swittzerland, Nov. 2023.
+
+\[  [abstract]() \]
 
 **Approximately Equivariant Quantum Neural Network for _p4m_ Group Symmetries in Images**, _Su-yeon Chang, M. Grossi, B. Le Saux, S. Vallecorsa_, [IEEE Quantum Week'23](https://qce.quantum.ieee.org/2023/), Bellevue, WA, USA, Sep. 2023 / [QTML'23](https://qtml-2023.web.cern.ch/), Geneva, Swittzerland, Nov. 2023.
 
@@ -58,10 +148,6 @@ All publications are listed below:
 **Deep-Learning-based Change Detection with Spaceborne Hyperspectral PRISMA data** _JF Amieva, A Austoni, MA Brovelli, L Ansalone, P Naylor, F Serva, B Le Saux_, [Big Data from Space'23](https://www.bigdatafromspace2023.org/), Vienna, Austria, Nov. 2023
 
 \[ [arxiv](https://arxiv.org/abs/2310.13627) / [BiDS proceedings](https://publications.jrc.ec.europa.eu/repository/handle/JRC135493) / [BiDS proc. #2](https://op.europa.eu/s/y561) \] 
-
-**A Single-Step Multiclass SVM based on Quantum Annealing for Remote Sensing Data Classification** _Amer Delilbasic, Bertrand Le Saux, Morris Riedel, Kristel Michielsen, Gabriele Cavallaro_, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), Vol. 16, November 2023.
-
-\[ [JSTARS article](https://ieeexplore.ieee.org/document/10329968) / [doi](https://doi.org/10.1109/JSTARS.2023.3336926) / [arxiv](https://arxiv.org/abs/2303.11705) / [pdf](https://arxiv.org/pdf/2303.11705) \]
 
 **Weather4cast at NeurIPS 2022: Super-Resolution Rain Movie Prediction under Spatio-temporal Shifts** _A. Gruca, F. Serva, ...., B. Le Saux, D. Kopp, S. Hochreiter, D. Kreil_, Proceedings of Machine Learning Research, vol. 220, _Proceedings of the NeurIPS 2022 Competitions Track_, 292-313, 2023.
 
