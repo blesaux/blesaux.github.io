@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Bertrand Le Saux"
   avatar           : "profile.png"
-  bio              : "Senior scientist at ESA"
-  location         : "Rome, Italy"
+  bio              : "Senior scientist AI for Earth"
+  location         : "Belgium / Luxembourg"
   employer         :
   googlescholar    : "https://scholar.google.fr/citations?user=SiGd2-YAAAAJ&hl=fr&oi=ao"
   email            : bls@ieee.org
@@ -105,9 +105,9 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  trello           : "https://trello.com/b/4j8FEOWZ/night-of-the-living-deadlines"
+  trello           : # "https://trello.com/b/4j8FEOWZ/night-of-the-living-deadlines"
   tumblr           :
-  twitter          : "blesa_ux"
+  twitter          : # "blesa_ux"
   vine             :
   weibo            :
   xing             :
