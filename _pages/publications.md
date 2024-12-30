@@ -19,6 +19,11 @@ Recent publications include:
 
 ## 2024
 
+**Machine learning forecast of surface solar irradiance from meteo satellite data**, _A. Sebastianelli, F. Serva, A. Ceschini, Q. Paletta, M. Panella et B. Le Saux_, [Remote
+Sensing of Environment](https://www.sciencedirect.com/journal/remote-sensing-of-environment) 315, p. 114431, December 2024.
+
+\[  [RSE article](https://www.sciencedirect.com/science/article/pii/S0034425724004577) / [doi](https://doi.org/10.1016/j.rse.2024.114431) / [Project page](https://irradianceai.github.io/) \]
+
 **Quantum Latent Diffusion Models**, _Francesca De Falco, Andrea Ceschini, Alessandro Sebastianelli, Bertrand Le Saux, Massimo Panella_,  [Quantum Machine Intelligence](https://link.springer.com/journal/42484), November 2024.
 
 \[  [QMI article](https://link.springer.com/article/10.1007/s42484-024-00224-6) / [doi](https://doi.org/10.1007/s42484-024-00224-6) \]
