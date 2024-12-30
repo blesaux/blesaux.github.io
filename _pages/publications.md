@@ -19,15 +19,17 @@ Recent publications include:
 
 ## 2024
 
-**Artificial intelligence to advance Earth observation: a perspective**, _Devis Tuia, Konrad Schindler, Begüm Demir, Gustau Camps-Valls, Xiao Xiang Zhu, Mrinalini Kochupillai, Sašo Džeroski, Jan N. van Rijn, Holger H. Hoos, Fabio Del Frate, Mihai Datcu, Jorge-Arnulfo Quiané-Ruiz, Volker Markl, Bertrand Le Saux, Rochelle Schneider_,  [arXiv:2305.08413](https://doi.org/10.48550/arXiv.2305.08413), May 2023, to appear in IEEE Geoscience and Remote Sensing Magazine (GRSM).
+**Quantum Latent Diffusion Models**, _Francesca De Falco, Andrea Ceschini, Alessandro Sebastianelli, Bertrand Le Saux, Massimo Panella_,  [Quantum Machine Intelligence](https://link.springer.com/journal/42484), November 2024.
 
-\[ [arxiv](https://arxiv.org/abs/2305.08413) / [pdf](https://arxiv.org/pdf/2305.08413)  \] 
+\[  [QMI article](https://link.springer.com/article/10.1007/s42484-024-00224-6) / [doi](https://doi.org/10.1007/s42484-024-00224-6) \]
 
-**Estimating Soil Parameters From Hyperspectral Images : A benchmark dataset and the outcome of the HYPERVIEW challenge**, _Jakub Nalepa , Lukasz Tulczyjew , Bertrand Le Saux , Nicolas Longépé ,
-Bogdan Ruszczak , Agata M. Wijata , Krzysztof Smykala , Michal Myller ,Michal Kawulok , Ridvan Salih Kuzu , Frauke Albrecht, Caroline Arnold ,Mohammad Alasawedah, Suzanne Angeli, Delphine Nobileau,
-Achille Ballabeni, Alessandro Lotti , Alfredo Locarini , Dario Modenini ,Paolo Tortora , And Michal Gumiela_, IEEE Geoscience and Remote Sensing Magazine (GRSM), vol. 12, issue 2, May 2024.
+**Artificial intelligence to advance Earth observation: a perspective**, _Devis Tuia, Konrad Schindler, Begüm Demir, Gustau Camps-Valls, Xiao Xiang Zhu, Mrinalini Kochupillai, Sašo Džeroski, Jan N. van Rijn, Holger H. Hoos, Fabio Del Frate, Mihai Datcu, Jorge-Arnulfo Quiané-Ruiz, Volker Markl, Bertrand Le Saux, Rochelle Schneider_, IEEE Geoscience and Remote Sensing Magazine (GRSM), September 2024 ([arXiv:2305.08413](https://doi.org/10.48550/arXiv.2305.08413), May 2023).
 
-\[ [GRSM article](https://ieeexplore.ieee.org/document/10526314) / [doi](https://doi.org/10.1109/MGRS.2024.3394040) / [permanently open HYPERVIEW benchmark](https://platform.ai4eo.eu/seeing-beyond-the-visible-permanent)  \] 
+\[ [GRSM article](https://ieeexplore.ieee.org/document/10669817) / [doi](https://doi.org/10.1109/MGRS.2024.3425961) / [arxiv](https://arxiv.org/abs/2305.08413) / [pdf](https://arxiv.org/pdf/2305.08413)  \] 
+
+**Quantum Hybrid Diffusion Models for Image Synthesis**, _Francesca De Falco, Andrea Ceschini, Alessandro Sebastianelli, Massimo Panella, Bertrand Le Saux_,  [KI-Künstliche Intelligenz](https://link.springer.com/article/10.1007/s13218-024-00858-5), August 2024.
+
+\[  [Künstliche Intelligenz article](https://link.springer.com/article/10.1007/s13218-024-00858-5) / [doi](https://doi.org/10.1007/s13218-024-00858-5) / [arxiv](https://arxiv.org/abs/2402.16147) \]
 
 **PhilEO Bench: Evaluating Geo-Spatial Foundation Models**, _Casper Fibaek, Luke Camilleri, Andreas Luyts, Nikolaos Dionelis, Bertrand Le Saux_,  [arXiv:2401.04464](https://doi.org/10.48550/arXiv.2401.04464), [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
 
@@ -69,13 +71,19 @@ Achille Ballabeni, Alessandro Lotti , Alfredo Locarini , Dario Modenini ,Paolo T
 
 \[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=2134)  \] 
 
-**Improving cross-site generalizability of vision-based solar forecasting models with physics-informed transfer learning** _Quentin Paletta; Yuhao Nie; Yves-Marie Saint-Drenan; Bertrand Le Saux_, [Energy Conversion and Management](https://www.sciencedirect.com/journal/energy-conversion-and-management), April 2024.
-
-\[ [article](https://www.sciencedirect.com/science/article/pii/S019689042400339X?via%3Dihub) / [doi](https://doi.org/10.1016/j.enconman.2024.118398) / [talk at ESA-ECMWF workshop](https://www.ml4esop.esa.int/agenda%202) \]
-
 **Land Cover Classification Refinement Through Image Segmentation**, _Jan Svoboda, Bertrand Le Saux, Peter Naylor, Josef Laštovička, Přemysl Štych_, _to appear at_ [EARSeL Symposium 2024](https://manchester2024.earsel.org/), Manchester, June 2024.
 
 \[ [to appear](https://manchester2024.earsel.org/)  \] 
+
+**Estimating Soil Parameters From Hyperspectral Images : A benchmark dataset and the outcome of the HYPERVIEW challenge**, _Jakub Nalepa , Lukasz Tulczyjew , Bertrand Le Saux , Nicolas Longépé ,
+Bogdan Ruszczak , Agata M. Wijata , Krzysztof Smykala , Michal Myller ,Michal Kawulok , Ridvan Salih Kuzu , Frauke Albrecht, Caroline Arnold ,Mohammad Alasawedah, Suzanne Angeli, Delphine Nobileau,
+Achille Ballabeni, Alessandro Lotti , Alfredo Locarini , Dario Modenini ,Paolo Tortora , And Michal Gumiela_, IEEE Geoscience and Remote Sensing Magazine (GRSM), vol. 12, issue 2, May 2024.
+
+\[ [GRSM article](https://ieeexplore.ieee.org/document/10526314) / [doi](https://doi.org/10.1109/MGRS.2024.3394040) / [permanently open HYPERVIEW benchmark](https://platform.ai4eo.eu/seeing-beyond-the-visible-permanent)  \] 
+
+**Improving cross-site generalizability of vision-based solar forecasting models with physics-informed transfer learning** _Quentin Paletta; Yuhao Nie; Yves-Marie Saint-Drenan; Bertrand Le Saux_, [Energy Conversion and Management](https://www.sciencedirect.com/journal/energy-conversion-and-management), April 2024.
+
+\[ [article](https://www.sciencedirect.com/science/article/pii/S019689042400339X?via%3Dihub) / [doi](https://doi.org/10.1016/j.enconman.2024.118398) / [talk at ESA-ECMWF workshop](https://www.ml4esop.esa.int/agenda%202) \]
 
 **The PhilEO Geospatial Foundation Model Suite**, _Bertrand Le Saux, Casper Fibaek, Luke Camilleri, Andreas Luyts, Nikolaos Dionelis, Giacomo Donato Cascarano, Leonardo Bagaglini, and Giorgio Pasquali_,  [EGU'24](https://www.egu24.eu/), Vienna, April 2024.
 
