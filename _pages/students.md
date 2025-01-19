@@ -32,15 +32,14 @@ Post-doc between CNAM-ParisTech and ONERA co-supervised with [Élise Koeniguer](
 ## PhD Students
 <a name="PhD"></a>
 
-[**Amer Delilbasic**: Hybrid Quantum-Classical Processing](https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/delilbasic_a.html) \[exp. 2025\]  
+[**Amer Delilbasic**: Hybrid Quantum-Classical Processing](https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/delilbasic_a.html) \[exp. End 2025\]  
 PhD University of Iceland co-supervised with [Gabriele Cavallaro](https://www.gabriele-cavallaro.com/) and [Kristel Michielsen](https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/michielsen_k.html) at [Julich Supercomputer Centre (Forschungszentrum Jülich)](https://www.fz-juelich.de) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
+
+[**Christel Chappuis**: An AI assistant to visual query and answering for EO data](https://people.epfl.ch/christel.chappuis/?lang=en) \[exp. June 2025\]  
+PhD EPFL co-supervised with [Devis Tuia](https://sites.google.com/site/devistuia/) and [Sylvain Lobry](https://www.sylvainlobry.com/) at [EPFL](https://www.epfl.ch)/[ECEO](https://www.epfl.ch/labs/eceo/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
 [**Su-Yeon Chang**: Quantum Generative Neural Networks for Image Analysis](https://people.epfl.ch/su.chang/?lang=en) \[exp. 2024\]  
 PhD EPFL co-supervised with [Sofia Vallecorsa](https://www.linkedin.com/in/sofia-vallecorsa-93ab36b1/) at [EPFL](https://www.epfl.ch)/[LTPN](https://www.epfl.ch/labs/ltpn/), [CERN](https://home.cern/)/[Open Lab](https://openlab.cern/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
-
-[**Christel Chappuis**: An AI assistant to visual query and answering for EO data](https://people.epfl.ch/christel.chappuis/?lang=en) \[exp. 2024\]  
-PhD EPFL co-supervised with [Devis Tuia](https://sites.google.com/site/devistuia/) and [Sylvain Lobry](https://www.sylvainlobry.com/) at [EPFL](https://www.epfl.ch)/[ECEO](https://www.epfl.ch/labs/eceo/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
-
 
 [**Rémy Leroy**: Deep neural networks for 3D point cloud prediction from a single image]( {{ site.url }}/students/remy ) \[PhD 03/2023\]  
 PhD Univ. Paris-Saclay co-supervised with [Frédéric Champagnat](https://www.researchgate.net/profile/Frederic_Champagnat) and [Pauline Trouvé-Peloux](https://www.onera.fr/fr/staff/pauline-trouve-peloux) ([ONERA](https://www.onera.fr)), funded by [ONERA](https://www.onera.fr). Now post-doc at [INRIA](https://www.inria.fr/en)/[IRISA](https://www.irisa.fr/en).
