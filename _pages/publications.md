@@ -17,6 +17,20 @@ Recent publications include:
 
 
 
+## 2025
+
+**Estimating vegetation indices and biophysical parameters for Central European temperate forests with Sentinel-1 SAR data and machine learning**, _Daniel Paluba, Bertrand Le Saux, Francesco Sarti, and Přemysl Štych_, [Big Earth Data](), vol. 7, nr. 2, February 2025.
+
+\[ [article in Big Earth Data](https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2459300) / [doi](https://doi.org/10.1080/20964471.2025.2459300)  \] 
+
+**On hybrid quanvolutional neural networks optimization**, _Andrea Ceschini, Andrea Carbone, Alessandro Sebastianelli, Bertrand Le Saux, Massimo Panella_,  [Quantum Machine Intelligence](https://link.springer.com/journal/42484), vol. 7, nr. 18,  February 2025.
+
+\[ [QMI article](https://link.springer.com/article/10.1007/s42484-025-00241-z) / [doi](https://doi.org/10.1007/s42484-025-00241-z) \]
+
+**Identification of optimal Sentinel-1 SAR polarimetric parameters for forest monitoring in Czechia**, _Daniel Paluba, Bertrand Le Saux, Francesco Sarti, and Přemysl Štych_, [AUC Geographica](https://karolinum.cz/casopis/auc-geographica), vol. 60, nr. 1, pp. 46–60, January 2025.
+
+\[ [article in AUC Geographica](https://karolinum.cz/casopis/auc-geographica/rocnik-60/cislo-1/clanek-13382) / [doi](https://doi.org/10.14712/23361980.2024.18)  \] 
+
 ## 2024
 
 **Machine learning forecast of surface solar irradiance from meteo satellite data**, _A. Sebastianelli, F. Serva, A. Ceschini, Q. Paletta, M. Panella et B. Le Saux_, [Remote
@@ -24,9 +38,9 @@ Sensing of Environment](https://www.sciencedirect.com/journal/remote-sensing-of-
 
 \[  [RSE article](https://www.sciencedirect.com/science/article/pii/S0034425724004577) / [doi](https://doi.org/10.1016/j.rse.2024.114431) / [Project page](https://irradianceai.github.io/) \]
 
-**Quantum Latent Diffusion Models**, _Francesca De Falco, Andrea Ceschini, Alessandro Sebastianelli, Bertrand Le Saux, Massimo Panella_,  [Quantum Machine Intelligence](https://link.springer.com/journal/42484), November 2024.
+**Quantum Latent Diffusion Models**, _Francesca De Falco, Andrea Ceschini, Alessandro Sebastianelli, Bertrand Le Saux, Massimo Panella_,  [Quantum Machine Intelligence](https://link.springer.com/journal/42484), vol. 6, nr. 5,  November 2024.
 
-\[  [QMI article](https://link.springer.com/article/10.1007/s42484-024-00224-6) / [doi](https://doi.org/10.1007/s42484-024-00224-6) \]
+\[ [QMI article](https://link.springer.com/article/10.1007/s42484-024-00224-6) / [doi](https://doi.org/10.1007/s42484-024-00224-6) \]
 
 **Artificial intelligence to advance Earth observation: a perspective**, _Devis Tuia, Konrad Schindler, Begüm Demir, Gustau Camps-Valls, Xiao Xiang Zhu, Mrinalini Kochupillai, Sašo Džeroski, Jan N. van Rijn, Holger H. Hoos, Fabio Del Frate, Mihai Datcu, Jorge-Arnulfo Quiané-Ruiz, Volker Markl, Bertrand Le Saux, Rochelle Schneider_, IEEE Geoscience and Remote Sensing Magazine (GRSM), September 2024 ([arXiv:2305.08413](https://doi.org/10.48550/arXiv.2305.08413), May 2023).
 
@@ -34,7 +48,7 @@ Sensing of Environment](https://www.sciencedirect.com/journal/remote-sensing-of-
 
 **Quantum Hybrid Diffusion Models for Image Synthesis**, _Francesca De Falco, Andrea Ceschini, Alessandro Sebastianelli, Massimo Panella, Bertrand Le Saux_,  [KI-Künstliche Intelligenz](https://link.springer.com/article/10.1007/s13218-024-00858-5), August 2024.
 
-\[  [Künstliche Intelligenz article](https://link.springer.com/article/10.1007/s13218-024-00858-5) / [doi](https://doi.org/10.1007/s13218-024-00858-5) / [arxiv](https://arxiv.org/abs/2402.16147) \]
+\[ [Künstliche Intelligenz article](https://link.springer.com/article/10.1007/s13218-024-00858-5) / [doi](https://doi.org/10.1007/s13218-024-00858-5) / [arxiv](https://arxiv.org/abs/2402.16147) \]
 
 **PhilEO Bench: Evaluating Geo-Spatial Foundation Models**, _Casper Fibaek, Luke Camilleri, Andreas Luyts, Nikolaos Dionelis, Bertrand Le Saux_,  [arXiv:2401.04464](https://doi.org/10.48550/arXiv.2401.04464), [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
 
@@ -76,7 +90,7 @@ Sensing of Environment](https://www.sciencedirect.com/journal/remote-sensing-of-
 
 \[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=2134)  \] 
 
-**Land Cover Classification Refinement Through Image Segmentation**, _Jan Svoboda, Bertrand Le Saux, Peter Naylor, Josef Laštovička, Přemysl Štych_, _to appear at_ [EARSeL Symposium 2024](https://manchester2024.earsel.org/), Manchester, June 2024.
+**Land Cover Classification Refinement Through Image Segmentation**, _Jan Svoboda, Bertrand Le Saux, Peter Naylor, Josef Laštovička, Přemysl Štych_, [EARSeL Symposium 2024](https://manchester2024.earsel.org/), Manchester, June 2024.
 
 \[ [to appear](https://manchester2024.earsel.org/)  \] 
 
