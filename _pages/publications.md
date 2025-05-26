@@ -19,6 +19,10 @@ Recent publications include:
 
 ## 2025
 
+**Quanv4EO: Empowering Earth Observation by Means of Quanvolutional Neural Networks**, _Alessandro Sebastianelli, Francesco Mauro, Giulia Ciabatti, Dario Spiller, Bertrand Le Saux, Paolo Gamba, Silvia Liberata Ullo_,  [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36), vol. 63,  March 2025.
+
+\[ [TGRS article](https://ieeexplore.ieee.org/document/10945995) / [doi](https://doi.org/10.1109/TGRS.2025.3556335) \]
+
 **Estimating vegetation indices and biophysical parameters for Central European temperate forests with Sentinel-1 SAR data and machine learning**, _Daniel Paluba, Bertrand Le Saux, Francesco Sarti, and Přemysl Štych_, [Big Earth Data](), vol. 7, nr. 2, February 2025.
 
 \[ [article in Big Earth Data](https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2459300) / [doi](https://doi.org/10.1080/20964471.2025.2459300)  \] 
