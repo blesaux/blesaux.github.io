@@ -19,6 +19,10 @@ Recent publications include:
 
 ## 2025
 
+**Evaluating Language Biases in Remote Sensing VQA** _Christel Chappuis, Eliot Walt, Vincent Mendez, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, [IEEE Geoscience and Remote Sensing Magazine (GRSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), to appear 2025.
+
+\[ [GRSM article]() / [doi](https://doi.org/10.1109/MGRS.2025.3564401) \]
+
 **Quanv4EO: Empowering Earth Observation by Means of Quanvolutional Neural Networks**, _Alessandro Sebastianelli, Francesco Mauro, Giulia Ciabatti, Dario Spiller, Bertrand Le Saux, Paolo Gamba, Silvia Liberata Ullo_,  [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36), vol. 63,  March 2025.
 
 \[ [TGRS article](https://ieeexplore.ieee.org/document/10945995) / [doi](https://doi.org/10.1109/TGRS.2025.3556335) \]
