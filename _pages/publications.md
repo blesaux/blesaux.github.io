@@ -19,9 +19,17 @@ Recent publications include:
 
 ## 2025
 
-**Evaluating Language Biases in Remote Sensing VQA** _Christel Chappuis, Eliot Walt, Vincent Mendez, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, [IEEE Geoscience and Remote Sensing Magazine (GRSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), to appear 2025.
+**Evaluating Language Biases in Remote Sensing VQA** _Christel Chappuis, Eliot Walt, Vincent Mendez, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, [IEEE Geoscience and Remote Sensing Magazine (GRSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), to appear 2025 (final version of the preprint: _The curse of language biases in remote sensing VQA: the role of spatial attributes, language diversity, and the need for clear evaluation_).
 
-\[ [GRSM article]() / [doi](https://doi.org/10.1109/MGRS.2025.3564401) \]
+\[ [GRSM article]() / [doi](https://doi.org/10.1109/MGRS.2025.3564401) / [preprint on arxiv](https://arxiv.org/abs/2311.16782) \]
+
+**Modelling global burned area with deep learning**, _Seppe Lampe, Lukas Gudmundsson, Basil Kraft, Bertrand Le Saux, Stijn Hantson, Douglas Kelley, Vincent Humphrey, Emilio Chuvieco, and Wim Thiery_,  [EGU'25](https://www.egu25.eu/), Vienna, April 2025.
+
+\[ [EGU Abstract](https://meetingorganizer.copernicus.org/EGU25/EGU25-15236.html)) / [doi](https://doi.org/10.5194/egusphere-egu25-15236) \] 
+
+**Advancing Measurements and Observations in the Geosciences**, _Nick Everard, Bertrand Le Saux, Remko Uijlenhoet_,  [EGU'25](https://www.egu25.eu/), Vienna, April 2025.
+
+\[ [EGU Union Symposium (plenary) session](https://meetingorganizer.copernicus.org/EGU25/session/54302) \] 
 
 **Quanv4EO: Empowering Earth Observation by Means of Quanvolutional Neural Networks**, _Alessandro Sebastianelli, Francesco Mauro, Giulia Ciabatti, Dario Spiller, Bertrand Le Saux, Paolo Gamba, Silvia Liberata Ullo_,  [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36), vol. 63,  March 2025.
 
@@ -138,10 +146,6 @@ Achille Ballabeni, Alessandro Lotti , Alfredo Locarini , Dario Modenini ,Paolo T
 **IceCloudNet: Cirrus and mixed-phase cloud prediction from SEVIRI input learned from sparse supervision** _Kai Jeggle, Mikolaj Czerkawski, Federico Serva, Bertrand Le Saux, David Neubauer, Ulrike Lohmann_, [NeurIPS](https://neurips.cc/Conferences/2023) / [CCAI](https://neurips.cc/virtual/2023/workshop/66543), New Orleans, LA, Dec. 2023
 
 \[ [arxiv](https://arxiv.org/abs/2310.03499) / [CCAI abstract and paper @ NeurIPS'23](https://www.climatechange.ai/papers/neurips2023/51) / [NeurIPS video and slides](https://neurips.cc/virtual/2023/workshop/66543#wse-detail-76988) \]
-
-**The curse of language biases in remote sensing VQA: the role of spatial attributes, language diversity, and the need for clear evaluation** _Christel Chappuis, Eliot Walt, Vincent Mendez, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, to appear.
-
-\[ [arxiv](https://arxiv.org/abs/2311.16782) \]
 
 **ChangeMatch: A Semi-Supervised Deep Learning Framework for Change Detection in Open-Pit Mines Using SAR Imagery** _Murdaca, Gianluca; Ricciuti, Federico; Rucci, Alessio; Le Saux, Bertrand; Fumagalli, Alfio; Prati, Claudio_, Remote Sensing 15 (24), December 2023.
 
