@@ -19,9 +19,9 @@ Recent publications include:
 
 ## 2025
 
-**Evaluating Language Biases in Remote Sensing VQA** _Christel Chappuis, Eliot Walt, Vincent Mendez, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, [IEEE Geoscience and Remote Sensing Magazine (GRSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), to appear 2025 (final version of the preprint: _The curse of language biases in remote sensing VQA: the role of spatial attributes, language diversity, and the need for clear evaluation_).
+**Evaluating Language Biases in Remote Sensing VQA** _Christel Chappuis, Eliot Walt, Vincent Mendez, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, [IEEE Geoscience and Remote Sensing Magazine (GRSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), June 2025 (final version of the preprint: _The curse of language biases in remote sensing VQA: the role of spatial attributes, language diversity, and the need for clear evaluation_).
 
-\[ [GRSM article]() / [doi](https://doi.org/10.1109/MGRS.2025.3564401) / [preprint on arxiv](https://arxiv.org/abs/2311.16782) \]
+\[ [GRSM article](https://ieeexplore.ieee.org/document/11029252) / [doi](https://doi.org/10.1109/MGRS.2025.3564401) / [preprint on arxiv](https://arxiv.org/abs/2311.16782) \]
 
 **Modelling global burned area with deep learning**, _Seppe Lampe, Lukas Gudmundsson, Basil Kraft, Bertrand Le Saux, Stijn Hantson, Douglas Kelley, Vincent Humphrey, Emilio Chuvieco, and Wim Thiery_,  [EGU'25](https://www.egu25.eu/), Vienna, April 2025.
 
