@@ -105,13 +105,19 @@ Sensing of Environment](https://www.sciencedirect.com/journal/remote-sensing-of-
 
 \[ [IGARSS Session link](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=2134)  \] 
 
+**Estimating Soil Parameters From Hyperspectral Images : A benchmark dataset and the outcome of the HYPERVIEW challenge**, _Jakub Nalepa , Lukasz Tulczyjew , Bertrand Le Saux , Nicolas Longépé ,
+Bogdan Ruszczak , Agata M. Wijata , Krzysztof Smykala , Michal Myller ,Michal Kawulok , Ridvan Salih Kuzu , Frauke Albrecht, Caroline Arnold ,Mohammad Alasawedah, Suzanne Angeli, Delphine Nobileau,
+Achille Ballabeni, Alessandro Lotti , Alfredo Locarini , Dario Modenini ,Paolo Tortora , And Michal Gumiela_, IEEE Geoscience and Remote Sensing Magazine (GRSM), vol. 12, issue 2, May 2024.
+
+\[ [GRSM article](https://ieeexplore.ieee.org/document/10526314) / [doi](https://doi.org/10.1109/MGRS.2024.3394040) / [permanently open HYPERVIEW benchmark](https://platform.ai4eo.eu/seeing-beyond-the-visible-permanent)  \] 
+
 **Improving cross-site generalizability of vision-based solar forecasting models with physics-informed transfer learning** _Quentin Paletta; Yuhao Nie; Yves-Marie Saint-Drenan; Bertrand Le Saux_, [Energy Conversion and Management](https://www.sciencedirect.com/journal/energy-conversion-and-management), April 2024.
 
 \[ [article](https://www.sciencedirect.com/science/article/pii/S019689042400339X?via%3Dihub) / [doi](https://doi.org/10.1016/j.enconman.2024.118398) / [talk at ESA-ECMWF workshop](https://www.ml4esop.esa.int/agenda%202) \]
 
-**Land Cover Classification Refinement Through Image Segmentation**, _Jan Svoboda, Bertrand Le Saux, Peter Naylor, Josef Laštovička, Přemysl Štych_, _to appear at_ [EARSeL Symposium 2024](https://manchester2024.earsel.org/), Manchester, June 2024.
+**Land Cover Classification Refinement Through Image Segmentation**, _Jan Svoboda, Bertrand Le Saux, Peter Naylor, Josef Laštovička, Přemysl Štych_, [EARSeL Symposium 2024](https://manchester2024.earsel.org/), Manchester, June 2024.
 
-\[ [to appear](https://manchester2024.earsel.org/)  \] 
+\[ [EARSeL 2024](https://manchester2024.earsel.org/)  \] 
 
 **The PhilEO Geospatial Foundation Model Suite**, _Bertrand Le Saux, Casper Fibaek, Luke Camilleri, Andreas Luyts, Nikolaos Dionelis, Giacomo Donato Cascarano, Leonardo Bagaglini, and Giorgio Pasquali_,  [EGU'24](https://www.egu24.eu/), Vienna, April 2024.
 
@@ -140,10 +146,6 @@ Sensing of Environment](https://www.sciencedirect.com/journal/remote-sensing-of-
 **IceCloudNet: Cirrus and mixed-phase cloud prediction from SEVIRI input learned from sparse supervision** _Kai Jeggle, Mikolaj Czerkawski, Federico Serva, Bertrand Le Saux, David Neubauer, Ulrike Lohmann_, [NeurIPS](https://neurips.cc/Conferences/2023) / [CCAI](https://neurips.cc/virtual/2023/workshop/66543), New Orleans, LA, Dec. 2023
 
 \[ [arxiv](https://arxiv.org/abs/2310.03499) / [CCAI abstract and paper @ NeurIPS'23](https://www.climatechange.ai/papers/neurips2023/51) / [NeurIPS video and slides](https://neurips.cc/virtual/2023/workshop/66543#wse-detail-76988) \]
-
-**The curse of language biases in remote sensing VQA: the role of spatial attributes, language diversity, and the need for clear evaluation** _Christel Chappuis, Eliot Walt, Vincent Mendez, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, to appear.
-
-\[ [arxiv](https://arxiv.org/abs/2311.16782) \]
 
 **ChangeMatch: A Semi-Supervised Deep Learning Framework for Change Detection in Open-Pit Mines Using SAR Imagery** _Murdaca, Gianluca; Ricciuti, Federico; Rucci, Alessio; Le Saux, Bertrand; Fumagalli, Alfio; Prati, Claudio_, Remote Sensing 15 (24), December 2023.
 
