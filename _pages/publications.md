@@ -112,7 +112,7 @@ Sensing of Environment](https://www.sciencedirect.com/journal/remote-sensing-of-
 
 **Land Cover Classification Refinement Through Image Segmentation**, _Jan Svoboda, Bertrand Le Saux, Peter Naylor, Josef Laštovička, Přemysl Štych_, [EARSeL Symposium 2024](https://manchester2024.earsel.org/), Manchester, June 2024.
 
-\[ [to appear](https://manchester2024.earsel.org/)  \] 
+\[ [EARSeL 2024](https://manchester2024.earsel.org/)  \] 
 
 **Estimating Soil Parameters From Hyperspectral Images : A benchmark dataset and the outcome of the HYPERVIEW challenge**, _Jakub Nalepa , Lukasz Tulczyjew , Bertrand Le Saux , Nicolas Longépé ,
 Bogdan Ruszczak , Agata M. Wijata , Krzysztof Smykala , Michal Myller ,Michal Kawulok , Ridvan Salih Kuzu , Frauke Albrecht, Caroline Arnold ,Mohammad Alasawedah, Suzanne Angeli, Delphine Nobileau,
