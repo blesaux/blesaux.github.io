@@ -29,7 +29,7 @@ Recent publications include:
 
 **Modelling global burned area with deep learning**, _Seppe Lampe, Lukas Gudmundsson, Basil Kraft, Bertrand Le Saux, Stijn Hantson, Douglas Kelley, Vincent Humphrey, Emilio Chuvieco, and Wim Thiery_,  [EGU'25](https://www.egu25.eu/), Vienna, April 2025.
 
-\[ [EGU Abstract](https://meetingorganizer.copernicus.org/EGU25/EGU25-15236.html)) / [doi](https://doi.org/10.5194/egusphere-egu25-15236) \] 
+\[ [EGU Abstract](https://meetingorganizer.copernicus.org/EGU25/EGU25-15236.html) / [doi](https://doi.org/10.5194/egusphere-egu25-15236) \] 
 
 **Advancing Measurements and Observations in the Geosciences**, _Nick Everard, Bertrand Le Saux, Remko Uijlenhoet_,  [EGU'25](https://www.egu25.eu/), Vienna, April 2025.
 
