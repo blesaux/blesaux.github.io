@@ -19,6 +19,10 @@ Recent publications include:
 
 ## 2025
 
+**MUMUCD: A Multi-modal Multi-class Change Detection Dataset**, _F. Serva, A. Sebastianelli, B. Le Saux, F. Ricciuti_, [IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), July 2025.
+
+\[  [GRSL article](https://ieeexplore.ieee.org/abstract/document/11071316) / [doi](https://doi.org/10.1109/LGRS.2025.3585797) / [MUMUCD: PRISMA + Sentinel-2 Change Detection Dataset](https://zenodo.org/records/10674011) \]
+
 **Evaluating Language Biases in Remote Sensing VQA** _Christel Chappuis, Eliot Walt, Vincent Mendez, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, [IEEE Geoscience and Remote Sensing Magazine (GRSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), June 2025 (final version of the preprint: _The curse of language biases in remote sensing VQA: the role of spatial attributes, language diversity, and the need for clear evaluation_).
 
 \[ [GRSM article](https://ieeexplore.ieee.org/document/11029252) / [doi](https://doi.org/10.1109/MGRS.2025.3564401) / [preprint on arxiv](https://arxiv.org/abs/2311.16782) \]
