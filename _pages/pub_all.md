@@ -16,18 +16,54 @@ author_profile: true
 All publications are listed below:
 
 
+## 2025
+
+**MUMUCD: A Multi-modal Multi-class Change Detection Dataset**, _F. Serva, A. Sebastianelli, B. Le Saux, F. Ricciuti_, [IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), July 2025.
+
+\[  [GRSL article](https://ieeexplore.ieee.org/abstract/document/11071316) / [doi](https://doi.org/10.1109/LGRS.2025.3585797) / [MUMUCD: PRISMA + Sentinel-2 Change Detection Dataset](https://zenodo.org/records/10674011) \]
+
+**Evaluating Language Biases in Remote Sensing VQA** _Christel Chappuis, Eliot Walt, Vincent Mendez, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, [IEEE Geoscience and Remote Sensing Magazine (GRSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), June 2025 (final version of the preprint: _The curse of language biases in remote sensing VQA: the role of spatial attributes, language diversity, and the need for clear evaluation_).
+
+\[ [GRSM article](https://ieeexplore.ieee.org/document/11029252) / [doi](https://doi.org/10.1109/MGRS.2025.3564401) / [preprint on arxiv](https://arxiv.org/abs/2311.16782) \]
+
+**Modelling global burned area with deep learning**, _Seppe Lampe, Lukas Gudmundsson, Basil Kraft, Bertrand Le Saux, Stijn Hantson, Douglas Kelley, Vincent Humphrey, Emilio Chuvieco, and Wim Thiery_,  [EGU'25](https://www.egu25.eu/), Vienna, April 2025.
+
+\[ [EGU Abstract](https://meetingorganizer.copernicus.org/EGU25/EGU25-15236.html)) / [doi](https://doi.org/10.5194/egusphere-egu25-15236) \] 
+
+**Advancing Measurements and Observations in the Geosciences**, _Nick Everard, Bertrand Le Saux, Remko Uijlenhoet_,  [EGU'25](https://www.egu25.eu/), Vienna, April 2025.
+
+\[ [EGU Union Symposium (plenary) session](https://meetingorganizer.copernicus.org/EGU25/session/54302) \] 
+
+**Quanv4EO: Empowering Earth Observation by Means of Quanvolutional Neural Networks**, _Alessandro Sebastianelli, Francesco Mauro, Giulia Ciabatti, Dario Spiller, Bertrand Le Saux, Paolo Gamba, Silvia Liberata Ullo_,  [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36), vol. 63,  March 2025.
+
+\[ [TGRS article](https://ieeexplore.ieee.org/document/10945995) / [doi](https://doi.org/10.1109/TGRS.2025.3556335) \]
+
+**Estimating vegetation indices and biophysical parameters for Central European temperate forests with Sentinel-1 SAR data and machine learning**, _Daniel Paluba, Bertrand Le Saux, Francesco Sarti, and Přemysl Štych_, [Big Earth Data](), vol. 7, nr. 2, February 2025.
+
+\[ [article in Big Earth Data](https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2459300) / [doi](https://doi.org/10.1080/20964471.2025.2459300)  \] 
+
+**On hybrid quanvolutional neural networks optimization**, _Andrea Ceschini, Andrea Carbone, Alessandro Sebastianelli, Bertrand Le Saux, Massimo Panella_,  [Quantum Machine Intelligence](https://link.springer.com/journal/42484), vol. 7, nr. 18,  February 2025.
+
+\[ [QMI article](https://link.springer.com/article/10.1007/s42484-025-00241-z) / [doi](https://doi.org/10.1007/s42484-025-00241-z) \]
+
+**Identification of optimal Sentinel-1 SAR polarimetric parameters for forest monitoring in Czechia**, _Daniel Paluba, Bertrand Le Saux, Francesco Sarti, and Přemysl Štych_, [AUC Geographica](https://karolinum.cz/casopis/auc-geographica), vol. 60, nr. 1, pp. 46–60, January 2025.
+
+\[ [article in AUC Geographica](https://karolinum.cz/casopis/auc-geographica/rocnik-60/cislo-1/clanek-13382) / [doi](https://doi.org/10.14712/23361980.2024.18)  \] 
 
 ## 2024
 
-**Artificial intelligence to advance Earth observation: a perspective**, _Devis Tuia, Konrad Schindler, Begüm Demir, Gustau Camps-Valls, Xiao Xiang Zhu, Mrinalini Kochupillai, Sašo Džeroski, Jan N. van Rijn, Holger H. Hoos, Fabio Del Frate, Mihai Datcu, Jorge-Arnulfo Quiané-Ruiz, Volker Markl, Bertrand Le Saux, Rochelle Schneider_,  [arXiv:2305.08413](https://doi.org/10.48550/arXiv.2305.08413), May 2023, to appear in IEEE Geoscience and Remote Sensing Magazine (GRSM).
+**Machine learning forecast of surface solar irradiance from meteo satellite data**, _A. Sebastianelli, F. Serva, A. Ceschini, Q. Paletta, M. Panella et B. Le Saux_, [Remote
+Sensing of Environment](https://www.sciencedirect.com/journal/remote-sensing-of-environment) 315, p. 114431, December 2024.
 
-\[ [arxiv](https://arxiv.org/abs/2305.08413) / [pdf](https://arxiv.org/pdf/2305.08413)  \] 
+\[  [RSE article](https://www.sciencedirect.com/science/article/pii/S0034425724004577) / [doi](https://doi.org/10.1016/j.rse.2024.114431) / [Project page](https://irradianceai.github.io/) \]
 
-**Estimating Soil Parameters From Hyperspectral Images : A benchmark dataset and the outcome of the HYPERVIEW challenge**, _Jakub Nalepa , Lukasz Tulczyjew , Bertrand Le Saux , Nicolas Longépé ,
-Bogdan Ruszczak , Agata M. Wijata , Krzysztof Smykala , Michal Myller ,Michal Kawulok , Ridvan Salih Kuzu , Frauke Albrecht, Caroline Arnold ,Mohammad Alasawedah, Suzanne Angeli, Delphine Nobileau,
-Achille Ballabeni, Alessandro Lotti , Alfredo Locarini , Dario Modenini ,Paolo Tortora , And Michal Gumiela_, IEEE Geoscience and Remote Sensing Magazine (GRSM), vol. 12, issue 2, May 2024.
+**Quantum Latent Diffusion Models**, _Francesca De Falco, Andrea Ceschini, Alessandro Sebastianelli, Bertrand Le Saux, Massimo Panella_,  [Quantum Machine Intelligence](https://link.springer.com/journal/42484), vol. 6, nr. 5,  November 2024.
 
-\[ [GRSM article](https://ieeexplore.ieee.org/document/10526314) / [doi](https://doi.org/10.1109/MGRS.2024.3394040) / [permanently open HYPERVIEW benchmark](https://platform.ai4eo.eu/seeing-beyond-the-visible-permanent)  \] 
+\[ [QMI article](https://link.springer.com/article/10.1007/s42484-024-00224-6) / [doi](https://doi.org/10.1007/s42484-024-00224-6) \]
+
+**Artificial intelligence to advance Earth observation: a perspective**, _Devis Tuia, Konrad Schindler, Begüm Demir, Gustau Camps-Valls, Xiao Xiang Zhu, Mrinalini Kochupillai, Sašo Džeroski, Jan N. van Rijn, Holger H. Hoos, Fabio Del Frate, Mihai Datcu, Jorge-Arnulfo Quiané-Ruiz, Volker Markl, Bertrand Le Saux, Rochelle Schneider_, IEEE Geoscience and Remote Sensing Magazine (GRSM), September 2024 ([arXiv:2305.08413](https://doi.org/10.48550/arXiv.2305.08413), May 2023).
+
+\[ [GRSM article](https://ieeexplore.ieee.org/document/10669817) / [doi](https://doi.org/10.1109/MGRS.2024.3425961) / [arxiv](https://arxiv.org/abs/2305.08413) / [pdf](https://arxiv.org/pdf/2305.08413)  \] 
 
 **PhilEO Bench: Evaluating Geo-Spatial Foundation Models**, _Casper Fibaek, Luke Camilleri, Andreas Luyts, Nikolaos Dionelis, Bertrand Le Saux_,  [arXiv:2401.04464](https://doi.org/10.48550/arXiv.2401.04464), [IGARSS'2024](https://www.2024.ieeeigarss.org/), Athens, Greece, July 2024.
 
