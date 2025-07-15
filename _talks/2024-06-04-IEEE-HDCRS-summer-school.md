@@ -2,7 +2,7 @@
 title: "Quantum Computing for Earth Observation (QC4EO): Advances and Challenges in Generative AI and Quantum Neural Networks"
 collection: keynote
 type: "Keynote"
-permalink: /talks/2023-06-04-IEEE-HDCRS-summer-school.
+permalink: /talks/2024-06-04-IEEE-HDCRS-summer-school
 venue: "IEEE HDCRS Summer School"
 date: 2024-06-04
 location: "Santiago di Compostela, Spain"
