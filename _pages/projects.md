@@ -9,14 +9,6 @@ author_profile: true
 
 My current projects include:
 
-## Semantic Surfaces for 3D Data
-
-![image-left]({{ site.url }}{{ site.baseurl }}/images/semantic-surfaces-icon.png){: .align-left} 
-
-With [Mathilde Letard](https://www.mletard.com/) from [CNRS in Rennes](https://letg.cnrs.fr/) and [Peter Naylor](https://github.com/PeterJackNaylor) from [ESA](https://philab.esa.int/) we explore new ways to learn informative representations from 3D Data using Implicit Neural Representations. It results in surfaces with semantic meaning (ground, top of canopy, etc...) which can be used for completion, super-resolution, or continuous 3D modelling. Also involved in Rennes: [Dimitri Lague](https://geosciences.univ-rennes.fr/interlocuteurs/dimitri-lague) and [Thomas Corpetti](https://tcorpetti.github.io/).
-
-\[ [more to come soon]() \]
-
 ## Foundation Models for EO: PhilEO and DOFA
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/phileo-overview-icon.png){: .align-left} 
@@ -48,6 +40,13 @@ With [Alessandro Sebastianelli](https://alessandrosebastianelli.github.io/), [Fe
 
 \[ [Irradiance AI project](https://irradianceai.github.io/) / [_AI Forecast of irradiance_ published in Remote Sensing of the Environment](https://doi.org/10.1016/j.rse.2024.114431) / [Energy Conversion and Management paper on _cross-site generalizability of vision-based solar forecasting models with physics-informed transfer learning_](https://doi.org/10.1016/j.enconman.2024.118398) \]
 
+## Semantic Surfaces for 3D Data
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/semantic-surfaces-icon.png){: .align-left} 
+
+With [Mathilde Letard](https://www.mletard.com/) from [CNRS in Rennes](https://letg.cnrs.fr/) and [Peter Naylor](https://github.com/PeterJackNaylor) from [ESA](https://philab.esa.int/) we explore new ways to learn informative representations from 3D Data using Implicit Neural Representations. It results in surfaces with semantic meaning (ground, top of canopy, etc...) which can be used for completion, super-resolution, or continuous 3D modelling. Also involved in Rennes: [Dimitri Lague](https://geosciences.univ-rennes.fr/interlocuteurs/dimitri-lague) and [Thomas Corpetti](https://tcorpetti.github.io/).
+
+\[ [more to come soon]() \]
 
 ## Physics-aware ML for Weather Forecast
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/weather4cast-icon.png){: .align-left} 
@@ -55,7 +54,6 @@ With [Alessandro Sebastianelli](https://alessandrosebastianelli.github.io/), [Fe
 With [Federico Serva](https://fserva.github.io/) we investigate forecasting of weather events. In particular, we're part of the organising committee of the [Weather4Cast](https://weather4cast.net/) competition led by [Aleksandra Gruca](https://www.researchgate.net/profile/Aleksandra-Gruca) and [David Kreil](https://www.researchgate.net/profile/David-Kreil-2) at NeurIPS in 2022 and 2023, which establish a benchmark for rain prediction from spatio-temporal time-series (i.e. movies). Check the report on the 2022 edition: [Weather4cast at NeurIPS 2022: Super-Resolution Rain Movie Prediction under Spatio-temporal Shifts](https://proceedings.mlr.press/v220/gruca23a.html) in PMLR. In parallel, we developed [Super-resolved rainfall prediction with physics-aware deep learning](https://arxiv.org/abs/2310.15615) approaches for rain prediction with Stephen Moran and [Begum Demir](https://begumdemir.com/) from TU Berlin.
 
 \[ [Weather4Cast](https://weather4cast.net/) / [Weather4cast at NeurIPS 2022](https://nips.cc/virtual/2022/competition/50099) /  [Weather4cast Paper 2022 in PMLR](https://proceedings.mlr.press/v220/gruca23a.html) /  [Weather4cast at NeurIPS 2023](https://neurips.cc/virtual/2023/competition/66592) /  [Rain prediction paper at BiDS'23](https://arxiv.org/abs/2310.15615) / \]
-
 
 ## Unsupervised AI for Forestry and Biomass
 
@@ -65,14 +63,13 @@ With the [EO4Landscape](https://eo4landscape.natur.cuni.cz/) [group](https://eo4
 
 \[ [Estimating optical vegetation indices with Sentinel-1 SAR data and AutoML](https://arxiv.org/abs/2311.07537) / [Forest dataset (_to appear_)]() / [EARSEL'2024 paper on Segment-Anything for Landcover]() \]
 
-
 ## Visual Question & Answering (VQA) for EO data
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/christel-chappuis-rsvqa-icon.jpg){: .align-left} 
 
-In [Christel Chappuis](https://people.epfl.ch/christel.chappuis/?lang=en)'s PhD at [EPFL](https://www.epfl.ch/en/)/[ECEO](https://www.epfl.ch/labs/eceo/), co-supervised with [Devis Tuia](https://sites.google.com/site/devistuia/) ([EPFL](https://www.epfl.ch/labs/eceo)) and [Sylvain Lobry](https://www.sylvainlobry.com/) ([Univ. of Paris](https://u-paris.fr/en/)), we investigate remote sensing visual question & answering (RSVQA). _How to interact easily with Earth observation and geospatial data archives, using natural language and no computer expertise?_ This is key for empowering people with EO capacities! We explored image-text embedding for RSVQA ([ECML-PKDD Workshop paper](https://arxiv.org/abs/2109.11848)) and now are moving to advanced Natural Language Processing (NLP) techniques to address times-series of environmental data.
+In [Christel Chappuis](https://people.epfl.ch/christel.chappuis/?lang=en)'s PhD at [EPFL](https://www.epfl.ch/en/)/[ECEO](https://www.epfl.ch/labs/eceo/), co-supervised with [Devis Tuia](https://sites.google.com/site/devistuia/) ([EPFL](https://www.epfl.ch/labs/eceo)) and [Sylvain Lobry](https://www.sylvainlobry.com/) ([Univ. of Paris](https://u-paris.fr/en/)), we investigated remote sensing visual question & answering (RSVQA). _How to interact easily with Earth observation and geospatial data archives, using natural language and no computer expertise?_ This is key for empowering people with EO capacities! We proposed a deep dive analysis into the biases that plague language-vision models for VQA in EO, published in GRSM in 2025: _Evaluating Language Biases in Remote Sensing VQA_. We also demonstrated in 2022 how to benefit easily from the power of LLMs to boost vision-language question and answering in our [_Prompt-RSVQA_ algorithm](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/html/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.html), presented at CVPR/Earth Vision in 2022.
 
-\[ [image-text embedding paper](https://arxiv.org/abs/2109.11848) and [video](https://tube.switch.ch/videos/uvBPd4XtZ8) \]
+\[ [How biased is your VQA for EO? in GRSM](https://ieeexplore.ieee.org/document/11029252) / [Prompt-RSVQA at CVPR/EarthVision'22](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.pdf) (and [counting! at BMVC'23](https://workshops.proceedings.bmvc2023.org/WorkshoponMachineVisionforEarthObservation/6/CameraReady/6.pdf)) / [image-text embedding paper](https://arxiv.org/abs/2109.11848) and [video](https://tube.switch.ch/videos/uvBPd4XtZ8) \]
 
 ## Quantum Computing for Earth Observation
 
