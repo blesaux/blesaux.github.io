@@ -18,6 +18,7 @@ I used to teach regularly at [University Paris Dauphine](https://www.dauphine.fr
 I served as Chair of the [IEEE GRSS Image Analysis and Data Fusion Technical Committee](http://www.grss-ieee.org/community/technical-committees/data-fusion/) from 2017 to 2019, and previously as co-chair from 2015 to 2017. One of our main activities was to organize the [Data Fusion Contest](http://www.grss-ieee.org/community/technical-committees/data-fusion/data-fusion-contest/), an annual competition for multimodal Earth observation. I have been an associate editor of the [Geoscience and Remote Sensing Letters (GRSL)](http://www.grss-ieee.org/publication-category/grsl/) (2018-2024) and guest editor of several special issues mostly in IEEE journals.
 
 I am/was a co-organizer of:
+* the [Big Data from Space (BiDS) 2025](https://www.bigdatafromspace2025.org/) conference,
 * the [Dagstuhl](https://www.dagstuhl.de/en) seminar on ["Space and Artificial Intelligence"](https://www.dagstuhl.de/23461) in November 2023,
 * the [Big Data from Space (BiDS) 2023](https://www.bigdatafromspace2023.org/) conference,
 * the [AI for Humanitarian Assistance and Disaster Response Workshop (AI+HADR) 2023](https://www.hadr.ai/) workshop at [ICCV'2023](https://iccv2023.thecvf.com/),
