@@ -1,7 +1,7 @@
 ---
 title: "The quest for use-cases and applications of Quantum machine learning"
 collection: invited
-type: "Invited"
+type: "Invited talk"
 permalink: /talks/2025-07-01-IJCNN-Quantum-Neural-Networks-Workshop
 venue: "IJCNN 2025 / QCNN workshop"
 date: 2025-07-01
