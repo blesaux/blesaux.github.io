@@ -18,7 +18,7 @@ July 2003
 ## Summary
 <a name="summary"></a>
 
-**Title**: Unsupervised classification and learning-based personalization : application to image database browsing
+**Title**: Unsupervised classification and learning-based personalization: application to image database browsing
 
 **Keywords**: Machine learning; Support Vector Machines; Clustering; Image Analysis; Multimedia Databases
 
@@ -31,6 +31,7 @@ We developed a clustering method able to find image categories in an image datab
 In a second step, we let the user organize the image collection. SVM learning is used to process feedback of category relevance. Only a few examples are required to filter and re-classify images to the user's personally-defined categories. Training with such a small set is made possible by using the SVM kernel as a metric in the feature space and defining a distribution model for the data. This leads to the precise selection of relevant images.
 
 Our method has been applied with success in an industrial context to macro-segmentation of video. Our system could generate a summary of broadcast news for fast Internet viewing. Another application is the clustering of similar image regions to allow image retrieval using query composition with multiple region prototypes.
+
 ---
 
 ## Résumé
