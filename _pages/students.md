@@ -23,7 +23,7 @@ Post-doc supervised at [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.es
 Post-doc co-supervised with [Piotr Gawron](https://astrocent.camk.edu.pl/?team=professor-piotr-gawron) at [Nicolaus Copernicus Astronomical CEnter of Polish Academy of Sciences](https://astrocent.camk.edu.pl/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
 [**Federico Serva**: Physics-aware Machine Learning for Earth sciences](https://orcid.org/0000-0002-7118-0817) \[2021 - 2022\]  
-Post-doc supervised at [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
+Post-doc supervised at [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/). Now researcher at [CNR-ISMAR](https://www.ricercamarina.cnr.it/en/ismar.php)
 
 [**Clément Rambour**: Multi-temporal analysis of SAR and optical data]( {{ site.url }}/students/clement ) \[2019 - 2020\]  
 Post-doc between CNAM-ParisTech and ONERA co-supervised with [Élise Koeniguer](https://www.onera.fr/fr/staff/elise-colin-koeniguer), [Nicolas Audebert](https://nicolas.audebert.at/), [Michel Crucianu](http://cedric.cnam.fr/~crucianm/) and Mihai Datcu. Now Assoc. Prof. at [CNAM-ParisTech](http://www.cnam.fr).
