@@ -17,7 +17,7 @@ Post-doc co-supervised with [Jakub Mielcszarek](https://jakubmielczarek.com/) at
 Post-doc supervised at [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
 [**Alessandro Sebastianelli**: Artificial Intelligence for EO / Quantum Machine Learning](https://alessandrosebastianelli.github.io/) \[2022 - 2024\]  
-Post-doc supervised at [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
+Post-doc supervised at [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/), now researcher at Euro-Mediterranean Center on Climate Change (CMCC)
 
 [**Manish Gupta**: Spectral processing with Quantum Neural Networks](https://astrocent.camk.edu.pl/?team=dr-manish-gupta) \[2022 - 2023\]  
 Post-doc co-supervised with [Piotr Gawron](https://astrocent.camk.edu.pl/?team=professor-piotr-gawron) at [Nicolaus Copernicus Astronomical CEnter of Polish Academy of Sciences](https://astrocent.camk.edu.pl/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
