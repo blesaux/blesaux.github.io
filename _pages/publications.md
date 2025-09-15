@@ -19,6 +19,10 @@ Recent publications include:
 
 ## 2025
 
+**IceCloudNet: 3D reconstruction of cloud ice from Meteosat SEVIRI**, _Kai Jeggle, Mikolaj Czerkawski, Federico Serva, Bertrand Le Saux, David Neubauer, and Ulrike Lohmann_,  [Artificial Intelligence for the Earth Systems](https://www.ametsoc.org/ams/publications/journals/artificial-intelligence-for-the-earth-systems/#:~:text=Artificial%20Intelligence%20for%20the%20Earth%20Systems%20%28AIES%29%20%28ISSN%3A,atmospheric%20science%2C%20hydrology%2C%20climate%20science%2C%20and%20ocean%20sciences.), 2025.
+
+\[ [AIES to appear]() / [doi]() / [arxiv preprint](https://arxiv.org/abs/2410.04135v1) / [github project](https://github.com/tabularaza27/ice_cloud_net) / [5 years of dense, reconstructed "pseudo-LiDAR" 3D data](https://www.wdc-climate.de/ui/project?acronym=IceCloudNet) \] 
+
 **MUMUCD: A Multi-modal Multi-class Change Detection Dataset**, _F. Serva, A. Sebastianelli, B. Le Saux, F. Ricciuti_, [IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), July 2025.
 
 \[ [GRSL article](https://ieeexplore.ieee.org/abstract/document/11071316) / [doi](https://doi.org/10.1109/LGRS.2025.3585797) / [MUMUCD: PRISMA + Sentinel-2 Change Detection Dataset](https://zenodo.org/records/10674011) \]
