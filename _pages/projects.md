@@ -63,7 +63,7 @@ With the [EO4Landscape](https://eo4landscape.natur.cuni.cz/) [group](https://eo4
 
 \[ [Estimating optical vegetation indices with Sentinel-1 SAR data and AutoML](https://arxiv.org/abs/2311.07537) / [Forest dataset (_to appear_)]() / [EARSEL'2024 paper on Segment-Anything for Landcover]() \]
 
-## Visual Question & Answering (VQA) for EO data
+## Visual Question & Answering (VQA) Chatbot for EO data
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/christel-chappuis-rsvqa-icon.jpg){: .align-left} 
 
