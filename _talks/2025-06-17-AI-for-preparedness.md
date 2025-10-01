@@ -1,5 +1,5 @@
 ---
-title: "Destination Earth: hands-on session"
+title: "Destination Earth: AI for Preparedness"
 collection: coordination
 type: "Capacity building"
 permalink: /talks/2025-06-17-AI-for-preparedness
