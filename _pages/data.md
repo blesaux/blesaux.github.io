@@ -11,11 +11,14 @@ Since machine learning algorithms are hungry for data to process, I contributed 
 
 ## \[2025\] IceCloudNet: 3D, LiDAR-like reconstruction of clouds from 2D SEVIRI images 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/icecloudnet.gif){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/images/icecloudnet.gif){: .align-left}{width=50%}
 
 IceCloudNet paper, data, and code are now public, enabling study of **𝐜𝐥𝐨𝐮𝐝 𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭** at very large scale as well as validation of **𝐡𝐢𝐠𝐡-𝐫𝐞𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐰𝐞𝐚𝐭𝐡𝐞𝐫 𝐚𝐧𝐝 𝐜𝐥𝐢𝐦𝐚𝐭𝐞 𝐦𝐨𝐝𝐞𝐥 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧𝐬**. In brief, IceCloudNet:
+
 👉 reconstructs in 3D Clouds' key parameters such as ice water content and ice crystal number concentration.
+
 👉 transforms globally-available **2D** images from Meteosat MSG instrument SEVIRI into large-scale **3D** scans as obtained by LiDARs on-board the CALIPSO and CloudSat missions.
+
 👉 demonstrates how GenerativeAI can extend the life of satellites, expand the covered area, and empower scientists with new tools to study natural phenomena.
 
 We released [5 years of cloud data over the North Atlantic and Africa on WDC Climate](https://www.wdc-climate.de/ui/entry?acronym=IceCloudNet_3Drecon) and the [code to produce more on GitHub](https://github.com/tabularaza27/ice_cloud_net). 
