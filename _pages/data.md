@@ -11,7 +11,7 @@ Since machine learning algorithms are hungry for data to process, I contributed 
 
 ## \[2025\] IceCloudNet: 3D LiDAR-like reconstruction of clouds from 2D SEVIRI images 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/icecloudnet.gif){: .align-left}{width=50%}
+![image-left]({{ site.url }}{{ site.baseurl }}/images/icecloudnet.gif){: .align-left}{width=250}
 
 IceCloudNet paper, data, and code are now public, enabling study of **𝐜𝐥𝐨𝐮𝐝 𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭** at very large scale as well as validation of **𝐡𝐢𝐠𝐡-𝐫𝐞𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐰𝐞𝐚𝐭𝐡𝐞𝐫 𝐚𝐧𝐝 𝐜𝐥𝐢𝐦𝐚𝐭𝐞 𝐦𝐨𝐝𝐞𝐥 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧𝐬**. In brief, IceCloudNet:
 
