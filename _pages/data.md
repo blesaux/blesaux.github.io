@@ -11,14 +11,12 @@ Since machine learning algorithms are hungry for data to process, I contributed 
 
 ## \[2025\] IceCloudNet: 3D LiDAR-like reconstruction of clouds from 2D SEVIRI images 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/icecloudnet.gif){: .align-left}{: width="50%"}
+![image-left]({{ site.url }}{{ site.baseurl }}/images/icecloudnet.gif){: .align-left}{: width="40%"}
 
 [*IceCloudNet: 3D Reconstruction of Cloud Ice from Meteosat SEVIRI*](https://www.wdc-climate.de/ui/entry?acronym=IceCloudNet_3Drecon) is now published in the 𝘈𝘳𝘵𝘪𝘧𝘪𝘤𝘪𝘢𝘭 𝘐𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦 𝘧𝘰𝘳 𝘵𝘩𝘦 𝘌𝘢𝘳𝘵𝘩 𝘚𝘺𝘴𝘵𝘦𝘮𝘴 journal of the American Meteorological Society. [5 years of cloud data](https://www.wdc-climate.de/ui/entry?acronym=IceCloudNet_3Drecon) and [code to produce more](https://github.com/tabularaza27/ice_cloud_net) are now public, enabling study of **𝐜𝐥𝐨𝐮𝐝 𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭** at very large scale as well as validation of **𝐡𝐢𝐠𝐡-𝐫𝐞𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐰𝐞𝐚𝐭𝐡𝐞𝐫 𝐚𝐧𝐝 𝐜𝐥𝐢𝐦𝐚𝐭𝐞 𝐦𝐨𝐝𝐞𝐥 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧𝐬**. In brief, IceCloudNet:
 
 👉 reconstructs in 3D Clouds' key parameters such as ice water content and ice crystal number concentration.
-
 👉 transforms globally-available **2D** images from Meteosat MSG instrument SEVIRI into large-scale **3D** scans as obtained by LiDARs on-board the CALIPSO and CloudSat missions.
-
 👉 demonstrates how GenerativeAI can extend the life of satellites, expand the covered area, and empower scientists with new tools to study natural phenomena.
 
 This was an effort led by [Kai Jeggle](https://scholar.google.com/citations?user=5_fiN-sAAAAJ) with [David Neubauer](https://www.linkedin.com/in/david-neubauer-phd) and [Ulrike Lohmann](https://iac.ethz.ch/people-iac/person-detail.html?persid=121007) at [ETH Zurich](https://ethz.ch/en.html) and [Federico Serva](https://iris.cnr.it/cris/rp/rp10367), [Mikolaj Czerkawski](https://mikonvergence.github.io/) and myself at [ESA Φ-lab
@@ -28,7 +26,7 @@ This was an effort led by [Kai Jeggle](https://scholar.google.com/citations?user
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/DFC2022-IADF-header-sm.jpeg){: .align-left}
 
-With Javiera Castillo-Navarro, Ronny Haensch and others, we held a competition for semi-supervised learning in Earth observation based on MiniFrance data, in the frame of the IEEE GRSS Data Fusion Contests: [the DFC2022](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest-semi-supervised-learning-for-land-cover-classification/). Along with VHR EO imagery and landcover classes, we added digital elevation models to the new [MiniFrance-DFC22 data](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022). Full description in the [GRSM Paper announcement](https://ieeexplore.ieee.org/document/9764835).
+With [Javiera Castillo-Navarro](https://javi-castillo.github.io/), [Ronny Haensch](http://www.rhaensch.de/) and others, we held a competition for semi-supervised learning in Earth observation based on MiniFrance data, in the frame of the IEEE GRSS Data Fusion Contests: [the DFC2022](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest-semi-supervised-learning-for-land-cover-classification/). Along with VHR EO imagery and landcover classes, we added digital elevation models to the new [MiniFrance-DFC22 data](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022). Full description in the [GRSM Paper announcement](https://ieeexplore.ieee.org/document/9764835).
 
 ## \[2022\] Hyperview Challenge: Estimating Soil Parameters from Hyperspectral Images
 
