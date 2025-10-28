@@ -9,7 +9,7 @@ author_profile: true
 
 Since machine learning algorithms are hungry for data to process, I contributed to build up various datasets. Some are listed below, other will be added soon.
 
-## \[2025\] IceCloudNet: 3D LiDAR-like reconstruction of clouds from 2D SEVIRI images 
+## \[2025\] IceCloudNet: 3D reconstruction of clouds from 2D SEVIRI images 
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/icecloudnet.gif){: .align-left}{: width="40%"}
 
