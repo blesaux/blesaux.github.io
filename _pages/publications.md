@@ -144,7 +144,6 @@ Achille Ballabeni, Alessandro Lotti , Alfredo Locarini , Dario Modenini ,Paolo T
 
 \[ [EGU Union Symposium session](https://meetingorganizer.copernicus.org/EGU24/session/50650) \] 
 
-
  **Squeezing adaptive deep learning methods with knowledge distillation for on-board cloud detection** _B. Grabowski, M. Ziaja, M. Kawulok, P. Bosowski, N. Longépé, B. Le Saux et J. Nalepa_, Engineering Applications of Artificial Intelligence 132, p. 107835, January 2024.
 
 \[ [article](https://www.sciencedirect.com/science/article/pii/S0952197623020195) / [doi](https://doi.org/10.1016/j.engappai.2023.107835) / [arxiv](https://arxiv.org/abs/2306.09886) \]
