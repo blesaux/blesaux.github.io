@@ -400,7 +400,7 @@ B. Grabowski, B. Le Saux, J. Nalepa and J. Mielczarek_, [Quantum Information Pro
 
 \[ [local pdf]({{ site.url }}/files/Gaston-Lenczner_DISIR_isprs2020_final.pdf) / [ISPRS ann.](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2020/877/2020/) / [ISPRS video](https://isprs.stream-up.tv/media-44-disir-deep-image-segmentation-with-interactive-refinement) / [arxiv](https://arxiv.org/abs/2003.14200) / [DISIR code](https://github.com/delair-ai/DISIR) \]
 
-**Flood detection in times series of optical and SAR images** _C. Rambour, N. Audebert, É. Koeniguer, B. Le Saux, M. Crucianu, M. Datcu_, ISPRS Archives, Virtual / Bice, France, August 2020
+**Flood detection in times series of optical and SAR images** _C. Rambour, N. Audebert, É. Koeniguer, B. Le Saux, M. Crucianu, M. Datcu_, ISPRS Archives, Virtual / Nice, France, August 2020
 
 \[ [local pdf]({{ site.url }}/files/Clement-Rambour_SEN12-FLOOD_isprs2020_final.pdf) / [ISPRS arch.](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B2-2020/1343/2020/) / [hal](https://hal.archives-ouvertes.fr/hal-02924220) / [SEN12-FLOOD dataset](https://ieee-dataport.org/open-access/sen12-flood-sar-and-multispectral-dataset-flood-detection) \]
 
