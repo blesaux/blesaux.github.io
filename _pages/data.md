@@ -31,13 +31,25 @@ This was an effort led by [Kai Jeggle](https://scholar.google.com/citations?user
 
 \[ [Paper in _AI for the Earth systems_](https://journals.ametsoc.org/view/journals/aies/4/4/AIES-D-24-0098.1.xml) / [arxiv](https://arxiv.org/abs/2410.04135) / [5 years of cloud data](https://www.wdc-climate.de/ui/entry?acronym=IceCloudNet_3Drecon) / [open-source code](https://github.com/tabularaza27/ice_cloud_net) / [video interview of Kai Jeggle](https://www.youtube.com/watch?v=HzOvHCjg97c) \]
 
+## \[2025\] Multi-modal Multi-class Change Detection Dataset (MUMUCD)
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/mumucd-icon.png){: .align-left}{: width="30%"} Coming soon!
+
+\[ [GRSL article](https://ieeexplore.ieee.org/abstract/document/11071316) / [doi](https://doi.org/10.1109/LGRS.2025.3585797) / [MUMUCD: PRISMA + Sentinel-2 Change Detection Dataset](https://zenodo.org/records/10674011) \]
+
+{::options parse_block_html="true" /}
+<details>
+If using this dataset, please cite: **MUMUCD: A Multi-modal Multi-class Change Detection Dataset**, _F. Serva, A. Sebastianelli, B. Le Saux, F. Ricciuti_, [IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), July 2025.  
+</details>
+{::options parse_block_html="false" /}
+
 ## \[2022\] 2022 Data Fusion Contest: Semi-supervised Learning for Land Cover Classification
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/DFC2022-IADF-header-sm.jpeg){: .align-left}
 
 With [Javiera Castillo-Navarro](https://javi-castillo.github.io/), [Ronny Haensch](http://www.rhaensch.de/), [Claudio Persello](https://research.utwente.nl/en/persons/claudio-persello/), [Gemine Vivone](https://sites.google.com/site/vivonegemine/), [Sébastien Lefèvre](https://people.irisa.fr/Sebastien.Lefevre/) and [Alexandre Boulch](https://boulch.eu/), we held a competition for semi-supervised learning in Earth observation based on MiniFrance data, in the frame of the IEEE GRSS Data Fusion Contests: [the DFC2022](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest-semi-supervised-learning-for-land-cover-classification/). Along with VHR EO imagery and landcover classes, we added digital elevation models to the new [MiniFrance-DFC22 data](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022). Full description in the [GRSM Paper announcement](https://ieeexplore.ieee.org/document/9764835).
 
-\[ [DFC2022 @ IEEE GRSS](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest/) / [DFC 2016 Results](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest-semi-supervised-learning-for-land-cover-classification/) / [DFC2022 data on IEEE DataPort](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022) / [Starter toolkit code](https://github.com/isaaccorley/dfc2022-baseline) / [DFC2022 data directly in torchgeo](https://torchgeo.readthedocs.io/en/latest/api/datasets.html#ieee-grss-data-fusion-contest-dfc2022)) \]
+\[ [DFC2022 @ IEEE GRSS](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest/) / [DFC 2016 Results](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest-semi-supervised-learning-for-land-cover-classification/) / [DFC2022 data on IEEE DataPort](https://ieee-dataport.org/competitions/data-fusion-contest-2022-dfc2022) / [Starter toolkit code](https://github.com/isaaccorley/dfc2022-baseline) / [DFC2022 data directly in torchgeo](https://torchgeo.readthedocs.io/en/latest/api/datasets.html#ieee-grss-data-fusion-contest-dfc2022) \]
 
 ## \[2022\] Hyperview Challenge: Estimating Soil Parameters from Hyperspectral Images
 
@@ -179,6 +191,10 @@ If using this dataset, please cite the outcome paper: _Mou, L.; Zhu, X.; Vakalop
 
 </details>
 {::options parse_block_html="false" /}
+
+## \[2015\] Data Fusion Contest 2015 (DFC2015)
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/dfc15-banner.png){: .align-left}{: width="60%"} Coming soon!
 
 ## \[2013\] Christchurch Aerial Semantic Dataset (CASD) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3566005.svg)](https://doi.org/10.5281/zenodo.3566005)
 
