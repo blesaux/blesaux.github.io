@@ -194,7 +194,9 @@ If using this dataset, please cite the outcome paper: _Mou, L.; Zhu, X.; Vakalop
 
 ## \[2015\] Data Fusion Contest 2015 (DFC2015)
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/dfc15-banner.png){: .align-left}{: width="60%"} Coming soon!
+![image-left]({{ site.url }}{{ site.baseurl }}/images/dfc15-banner.png){: .align-left}{: width="100%"} Coming soon!
+
+
 
 ## \[2013\] Christchurch Aerial Semantic Dataset (CASD) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3566005.svg)](https://doi.org/10.5281/zenodo.3566005)
 
