@@ -58,9 +58,9 @@ You are free to use and/or refer to the HYPERVIEW dataset in your own research (
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/MiniFrance-Visual.png){: .align-left}{: width="50%"}
 
-With Javiera Castillo-Navarro et al., we released the first benchmark for semi-supervised learning in Earth observation: [MiniFrance](https://ieee-dataport.org/open-access/minifrance).
+In an effort led by [Javiera Castillo-Navarro](https://javi-castillo.github.io/), with [Alexandre Boulch](https://boulch.eu/), [Nicolas Audebert](https://nicolas.audebert.at/), [Sébastien Lefèvre](https://people.irisa.fr/Sebastien.Lefevre/) and myself, we introduced the first large-scale dataset and benchmark for semi-supervised semantic segmentation in Earth Observation, the [MiniFrance suite](https://ieee-dataport.org/open-access/minifrance). 
 
-In an effort led by [Javiera Castillo-Navarro](https://javi-castillo.github.io/), with [Alexandre Boulch](https://boulch.eu/), [Nicolas Audebert](https://nicolas.audebert.at/), [Sébastien Lefèvre](https://people.irisa.fr/Sebastien.Lefevre/) and myself, we introduced the first large-scale dataset and benchmark for semi-supervised semantic segmentation in Earth Observation, the [MiniFrance suite](https://ieee-dataport.org/open-access/minifrance). MiniFrance in numbers: **2000** very high resolution aerial images, **50cm/pixel** resolution, 1 squared kilometer per tile, accounting for more than **200 billions** samples (pixels); **16 cities** and surroundings over France, with various climates, different landscapes, and both urban / countryside; **14 land-use classes** are considered, corresponding to the 2nd semantic level of UrbanAtlas. Hence the success, with nearly ***200 000 downloads*** and a 5-star rating on IEEE Dataport!
+MiniFrance in numbers: **2000** very high resolution aerial images, **50cm/pixel** resolution, 1 squared kilometer per tile, accounting for more than **200 billions** samples (pixels); **16 cities** and surroundings over France, with various climates, different landscapes, and both urban / countryside; **14 land-use classes** are considered, corresponding to the 2nd semantic level of UrbanAtlas. Hence the success, with nearly ***200 000 downloads*** and a 5-star rating on IEEE Dataport!
 
 \[ [open-access dataset](https://ieee-dataport.org/open-access/minifrance) / [paper in *Machine Learning* journal](https://link.springer.com/article/10.1007/s10994-020-05943-y) / [open-access arxiv](https://arxiv.org/abs/2010.07830) /  [EO Database entry](https://eod-grss-ieee.com/dataset-detail/ZnNHaldIK2JXQi9xN0ZGTng2b2tpZz09) / [Further used in the Data Fusion Contest 2022 of the IEEE GRSS!](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest/) \]
 
@@ -133,27 +133,42 @@ The [DFC2018](http://www.classic.grss-ieee.org/community/technical-committees/da
 
 ## \[2017\] Data Fusion Contest 2017 (DFC2017)
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/dfc17-icon.png){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/images/dfc17-icon.png){: .align-left}{: width="50%"}
 
-The [DFC2018](http://www.classic.grss-ieee.org/community/technical-committees/data-fusion/2018-ieee-grss-data-fusion-contest/) organised by IADF TC (Myself, Naoto Yokoya and Ronny Hänsch) and Houston University (Saurabh Prasad) was a benchmark about urban land use and land cover classification (or semantic segmentation). It used multispectral LiDAR point cloud data (intensity rasters and digital surface models), **hyperspectral** data, and very high-resolution RGB imagery. As such, it still is a relevant becnhmark for hyperspectral classification and data fusion. \[ [DFC2017 @ IEEE GRSS]() / [DFC2017 @ DataPort]() \]
+The [DFC2017](https://www.grss-ieee.org/community/technical-committees/2017-ieee-grss-data-fusion-contest/) organised by IADF TC ([Devis Tuia](https://people.epfl.ch/devis.tuia), [Gabriele Moser](https://www.rioslab.it/), and myself) and [Benjamin Bechtel](https://www.geographie.ruhr-uni-bochum.de/mitarbeiter/benjamin_bechtel_00041.html.en) and [Linda See](https://iiasa.ac.at/staff/linda-see) from the [WUDAPT](https://web.archive.org/web/20200502075830/http://www.wudapt.org/) initiative. 
+
+It focused on global land use mapping using open data. Participants were provided with remote sensing (**Landsat and Sentinel2**) data and vector layers (**Open Street Map**), as well as a 17 classes ground reference at 100 x 100m resolution over five cities worldwide (**Local climate zones**, see Stewart and Oke, 2012): Berlin, Hong Kong, Paris, Rome, Sao Paulo. The task was to provide land use maps over four other cities: Amsterdam, Chicago, Madrid, and Xi’an.
+
+\[ [DFC2017 @ IEEE GRSS](https://www.grss-ieee.org/community/technical-committees/2017-ieee-grss-data-fusion-contest/) / [DFC 2017 Results](https://www.grss-ieee.org/community/technical-committees/2017-ieee-grss-data-fusion-contest-results/) / [download data from IEEE DataPort](https://ieee-dataport.org/open-access/data-fusion-contest-2017-dfc2017) / [Open-access outcome paper in JSTARS](https://ieeexplore.ieee.org/abstract/document/8338367) / [legacy website](https://sites.google.com/view/dfc2017/home) \]
+
+{::options parse_block_html="true" /}
+<details>
+  
+If using this dataset, please cite the outcome paper: _N. Yokoya, P. Ghamisi, J. Xia, S. Sukhanov,
+R. Heremans, I. Tankoyeu,B. Bechtel, B. Le Saux, G. Moser & D. Tuia_, **Open Data for Global Multimodal Land Use Classification: Outcome of the 2017 IEEE GRSS Data Fusion Contest**, IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens 11 (5), May 2018.
+
+</details>
+{::options parse_block_html="false" /}
 
 ## \[2016\] Data Fusion Contest 2016 (DFC2016)
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/dfc16-icon.png){: .align-left}{: width="50%"}
 
-The [DFC2016](https://www.grss-ieee.org/community/technical-committees/2016-ieee-grss-data-fusion-contest/) organised by IADF TC ([Devis Tuia](https://people.epfl.ch/devis.tuia), [Gabriele Moser](https://www.rioslab.it/), and myself) and Deimos Imaging. The 2016 IEEE GRSS Data Fusion Contest, organized by the IADF TC, was opened on January 3, 2016. The submission deadline was April 29, 2016. The dataset comprised:
-- VHR images (DEIMOS-2 standard products) acquired at two different dates, before and after orthorectification: Panchromatic data at 1 m resolution and Multispectral data at 4 m spatial resolution
+The [DFC2016](https://www.grss-ieee.org/community/technical-committees/2016-ieee-grss-data-fusion-contest/) organised by IADF TC ([Devis Tuia](https://people.epfl.ch/devis.tuia), [Gabriele Moser](https://www.rioslab.it/), and myself) and Deimos Imaging. It was opened on January 3, 2016 and the submission deadline was April 29, 2016. Participants submitted open topic manuscripts using the VHR and video-from-space data released for the competition. 25 teams worldwide participated to the Contest.
+
+The dataset comprised:
+- VHR images (DEIMOS-2 standard products) acquired at two different dates, before and after orthorectification: Panchromatic data at 1 m resolution and Multispectral data at 4 m re.
 - a High-Definition Video acquired from the International Space Station (ISS), at 1-m spatial resolution
 The data cover an urban and harbor area in Vancouver, Canada, and were acquired and provided for the Contest by Deimos Imaging and Urthecast.
-
-Participants submitted open topic manuscripts using the VHR and video-from-space data released for the competition. 25 teams worldwide participated to the Contest. Evaluation and ranking were conducted by the Award Committee. 
 
 \[ [DFC2016 @ IEEE GRSS](https://www.grss-ieee.org/community/technical-committees/2016-ieee-grss-data-fusion-contest/) / [DFC 2016 Results](https://www.grss-ieee.org/community/technical-committees/2016-ieee-grss-data-fusion-contest-results/) / [Open-access outcome paper in JSTARS](https://ieeexplore.ieee.org/document/7948767) \]
 
 {::options parse_block_html="true" /}
-
+<details>
+  
 If using this dataset, please cite the outcome paper: _Mou, L.; Zhu, X.; Vakalopoulou, M.; Karantzalos, K.; Paragios, N.; Le Saux, B.; Moser, G. & Tuia_, D., **Multi-temporal very high resolution from space: Outcome of the 2016 IEEE GRSS Data Fusion Contest**, IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens 10 (8), August 2017.
 
+</details>
 {::options parse_block_html="false" /}
 
 ## \[2013\] Christchurch Aerial Semantic Dataset (CASD) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3566005.svg)](https://doi.org/10.5281/zenodo.3566005)
