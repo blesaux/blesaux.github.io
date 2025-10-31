@@ -15,14 +15,21 @@ Since machine learning algorithms are hungry for data to process, I contributed 
 
 [*IceCloudNet: 3D Reconstruction of Cloud Ice from Meteosat SEVIRI*](https://journals.ametsoc.org/view/journals/aies/4/4/AIES-D-24-0098.1.xml) is now published in the 𝘈𝘳𝘵𝘪𝘧𝘪𝘤𝘪𝘢𝘭 𝘐𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦 𝘧𝘰𝘳 𝘵𝘩𝘦 𝘌𝘢𝘳𝘵𝘩 𝘚𝘺𝘴𝘵𝘦𝘮𝘴 journal of the American Meteorological Society. [5 years of cloud data](https://www.wdc-climate.de/ui/entry?acronym=IceCloudNet_3Drecon) and [code to produce more](https://github.com/tabularaza27/ice_cloud_net) are now public, enabling study of **𝐜𝐥𝐨𝐮𝐝 𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭** at very large scale as well as validation of **𝐡𝐢𝐠𝐡-𝐫𝐞𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐰𝐞𝐚𝐭𝐡𝐞𝐫 𝐚𝐧𝐝 𝐜𝐥𝐢𝐦𝐚𝐭𝐞 𝐦𝐨𝐝𝐞𝐥 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧𝐬**. In brief, IceCloudNet:
 
+{::options parse_block_html="true" /}
+<details>
 👉 reconstructs in **3D Clouds**' key parameters such as **ice water** content and **ice crystal** number concentration.
 
 👉 transforms globally-available **2D** images from Meteosat MSG instrument **SEVIRI** into large-scale **3D** scans as obtained by LiDARs on-board the **CALIPSO** and CloudSat missions.
 
 👉 demonstrates how GenerativeAI can **extend the life** of satellites, **expand** the covered area, and empower scientists with new tools to study natural phenomena.
 
+</details>
+{::options parse_block_html="false" /}
+
 This was an effort led by [Kai Jeggle](https://scholar.google.com/citations?user=5_fiN-sAAAAJ) with [David Neubauer](https://www.linkedin.com/in/david-neubauer-phd) and [Ulrike Lohmann](https://iac.ethz.ch/people-iac/person-detail.html?persid=121007) at [ETH Zurich](https://ethz.ch/en.html) and [Federico Serva](https://iris.cnr.it/cris/rp/rp10367), [Mikolaj Czerkawski](https://mikonvergence.github.io/) and myself at [ESA Φ-lab
 ](https://philab.esa.int/)
+
+\[ [Paper in _AI for the Earth systems_](https://journals.ametsoc.org/view/journals/aies/4/4/AIES-D-24-0098.1.xml) / [arxiv](https://arxiv.org/abs/2410.04135) / [5 years of cloud data](https://www.wdc-climate.de/ui/entry?acronym=IceCloudNet_3Drecon) / [open-source code](https://github.com/tabularaza27/ice_cloud_net) / [video interview of Kai Jeggle](https://www.youtube.com/watch?v=HzOvHCjg97c) \]
 
 ## \[2022\] 2022 Data Fusion Contest: Semi-supervised Learning for Land Cover Classification
 
@@ -133,7 +140,7 @@ The [DFC2018](http://www.classic.grss-ieee.org/community/technical-committees/da
 
 ## \[2017\] Data Fusion Contest 2017 (DFC2017)
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/dfc17-icon.png){: .align-left}{: width="50%"}
+![image-left]({{ site.url }}{{ site.baseurl }}/images/dfc17-icon.png){: .align-left}{: width="60%"}
 
 The [DFC2017](https://www.grss-ieee.org/community/technical-committees/2017-ieee-grss-data-fusion-contest/) organised by IADF TC ([Devis Tuia](https://people.epfl.ch/devis.tuia), [Gabriele Moser](https://www.rioslab.it/), and myself) and [Benjamin Bechtel](https://www.geographie.ruhr-uni-bochum.de/mitarbeiter/benjamin_bechtel_00041.html.en) and [Linda See](https://iiasa.ac.at/staff/linda-see) from the [WUDAPT](https://web.archive.org/web/20200502075830/http://www.wudapt.org/) initiative. 
 
@@ -152,7 +159,7 @@ R. Heremans, I. Tankoyeu,B. Bechtel, B. Le Saux, G. Moser & D. Tuia_, **Open Dat
 
 ## \[2016\] Data Fusion Contest 2016 (DFC2016)
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/dfc16-icon.png){: .align-left}{: width="50%"}
+![image-left]({{ site.url }}{{ site.baseurl }}/images/dfc16-icon.png){: .align-left}{: width="60%"}
 
 The [DFC2016](https://www.grss-ieee.org/community/technical-committees/2016-ieee-grss-data-fusion-contest/) organised by IADF TC ([Devis Tuia](https://people.epfl.ch/devis.tuia), [Gabriele Moser](https://www.rioslab.it/), and myself) and Deimos Imaging. It was opened on January 3, 2016 and the submission deadline was April 29, 2016. Participants submitted open topic manuscripts using the VHR and video-from-space data released for the competition. 25 teams worldwide participated to the Contest.
 
@@ -177,7 +184,7 @@ If using this dataset, please cite the outcome paper: _Mou, L.; Zhu, X.; Vakalop
 
 [Christchurch Aerial Semantic Dataset (CASD)](https://zenodo.org/record/3566005)
 
-Hicham Randrianarivo and I annotated images from [Land Information New Zealand (LINZ)](https://www.linz.govt.nz/land/maps/linz-topographic-maps/imagery-orthophotos/christchurch-earthquake-imagery) with urban semantic classes: buildings, vehicles and vegetation. Annotations come at object level (shapefiles) and semantic maps (raster masks). All data (images and annotations) are under [License CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). \[ Report: [Cristchurch CASD]({{ site.url }}{{ site.baseurl }}/files/christchurch-CASD.pdf) / Related: [Deformable Part Models for remote sensing](http://blesaux.free.fr/papers/randrianarivo-2013-igarss-DPM.pdf) / [DtMM for Vehicle Detection]({{ site.url }}{{ site.baseurl }}/files/randrianarivo-DtMM-vehicles-IIM2015.pdf) / [Segment-before-detect paper](http://blesaux.free.fr/papers/17-RemoteSensing-Segment-before-detect-AudebertLeSauxLefevre-compressed.pdf) \]
+Hicham Randrianarivo and I annotated images from [Land Information New Zealand (LINZ)](https://www.linz.govt.nz/land/maps/linz-topographic-maps/imagery-orthophotos/christchurch-earthquake-imagery) with urban semantic classes: buildings, vehicles and vegetation. Annotations come at object level (shapefiles) and semantic maps (raster masks). All data (images and annotations) are under [License CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). \[ Report: [Cristchurch CASD]({{ site.url }}{{ site.baseurl }}/files/christchurch-CASD.pdf) / Related papers using the dataset: [Deformable Part Models for remote sensing](http://blesaux.free.fr/papers/randrianarivo-2013-igarss-DPM.pdf) / [DtMM for Vehicle Detection]({{ site.url }}{{ site.baseurl }}/files/randrianarivo-DtMM-vehicles-IIM2015.pdf) / [Segment-before-detect paper](http://blesaux.free.fr/papers/17-RemoteSensing-Segment-before-detect-AudebertLeSauxLefevre-compressed.pdf) \]
 
 {::options parse_block_html="true" /}
 <details>
