@@ -33,7 +33,7 @@ This was an effort led by [Kai Jeggle](https://scholar.google.com/citations?user
 
 ## \[2025\] Multi-modal Multi-class Change Detection Dataset (MUMUCD)
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/mumucd-icon.png){: .align-left}{: width="30%"} Coming soon!
+![image-left]({{ site.url }}{{ site.baseurl }}/images/mumucd-overview.png){: .align-left}{: width="100%"} Coming soon!
 
 \[ [GRSL article](https://ieeexplore.ieee.org/abstract/document/11071316) / [doi](https://doi.org/10.1109/LGRS.2025.3585797) / [MUMUCD: PRISMA + Sentinel-2 Change Detection Dataset](https://zenodo.org/records/10674011) \]
 
