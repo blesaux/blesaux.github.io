@@ -4,7 +4,7 @@ collection: keynote
 type: "Keynote"
 permalink: /talks/2025-12-07-keynote-EURIPS-REO
 venue: "EURIPS / REO Workshop"
-date: 2025-09-07
+date: 2025-12-07
 location: "Copenhagen, Denmark"
 ---
 
