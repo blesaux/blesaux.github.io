@@ -29,9 +29,13 @@ Recent publications include:
 
 ## 2025
 
+**Multitemporal Multispectral Dataset for Palaeochannels Segmentation (MAPS)**, _Giulio Poggi, Andaleeb Yaseen, Raveerat Jaturapitpornchai, Sara Ferro, Gregory Sech, Peter Naylor, Maria Cristina Salvi, Sebastiano Vascon, Bertrand Le Saux, Marco Fiorucci, Arianna Traviglia_,  [IEEE Access](https://doi.org/10.1109/ACCESS.2025.3626678), vol. 13, pp. 203113-203124, November 2025.
+
+\[ [IEEE Access paper](https://ieeexplore.ieee.org/abstract/document/11262704) / [doi](https://doi.org/10.1109/ACCESS.2025.3626678) / [techxiv preprint](https://www.techrxiv.org/users/833485/articles/1226455-multitemporal-multispectral-dataset-for-palaeochannels-segmentation-maps) / [github project](https://github.com/tabularaza27/ice_cloud_net) / [code](https://github.com/IIT-CCHT/MAPS-dataset) / [Paleochannels dataset on huggin face](https://huggingface.co/datasets/CCHT-IIT/Palaeochannels) \] 
+
 **IceCloudNet: 3D reconstruction of cloud ice from Meteosat SEVIRI**, _Kai Jeggle, Mikolaj Czerkawski, Federico Serva, Bertrand Le Saux, David Neubauer, and Ulrike Lohmann_,  [Artificial Intelligence for the Earth Systems](https://www.ametsoc.org/ams/publications/journals/artificial-intelligence-for-the-earth-systems/#:~:text=Artificial%20Intelligence%20for%20the%20Earth%20Systems%20%28AIES%29%20%28ISSN%3A,atmospheric%20science%2C%20hydrology%2C%20climate%20science%2C%20and%20ocean%20sciences.), October 2025.
 
-\[ [AIES Paper](https://journals.ametsoc.org/view/journals/aies/4/4/AIES-D-24-0098.1.xml) / [doi](https://doi.org/10.1175/AIES-D-24-0098.1) / [arxiv preprint](https://arxiv.org/abs/2410.04135v1) / [github project](https://github.com/tabularaza27/ice_cloud_net) / [5 years of dense, reconstructed "pseudo-LiDAR" 3D data](https://www.wdc-climate.de/ui/project?acronym=IceCloudNet) \] 
+\[ [AIES paper](https://journals.ametsoc.org/view/journals/aies/4/4/AIES-D-24-0098.1.xml) / [doi](https://doi.org/10.1175/AIES-D-24-0098.1) / [arxiv preprint](https://arxiv.org/abs/2410.04135v1) / [github project](https://github.com/tabularaza27/ice_cloud_net) / [5 years of dense, reconstructed "pseudo-LiDAR" 3D data](https://www.wdc-climate.de/ui/project?acronym=IceCloudNet) \] 
 
 **MUMUCD: A Multi-modal Multi-class Change Detection Dataset**, _F. Serva, A. Sebastianelli, B. Le Saux, F. Ricciuti_, [IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), July 2025.
 
