@@ -93,7 +93,7 @@ BSc from [MIT](https://misti.mit.edu/) co-supervised with Alessandro Sebastianel
 M.Eng. from [IMT Atlantique](https://www.imt-atlantique.fr/en) in 2019 co-supervised with [Marcela Carvalho](http://mcarvalho.ml/), now PhD student.
 
 [**Javiera Castillo Navarro**: Large-scale semi-supervised semantic segmentation]({{ site.url }}/students/javiera-msc) \[2018\]  
-MSc. from [Ecole Polytechnique](https://www.polytechnique.edu/fr/master-data-sciences) / [Master Data Science](https://datascience-x-master-paris-saclay.fr) in 2018 co-supervised with [Alexandre Boulch](https://aboulch.github.io/), [Nicolas Audebert](https://nicolas.audebert.at/) and [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), now PhD student.
+MSc. from [Ecole Polytechnique](https://www.polytechnique.edu/fr/master-data-sciences) / [Master Data Science](https://datascience-x-master-paris-saclay.fr) in 2018 co-supervised with [Alexandre Boulch](https://aboulch.github.io/), [Nicolas Audebert](https://nicolas.audebert.at/) and [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), then PhD student in my group and now Assistant Professor at CNAM..
 
 [**Adrien Lagrange**: Classification for Big Remote Sensing Data]({{ site.url }}/students/adrien) \[2015\]  
 MSc. / M.Eng from [ENSTA ParisTech](http://www.ensta-paristech.fr/), then PhD student at [IRIT](http://www.irit.fr/), now research engineer at [Agenium Space](https://agenium.com/en/subsidiary/agenium-space). <span style="color:orange;">Data Fusion Contest 2nd rank Award!</span>
