@@ -17,6 +17,16 @@ Recent publications include:
 
 
 
+## 2026
+
+**Quo Vadis, Quantum Machine Learning?: Quantum kernel methods meet Earth observation**, _Artur Miroszewski, Jakub Nalepa, Agata M. Wijata, Jakub Mielczarek, Bertrand Le Saux, Alessandro Sebastianelli_, IEEE Geoscience and Remote Sensing Magazine, January 2026
+
+\[ [GRSM article](https://ieeexplore.ieee.org/document/11359611) / [doi](https://doi.org/10.1109/MGRS.2025.3596291) / [short arxiv early preprint](https://arxiv.org/abs/2311.07626) \]
+
+**BuRNN (v1.0): a data-driven fire model**, _Seppe Lampe, Lukas Gudmundsson, Basil Kraft, Stijn Hantson, Douglas Kelley, Vincent Humphrey, Bertrand Le Saux, Emilio Chuvieco, and Wim Thiery_, Geoscience Model Development, 19, 955–988, January 2026.
+
+\[ [Copernicus GMD article (open-access)](https://gmd.copernicus.org/articles/19/955/2026/) / [doi](https://doi.org/10.5194/gmd-19-955-2026) / [code repository](https://gmd.copernicus.org/articles/19/955/2026/) / [1901–2019 burned area simulation of BuRNN along with raw and pre-processed data to train BuRNN](https://zenodo.org/records/17778519) \]
+
 ## 2025
 
 **IceCloudNet: 3D reconstruction of cloud ice from Meteosat SEVIRI**, _Kai Jeggle, Mikolaj Czerkawski, Federico Serva, Bertrand Le Saux, David Neubauer, and Ulrike Lohmann_,  [Artificial Intelligence for the Earth Systems](https://www.ametsoc.org/ams/publications/journals/artificial-intelligence-for-the-earth-systems/#:~:text=Artificial%20Intelligence%20for%20the%20Earth%20Systems%20%28AIES%29%20%28ISSN%3A,atmospheric%20science%2C%20hydrology%2C%20climate%20science%2C%20and%20ocean%20sciences.), October 2025.
