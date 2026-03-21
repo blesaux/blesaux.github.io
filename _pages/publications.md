@@ -19,15 +19,27 @@ Recent publications include:
 
 ## 2026
 
+**Getting the Most Out of the Image-Level Labels: (Un) supervised Learning for Extracting Soil Parameters from Hyperspectral Images**, _Agata M. Wijata, Lukasz Tulczyjew, Peter Naylor, Bertrand Le Saux, Nicolas Longépé, Jakub Nalepa_, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), vol. 19, pp. 7401-7418, February 2026.
+
+\[ [IEEE JSTARS Article](https://ieeexplore.ieee.org/abstract/document/11370490) / [doi](https://doi.org/10.1109/JSTARS.2026.3660363) \] 
+
+**Get in Shape: Prevent Over-smoothing of CNN-based Sentinel-2 Classification with Large Pre-trained Segment Anything Model**, _Jan Svoboda, Bertrand Le Saux, Peter Naylor, Josef Laštovička, Přemysl Štych_, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), February 2026.
+
+\[ [IEEE JSTARS Article](https://ieeexplore.ieee.org/abstract/document/11370164) / [doi](https://doi.org/10.1109/JSTARS.2026.3660104) \] 
+
 **Quo Vadis, Quantum Machine Learning?: Quantum kernel methods meet Earth observation**, _Artur Miroszewski, Jakub Nalepa, Agata M. Wijata, Jakub Mielczarek, Bertrand Le Saux, Alessandro Sebastianelli_, IEEE Geoscience and Remote Sensing Magazine, 14 (1), pp. 306-334, January 2026
 
-\[ [GRSM article](https://ieeexplore.ieee.org/document/11359611) / [doi](https://doi.org/10.1109/MGRS.2025.3596291) / [short arxiv early preprint](https://arxiv.org/abs/2311.07626) \]
+\[ [IEEE GRSM article](https://ieeexplore.ieee.org/document/11359611) / [doi](https://doi.org/10.1109/MGRS.2025.3596291) / [short arxiv early preprint](https://arxiv.org/abs/2311.07626) \]
 
 **BuRNN (v1.0): a data-driven fire model**, _Seppe Lampe, Lukas Gudmundsson, Basil Kraft, Stijn Hantson, Douglas Kelley, Vincent Humphrey, Bertrand Le Saux, Emilio Chuvieco, and Wim Thiery_, Geoscience Model Development, 19, pp. 955–988, January 2026.
 
 \[ [Copernicus GMD article (open-access)](https://gmd.copernicus.org/articles/19/955/2026/) / [doi](https://doi.org/10.5194/gmd-19-955-2026) / [code repository](https://gmd.copernicus.org/articles/19/955/2026/) / [1901–2019 burned area simulation of BuRNN along with raw and pre-processed data to train BuRNN](https://zenodo.org/records/17778519) \]
 
 ## 2025
+
+**Artificial intelligence to advance Earth observation: a perspective**, _Devis Tuia, Konrad Schindler, Begüm Demir, Gustau Camps-Valls, Xiao Xiang Zhu, Mrinalini Kochupillai, Sašo Džeroski, Jan N. van Rijn, Holger H. Hoos, Fabio Del Frate, Mihai Datcu, Jorge-Arnulfo Quiané-Ruiz, Volker Markl, Bertrand Le Saux, Rochelle Schneider_, IEEE Geoscience and Remote Sensing Magazine (GRSM), 13 (4), pp. 119-141, December 2025 ([arXiv:2305.08413](https://doi.org/10.48550/arXiv.2305.08413), May 2023).
+
+\[ [GRSM article](https://ieeexplore.ieee.org/document/10669817) / [doi](https://doi.org/10.1109/MGRS.2024.3425961) / [arxiv](https://arxiv.org/abs/2305.08413) / [pdf](https://arxiv.org/pdf/2305.08413)  \] 
 
 **Multitemporal Multispectral Dataset for Palaeochannels Segmentation (MAPS)**, _Giulio Poggi, Andaleeb Yaseen, Raveerat Jaturapitpornchai, Sara Ferro, Gregory Sech, Peter Naylor, Maria Cristina Salvi, Sebastiano Vascon, Bertrand Le Saux, Marco Fiorucci, Arianna Traviglia_,  [IEEE Access](https://doi.org/10.1109/ACCESS.2025.3626678), vol. 13, pp. 203113-203124, November 2025.
 
@@ -80,11 +92,7 @@ Sensing of Environment](https://www.sciencedirect.com/journal/remote-sensing-of-
 
 \[ [QMI article](https://link.springer.com/article/10.1007/s42484-024-00224-6) / [doi](https://doi.org/10.1007/s42484-024-00224-6) / [arxiv](https://arxiv.org/abs/2501.11174)/ [pdf](https://arxiv.org/pdf/2501.11174) \]
 
-**Artificial intelligence to advance Earth observation: a perspective**, _Devis Tuia, Konrad Schindler, Begüm Demir, Gustau Camps-Valls, Xiao Xiang Zhu, Mrinalini Kochupillai, Sašo Džeroski, Jan N. van Rijn, Holger H. Hoos, Fabio Del Frate, Mihai Datcu, Jorge-Arnulfo Quiané-Ruiz, Volker Markl, Bertrand Le Saux, Rochelle Schneider_, IEEE Geoscience and Remote Sensing Magazine (GRSM), September 2024 ([arXiv:2305.08413](https://doi.org/10.48550/arXiv.2305.08413), May 2023).
-
-\[ [GRSM article](https://ieeexplore.ieee.org/document/10669817) / [doi](https://doi.org/10.1109/MGRS.2024.3425961) / [arxiv](https://arxiv.org/abs/2305.08413) / [pdf](https://arxiv.org/pdf/2305.08413)  \] 
-
-**Quantum Hybrid Diffusion Models for Image Synthesis**, _Francesca De Falco, Andrea Ceschini, Alessandro Sebastianelli, Massimo Panella, Bertrand Le Saux_,  [KI-Künstliche Intelligenz](https://link.springer.com/article/10.1007/s13218-024-00858-5), August 2024.
+**Quantum Hybrid Diffusion Models for Image Synthesis**, _Francesca De Falco, Andrea Ceschini, Alessandro Sebastianelli, Massimo Panella, Bertrand Le Saux_,  [KI-Künstliche Intelligenz](https://link.springer.com/article/10.1007/s13218-024-00858-5), vol. 38, August 2024.
 
 \[ [Künstliche Intelligenz article](https://link.springer.com/article/10.1007/s13218-024-00858-5) / [doi](https://doi.org/10.1007/s13218-024-00858-5) / [arxiv](https://arxiv.org/abs/2402.16147) \]
 
