@@ -19,11 +19,11 @@ Recent publications include:
 
 ## 2026
 
-**Quo Vadis, Quantum Machine Learning?: Quantum kernel methods meet Earth observation**, _Artur Miroszewski, Jakub Nalepa, Agata M. Wijata, Jakub Mielczarek, Bertrand Le Saux, Alessandro Sebastianelli_, IEEE Geoscience and Remote Sensing Magazine, January 2026
+**Quo Vadis, Quantum Machine Learning?: Quantum kernel methods meet Earth observation**, _Artur Miroszewski, Jakub Nalepa, Agata M. Wijata, Jakub Mielczarek, Bertrand Le Saux, Alessandro Sebastianelli_, IEEE Geoscience and Remote Sensing Magazine, 14 (1), pp. 306-334, January 2026
 
 \[ [GRSM article](https://ieeexplore.ieee.org/document/11359611) / [doi](https://doi.org/10.1109/MGRS.2025.3596291) / [short arxiv early preprint](https://arxiv.org/abs/2311.07626) \]
 
-**BuRNN (v1.0): a data-driven fire model**, _Seppe Lampe, Lukas Gudmundsson, Basil Kraft, Stijn Hantson, Douglas Kelley, Vincent Humphrey, Bertrand Le Saux, Emilio Chuvieco, and Wim Thiery_, Geoscience Model Development, 19, 955–988, January 2026.
+**BuRNN (v1.0): a data-driven fire model**, _Seppe Lampe, Lukas Gudmundsson, Basil Kraft, Stijn Hantson, Douglas Kelley, Vincent Humphrey, Bertrand Le Saux, Emilio Chuvieco, and Wim Thiery_, Geoscience Model Development, 19, pp. 955–988, January 2026.
 
 \[ [Copernicus GMD article (open-access)](https://gmd.copernicus.org/articles/19/955/2026/) / [doi](https://doi.org/10.5194/gmd-19-955-2026) / [code repository](https://gmd.copernicus.org/articles/19/955/2026/) / [1901–2019 burned area simulation of BuRNN along with raw and pre-processed data to train BuRNN](https://zenodo.org/records/17778519) \]
 
@@ -33,15 +33,15 @@ Recent publications include:
 
 \[ [IEEE Access paper](https://ieeexplore.ieee.org/abstract/document/11262704) / [doi](https://doi.org/10.1109/ACCESS.2025.3626678) / [techxiv preprint](https://www.techrxiv.org/users/833485/articles/1226455-multitemporal-multispectral-dataset-for-palaeochannels-segmentation-maps) / [github project](https://github.com/tabularaza27/ice_cloud_net) / [code](https://github.com/IIT-CCHT/MAPS-dataset) / [Paleochannels dataset on huggin face](https://huggingface.co/datasets/CCHT-IIT/Palaeochannels) \] 
 
-**IceCloudNet: 3D reconstruction of cloud ice from Meteosat SEVIRI**, _Kai Jeggle, Mikolaj Czerkawski, Federico Serva, Bertrand Le Saux, David Neubauer, and Ulrike Lohmann_,  [Artificial Intelligence for the Earth Systems](https://www.ametsoc.org/ams/publications/journals/artificial-intelligence-for-the-earth-systems/#:~:text=Artificial%20Intelligence%20for%20the%20Earth%20Systems%20%28AIES%29%20%28ISSN%3A,atmospheric%20science%2C%20hydrology%2C%20climate%20science%2C%20and%20ocean%20sciences.), October 2025.
+**IceCloudNet: 3D reconstruction of cloud ice from Meteosat SEVIRI**, _Kai Jeggle, Mikolaj Czerkawski, Federico Serva, Bertrand Le Saux, David Neubauer, and Ulrike Lohmann_,  [Artificial Intelligence for the Earth Systems](https://www.ametsoc.org/ams/publications/journals/artificial-intelligence-for-the-earth-systems/#:~:text=Artificial%20Intelligence%20for%20the%20Earth%20Systems%20%28AIES%29%20%28ISSN%3A,atmospheric%20science%2C%20hydrology%2C%20climate%20science%2C%20and%20ocean%20sciences.),  vol. 4, pp. 240098, October 2025.
 
 \[ [AIES paper](https://journals.ametsoc.org/view/journals/aies/4/4/AIES-D-24-0098.1.xml) / [doi](https://doi.org/10.1175/AIES-D-24-0098.1) / [arxiv preprint](https://arxiv.org/abs/2410.04135v1) / [github project](https://github.com/tabularaza27/ice_cloud_net) / [5 years of dense, reconstructed "pseudo-LiDAR" 3D data](https://www.wdc-climate.de/ui/project?acronym=IceCloudNet) \] 
 
-**MUMUCD: A Multi-modal Multi-class Change Detection Dataset**, _F. Serva, A. Sebastianelli, B. Le Saux, F. Ricciuti_, [IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), July 2025.
+**MUMUCD: A Multi-modal Multi-class Change Detection Dataset**, _F. Serva, A. Sebastianelli, B. Le Saux, F. Ricciuti_, [IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), vol. 22, July 2025.
 
 \[ [GRSL article](https://ieeexplore.ieee.org/abstract/document/11071316) / [doi](https://doi.org/10.1109/LGRS.2025.3585797) / [MUMUCD: PRISMA + Sentinel-2 Change Detection Dataset](https://zenodo.org/records/10674011) \]
 
-**Evaluating Language Biases in Remote Sensing VQA** _Christel Chappuis, Eliot Walt, Vincent Mendez, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, [IEEE Geoscience and Remote Sensing Magazine (GRSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), June 2025 (final version of the preprint: _The curse of language biases in remote sensing VQA: the role of spatial attributes, language diversity, and the need for clear evaluation_).
+**Evaluating Language Biases in Remote Sensing VQA** _Christel Chappuis, Eliot Walt, Vincent Mendez, Sylvain Lobry, Bertrand Le Saux, Devis Tuia_, [IEEE Geoscience and Remote Sensing Magazine (GRSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518), 13 (3), pp. 216-237, June 2025 (final version of the preprint: _The curse of language biases in remote sensing VQA: the role of spatial attributes, language diversity, and the need for clear evaluation_).
 
 \[ [GRSM article](https://ieeexplore.ieee.org/document/11029252) / [doi](https://doi.org/10.1109/MGRS.2025.3564401) / [preprint on arxiv](https://arxiv.org/abs/2311.16782) \]
 
