@@ -25,7 +25,7 @@ Recent publications include:
 
 **Get in Shape: Prevent Over-smoothing of CNN-based Sentinel-2 Classification with Large Pre-trained Segment Anything Model**, _Jan Svoboda, Bertrand Le Saux, Peter Naylor, Josef Laštovička, Přemysl Štych_, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), February 2026.
 
-\[ [IEEE JSTARS Article](https://ieeexplore.ieee.org/abstract/document/11370164) / [doi](https://doi.org/10.1109/JSTARS.2026.3660104) \] 
+\[ [IEEE JSTARS Article](https://ieeexplore.ieee.org/abstract/document/11370164) / [doi](https://doi.org/10.1109/JSTARS.2026.3660104) / [Example code](https://github.com/hawk919/CNN-classification-over-smoothing-refinement) \] 
 
 **Quo Vadis, Quantum Machine Learning?: Quantum kernel methods meet Earth observation**, _Artur Miroszewski, Jakub Nalepa, Agata M. Wijata, Jakub Mielczarek, Bertrand Le Saux, Alessandro Sebastianelli_, IEEE Geoscience and Remote Sensing Magazine, 14 (1), pp. 306-334, January 2026
 
