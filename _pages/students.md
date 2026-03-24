@@ -10,6 +10,9 @@ author_profile: true
 ## Post-Doc
 <a name="PostDoc"></a>
 
+[**Nikolaos Dionelis**: Geospatial EO Foundation Models and Cross-Domain Adaptation](https://scholar.google.com/citations?user=2UweGHoAAAAJ&hl=en) \[2023 - 2024\]  
+Post-doc supervised at [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/), now research scientist at [University of Alabama](https://www.uah.edu/essc/laboratory-for-applied-science/faculty-staff) / NASA.
+
 [**Artur Miroszewski**: Quantum Machine Learning for Hyperspectral imaging](https://scholar.google.com/citations?hl=en&user=3ayjWdYAAAAJ) \[2022 - 2024\]  
 Post-doc co-supervised with [Jakub Mielcszarek](https://jakubmielczarek.com/) at [Jagiellonian University](https://en.uj.edu.pl)/[Quantum Cosmos Lab](https://quantumcosmos.org/), [Jakub Nalepa](https://www.researchgate.net/profile/Jakub-Nalepa-2) at [KP Labs](https://kplabs.space/) and [ESA](http://www.esa.int/)/[Φ-lab](https://philab.phi.esa.int/)
 
@@ -81,10 +84,10 @@ MSc from [Politecnico di Milano](https://www.polimi.it/en/) co-supervised with F
 MSc from [TU Berlin](https://www.tu.berlin/en/) co-supervised with Federico Serva and [Begüm Demir](https://begumdemir.com/) ( [TU Berlin/RSIM group](https://rsim.berlin/) )
 
 [**Apolline Horn**: Virtual Reality and Digital Communication](https://www.linkedin.com/in/apollinehorn) \[2022\]  
-BSc from [King's College London](https://www.kcl.ac.uk/)
+BSc from [King's College London](https://www.kcl.ac.uk/), now Mission Mnager at [SpaceLocker](https://spacelocker.fr/).
 
 [**Sébastien Malherbe**: Physical-based machine learning for cyclone track prediction](https://www.linkedin.com/in/sebastien-malherbe) \[2022\]  
-MSc from [ENS Paris](https://www.ens.psl.eu/en)
+MSc from [ENS Paris](https://www.ens.psl.eu/en), now PhD student at Università di Napoli.
 
 [**Daniela Zaidenberg**: Quantum Neural Nets for Earth Observation Classification]() \[2021\]  
 BSc from [MIT](https://misti.mit.edu/) co-supervised with Alessandro Sebastianelli and Silvia Ullo ([Uni. Sannio](https://www.unisannio.it/))
@@ -96,16 +99,16 @@ M.Eng. from [IMT Atlantique](https://www.imt-atlantique.fr/en) in 2019 co-superv
 MSc. from [Ecole Polytechnique](https://www.polytechnique.edu/fr/master-data-sciences) / [Master Data Science](https://datascience-x-master-paris-saclay.fr) in 2018 co-supervised with [Alexandre Boulch](https://aboulch.github.io/), [Nicolas Audebert](https://nicolas.audebert.at/) and [Sebastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/), then PhD student in my group and now Assistant Professor at CNAM..
 
 [**Adrien Lagrange**: Classification for Big Remote Sensing Data]({{ site.url }}/students/adrien) \[2015\]  
-MSc. / M.Eng from [ENSTA ParisTech](http://www.ensta-paristech.fr/), then PhD student at [IRIT](http://www.irit.fr/), now research engineer at [Agenium Space](https://agenium.com/en/subsidiary/agenium-space). <span style="color:orange;">Data Fusion Contest 2nd rank Award!</span>
+MSc. / M.Eng from [ENSTA ParisTech](http://www.ensta-paristech.fr/), then PhD student at [IRIT](http://www.irit.fr/), now research engineer at [Airbus Defence and Space](https://www.airbus.com/en/products-services/defence). <span style="color:orange;">Data Fusion Contest 2nd rank Award!</span>
 
 [**Thierry Dumas**: Depth from defocus and learning]({{ site.url }}/students/adrien) \[2014\]  
 MSc. / M.Eng from [Centrale Marseille](http://www.centrale-marseille.fr/) co-supervised with Pauline Trouvé, then PhD student at [IRISA/Sirocco](https://team.inria.fr/sirocco/), now researcher at InterDigital (ex-Technicolor)
 
 [**Morgane Rivière**: Domain adaptation for object recognition in aerial imagery]({{ site.url }}/students/morgane) \[2013\]  
-M.Eng from [École Polytechnique](http://www.polytechnique.fr/), now researcher at [Facebook AI Research](https://ai.facebook.com/)
+M.Eng from [École Polytechnique](http://www.polytechnique.fr/), now researcher at [DeepMind](https://deepmind.google/)
 
 [**Roman Garcia**: Tracking and recognition in videos from camera networks]({{ site.url }}/students/roman) \[2012\]  
-M.Eng from [CPE Lyon](http://cpe.fr/) co-supervised with Valerie Leung
+M.Eng from [CPE Lyon](http://cpe.fr/) co-supervised with Valerie Leung.
 
 [**Nicolas Chauffert**: Active learning of regions-of-interest in satellite images]({{ site.url }}/students/nicolas-c) \[2011\]  
 M.Eng from [École Polytechnique](http://www.polytechnique.fr/) in 2011, then PhD student at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en) / [INRIA Parietal team](https://team.inria.fr/parietal/), now mathematics professor.
